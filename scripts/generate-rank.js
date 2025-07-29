@@ -10,12 +10,12 @@ const outputFile = path.resolve(__dirname, "../merch-rank.json");
 async function fetchAllProducts() {
   const products = [];
   let endpoint = `https://${SHOP}/admin/api/2023-04/products.json?limit=250`;
-  
+
   while (endpoint) {
     const res = await axios.get(endpoint, {
       headers: {
         "X-Shopify-Access-Token": TOKEN,
-        "Content-Type": "application/json"
+        "Content-Type": "application/json",
       },
       validateStatus: () => true,
     });
@@ -38,14 +38,62 @@ async function fetchAllProducts() {
   return products;
 }
 
-async function generateRankData() {
-  const allProducts = await fetchAllProducts();
+async function fetchSalesData() {
+  const salesByHandle = {};
+  let endpoint = `https://${SHOP}/admin/api/2023-04/orders.json?status=any&limit=250&created_at_min=2024-01-01`;
 
-  // Sort: in-stock first, then newest first
+  while (endpoint) {
+    const res = await axios.get(endpoint, {
+      headers: {
+        "X-Shopify-Access-Token": TOKEN,
+        "Content-Type": "application/json",
+      },
+      validateStatus: () => true,
+    });
+
+    if (!(res.status >= 200 && res.status < 300)) {
+      throw new Error(`Failed to fetch orders: ${res.status}`);
+    }
+
+    for (const order of res.data.orders) {
+      for (const item of order.line_items) {
+        const handle = item.handle;
+        if (!handle) continue;
+
+        if (!salesByHandle[handle]) {
+          salesByHandle[handle] = {
+            units_sold: 0,
+            revenue: 0,
+          };
+        }
+
+        salesByHandle[handle].units_sold += item.quantity;
+        salesByHandle[handle].revenue += parseFloat(item.price) * item.quantity;
+      }
+    }
+
+    const linkHeader = res.headers["link"];
+    if (linkHeader) {
+      const nextMatch = linkHeader.match(/<([^>]+)>; rel="next"/);
+      endpoint = nextMatch ? nextMatch[1] : null;
+    } else {
+      endpoint = null;
+    }
+  }
+
+  return salesByHandle;
+}
+
+async function generateRankData() {
+  const [allProducts, sales] = await Promise.all([
+    fetchAllProducts(),
+    fetchSalesData(),
+  ]);
+
   const sorted = allProducts
     .sort((a, b) => {
-      const aOutOfStock = a.variants.every(v => v.inventory_quantity <= 0);
-      const bOutOfStock = b.variants.every(v => v.inventory_quantity <= 0);
+      const aOutOfStock = a.variants.every((v) => v.inventory_quantity <= 0);
+      const bOutOfStock = b.variants.every((v) => v.inventory_quantity <= 0);
 
       if (aOutOfStock !== bOutOfStock) {
         return aOutOfStock ? 1 : -1;
@@ -53,18 +101,27 @@ async function generateRankData() {
 
       return new Date(b.created_at) - new Date(a.created_at);
     })
-    .map(p => ({
-      handle: p.handle,
-      in_stock: p.variants.some(v =>
-        v.inventory_management == null || v.inventory_quantity > 0
-      )
-    }));
+    .map((p) => {
+      const handle = p.handle;
+      const sale = sales[handle] || { units_sold: 0, revenue: 0 };
+      const inStock = p.variants.some(
+        (v) => v.inventory_management == null || v.inventory_quantity > 0
+      );
+
+      return {
+        handle,
+        in_stock: inStock,
+        units_sold: sale.units_sold,
+        revenue: sale.revenue,
+        star: sale.units_sold >= 10, // Adjust threshold here if needed
+      };
+    });
 
   fs.writeFileSync(outputFile, JSON.stringify(sorted, null, 2));
   console.log(`✅ merch-rank.json generated (${sorted.length} products)`);
 }
 
-generateRankData().catch(err => {
+generateRankData().catch((err) => {
   console.error("❌ Error generating rank:", err);
   process.exit(1);
 });
