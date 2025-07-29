@@ -38,8 +38,15 @@ async function fetchAllProducts() {
   return products;
 }
 
-async function fetchSalesData() {
-  const salesByHandle = {};
+async function fetchSalesData(allProducts) {
+  const salesByProductId = {};
+  const productIdToHandle = {};
+
+  // Build a quick map of product_id -> handle
+  for (const product of allProducts) {
+    productIdToHandle[product.id] = product.handle;
+  }
+
   let endpoint = `https://${SHOP}/admin/api/2023-04/orders.json?status=any&limit=250&created_at_min=2024-01-01`;
 
   while (endpoint) {
@@ -48,27 +55,25 @@ async function fetchSalesData() {
         "X-Shopify-Access-Token": TOKEN,
         "Content-Type": "application/json",
       },
-      validateStatus: () => true,
     });
-
-    if (!(res.status >= 200 && res.status < 300)) {
-      throw new Error(`Failed to fetch orders: ${res.status}`);
-    }
 
     for (const order of res.data.orders) {
       for (const item of order.line_items) {
-        const handle = item.handle;
+        const productId = item.product_id;
+        if (!productId) continue;
+
+        const handle = productIdToHandle[productId];
         if (!handle) continue;
 
-        if (!salesByHandle[handle]) {
-          salesByHandle[handle] = {
+        if (!salesByProductId[handle]) {
+          salesByProductId[handle] = {
             units_sold: 0,
             revenue: 0,
           };
         }
 
-        salesByHandle[handle].units_sold += item.quantity;
-        salesByHandle[handle].revenue += parseFloat(item.price) * item.quantity;
+        salesByProductId[handle].units_sold += item.quantity;
+        salesByProductId[handle].revenue += parseFloat(item.price) * item.quantity;
       }
     }
 
@@ -81,8 +86,9 @@ async function fetchSalesData() {
     }
   }
 
-  return salesByHandle;
+  return salesByProductId;
 }
+
 
 async function generateRankData() {
   const [allProducts, sales] = await Promise.all([
