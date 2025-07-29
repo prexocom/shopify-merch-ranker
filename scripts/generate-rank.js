@@ -91,10 +91,8 @@ async function fetchSalesData(allProducts) {
 
 
 async function generateRankData() {
-  const [allProducts, sales] = await Promise.all([
-    fetchAllProducts(),
-    fetchSalesData(),
-  ]);
+  const allProducts = await fetchAllProducts();
+  const sales = await fetchSalesData(allProducts);
 
   const sorted = allProducts
     .sort((a, b) => {
