@@ -55,7 +55,9 @@ async function generateRankData() {
     })
     .map(p => ({
       handle: p.handle,
-      in_stock: p.variants.some(v => v.inventory_quantity > 0)
+      in_stock: p.variants.some(v =>
+        v.inventory_management == null || v.inventory_quantity > 0
+      )
     }));
 
   fs.writeFileSync(outputFile, JSON.stringify(sorted, null, 2));
