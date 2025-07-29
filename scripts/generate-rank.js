@@ -15,7 +15,7 @@ async function fetchAllProducts() {
     const res = await axios.get(endpoint, {
       headers: {
         "X-Shopify-Access-Token": TOKEN,
-        "Content-Type": "application/json",
+        "Content-Type": "application/json"
       },
       validateStatus: () => true,
     });
@@ -38,44 +38,24 @@ async function fetchAllProducts() {
   return products;
 }
 
-async function fetchSalesData(allProducts) {
-  const salesByProductId = {};
-  const productIdToHandle = {};
-
-  // Build a quick map of product_id -> handle
-  for (const product of allProducts) {
-    productIdToHandle[product.id] = product.handle;
-  }
-
-  let endpoint = `https://${SHOP}/admin/api/2023-04/orders.json?status=any&limit=250&created_at_min=2024-01-01`;
+async function fetchAllOrders() {
+  const orders = [];
+  let endpoint = `https://${SHOP}/admin/api/2023-04/orders.json?status=any&limit=250&fields=created_at,line_items,financial_status`;
 
   while (endpoint) {
     const res = await axios.get(endpoint, {
       headers: {
         "X-Shopify-Access-Token": TOKEN,
-        "Content-Type": "application/json",
+        "Content-Type": "application/json"
       },
+      validateStatus: () => true,
     });
 
-    for (const order of res.data.orders) {
-      for (const item of order.line_items) {
-        const productId = item.product_id;
-        if (!productId) continue;
-
-        const handle = productIdToHandle[productId];
-        if (!handle) continue;
-
-        if (!salesByProductId[handle]) {
-          salesByProductId[handle] = {
-            units_sold: 0,
-            revenue: 0,
-          };
-        }
-
-        salesByProductId[handle].units_sold += item.quantity;
-        salesByProductId[handle].revenue += parseFloat(item.price) * item.quantity;
-      }
+    if (!(res.status >= 200 && res.status < 300)) {
+      throw new Error(`Failed to fetch orders: ${res.status}`);
     }
+
+    orders.push(...res.data.orders);
 
     const linkHeader = res.headers["link"];
     if (linkHeader) {
@@ -86,46 +66,61 @@ async function fetchSalesData(allProducts) {
     }
   }
 
-  return salesByProductId;
+  return orders;
 }
-
 
 async function generateRankData() {
-  const allProducts = await fetchAllProducts();
-  const sales = await fetchSalesData(allProducts);
+  const [products, orders] = await Promise.all([fetchAllProducts(), fetchAllOrders()]);
 
-  const sorted = allProducts
-    .sort((a, b) => {
-      const aOutOfStock = a.variants.every((v) => v.inventory_quantity <= 0);
-      const bOutOfStock = b.variants.every((v) => v.inventory_quantity <= 0);
+  const salesByHandle = {};
+  for (const order of orders) {
+    if (["voided", "refunded"].includes(order.financial_status)) continue;
 
-      if (aOutOfStock !== bOutOfStock) {
-        return aOutOfStock ? 1 : -1;
+    for (const item of order.line_items) {
+      const handle = item.product_exists ? item.handle : null;
+      if (!handle) continue;
+
+      if (!salesByHandle[handle]) {
+        salesByHandle[handle] = {
+          units_sold: 0,
+          total_revenue: 0,
+        };
       }
 
-      return new Date(b.created_at) - new Date(a.created_at);
-    })
-    .map((p) => {
-      const handle = p.handle;
-      const sale = sales[handle] || { units_sold: 0, revenue: 0 };
-      const inStock = p.variants.some(
-        (v) => v.inventory_management == null || v.inventory_quantity > 0
-      );
+      salesByHandle[handle].units_sold += item.quantity;
+      salesByHandle[handle].total_revenue += parseFloat(item.price) * item.quantity;
+    }
+  }
 
-      return {
-        handle,
-        in_stock: inStock,
-        units_sold: sale.units_sold,
-        revenue: sale.revenue,
-        star: sale.units_sold >= 10, // Adjust threshold here if needed
-      };
-    });
+  const ranked = products.map(product => {
+    const handle = product.handle;
+    const variants = product.variants || [];
 
-  fs.writeFileSync(outputFile, JSON.stringify(sorted, null, 2));
-  console.log(`✅ merch-rank.json generated (${sorted.length} products)`);
+    const in_stock = variants.some(v => v.inventory_management == null || v.inventory_quantity > 0);
+
+    const sales = salesByHandle[handle] || { units_sold: 0, total_revenue: 0 };
+
+    const score =
+      (in_stock ? 50 : 0) +         // Boost for in-stock products
+      sales.total_revenue * 0.01 +  // Weighted revenue
+      sales.units_sold * 100;       // High weight for popularity
+
+    return {
+      handle,
+      in_stock,
+      units_sold: sales.units_sold,
+      total_revenue: sales.total_revenue,
+      score,
+    };
+  });
+
+  ranked.sort((a, b) => b.score - a.score);
+
+  fs.writeFileSync(outputFile, JSON.stringify(ranked, null, 2));
+  console.log(`✅ merch-rank.json generated (${ranked.length} products)`);
 }
 
-generateRankData().catch((err) => {
+generateRankData().catch(err => {
   console.error("❌ Error generating rank:", err);
   process.exit(1);
 });
