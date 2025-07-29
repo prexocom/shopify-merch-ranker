@@ -17,7 +17,6 @@ async function fetchAllProducts() {
         "X-Shopify-Access-Token": TOKEN,
         "Content-Type": "application/json"
       },
-      // We want the full response, including headers
       validateStatus: () => true,
     });
 
@@ -27,10 +26,8 @@ async function fetchAllProducts() {
 
     products.push(...res.data.products);
 
-    // Pagination: Shopify uses 'link' header for next page cursor
     const linkHeader = res.headers["link"];
     if (linkHeader) {
-      // Find next page URL from the link header rel="next"
       const nextMatch = linkHeader.match(/<([^>]+)>; rel="next"/);
       endpoint = nextMatch ? nextMatch[1] : null;
     } else {
@@ -44,19 +41,22 @@ async function fetchAllProducts() {
 async function generateRankData() {
   const allProducts = await fetchAllProducts();
 
-  // Ranking logic: in-stock first, then newest first by created_at
+  // Sort: in-stock first, then newest first
   const sorted = allProducts
     .sort((a, b) => {
       const aOutOfStock = a.variants.every(v => v.inventory_quantity <= 0);
       const bOutOfStock = b.variants.every(v => v.inventory_quantity <= 0);
 
       if (aOutOfStock !== bOutOfStock) {
-        return aOutOfStock ? 1 : -1; // push out-of-stock down
+        return aOutOfStock ? 1 : -1;
       }
 
       return new Date(b.created_at) - new Date(a.created_at);
     })
-    .map(p => ({ handle: p.handle }));
+    .map(p => ({
+      handle: p.handle,
+      in_stock: p.variants.some(v => v.inventory_quantity > 0)
+    }));
 
   fs.writeFileSync(outputFile, JSON.stringify(sorted, null, 2));
   console.log(`✅ merch-rank.json generated (${sorted.length} products)`);
