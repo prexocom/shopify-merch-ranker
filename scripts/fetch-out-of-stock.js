@@ -33,9 +33,13 @@ async function fetchProductsAndInventory() {
 
     const result = allProducts.map(p => {
       const variant = p.variants[0];
+
+      // Shopify sometimes returns 0 if tracking is off, so use 'available' instead of raw inventory_quantity
+      const inStock = variant.available;
+      
       return {
         handle: p.handle,
-        in_stock: variant.inventory_quantity > 0
+        in_stock: inStock
       };
     });
 
