@@ -1,68 +1,86 @@
-// .github/scripts/generate-rank.js
-
-const fs = require('fs');
-const path = require('path');
-const https = require('https');
+const fs = require("fs");
+const path = require("path");
+const https = require("https");
 
 const SHOP = process.env.SHOPIFY_STORE_DOMAIN;
 const TOKEN = process.env.SHOPIFY_API_TOKEN;
 
-// Load handles from handles.json
-const handlesPath = path.resolve(__dirname, 'handles.json');
-const handles = JSON.parse(fs.readFileSync(handlesPath, 'utf8'));
+const outputFile = path.resolve(__dirname, "../merch-rank.json");
 
-const results = [];
+async function fetchAllProducts() {
+  const products = [];
+  let endpoint = `https://${SHOP}/admin/api/2023-04/products.json?limit=250`;
+  let pageInfo = null;
 
-async function fetchProductData(handle) {
-  const endpoint = `https://${SHOP}/admin/api/2024-04/products.json?handle=${handle}`;
-
-  return new Promise((resolve, reject) => {
-    const req = https.request(
-      endpoint,
-      {
-        method: 'GET',
-        headers: {
-          'X-Shopify-Access-Token': TOKEN,
-          'Content-Type': 'application/json',
-        },
-      },
-      (res) => {
-        let data = '';
-        res.on('data', (chunk) => (data += chunk));
-        res.on('end', () => {
-          try {
-            const parsed = JSON.parse(data);
-            resolve(parsed.products?.[0] || null);
-          } catch (err) {
-            reject(err);
-          }
-        });
+  while (endpoint) {
+    const res = await fetch(endpoint, {
+      headers: {
+        "X-Shopify-Access-Token": TOKEN,
+        "Content-Type": "application/json"
       }
-    );
+    });
 
-    req.on('error', reject);
+    if (!res.ok) {
+      throw new Error(`Failed to fetch products: ${res.status}`);
+    }
+
+    const data = await res.json();
+    products.push(...data.products);
+
+    // Check for pagination
+    const linkHeader = res.headers.get("link");
+    const nextMatch = linkHeader && linkHeader.match(/<([^>]+)>; rel="next"/);
+    endpoint = nextMatch ? nextMatch[1] : null;
+  }
+
+  return products;
+}
+
+async function generateRankData() {
+  const allProducts = await fetchAllProducts();
+
+  // Sample ranking logic: In-stock first, then by created_at
+  const sorted = allProducts
+    .sort((a, b) => {
+      const aOutOfStock = a.variants.every(v => v.inventory_quantity <= 0);
+      const bOutOfStock = b.variants.every(v => v.inventory_quantity <= 0);
+
+      if (aOutOfStock !== bOutOfStock) {
+        return aOutOfStock ? 1 : -1; // push out-of-stock down
+      }
+
+      return new Date(b.created_at) - new Date(a.created_at); // newest first
+    })
+    .map((p) => ({ handle: p.handle }));
+
+  fs.writeFileSync(outputFile, JSON.stringify(sorted, null, 2));
+  console.log(`✅ merch-rank.json generated (${sorted.length} products)`);
+}
+
+function fetch(url, options) {
+  return new Promise((resolve, reject) => {
+    const req = https.request(url, {
+      method: options.method || "GET",
+      headers: options.headers || {}
+    }, res => {
+      let data = "";
+      res.on("data", chunk => (data += chunk));
+      res.on("end", () => {
+        res.json = async () => JSON.parse(data);
+        res.ok = res.statusCode >= 200 && res.statusCode < 300;
+        res.status = res.statusCode;
+        res.headers = new Map(Object.entries(res.headers));
+        res.headers.get = key => res.headers.get(key.toLowerCase());
+        resolve(res);
+      });
+    });
+
+    req.on("error", reject);
     req.end();
   });
 }
 
-(async () => {
-  for (const handle of handles.map(h => h.handle)) {
-    try {
-      const product = await fetchProductData(handle);
-
-      const inStock = product?.variants?.some(
-        (variant) => variant.inventory_quantity > 0 || variant.inventory_policy === 'continue'
-      );
-
-      results.push({ handle, in_stock: !!inStock });
-    } catch (err) {
-      console.error(`Error fetching: ${handle}`, err);
-      results.push({ handle, in_stock: false });
-    }
-  }
-
-  // Write merch-rank.json
-  const outputPath = path.resolve(__dirname, '../../merch-rank.json');
-  fs.writeFileSync(outputPath, JSON.stringify(results, null, 2));
-  console.log('✅ merch-rank.json updated.');
-})();
+generateRankData().catch(err => {
+  console.error("❌ Error generating rank:", err);
+  process.exit(1);
+});
