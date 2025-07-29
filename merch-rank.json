@@ -4,223 +4,146 @@
     "in_stock": true,
     "units_sold": 1,
     "revenue": 138000,
-    "star": false
+    "score": 1
   },
   {
     "handle": "bonfire-humidifier-1",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 135000,
-    "star": false
-  },
-  {
-    "handle": "amazon-echo-dot-smart-speaker-alexa-5th-gen",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "star": false
-  },
-  {
-    "handle": "beatbox-pro™-smart-music-boxing-trainer-2",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "star": false
-  },
-  {
-    "handle": "beatbox-pro™-smart-music-boxing-trainer-1",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "star": false
+    "score": 0.987
   },
   {
     "handle": "beatbox-pro™-smart-music-boxing-trainer",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
-    "star": false
+    "score": 0.1
   },
   {
     "handle": "prexo-dunkmaster-outdoor-adjustable-basketball-hoop-system",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
-    "star": false
+    "score": 0.1
   },
   {
     "handle": "portable-camping-stove",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
-    "star": false
+    "score": 0.1
   },
   {
     "handle": "flexstride™-portable-walking-running-treadmill",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
-    "star": false
-  },
-  {
-    "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "star": false
+    "score": 0.1
   },
   {
     "handle": "keyfold-pro-foldable-bluetooth-keyboard",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
-    "star": false
-  },
-  {
-    "handle": "logitech-g29-driving-force-racing-wheel-pedals",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "star": false
+    "score": 0.1
   },
   {
     "handle": "lumifan-360-light-fan",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
-    "star": false
-  },
-  {
-    "handle": "lumibreeze™-360-light-fan",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "star": false
+    "score": 0.1
   },
   {
     "handle": "volcano-essential-oil-diffuser",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
-    "star": false
+    "score": 0.1
   },
   {
     "handle": "prexobeam-mini-portable-smart-projector",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
-    "star": false
+    "score": 0.1
   },
   {
     "handle": "toauto-melting-furnace",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
-    "star": false
-  },
-  {
-    "handle": "prexoplay-wireless-bluetooth-game-controller",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "star": false
-  },
-  {
-    "handle": "prexosecure-fingerprint-smart-door-lock",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "star": false
-  },
-  {
-    "handle": "rain-cloud-humidifier",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "star": false
-  },
-  {
-    "handle": "smart-door-lock-with-face-recognition-dual-display",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "star": false
-  },
-  {
-    "handle": "smart-fingerprint-door-lock-with-hd-camera",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "star": false
+    "score": 0.1
   },
   {
     "handle": "solarsecure-360-full-color-night-vision-security-camera",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
-    "star": false
+    "score": 0.1
   },
   {
     "handle": "solerenew-electric-callus-remover",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
-    "star": false
+    "score": 0.1
   },
   {
     "handle": "steamloco™-aromatherapy-train-humidifier",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
-    "star": false
+    "score": 0.1
   },
   {
     "handle": "swiftmop™-effortless-spray-cleaning-in-seconds",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
-    "star": false
+    "score": 0.1
   },
   {
     "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
-    "star": false
+    "score": 0.1
   },
   {
     "handle": "vaultcarry-anti-theft-travel-crossbody-bag",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
-    "star": false
+    "score": 0.1
   },
   {
     "handle": "zero-gravity-full-body-massage-chair",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
-    "star": false
+    "score": 0.1
   },
   {
     "handle": "amazon-echo-pop-compact-smart-speaker",
     "in_stock": false,
     "units_sold": 0,
     "revenue": 0,
-    "star": false
+    "score": 0
   },
   {
     "handle": "glowmist™-fireplace-humidifier",
     "in_stock": false,
     "units_sold": 0,
     "revenue": 0,
-    "star": false
+    "score": 0
   },
   {
     "handle": "rotator-arm-shoulder-strength-trainer",
     "in_stock": false,
     "units_sold": 0,
     "revenue": 0,
-    "star": false
+    "score": 0
   }
 ]
