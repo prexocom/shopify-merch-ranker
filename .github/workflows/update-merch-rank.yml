@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
- contents: write
+  contents: write
 
 jobs:
   update-merch-rank:
@@ -22,7 +22,7 @@ jobs:
           node-version: "18"
 
       - name: Install dependencies
-        run: npm install node-fetch@2
+        run: npm install axios
 
       - name: Generate merch-rank.json
         run: node scripts/generate-rank.js
