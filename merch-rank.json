@@ -112,13 +112,6 @@
     "score": 0.1
   },
   {
-    "handle": "solar-lamp-for-garden-outdoor",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
     "handle": "solarsecure-360-full-color-night-vision-security-camera",
     "in_stock": true,
     "units_sold": 0,
@@ -162,6 +155,13 @@
   },
   {
     "handle": "zero-gravity-full-body-massage-chair",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "solar-lamp-for-garden-outdoor",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
