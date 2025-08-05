@@ -21,6 +21,13 @@
     "score": 0.1
   },
   {
+    "handle": "amazon-echo-dot-smart-speaker-alexa-5th-gen",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
     "handle": "aquasound-bluetooth-speaker",
     "in_stock": true,
     "units_sold": 0,
@@ -50,6 +57,13 @@
   },
   {
     "handle": "flexstride™-portable-walking-running-treadmill",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "glowmist™-fireplace-humidifier",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
@@ -113,6 +127,13 @@
   },
   {
     "handle": "prexolingo™-smart-voice-translator-supports-30-languages",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "prexoplay-wireless-bluetooth-game-controller",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
@@ -218,13 +239,6 @@
   },
   {
     "handle": "amazon-echo-pop-compact-smart-speaker",
-    "in_stock": false,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0
-  },
-  {
-    "handle": "glowmist™-fireplace-humidifier",
     "in_stock": false,
     "units_sold": 0,
     "revenue": 0,
