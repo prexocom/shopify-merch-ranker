@@ -1,17 +1,24 @@
 [
   {
+    "handle": "prexobeam-mini-portable-smart-projector",
+    "in_stock": true,
+    "units_sold": 1,
+    "revenue": 295000,
+    "score": 1
+  },
+  {
     "handle": "ufo-raindrop-humidifier",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 138000,
-    "score": 1
+    "score": 0.6807
   },
   {
     "handle": "bonfire-humidifier-1",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 135000,
-    "score": 0.987
+    "score": 0.6746
   },
   {
     "handle": "amaya-tk04-earbuds",
@@ -113,13 +120,6 @@
   },
   {
     "handle": "volcano-essential-oil-diffuser",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "prexobeam-mini-portable-smart-projector",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
