@@ -42,6 +42,13 @@
     "score": 0.1
   },
   {
+    "handle": "astronaut-galaxy-projector-your-cosmic-escape",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
     "handle": "beatbox-pro™-smart-music-boxing-trainer",
     "in_stock": true,
     "units_sold": 0,
@@ -71,6 +78,13 @@
   },
   {
     "handle": "glowmist™-fireplace-humidifier",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "green-lion-auto-track-gimbal-stabilizer",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
