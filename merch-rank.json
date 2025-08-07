@@ -56,6 +56,13 @@
     "score": 0.1
   },
   {
+    "handle": "automatic-clamping-car-phone-holder",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
     "handle": "beatbox-pro™-smart-music-boxing-trainer",
     "in_stock": true,
     "units_sold": 0,
@@ -92,6 +99,13 @@
   },
   {
     "handle": "green-lion-auto-track-gimbal-stabilizer",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "green-lion-new-york-gimbal-smart-face-tracking",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
@@ -141,6 +155,13 @@
   },
   {
     "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "porodo-quadbase-gimbal-stabilizer",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
