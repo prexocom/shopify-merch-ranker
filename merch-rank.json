@@ -105,6 +105,13 @@
     "score": 0.1
   },
   {
+    "handle": "green-lion-echo-max-headphones",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
     "handle": "green-lion-new-york-gimbal-smart-face-tracking",
     "in_stock": true,
     "units_sold": 0,
@@ -351,6 +358,13 @@
   },
   {
     "handle": "amazon-echo-pop-compact-smart-speaker",
+    "in_stock": false,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0
+  },
+  {
+    "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
     "in_stock": false,
     "units_sold": 0,
     "revenue": 0,
