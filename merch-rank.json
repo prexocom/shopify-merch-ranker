@@ -35,6 +35,20 @@
     "score": 0.1
   },
   {
+    "handle": "anker-soundcore-glow",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "anker-soundcore-pyro-mini",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
     "handle": "apple-air-tag",
     "in_stock": true,
     "units_sold": 0,
@@ -141,6 +155,13 @@
   },
   {
     "handle": "hexagon-modular-touch-lights-shape-your-glow",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "jbl-go-4-ultra-portable-bluetooth®-speaker",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
@@ -267,6 +288,13 @@
   },
   {
     "handle": "solerenew-electric-callus-remover",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "sony-srs-xb100-wireless-speaker",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
