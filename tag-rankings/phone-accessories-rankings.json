@@ -2,18 +2,7 @@
   {
     "handle": "amaya-tk04-earbuds",
     "title": "Amaya TK04 Earbuds",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_67ad79eb-079b-4c86-8962-b1eb035e6d4c.jpg?v=1754387060",
-      "alt": "Amaya TK04 Earbuds",
-      "width": 500,
-      "height": 500
-    },
-    "price": "$98000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_67ad79eb-079b-4c86-8962-b1eb035e6d4c.jpg?v=1754387060",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -21,25 +10,26 @@
       "Music",
       "Phone Accessories"
     ],
-    "created_at": "2025-08-05T12:43:03+03:00",
-    "published_at": "2025-08-05T12:50:57+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 130000,
+          "sale_price": 98000,
+          "percentage_off": 25
+        }
+      ],
+      "min_regular_price": 130000,
+      "max_regular_price": 130000,
+      "min_sale_price": 98000,
+      "max_sale_price": 98000
+    },
     "rank": 1
   },
   {
     "handle": "apple-air-tag",
     "title": "Apple Air Tag",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bb51b04a-a8e6-4c95-a2b9-271f93c5a509.jpg?v=1754578643",
-      "alt": "Apple Air Tag",
-      "width": 1500,
-      "height": 1500
-    },
-    "price": "$185000.00",
-    "on_sale": false,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bb51b04a-a8e6-4c95-a2b9-271f93c5a509.jpg?v=1754578643",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -47,25 +37,26 @@
       "Phone Accessories",
       "Travel"
     ],
-    "created_at": "2025-08-07T17:56:02+03:00",
-    "published_at": "2025-08-07T17:57:48+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 185000,
+          "sale_price": 185000,
+          "percentage_off": 0
+        }
+      ],
+      "min_regular_price": 185000,
+      "max_regular_price": 185000,
+      "min_sale_price": 185000,
+      "max_sale_price": 185000
+    },
     "rank": 2
   },
   {
     "handle": "auto-face-tracking-tripod-gimbal",
     "title": "Auto Face Tracking Tripod Gimbal",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_27bda3ff-2809-4baf-81d8-64b89f61c49b.webp?v=1754735298",
-      "alt": "Auto Face Tracking Tripod Gimbal",
-      "width": 1000,
-      "height": 1000
-    },
-    "price": "$199000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_27bda3ff-2809-4baf-81d8-64b89f61c49b.webp?v=1754735298",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -73,50 +64,52 @@
       "Gimbal",
       "Phone Accessories"
     ],
-    "created_at": "2025-08-09T13:27:51+03:00",
-    "published_at": "2025-08-09T13:29:36+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 250000,
+          "sale_price": 199000,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 250000,
+      "max_regular_price": 250000,
+      "min_sale_price": 199000,
+      "max_sale_price": 199000
+    },
     "rank": 3
   },
   {
     "handle": "automatic-clamping-car-phone-holder",
     "title": "Automatic Clamping Car Phone Holder",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b9689fc7-e574-4954-b13d-5c86d933069a.jpg?v=1754601184",
-      "alt": "Automatic Clamping Car Phone Holder",
-      "width": 1024,
-      "height": 1024
-    },
-    "price": "$185000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b9689fc7-e574-4954-b13d-5c86d933069a.jpg?v=1754601184",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Car Gadgets",
       "Phone Accessories"
     ],
-    "created_at": "2025-08-08T00:12:37+03:00",
-    "published_at": "2025-08-08T00:14:07+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 240000,
+          "sale_price": 185000,
+          "percentage_off": 23
+        }
+      ],
+      "min_regular_price": 240000,
+      "max_regular_price": 240000,
+      "min_sale_price": 185000,
+      "max_sale_price": 185000
+    },
     "rank": 4
   },
   {
     "handle": "green-lion-auto-track-gimbal-stabilizer",
     "title": "Green Lion Auto Track Gimbal Stabilizer",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d3945714-bb75-418e-a3a0-a38147e828af.webp?v=1754571795",
-      "alt": "Green Lion Auto Track Gimbal Stabilizer",
-      "width": 1000,
-      "height": 1000
-    },
-    "price": "$165000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d3945714-bb75-418e-a3a0-a38147e828af.webp?v=1754571795",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -124,25 +117,26 @@
       "Gimbal",
       "Phone Accessories"
     ],
-    "created_at": "2025-08-07T16:01:30+03:00",
-    "published_at": "2025-08-07T16:04:12+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 200000,
+          "sale_price": 165000,
+          "percentage_off": 18
+        }
+      ],
+      "min_regular_price": 200000,
+      "max_regular_price": 200000,
+      "min_sale_price": 165000,
+      "max_sale_price": 165000
+    },
     "rank": 5
   },
   {
     "handle": "green-lion-echo-max-headphones",
     "title": "Green Lion Echo Max Headphones",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0d89593e-1173-49fe-8eb4-699785dcd7f4.jpg?v=1754944773",
-      "alt": "Green Lion Echo Max Headphones",
-      "width": 1080,
-      "height": 1080
-    },
-    "price": "$175000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0d89593e-1173-49fe-8eb4-699785dcd7f4.jpg?v=1754944773",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -152,25 +146,26 @@
       "Music",
       "Phone Accessories"
     ],
-    "created_at": "2025-08-08T11:41:12+03:00",
-    "published_at": "2025-08-08T11:42:47+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 220000,
+          "sale_price": 175000,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 220000,
+      "max_regular_price": 220000,
+      "min_sale_price": 175000,
+      "max_sale_price": 175000
+    },
     "rank": 6
   },
   {
     "handle": "green-lion-echo-max-headphones-black",
     "title": "Green Lion Echo Max Headphones - Black",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_447f91eb-6fb7-4e3a-bf58-228c1dce5af4.jpg?v=1754945095",
-      "alt": "Green Lion Echo Max Headphones - Black",
-      "width": 800,
-      "height": 800
-    },
-    "price": "$175000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_447f91eb-6fb7-4e3a-bf58-228c1dce5af4.jpg?v=1754945095",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -180,25 +175,26 @@
       "Music",
       "Phone Accessories"
     ],
-    "created_at": "2025-08-11T23:42:01+03:00",
-    "published_at": "2025-08-12T17:58:06+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 220000,
+          "sale_price": 175000,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 220000,
+      "max_regular_price": 220000,
+      "min_sale_price": 175000,
+      "max_sale_price": 175000
+    },
     "rank": 7
   },
   {
     "handle": "copy-green-lion-echo-max-headphones-orange",
     "title": "Green Lion Echo Max Headphones - Orange",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_87fc8554-b91c-4656-8a18-ab1de65b12bb.webp?v=1754945345",
-      "alt": "Green Lion Echo Max Headphones - Orange",
-      "width": 1024,
-      "height": 1024
-    },
-    "price": "$175000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_87fc8554-b91c-4656-8a18-ab1de65b12bb.webp?v=1754945345",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -208,25 +204,26 @@
       "Music",
       "Phone Accessories"
     ],
-    "created_at": "2025-08-11T23:46:15+03:00",
-    "published_at": "2025-08-11T23:46:15+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 220000,
+          "sale_price": 175000,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 220000,
+      "max_regular_price": 220000,
+      "min_sale_price": 175000,
+      "max_sale_price": 175000
+    },
     "rank": 8
   },
   {
     "handle": "green-lion-gan-65w-multi-port-travel-adapter",
     "title": "Green Lion GaN 65W Multi-Port Travel Adapter",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3813bdf2-ef52-46b9-8aa4-c293c0734f0c.jpg?v=1754754721",
-      "alt": "Green Lion GaN 65W Multi-Port Travel Adapter",
-      "width": 1024,
-      "height": 1024
-    },
-    "price": "$290000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3813bdf2-ef52-46b9-8aa4-c293c0734f0c.jpg?v=1754754721",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -235,25 +232,26 @@
       "Office",
       "Phone Accessories"
     ],
-    "created_at": "2025-08-09T18:51:34+03:00",
-    "published_at": "2025-08-09T18:53:30+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 350000,
+          "sale_price": 290000,
+          "percentage_off": 17
+        }
+      ],
+      "min_regular_price": 350000,
+      "max_regular_price": 350000,
+      "min_sale_price": 290000,
+      "max_sale_price": 290000
+    },
     "rank": 9
   },
   {
     "handle": "green-lion-new-york-gimbal-smart-face-tracking",
     "title": "Green Lion New York Gimbal Smart Face Tracking",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fbe6d529-a264-4f5a-85ca-6fad12eb8a71.webp?v=1754599471",
-      "alt": "Green Lion New York Gimbal Smart Face Tracking",
-      "width": 525,
-      "height": 525
-    },
-    "price": "$425000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fbe6d529-a264-4f5a-85ca-6fad12eb8a71.webp?v=1754599471",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -263,74 +261,77 @@
       "Phone Accessories",
       "Travel"
     ],
-    "created_at": "2025-08-07T23:43:59+03:00",
-    "published_at": "2025-08-07T23:45:41+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 460000,
+          "sale_price": 425000,
+          "percentage_off": 8
+        }
+      ],
+      "min_regular_price": 460000,
+      "max_regular_price": 460000,
+      "min_sale_price": 425000,
+      "max_sale_price": 425000
+    },
     "rank": 10
   },
   {
     "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
     "title": "Green Lion Power Trio™ – 3-in-1 Magnetic Wireless Charger",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ee366daa-24a3-46b9-9846-910d007df480.jpg?v=1749641860",
-      "alt": "Green Lion Power Trio™ – 3-in-1 Magnetic Wireless Charger",
-      "width": 1050,
-      "height": 1026
-    },
-    "price": "$185000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Store",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ee366daa-24a3-46b9-9846-910d007df480.jpg?v=1749641860",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Phone Accessories"
     ],
-    "created_at": "2025-06-11T14:37:39+03:00",
-    "published_at": "2025-07-29T20:47:10+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 220000,
+          "sale_price": 185000,
+          "percentage_off": 16
+        }
+      ],
+      "min_regular_price": 220000,
+      "max_regular_price": 220000,
+      "min_sale_price": 185000,
+      "max_sale_price": 185000
+    },
     "rank": 11
   },
   {
     "handle": "keyfold-pro-foldable-bluetooth-keyboard",
     "title": "Keyfold Pro - Foldable Bluetooth Keyboard",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_03e0123a-e5b8-4d65-a9b0-e76114fc9eb2.jpg?v=1749641752",
-      "alt": "Keyfold Pro - Foldable Bluetooth Keyboard",
-      "width": 1600,
-      "height": 1600
-    },
-    "price": "$155000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Store",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_03e0123a-e5b8-4d65-a9b0-e76114fc9eb2.jpg?v=1749641752",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Computer Accessories",
       "Phone Accessories"
     ],
-    "created_at": "2025-06-11T14:35:52+03:00",
-    "published_at": "2025-06-11T14:35:41+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 220000,
+          "sale_price": 155000,
+          "percentage_off": 30
+        }
+      ],
+      "min_regular_price": 220000,
+      "max_regular_price": 220000,
+      "min_sale_price": 155000,
+      "max_sale_price": 155000
+    },
     "rank": 12
   },
   {
     "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
     "title": "Porodo 3‑Axis Gimbal Stabilizer with Magnetic Fill Light",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2087b3da-f4f0-42f3-b9bc-ea20e7af57d7.jpg?v=1754597732",
-      "alt": "Porodo 3‑Axis Gimbal Stabilizer with Magnetic Fill Light",
-      "width": 700,
-      "height": 700
-    },
-    "price": "$315000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2087b3da-f4f0-42f3-b9bc-ea20e7af57d7.jpg?v=1754597732",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -340,25 +341,26 @@
       "Porodo",
       "Travel"
     ],
-    "created_at": "2025-08-07T23:15:06+03:00",
-    "published_at": "2025-08-07T23:17:31+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 370000,
+          "sale_price": 315000,
+          "percentage_off": 15
+        }
+      ],
+      "min_regular_price": 370000,
+      "max_regular_price": 370000,
+      "min_sale_price": 315000,
+      "max_sale_price": 315000
+    },
     "rank": 13
   },
   {
     "handle": "porodo-quadbase-gimbal-stabilizer",
     "title": "Porodo QuadBase Gimbal Stabilizer",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_8184ec40-15b5-4dda-8826-2552adb552bb.webp?v=1754598461",
-      "alt": "Porodo QuadBase Gimbal Stabilizer",
-      "width": 525,
-      "height": 525
-    },
-    "price": "$175000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_8184ec40-15b5-4dda-8826-2552adb552bb.webp?v=1754598461",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -368,25 +370,26 @@
       "Porodo",
       "Travel"
     ],
-    "created_at": "2025-08-07T23:27:12+03:00",
-    "published_at": "2025-08-07T23:28:54+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 220000,
+          "sale_price": 175000,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 220000,
+      "max_regular_price": 220000,
+      "min_sale_price": 175000,
+      "max_sale_price": 175000
+    },
     "rank": 14
   },
   {
     "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
     "title": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7bd625dc-210f-4246-bee1-ed3244615580.webp?v=1754643849",
-      "alt": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
-      "width": 894,
-      "height": 894
-    },
-    "price": "$185000.00",
-    "on_sale": false,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7bd625dc-210f-4246-bee1-ed3244615580.webp?v=1754643849",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -396,25 +399,26 @@
       "Office",
       "Phone Accessories"
     ],
-    "created_at": "2025-08-08T12:03:39+03:00",
-    "published_at": "2025-08-08T12:06:49+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 185000,
+          "sale_price": 185000,
+          "percentage_off": 0
+        }
+      ],
+      "min_regular_price": 185000,
+      "max_regular_price": 185000,
+      "min_sale_price": 185000,
+      "max_sale_price": 185000
+    },
     "rank": 15
   },
   {
     "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
     "title": "Powerology Ultra-Slim Full HD Portable Monitor 15.6\"",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d0e7a5a3-ea2b-4aa6-a746-213a3d4df581.webp?v=1754755760",
-      "alt": "Powerology Ultra-Slim Full HD Portable Monitor 15.6\"",
-      "width": 1000,
-      "height": 1000
-    },
-    "price": "$620000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d0e7a5a3-ea2b-4aa6-a746-213a3d4df581.webp?v=1754755760",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -424,25 +428,26 @@
       "Portable Monitor",
       "Powerology"
     ],
-    "created_at": "2025-08-09T19:15:56+03:00",
-    "published_at": "2025-08-09T19:15:56+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 700000,
+          "sale_price": 620000,
+          "percentage_off": 11
+        }
+      ],
+      "min_regular_price": 700000,
+      "max_regular_price": 700000,
+      "min_sale_price": 620000,
+      "max_sale_price": 620000
+    },
     "rank": 16
   },
   {
     "handle": "prexoplay-wireless-bluetooth-game-controller",
     "title": "PrexoPlay – Wireless Bluetooth Game Controller",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_287bda09-5cdd-48bc-88af-7144f01050ef.png?v=1749641692",
-      "alt": "PrexoPlay – Wireless Bluetooth Game Controller",
-      "width": 1080,
-      "height": 1080
-    },
-    "price": "$75000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Store",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_287bda09-5cdd-48bc-88af-7144f01050ef.png?v=1749641692",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -450,25 +455,26 @@
       "Entertainment",
       "Phone Accessories"
     ],
-    "created_at": "2025-06-11T14:34:52+03:00",
-    "published_at": "2025-08-06T01:14:43+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 129000,
+          "sale_price": 75000,
+          "percentage_off": 42
+        }
+      ],
+      "min_regular_price": 129000,
+      "max_regular_price": 129000,
+      "min_sale_price": 75000,
+      "max_sale_price": 75000
+    },
     "rank": 17
   },
   {
     "handle": "samsung-galaxy-smarttag2",
     "title": "Samsung Galaxy SmartTag2",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0a458098-4ac0-40b2-a12e-63696b8e963e.jpg?v=1754579664",
-      "alt": "Samsung Galaxy SmartTag2",
-      "width": 600,
-      "height": 600
-    },
-    "price": "$137000.00",
-    "on_sale": false,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0a458098-4ac0-40b2-a12e-63696b8e963e.jpg?v=1754579664",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -476,33 +482,46 @@
       "Samsung",
       "Travel"
     ],
-    "created_at": "2025-08-07T18:05:48+03:00",
-    "published_at": "2025-08-07T18:08:00+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 137000,
+          "sale_price": 137000,
+          "percentage_off": 0
+        }
+      ],
+      "min_regular_price": 137000,
+      "max_regular_price": 137000,
+      "min_sale_price": 137000,
+      "max_sale_price": 137000
+    },
     "rank": 18
   },
   {
     "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
     "title": "TELESIN Magnetic Funshot Camera Phone Grip Holder",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a43eadc5-3828-4b6f-9bbe-3f23de21e528.jpg?v=1754569330",
-      "alt": "TELESIN Magnetic Funshot Camera Phone Grip Holder",
-      "width": 1500,
-      "height": 1500
-    },
-    "price": "$150000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a43eadc5-3828-4b6f-9bbe-3f23de21e528.jpg?v=1754569330",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Camera",
       "Phone Accessories"
     ],
-    "created_at": "2025-08-07T15:20:48+03:00",
-    "published_at": "2025-08-07T15:22:40+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 190000,
+          "sale_price": 150000,
+          "percentage_off": 21
+        }
+      ],
+      "min_regular_price": 190000,
+      "max_regular_price": 190000,
+      "min_sale_price": 150000,
+      "max_sale_price": 150000
+    },
     "rank": 19
   }
 ]

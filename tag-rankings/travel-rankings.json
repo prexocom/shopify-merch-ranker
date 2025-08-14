@@ -2,18 +2,7 @@
   {
     "handle": "apple-air-tag",
     "title": "Apple Air Tag",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bb51b04a-a8e6-4c95-a2b9-271f93c5a509.jpg?v=1754578643",
-      "alt": "Apple Air Tag",
-      "width": 1500,
-      "height": 1500
-    },
-    "price": "$185000.00",
-    "on_sale": false,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bb51b04a-a8e6-4c95-a2b9-271f93c5a509.jpg?v=1754578643",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -21,50 +10,52 @@
       "Phone Accessories",
       "Travel"
     ],
-    "created_at": "2025-08-07T17:56:02+03:00",
-    "published_at": "2025-08-07T17:57:48+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 185000,
+          "sale_price": 185000,
+          "percentage_off": 0
+        }
+      ],
+      "min_regular_price": 185000,
+      "max_regular_price": 185000,
+      "min_sale_price": 185000,
+      "max_sale_price": 185000
+    },
     "rank": 1
   },
   {
     "handle": "green-lion-digital-luggage-scale-50-kg-max",
     "title": "Green Lion Digital Luggage Scale (50 kg Max)",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_010671a0-2256-4d4d-bb91-961ff766fed2.webp?v=1754724471",
-      "alt": "Green Lion Digital Luggage Scale (50 kg Max)",
-      "width": 1000,
-      "height": 1000
-    },
-    "price": "$95000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_010671a0-2256-4d4d-bb91-961ff766fed2.webp?v=1754724471",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Green Lion",
       "Travel"
     ],
-    "created_at": "2025-08-09T10:27:12+03:00",
-    "published_at": "2025-08-09T10:28:43+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 120000,
+          "sale_price": 95000,
+          "percentage_off": 21
+        }
+      ],
+      "min_regular_price": 120000,
+      "max_regular_price": 120000,
+      "min_sale_price": 95000,
+      "max_sale_price": 95000
+    },
     "rank": 2
   },
   {
     "handle": "green-lion-new-york-gimbal-smart-face-tracking",
     "title": "Green Lion New York Gimbal Smart Face Tracking",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fbe6d529-a264-4f5a-85ca-6fad12eb8a71.webp?v=1754599471",
-      "alt": "Green Lion New York Gimbal Smart Face Tracking",
-      "width": 525,
-      "height": 525
-    },
-    "price": "$425000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fbe6d529-a264-4f5a-85ca-6fad12eb8a71.webp?v=1754599471",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -74,25 +65,26 @@
       "Phone Accessories",
       "Travel"
     ],
-    "created_at": "2025-08-07T23:43:59+03:00",
-    "published_at": "2025-08-07T23:45:41+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 460000,
+          "sale_price": 425000,
+          "percentage_off": 8
+        }
+      ],
+      "min_regular_price": 460000,
+      "max_regular_price": 460000,
+      "min_sale_price": 425000,
+      "max_sale_price": 425000
+    },
     "rank": 3
   },
   {
     "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
     "title": "Porodo 3‑Axis Gimbal Stabilizer with Magnetic Fill Light",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2087b3da-f4f0-42f3-b9bc-ea20e7af57d7.jpg?v=1754597732",
-      "alt": "Porodo 3‑Axis Gimbal Stabilizer with Magnetic Fill Light",
-      "width": 700,
-      "height": 700
-    },
-    "price": "$315000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2087b3da-f4f0-42f3-b9bc-ea20e7af57d7.jpg?v=1754597732",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -102,25 +94,26 @@
       "Porodo",
       "Travel"
     ],
-    "created_at": "2025-08-07T23:15:06+03:00",
-    "published_at": "2025-08-07T23:17:31+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 370000,
+          "sale_price": 315000,
+          "percentage_off": 15
+        }
+      ],
+      "min_regular_price": 370000,
+      "max_regular_price": 370000,
+      "min_sale_price": 315000,
+      "max_sale_price": 315000
+    },
     "rank": 4
   },
   {
     "handle": "porodo-quadbase-gimbal-stabilizer",
     "title": "Porodo QuadBase Gimbal Stabilizer",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_8184ec40-15b5-4dda-8826-2552adb552bb.webp?v=1754598461",
-      "alt": "Porodo QuadBase Gimbal Stabilizer",
-      "width": 525,
-      "height": 525
-    },
-    "price": "$175000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_8184ec40-15b5-4dda-8826-2552adb552bb.webp?v=1754598461",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -130,25 +123,26 @@
       "Porodo",
       "Travel"
     ],
-    "created_at": "2025-08-07T23:27:12+03:00",
-    "published_at": "2025-08-07T23:28:54+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 220000,
+          "sale_price": 175000,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 220000,
+      "max_regular_price": 220000,
+      "min_sale_price": 175000,
+      "max_sale_price": 175000
+    },
     "rank": 5
   },
   {
     "handle": "prexolingo™-smart-voice-translator-supports-30-languages",
     "title": "PrexoLingo™ – Smart Voice Translator (Supports 30+ Languages)",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_13d6a3d7-5ddf-4b62-9e3b-b5bf5c09877e.jpg?v=1754361176",
-      "alt": "PrexoLingo™ – Smart Voice Translator (Supports 30+ Languages)",
-      "width": 600,
-      "height": 600
-    },
-    "price": "$380000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_13d6a3d7-5ddf-4b62-9e3b-b5bf5c09877e.jpg?v=1754361176",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -156,25 +150,26 @@
       "Translator",
       "Travel"
     ],
-    "created_at": "2025-08-05T05:28:18+03:00",
-    "published_at": "2025-08-05T05:33:35+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 500000,
+          "sale_price": 380000,
+          "percentage_off": 24
+        }
+      ],
+      "min_regular_price": 500000,
+      "max_regular_price": 500000,
+      "min_sale_price": 380000,
+      "max_sale_price": 380000
+    },
     "rank": 6
   },
   {
     "handle": "prexovision-translate™-ai-smart-glasses-with-real-time-translation",
     "title": "PrexoVision Translate™ – AI Smart Glasses with Real‑Time Translation",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7f3e21c6-7ddf-4694-b085-24b0103d5bf8.jpg?v=1754375910",
-      "alt": "PrexoVision Translate™ – AI Smart Glasses with Real‑Time Translation",
-      "width": 600,
-      "height": 600
-    },
-    "price": "$450000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7f3e21c6-7ddf-4694-b085-24b0103d5bf8.jpg?v=1754375910",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -182,25 +177,26 @@
       "Translator",
       "Travel"
     ],
-    "created_at": "2025-08-05T09:37:55+03:00",
-    "published_at": "2025-08-05T09:43:37+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 630000,
+          "sale_price": 450000,
+          "percentage_off": 29
+        }
+      ],
+      "min_regular_price": 630000,
+      "max_regular_price": 630000,
+      "min_sale_price": 450000,
+      "max_sale_price": 450000
+    },
     "rank": 7
   },
   {
     "handle": "samsung-galaxy-smarttag2",
     "title": "Samsung Galaxy SmartTag2",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0a458098-4ac0-40b2-a12e-63696b8e963e.jpg?v=1754579664",
-      "alt": "Samsung Galaxy SmartTag2",
-      "width": 600,
-      "height": 600
-    },
-    "price": "$137000.00",
-    "on_sale": false,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0a458098-4ac0-40b2-a12e-63696b8e963e.jpg?v=1754579664",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -208,32 +204,45 @@
       "Samsung",
       "Travel"
     ],
-    "created_at": "2025-08-07T18:05:48+03:00",
-    "published_at": "2025-08-07T18:08:00+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 137000,
+          "sale_price": 137000,
+          "percentage_off": 0
+        }
+      ],
+      "min_regular_price": 137000,
+      "max_regular_price": 137000,
+      "min_sale_price": 137000,
+      "max_sale_price": 137000
+    },
     "rank": 8
   },
   {
     "handle": "vaultcarry-anti-theft-travel-crossbody-bag",
     "title": "VaultCarry – Anti-Theft Travel Crossbody Bag",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/He375039303ed4417975bacc31d9a70fea.jpg?v=1752482895",
-      "alt": "VaultCarry – Anti-Theft Travel Crossbody Bag",
-      "width": 713,
-      "height": 713
-    },
-    "price": "$125000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/He375039303ed4417975bacc31d9a70fea.jpg?v=1752482895",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Travel"
     ],
-    "created_at": "2025-07-14T11:49:38+03:00",
-    "published_at": "2025-07-14T11:49:41+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 180000,
+          "sale_price": 125000,
+          "percentage_off": 31
+        }
+      ],
+      "min_regular_price": 180000,
+      "max_regular_price": 180000,
+      "min_sale_price": 125000,
+      "max_sale_price": 125000
+    },
     "rank": 9
   }
 ]

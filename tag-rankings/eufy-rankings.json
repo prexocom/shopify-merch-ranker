@@ -2,26 +2,27 @@
   {
     "handle": "eufy-by-anker-smart-scale-p3",
     "title": "Eufy by Anker Smart Scale P3",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c39aa573-76df-4d0c-b8ce-dfd20cf51442.webp?v=1754725731",
-      "alt": "Eufy by Anker Smart Scale P3",
-      "width": 894,
-      "height": 894
-    },
-    "price": "$340000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c39aa573-76df-4d0c-b8ce-dfd20cf51442.webp?v=1754725731",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Eufy",
       "Health & Fitness"
     ],
-    "created_at": "2025-08-09T10:48:23+03:00",
-    "published_at": "2025-08-09T10:50:27+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 390000,
+          "sale_price": 340000,
+          "percentage_off": 13
+        }
+      ],
+      "min_regular_price": 390000,
+      "max_regular_price": 390000,
+      "min_sale_price": 340000,
+      "max_sale_price": 340000
+    },
     "rank": 1
   }
 ]

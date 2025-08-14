@@ -2,18 +2,7 @@
   {
     "handle": "anker-soundcore-glow",
     "title": "Anker Soundcore Glow",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fa5b3ecf-8cb6-4d49-a9c6-3206c2786961.jpg?v=1754660889",
-      "alt": "Anker Soundcore Glow",
-      "width": 1500,
-      "height": 1500
-    },
-    "price": "$395000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fa5b3ecf-8cb6-4d49-a9c6-3206c2786961.jpg?v=1754660889",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -22,25 +11,26 @@
       "Portable Speaker",
       "Speaker"
     ],
-    "created_at": "2025-08-08T16:47:40+03:00",
-    "published_at": "2025-08-08T16:49:31+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 450000,
+          "sale_price": 395000,
+          "percentage_off": 12
+        }
+      ],
+      "min_regular_price": 450000,
+      "max_regular_price": 450000,
+      "min_sale_price": 395000,
+      "max_sale_price": 395000
+    },
     "rank": 1
   },
   {
     "handle": "anker-soundcore-pyro-mini",
     "title": "Anker Soundcore Pyro Mini",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_488ba066-24ba-435d-8c1b-c87cb7f3d971.webp?v=1754660316",
-      "alt": "Anker Soundcore Pyro Mini",
-      "width": 525,
-      "height": 525
-    },
-    "price": "$180000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_488ba066-24ba-435d-8c1b-c87cb7f3d971.webp?v=1754660316",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -49,25 +39,26 @@
       "Portable Speaker",
       "Speaker"
     ],
-    "created_at": "2025-08-08T16:42:26+03:00",
-    "published_at": "2025-08-08T16:42:26+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 220000,
+          "sale_price": 180000,
+          "percentage_off": 18
+        }
+      ],
+      "min_regular_price": 220000,
+      "max_regular_price": 220000,
+      "min_sale_price": 180000,
+      "max_sale_price": 180000
+    },
     "rank": 2
   },
   {
     "handle": "beats-pill-wireless-bluetooth®-speaker-matte-black",
     "title": "Beats Pill – Wireless Bluetooth® Speaker (Matte Black)",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3a5f2525-d5e6-4efb-a6a5-236915cbb8be.jpg?v=1754651203",
-      "alt": "Beats Pill – Wireless Bluetooth® Speaker (Matte Black)",
-      "width": 1144,
-      "height": 1144
-    },
-    "price": "$625000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3a5f2525-d5e6-4efb-a6a5-236915cbb8be.jpg?v=1754651203",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -76,25 +67,26 @@
       "Portable Speaker",
       "Speaker"
     ],
-    "created_at": "2025-08-08T14:06:22+03:00",
-    "published_at": "2025-08-08T14:07:35+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 690000,
+          "sale_price": 625000,
+          "percentage_off": 9
+        }
+      ],
+      "min_regular_price": 690000,
+      "max_regular_price": 690000,
+      "min_sale_price": 625000,
+      "max_sale_price": 625000
+    },
     "rank": 3
   },
   {
     "handle": "jbl-go-4-ultra-portable-bluetooth®-speaker",
     "title": "JBL Go 4 — Ultra-Portable Bluetooth® Speaker",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_6c34340b-afd4-41aa-bed4-a6885ea6b09b.webp?v=1754661617",
-      "alt": "JBL Go 4 — Ultra-Portable Bluetooth® Speaker",
-      "width": 894,
-      "height": 894
-    },
-    "price": "$245000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_6c34340b-afd4-41aa-bed4-a6885ea6b09b.webp?v=1754661617",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -103,25 +95,26 @@
       "Portable Speaker",
       "Speaker"
     ],
-    "created_at": "2025-08-08T16:59:45+03:00",
-    "published_at": "2025-08-08T17:01:50+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 290000,
+          "sale_price": 245000,
+          "percentage_off": 16
+        }
+      ],
+      "min_regular_price": 290000,
+      "max_regular_price": 290000,
+      "min_sale_price": 245000,
+      "max_sale_price": 245000
+    },
     "rank": 4
   },
   {
     "handle": "porodo-bluetooth-conference-speaker",
     "title": "Porodo Bluetooth Conference Speaker",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_91341ad2-6c6d-4b06-b59d-00198e3269d9.webp?v=1754651692",
-      "alt": "Porodo Bluetooth Conference Speaker",
-      "width": 1000,
-      "height": 1000
-    },
-    "price": "$145000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_91341ad2-6c6d-4b06-b59d-00198e3269d9.webp?v=1754651692",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -130,25 +123,26 @@
       "Portable Speaker",
       "Speaker"
     ],
-    "created_at": "2025-08-08T14:14:09+03:00",
-    "published_at": "2025-08-08T14:15:24+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 190000,
+          "sale_price": 145000,
+          "percentage_off": 24
+        }
+      ],
+      "min_regular_price": 190000,
+      "max_regular_price": 190000,
+      "min_sale_price": 145000,
+      "max_sale_price": 145000
+    },
     "rank": 5
   },
   {
     "handle": "sony-srs-xb100-wireless-speaker",
     "title": "Sony SRS-XB100 Wireless Speaker",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f46745f9-630d-4db5-9909-d4b388c451f9.jpg?v=1754659543",
-      "alt": "Sony SRS-XB100 Wireless Speaker",
-      "width": 1500,
-      "height": 1460
-    },
-    "price": "$279000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f46745f9-630d-4db5-9909-d4b388c451f9.jpg?v=1754659543",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -157,25 +151,26 @@
       "Sony",
       "Speaker"
     ],
-    "created_at": "2025-08-08T16:25:00+03:00",
-    "published_at": "2025-08-08T16:27:02+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 320000,
+          "sale_price": 279000,
+          "percentage_off": 13
+        }
+      ],
+      "min_regular_price": 320000,
+      "max_regular_price": 320000,
+      "min_sale_price": 279000,
+      "max_sale_price": 279000
+    },
     "rank": 6
   },
   {
     "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
     "title": "Xiaomi Sound Pocket – Compact Hi-Fi Speaker",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d1d020e4-9300-4979-9db4-08911c01612a.png?v=1754650740",
-      "alt": "Xiaomi Sound Pocket – Compact Hi-Fi Speaker",
-      "width": 525,
-      "height": 525
-    },
-    "price": "$155000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d1d020e4-9300-4979-9db4-08911c01612a.png?v=1754650740",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -184,8 +179,20 @@
       "Speaker",
       "Xiaomi"
     ],
-    "created_at": "2025-08-08T13:58:17+03:00",
-    "published_at": "2025-08-08T14:00:23+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 190000,
+          "sale_price": 155000,
+          "percentage_off": 18
+        }
+      ],
+      "min_regular_price": 190000,
+      "max_regular_price": 190000,
+      "min_sale_price": 155000,
+      "max_sale_price": 155000
+    },
     "rank": 7
   }
 ]

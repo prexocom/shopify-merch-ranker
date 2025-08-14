@@ -2,18 +2,7 @@
   {
     "handle": "auto-face-tracking-tripod-gimbal",
     "title": "Auto Face Tracking Tripod Gimbal",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_27bda3ff-2809-4baf-81d8-64b89f61c49b.webp?v=1754735298",
-      "alt": "Auto Face Tracking Tripod Gimbal",
-      "width": 1000,
-      "height": 1000
-    },
-    "price": "$199000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_27bda3ff-2809-4baf-81d8-64b89f61c49b.webp?v=1754735298",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -21,25 +10,26 @@
       "Gimbal",
       "Phone Accessories"
     ],
-    "created_at": "2025-08-09T13:27:51+03:00",
-    "published_at": "2025-08-09T13:29:36+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 250000,
+          "sale_price": 199000,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 250000,
+      "max_regular_price": 250000,
+      "min_sale_price": 199000,
+      "max_sale_price": 199000
+    },
     "rank": 1
   },
   {
     "handle": "green-lion-auto-track-gimbal-stabilizer",
     "title": "Green Lion Auto Track Gimbal Stabilizer",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d3945714-bb75-418e-a3a0-a38147e828af.webp?v=1754571795",
-      "alt": "Green Lion Auto Track Gimbal Stabilizer",
-      "width": 1000,
-      "height": 1000
-    },
-    "price": "$165000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d3945714-bb75-418e-a3a0-a38147e828af.webp?v=1754571795",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -47,25 +37,26 @@
       "Gimbal",
       "Phone Accessories"
     ],
-    "created_at": "2025-08-07T16:01:30+03:00",
-    "published_at": "2025-08-07T16:04:12+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 200000,
+          "sale_price": 165000,
+          "percentage_off": 18
+        }
+      ],
+      "min_regular_price": 200000,
+      "max_regular_price": 200000,
+      "min_sale_price": 165000,
+      "max_sale_price": 165000
+    },
     "rank": 2
   },
   {
     "handle": "green-lion-new-york-gimbal-smart-face-tracking",
     "title": "Green Lion New York Gimbal Smart Face Tracking",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fbe6d529-a264-4f5a-85ca-6fad12eb8a71.webp?v=1754599471",
-      "alt": "Green Lion New York Gimbal Smart Face Tracking",
-      "width": 525,
-      "height": 525
-    },
-    "price": "$425000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fbe6d529-a264-4f5a-85ca-6fad12eb8a71.webp?v=1754599471",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -75,25 +66,26 @@
       "Phone Accessories",
       "Travel"
     ],
-    "created_at": "2025-08-07T23:43:59+03:00",
-    "published_at": "2025-08-07T23:45:41+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 460000,
+          "sale_price": 425000,
+          "percentage_off": 8
+        }
+      ],
+      "min_regular_price": 460000,
+      "max_regular_price": 460000,
+      "min_sale_price": 425000,
+      "max_sale_price": 425000
+    },
     "rank": 3
   },
   {
     "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
     "title": "Porodo 3‑Axis Gimbal Stabilizer with Magnetic Fill Light",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2087b3da-f4f0-42f3-b9bc-ea20e7af57d7.jpg?v=1754597732",
-      "alt": "Porodo 3‑Axis Gimbal Stabilizer with Magnetic Fill Light",
-      "width": 700,
-      "height": 700
-    },
-    "price": "$315000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2087b3da-f4f0-42f3-b9bc-ea20e7af57d7.jpg?v=1754597732",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -103,25 +95,26 @@
       "Porodo",
       "Travel"
     ],
-    "created_at": "2025-08-07T23:15:06+03:00",
-    "published_at": "2025-08-07T23:17:31+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 370000,
+          "sale_price": 315000,
+          "percentage_off": 15
+        }
+      ],
+      "min_regular_price": 370000,
+      "max_regular_price": 370000,
+      "min_sale_price": 315000,
+      "max_sale_price": 315000
+    },
     "rank": 4
   },
   {
     "handle": "porodo-quadbase-gimbal-stabilizer",
     "title": "Porodo QuadBase Gimbal Stabilizer",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_8184ec40-15b5-4dda-8826-2552adb552bb.webp?v=1754598461",
-      "alt": "Porodo QuadBase Gimbal Stabilizer",
-      "width": 525,
-      "height": 525
-    },
-    "price": "$175000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_8184ec40-15b5-4dda-8826-2552adb552bb.webp?v=1754598461",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -131,8 +124,20 @@
       "Porodo",
       "Travel"
     ],
-    "created_at": "2025-08-07T23:27:12+03:00",
-    "published_at": "2025-08-07T23:28:54+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 220000,
+          "sale_price": 175000,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 220000,
+      "max_regular_price": 220000,
+      "min_sale_price": 175000,
+      "max_sale_price": 175000
+    },
     "rank": 5
   }
 ]

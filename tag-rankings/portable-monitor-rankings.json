@@ -2,18 +2,7 @@
   {
     "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
     "title": "Powerology Ultra-Slim Full HD Portable Monitor 15.6\"",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d0e7a5a3-ea2b-4aa6-a746-213a3d4df581.webp?v=1754755760",
-      "alt": "Powerology Ultra-Slim Full HD Portable Monitor 15.6\"",
-      "width": 1000,
-      "height": 1000
-    },
-    "price": "$620000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d0e7a5a3-ea2b-4aa6-a746-213a3d4df581.webp?v=1754755760",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -23,8 +12,20 @@
       "Portable Monitor",
       "Powerology"
     ],
-    "created_at": "2025-08-09T19:15:56+03:00",
-    "published_at": "2025-08-09T19:15:56+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 700000,
+          "sale_price": 620000,
+          "percentage_off": 11
+        }
+      ],
+      "min_regular_price": 700000,
+      "max_regular_price": 700000,
+      "min_sale_price": 620000,
+      "max_sale_price": 620000
+    },
     "rank": 1
   }
 ]

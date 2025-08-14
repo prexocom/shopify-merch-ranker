@@ -2,43 +2,33 @@
   {
     "handle": "powerology-20-000-mah-65-w-onyx-power-bank",
     "title": "Powerology 20,000 mAh 65 W Onyx Power Bank",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_24c81f91-6660-40e8-92f4-d83260d9468a.jpg?v=1755113368",
-      "alt": "Powerology 20,000 mAh 65 W Onyx Power Bank",
-      "width": 512,
-      "height": 512
-    },
-    "price": "$190000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_24c81f91-6660-40e8-92f4-d83260d9468a.jpg?v=1755113368",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Power Banks",
       "Powerology"
     ],
-    "created_at": "2025-08-13T22:28:44+03:00",
-    "published_at": "2025-08-13T22:29:41+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 220000,
+          "sale_price": 190000,
+          "percentage_off": 14
+        }
+      ],
+      "min_regular_price": 220000,
+      "max_regular_price": 220000,
+      "min_sale_price": 190000,
+      "max_sale_price": 190000
+    },
     "rank": 1
   },
   {
     "handle": "powerology-32-android-smart-screen",
     "title": "Powerology 32\" Android Smart Screen",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0ca85194-3b03-47db-b744-8241ba5cca34.webp?v=1754981430",
-      "alt": "Powerology 32\" Android Smart Screen",
-      "width": 1024,
-      "height": 1024
-    },
-    "price": "$3250000.00",
-    "on_sale": false,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0ca85194-3b03-47db-b744-8241ba5cca34.webp?v=1754981430",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -47,25 +37,26 @@
       "Smart Screen",
       "TV"
     ],
-    "created_at": "2025-08-12T09:49:47+03:00",
-    "published_at": "2025-08-12T09:51:29+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 3250000,
+          "sale_price": 3250000,
+          "percentage_off": 0
+        }
+      ],
+      "min_regular_price": 3250000,
+      "max_regular_price": 3250000,
+      "min_sale_price": 3250000,
+      "max_sale_price": 3250000
+    },
     "rank": 2
   },
   {
     "handle": "powerology-built-in-solar-outdoor-camera",
     "title": "Powerology Built-in Solar Outdoor Camera",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f6cb4452-0bd6-4c0c-843f-8d888ebdcf24.webp?v=1754595537",
-      "alt": "Powerology Built-in Solar Outdoor Camera",
-      "width": 1024,
-      "height": 1024
-    },
-    "price": "$320000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f6cb4452-0bd6-4c0c-843f-8d888ebdcf24.webp?v=1754595537",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -74,25 +65,26 @@
       "Security Camera",
       "Smart Home"
     ],
-    "created_at": "2025-08-07T22:38:36+03:00",
-    "published_at": "2025-08-07T22:40:25+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 400000,
+          "sale_price": 320000,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 400000,
+      "max_regular_price": 400000,
+      "min_sale_price": 320000,
+      "max_sale_price": 320000
+    },
     "rank": 3
   },
   {
     "handle": "powerology-built-in-solar-pan-tilt-outdoor-camera-2k",
     "title": "Powerology Built-In Solar Pan & Tilt Outdoor Camera – 2K",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_43165118-1a19-43de-aa7d-128871d5ad1d.webp?v=1754595959",
-      "alt": "Powerology Built-In Solar Pan & Tilt Outdoor Camera – 2K",
-      "width": 525,
-      "height": 525
-    },
-    "price": "$395000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_43165118-1a19-43de-aa7d-128871d5ad1d.webp?v=1754595959",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -101,25 +93,26 @@
       "Security Camera",
       "Smart Home"
     ],
-    "created_at": "2025-08-07T22:45:36+03:00",
-    "published_at": "2025-08-07T22:46:36+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 450000,
+          "sale_price": 395000,
+          "percentage_off": 12
+        }
+      ],
+      "min_regular_price": 450000,
+      "max_regular_price": 450000,
+      "min_sale_price": 395000,
+      "max_sale_price": 395000
+    },
     "rank": 4
   },
   {
     "handle": "powerology-dual-screen-portable-monitor",
     "title": "Powerology Dual Screen Portable Monitor",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_06675db1-3818-4688-9027-05b6412cb3a6.jpg?v=1754753103",
-      "alt": "Powerology Dual Screen Portable Monitor",
-      "width": 1024,
-      "height": 1024
-    },
-    "price": "$1250000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_06675db1-3818-4688-9027-05b6412cb3a6.jpg?v=1754753103",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -127,100 +120,104 @@
       "Office",
       "Powerology"
     ],
-    "created_at": "2025-08-09T18:24:40+03:00",
-    "published_at": "2025-08-09T18:26:10+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 1400000,
+          "sale_price": 1250000,
+          "percentage_off": 11
+        }
+      ],
+      "min_regular_price": 1400000,
+      "max_regular_price": 1400000,
+      "min_sale_price": 1250000,
+      "max_sale_price": 1250000
+    },
     "rank": 5
   },
   {
     "handle": "powerology-dynamic800-portable-power-station-800w-black",
     "title": "Powerology Dynamic800 Portable Power Station (800W, Black)",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/PWP800WBK_Powerology_Dynamic800_Portable_Power_Station_800W_-_Black.webp?v=1754978787",
-      "alt": "Powerology Dynamic800 Portable Power Station (800W, Black)",
-      "width": 1024,
-      "height": 1024
-    },
-    "price": "$1950000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/PWP800WBK_Powerology_Dynamic800_Portable_Power_Station_800W_-_Black.webp?v=1754978787",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Power Station",
       "Powerology"
     ],
-    "created_at": "2025-08-12T09:06:49+03:00",
-    "published_at": "2025-08-12T09:09:53+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 2100000,
+          "sale_price": 1950000,
+          "percentage_off": 7
+        }
+      ],
+      "min_regular_price": 2100000,
+      "max_regular_price": 2100000,
+      "min_sale_price": 1950000,
+      "max_sale_price": 1950000
+    },
     "rank": 6
   },
   {
     "handle": "powerology-onyx-30000mah-dual-usb-c-power-bank",
     "title": "Powerology Onyx 30000mAh Dual USB-C Power Bank",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_66e3412b-6596-425d-b9bc-85f73bdbad15.jpg?v=1755112675",
-      "alt": "Powerology Onyx 30000mAh Dual USB-C Power Bank",
-      "width": 2048,
-      "height": 2048
-    },
-    "price": "$270000.00",
-    "on_sale": false,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_66e3412b-6596-425d-b9bc-85f73bdbad15.jpg?v=1755112675",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Power Banks",
       "Powerology"
     ],
-    "created_at": "2025-08-13T22:16:06+03:00",
-    "published_at": "2025-08-13T22:17:08+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 270000,
+          "sale_price": 270000,
+          "percentage_off": 0
+        }
+      ],
+      "min_regular_price": 270000,
+      "max_regular_price": 270000,
+      "min_sale_price": 270000,
+      "max_sale_price": 270000
+    },
     "rank": 7
   },
   {
     "handle": "powerology-ultra-portable-air-compressor-power-bank",
     "title": "Powerology Ultra Portable Air Compressor Power Bank",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3d161731-a3bb-4ae8-b701-41d21a773974.jpg?v=1754686259",
-      "alt": "Powerology Ultra Portable Air Compressor Power Bank",
-      "width": 1024,
-      "height": 1024
-    },
-    "price": "$220000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3d161731-a3bb-4ae8-b701-41d21a773974.jpg?v=1754686259",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Car Gadgets",
       "Powerology"
     ],
-    "created_at": "2025-08-08T23:50:34+03:00",
-    "published_at": "2025-08-08T23:52:39+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 260000,
+          "sale_price": 220000,
+          "percentage_off": 15
+        }
+      ],
+      "min_regular_price": 260000,
+      "max_regular_price": 260000,
+      "min_sale_price": 220000,
+      "max_sale_price": 220000
+    },
     "rank": 8
   },
   {
     "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
     "title": "Powerology Ultra-Slim Full HD Portable Monitor 15.6\"",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d0e7a5a3-ea2b-4aa6-a746-213a3d4df581.webp?v=1754755760",
-      "alt": "Powerology Ultra-Slim Full HD Portable Monitor 15.6\"",
-      "width": 1000,
-      "height": 1000
-    },
-    "price": "$620000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d0e7a5a3-ea2b-4aa6-a746-213a3d4df581.webp?v=1754755760",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -230,8 +227,20 @@
       "Portable Monitor",
       "Powerology"
     ],
-    "created_at": "2025-08-09T19:15:56+03:00",
-    "published_at": "2025-08-09T19:15:56+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 700000,
+          "sale_price": 620000,
+          "percentage_off": 11
+        }
+      ],
+      "min_regular_price": 700000,
+      "max_regular_price": 700000,
+      "min_sale_price": 620000,
+      "max_sale_price": 620000
+    },
     "rank": 9
   }
 ]

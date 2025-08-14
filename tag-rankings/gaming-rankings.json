@@ -2,26 +2,27 @@
   {
     "handle": "logitech-g29-driving-force-racing-wheel-pedals",
     "title": "Logitech G29 – Driving Force Racing Wheel & Pedals",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5c1a4f4a-d579-47d0-b009-ba4d66906d6a.jpg?v=1749641646",
-      "alt": "Logitech G29 – Driving Force Racing Wheel & Pedals",
-      "width": 2000,
-      "height": 2000
-    },
-    "price": "$1220000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Store",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5c1a4f4a-d579-47d0-b009-ba4d66906d6a.jpg?v=1749641646",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Entertainment",
       "Gaming"
     ],
-    "created_at": "2025-06-11T14:34:06+03:00",
-    "published_at": "2025-07-29T20:48:25+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 1350000,
+          "sale_price": 1220000,
+          "percentage_off": 10
+        }
+      ],
+      "min_regular_price": 1350000,
+      "max_regular_price": 1350000,
+      "min_sale_price": 1220000,
+      "max_sale_price": 1220000
+    },
     "rank": 1
   }
 ]

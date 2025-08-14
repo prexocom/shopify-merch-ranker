@@ -2,68 +2,59 @@
   {
     "handle": "green-lion-cx240-cordless-pressure-wash-gun",
     "title": "Green Lion CX240 Cordless Pressure Wash Gun",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bbcb0df0-44e4-4d5d-adb7-8dda8ca3b34d.webp?v=1754870712",
-      "alt": "Green Lion CX240 Cordless Pressure Wash Gun",
-      "width": 1000,
-      "height": 1000
-    },
-    "price": "$285000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bbcb0df0-44e4-4d5d-adb7-8dda8ca3b34d.webp?v=1754870712",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Car Gadgets",
       "Green Lion"
     ],
-    "created_at": "2025-08-11T03:04:38+03:00",
-    "published_at": "2025-08-11T03:05:47+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 320000,
+          "sale_price": 285000,
+          "percentage_off": 11
+        }
+      ],
+      "min_regular_price": 320000,
+      "max_regular_price": 320000,
+      "min_sale_price": 285000,
+      "max_sale_price": 285000
+    },
     "rank": 1
   },
   {
     "handle": "green-lion-digital-luggage-scale-50-kg-max",
     "title": "Green Lion Digital Luggage Scale (50 kg Max)",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_010671a0-2256-4d4d-bb91-961ff766fed2.webp?v=1754724471",
-      "alt": "Green Lion Digital Luggage Scale (50 kg Max)",
-      "width": 1000,
-      "height": 1000
-    },
-    "price": "$95000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_010671a0-2256-4d4d-bb91-961ff766fed2.webp?v=1754724471",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Green Lion",
       "Travel"
     ],
-    "created_at": "2025-08-09T10:27:12+03:00",
-    "published_at": "2025-08-09T10:28:43+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 120000,
+          "sale_price": 95000,
+          "percentage_off": 21
+        }
+      ],
+      "min_regular_price": 120000,
+      "max_regular_price": 120000,
+      "min_sale_price": 95000,
+      "max_sale_price": 95000
+    },
     "rank": 2
   },
   {
     "handle": "green-lion-echo-max-headphones",
     "title": "Green Lion Echo Max Headphones",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0d89593e-1173-49fe-8eb4-699785dcd7f4.jpg?v=1754944773",
-      "alt": "Green Lion Echo Max Headphones",
-      "width": 1080,
-      "height": 1080
-    },
-    "price": "$175000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0d89593e-1173-49fe-8eb4-699785dcd7f4.jpg?v=1754944773",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -73,25 +64,26 @@
       "Music",
       "Phone Accessories"
     ],
-    "created_at": "2025-08-08T11:41:12+03:00",
-    "published_at": "2025-08-08T11:42:47+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 220000,
+          "sale_price": 175000,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 220000,
+      "max_regular_price": 220000,
+      "min_sale_price": 175000,
+      "max_sale_price": 175000
+    },
     "rank": 3
   },
   {
     "handle": "green-lion-echo-max-headphones-black",
     "title": "Green Lion Echo Max Headphones - Black",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_447f91eb-6fb7-4e3a-bf58-228c1dce5af4.jpg?v=1754945095",
-      "alt": "Green Lion Echo Max Headphones - Black",
-      "width": 800,
-      "height": 800
-    },
-    "price": "$175000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_447f91eb-6fb7-4e3a-bf58-228c1dce5af4.jpg?v=1754945095",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -101,25 +93,26 @@
       "Music",
       "Phone Accessories"
     ],
-    "created_at": "2025-08-11T23:42:01+03:00",
-    "published_at": "2025-08-12T17:58:06+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 220000,
+          "sale_price": 175000,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 220000,
+      "max_regular_price": 220000,
+      "min_sale_price": 175000,
+      "max_sale_price": 175000
+    },
     "rank": 4
   },
   {
     "handle": "copy-green-lion-echo-max-headphones-orange",
     "title": "Green Lion Echo Max Headphones - Orange",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_87fc8554-b91c-4656-8a18-ab1de65b12bb.webp?v=1754945345",
-      "alt": "Green Lion Echo Max Headphones - Orange",
-      "width": 1024,
-      "height": 1024
-    },
-    "price": "$175000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_87fc8554-b91c-4656-8a18-ab1de65b12bb.webp?v=1754945345",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -129,25 +122,26 @@
       "Music",
       "Phone Accessories"
     ],
-    "created_at": "2025-08-11T23:46:15+03:00",
-    "published_at": "2025-08-11T23:46:15+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 220000,
+          "sale_price": 175000,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 220000,
+      "max_regular_price": 220000,
+      "min_sale_price": 175000,
+      "max_sale_price": 175000
+    },
     "rank": 5
   },
   {
     "handle": "green-lion-gan-65w-multi-port-travel-adapter",
     "title": "Green Lion GaN 65W Multi-Port Travel Adapter",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3813bdf2-ef52-46b9-8aa4-c293c0734f0c.jpg?v=1754754721",
-      "alt": "Green Lion GaN 65W Multi-Port Travel Adapter",
-      "width": 1024,
-      "height": 1024
-    },
-    "price": "$290000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3813bdf2-ef52-46b9-8aa4-c293c0734f0c.jpg?v=1754754721",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -156,25 +150,26 @@
       "Office",
       "Phone Accessories"
     ],
-    "created_at": "2025-08-09T18:51:34+03:00",
-    "published_at": "2025-08-09T18:53:30+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 350000,
+          "sale_price": 290000,
+          "percentage_off": 17
+        }
+      ],
+      "min_regular_price": 350000,
+      "max_regular_price": 350000,
+      "min_sale_price": 290000,
+      "max_sale_price": 290000
+    },
     "rank": 6
   },
   {
     "handle": "green-lion-new-york-gimbal-smart-face-tracking",
     "title": "Green Lion New York Gimbal Smart Face Tracking",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fbe6d529-a264-4f5a-85ca-6fad12eb8a71.webp?v=1754599471",
-      "alt": "Green Lion New York Gimbal Smart Face Tracking",
-      "width": 525,
-      "height": 525
-    },
-    "price": "$425000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fbe6d529-a264-4f5a-85ca-6fad12eb8a71.webp?v=1754599471",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -184,50 +179,52 @@
       "Phone Accessories",
       "Travel"
     ],
-    "created_at": "2025-08-07T23:43:59+03:00",
-    "published_at": "2025-08-07T23:45:41+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 460000,
+          "sale_price": 425000,
+          "percentage_off": 8
+        }
+      ],
+      "min_regular_price": 460000,
+      "max_regular_price": 460000,
+      "min_sale_price": 425000,
+      "max_sale_price": 425000
+    },
     "rank": 7
   },
   {
     "handle": "green-lion-portable-oral-irrigator-300-ml",
     "title": "Green Lion Portable Oral Irrigator (300 mL)",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ddb11d8a-ebe5-4eac-b0f3-77326e327518.jpg?v=1754727405",
-      "alt": "Green Lion Portable Oral Irrigator (300 mL)",
-      "width": 1024,
-      "height": 1024
-    },
-    "price": "$175000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ddb11d8a-ebe5-4eac-b0f3-77326e327518.jpg?v=1754727405",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Green Lion",
       "Oral Care"
     ],
-    "created_at": "2025-08-09T11:21:03+03:00",
-    "published_at": "2025-08-09T11:21:41+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 200000,
+          "sale_price": 175000,
+          "percentage_off": 13
+        }
+      ],
+      "min_regular_price": 200000,
+      "max_regular_price": 200000,
+      "min_sale_price": 175000,
+      "max_sale_price": 175000
+    },
     "rank": 8
   },
   {
     "handle": "green-lion-prisma-4k-portable-projector",
     "title": "Green Lion Prisma 4K Portable Projector",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1a014ce3-5bc7-4b06-96c6-c24878c7cea9.jpg?v=1754943073",
-      "alt": "Green Lion Prisma 4K Portable Projector",
-      "width": 1500,
-      "height": 1500
-    },
-    "price": "$650000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1a014ce3-5bc7-4b06-96c6-c24878c7cea9.jpg?v=1754943073",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -235,50 +232,52 @@
       "Green Lion",
       "Projector"
     ],
-    "created_at": "2025-08-11T23:10:47+03:00",
-    "published_at": "2025-08-11T23:13:01+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 740000,
+          "sale_price": 650000,
+          "percentage_off": 12
+        }
+      ],
+      "min_regular_price": 740000,
+      "max_regular_price": 740000,
+      "min_sale_price": 650000,
+      "max_sale_price": 650000
+    },
     "rank": 9
   },
   {
     "handle": "green-lion-smart-body-scale-8-electrode-advanced-analysis",
     "title": "Green Lion Smart Body Scale (8-Electrode Advanced Analysis)",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_30dbf50a-5c91-4bf0-9492-4249c1678a66.jpg?v=1754725076",
-      "alt": "Green Lion Smart Body Scale (8-Electrode Advanced Analysis)",
-      "width": 1500,
-      "height": 1500
-    },
-    "price": "$245000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_30dbf50a-5c91-4bf0-9492-4249c1678a66.jpg?v=1754725076",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Green Lion",
       "Health & Fitness"
     ],
-    "created_at": "2025-08-09T10:37:39+03:00",
-    "published_at": "2025-08-09T10:39:34+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 300000,
+          "sale_price": 245000,
+          "percentage_off": 18
+        }
+      ],
+      "min_regular_price": 300000,
+      "max_regular_price": 300000,
+      "min_sale_price": 245000,
+      "max_sale_price": 245000
+    },
     "rank": 10
   },
   {
     "handle": "green-lion-smart-brush-60-ultrawide",
     "title": "Green Lion Smart Brush 60° Ultrawide",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ed9a1e74-a28c-41c0-a40e-ae9eee18a24e.jpg?v=1754728194",
-      "alt": "Green Lion Smart Brush 60° Ultrawide",
-      "width": 1500,
-      "height": 1500
-    },
-    "price": "$185000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ed9a1e74-a28c-41c0-a40e-ae9eee18a24e.jpg?v=1754728194",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -286,25 +285,26 @@
       "Green Lion",
       "Oral Care"
     ],
-    "created_at": "2025-08-09T11:29:30+03:00",
-    "published_at": "2025-08-09T11:31:04+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 230000,
+          "sale_price": 185000,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 230000,
+      "max_regular_price": 230000,
+      "min_sale_price": 185000,
+      "max_sale_price": 185000
+    },
     "rank": 11
   },
   {
     "handle": "green-lion-smart-toothbrush-sanitizer",
     "title": "Green Lion Smart Toothbrush Sanitizer",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5544c8fe-3f75-4134-bc6d-1808feaef585.jpg?v=1754726691",
-      "alt": "Green Lion Smart Toothbrush Sanitizer",
-      "width": 1024,
-      "height": 1024
-    },
-    "price": "$160000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5544c8fe-3f75-4134-bc6d-1808feaef585.jpg?v=1754726691",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -312,8 +312,20 @@
       "Green Lion",
       "Oral Care"
     ],
-    "created_at": "2025-08-09T11:04:21+03:00",
-    "published_at": "2025-08-09T11:06:03+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 200000,
+          "sale_price": 160000,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 200000,
+      "max_regular_price": 200000,
+      "min_sale_price": 160000,
+      "max_sale_price": 160000
+    },
     "rank": 12
   }
 ]

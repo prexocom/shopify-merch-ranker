@@ -2,18 +2,7 @@
   {
     "handle": "green-lion-smart-brush-60-ultrawide",
     "title": "Green Lion Smart Brush 60° Ultrawide",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ed9a1e74-a28c-41c0-a40e-ae9eee18a24e.jpg?v=1754728194",
-      "alt": "Green Lion Smart Brush 60° Ultrawide",
-      "width": 1500,
-      "height": 1500
-    },
-    "price": "$185000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ed9a1e74-a28c-41c0-a40e-ae9eee18a24e.jpg?v=1754728194",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -21,25 +10,26 @@
       "Green Lion",
       "Oral Care"
     ],
-    "created_at": "2025-08-09T11:29:30+03:00",
-    "published_at": "2025-08-09T11:31:04+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 230000,
+          "sale_price": 185000,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 230000,
+      "max_regular_price": 230000,
+      "min_sale_price": 185000,
+      "max_sale_price": 185000
+    },
     "rank": 1
   },
   {
     "handle": "green-lion-smart-toothbrush-sanitizer",
     "title": "Green Lion Smart Toothbrush Sanitizer",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5544c8fe-3f75-4134-bc6d-1808feaef585.jpg?v=1754726691",
-      "alt": "Green Lion Smart Toothbrush Sanitizer",
-      "width": 1024,
-      "height": 1024
-    },
-    "price": "$160000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5544c8fe-3f75-4134-bc6d-1808feaef585.jpg?v=1754726691",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -47,8 +37,20 @@
       "Green Lion",
       "Oral Care"
     ],
-    "created_at": "2025-08-09T11:04:21+03:00",
-    "published_at": "2025-08-09T11:06:03+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 200000,
+          "sale_price": 160000,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 200000,
+      "max_regular_price": 200000,
+      "min_sale_price": 160000,
+      "max_sale_price": 160000
+    },
     "rank": 2
   }
 ]

@@ -2,26 +2,27 @@
   {
     "handle": "120-can-mini-beverage-refrigerator",
     "title": "🧊 120-Can Mini Beverage Refrigerator",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_502b238c-7a86-401e-8c52-c079908a7ff3.jpg?v=1754433862",
-      "alt": "🧊 120-Can Mini Beverage Refrigerator",
-      "width": 600,
-      "height": 600
-    },
-    "price": "$1740000.00",
-    "on_sale": false,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_502b238c-7a86-401e-8c52-c079908a7ff3.jpg?v=1754433862",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Fridge",
       "Kitchen"
     ],
-    "created_at": "2025-08-06T01:43:36+03:00",
-    "published_at": "2025-08-06T01:45:28+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 1740000,
+          "sale_price": 1740000,
+          "percentage_off": 0
+        }
+      ],
+      "min_regular_price": 1740000,
+      "max_regular_price": 1740000,
+      "min_sale_price": 1740000,
+      "max_sale_price": 1740000
+    },
     "rank": 1
   }
 ]

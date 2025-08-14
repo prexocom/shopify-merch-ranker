@@ -2,18 +2,7 @@
   {
     "handle": "powerology-built-in-solar-outdoor-camera",
     "title": "Powerology Built-in Solar Outdoor Camera",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f6cb4452-0bd6-4c0c-843f-8d888ebdcf24.webp?v=1754595537",
-      "alt": "Powerology Built-in Solar Outdoor Camera",
-      "width": 1024,
-      "height": 1024
-    },
-    "price": "$320000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f6cb4452-0bd6-4c0c-843f-8d888ebdcf24.webp?v=1754595537",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -22,25 +11,26 @@
       "Security Camera",
       "Smart Home"
     ],
-    "created_at": "2025-08-07T22:38:36+03:00",
-    "published_at": "2025-08-07T22:40:25+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 400000,
+          "sale_price": 320000,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 400000,
+      "max_regular_price": 400000,
+      "min_sale_price": 320000,
+      "max_sale_price": 320000
+    },
     "rank": 1
   },
   {
     "handle": "powerology-built-in-solar-pan-tilt-outdoor-camera-2k",
     "title": "Powerology Built-In Solar Pan & Tilt Outdoor Camera – 2K",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_43165118-1a19-43de-aa7d-128871d5ad1d.webp?v=1754595959",
-      "alt": "Powerology Built-In Solar Pan & Tilt Outdoor Camera – 2K",
-      "width": 525,
-      "height": 525
-    },
-    "price": "$395000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_43165118-1a19-43de-aa7d-128871d5ad1d.webp?v=1754595959",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -49,73 +39,76 @@
       "Security Camera",
       "Smart Home"
     ],
-    "created_at": "2025-08-07T22:45:36+03:00",
-    "published_at": "2025-08-07T22:46:36+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 450000,
+          "sale_price": 395000,
+          "percentage_off": 12
+        }
+      ],
+      "min_regular_price": 450000,
+      "max_regular_price": 450000,
+      "min_sale_price": 395000,
+      "max_sale_price": 395000
+    },
     "rank": 2
   },
   {
     "handle": "prexosecure-fingerprint-smart-door-lock",
     "title": "PrexoSecure – Fingerprint Smart Door Lock",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b1691cd5-2d38-48ac-8174-12944eabf1fa.jpg?v=1749641630",
-      "alt": "PrexoSecure – Fingerprint Smart Door Lock",
-      "width": 1200,
-      "height": 1200
-    },
-    "price": "$255000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Store",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b1691cd5-2d38-48ac-8174-12944eabf1fa.jpg?v=1749641630",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Security"
     ],
-    "created_at": "2025-06-11T14:33:50+03:00",
-    "published_at": "2025-08-05T09:37:18+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 320000,
+          "sale_price": 255000,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 320000,
+      "max_regular_price": 320000,
+      "min_sale_price": 255000,
+      "max_sale_price": 255000
+    },
     "rank": 3
   },
   {
     "handle": "solarsecure-360-full-color-night-vision-security-camera",
     "title": "SolarSecure 360 – Full-Color Night Vision Security Camera",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_df6ee820-3071-4a55-88de-4472b6b10155.webp?v=1749641793",
-      "alt": "SolarSecure 360 – Full-Color Night Vision Security Camera",
-      "width": 720,
-      "height": 720
-    },
-    "price": "$445000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Store",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_df6ee820-3071-4a55-88de-4472b6b10155.webp?v=1749641793",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Security"
     ],
-    "created_at": "2025-06-11T14:36:33+03:00",
-    "published_at": "2025-06-11T14:36:22+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 550000,
+          "sale_price": 445000,
+          "percentage_off": 19
+        }
+      ],
+      "min_regular_price": 550000,
+      "max_regular_price": 550000,
+      "min_sale_price": 445000,
+      "max_sale_price": 445000
+    },
     "rank": 4
   },
   {
     "handle": "xiaomi-outdoor-camera-cw300",
     "title": "Xiaomi Outdoor Camera CW300",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_583c5985-4fcb-422f-97f9-e77f0ef4dbfe.webp?v=1754597009",
-      "alt": "Xiaomi Outdoor Camera CW300",
-      "width": 525,
-      "height": 525
-    },
-    "price": "$320000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_583c5985-4fcb-422f-97f9-e77f0ef4dbfe.webp?v=1754597009",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -124,25 +117,26 @@
       "Smart Home",
       "Xiaomi"
     ],
-    "created_at": "2025-08-07T23:03:07+03:00",
-    "published_at": "2025-08-07T23:04:12+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 370000,
+          "sale_price": 320000,
+          "percentage_off": 14
+        }
+      ],
+      "min_regular_price": 370000,
+      "max_regular_price": 370000,
+      "min_sale_price": 320000,
+      "max_sale_price": 320000
+    },
     "rank": 5
   },
   {
     "handle": "xiaomi-smart-camera-c300",
     "title": "Xiaomi Smart Camera C300",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5afa0b0f-21a2-400b-bfcc-3b1f0cc1d874.jpg?v=1754577759",
-      "alt": "Xiaomi Smart Camera C300",
-      "width": 1500,
-      "height": 1500
-    },
-    "price": "$225000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5afa0b0f-21a2-400b-bfcc-3b1f0cc1d874.jpg?v=1754577759",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -151,25 +145,26 @@
       "Smart Home",
       "Xiaomi"
     ],
-    "created_at": "2025-08-07T17:41:36+03:00",
-    "published_at": "2025-08-07T17:44:25+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 270000,
+          "sale_price": 225000,
+          "percentage_off": 17
+        }
+      ],
+      "min_regular_price": 270000,
+      "max_regular_price": 270000,
+      "min_sale_price": 225000,
+      "max_sale_price": 225000
+    },
     "rank": 6
   },
   {
     "handle": "xiaomi-smart-camera-c300-dual-lens-2k-wi-fi-6",
     "title": "Xiaomi Smart Camera C300 Dual-Lens (2K, Wi-Fi 6)",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_8e76fce9-4228-486a-b610-dd6bbc6932f6.webp?v=1754596460",
-      "alt": "Xiaomi Smart Camera C300 Dual-Lens (2K, Wi-Fi 6)",
-      "width": 1000,
-      "height": 1000
-    },
-    "price": "$345000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_8e76fce9-4228-486a-b610-dd6bbc6932f6.webp?v=1754596460",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -178,8 +173,20 @@
       "Smart Home",
       "Xiaomi"
     ],
-    "created_at": "2025-08-07T22:53:59+03:00",
-    "published_at": "2025-08-07T22:56:07+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 420000,
+          "sale_price": 345000,
+          "percentage_off": 18
+        }
+      ],
+      "min_regular_price": 420000,
+      "max_regular_price": 420000,
+      "min_sale_price": 345000,
+      "max_sale_price": 345000
+    },
     "rank": 7
   }
 ]

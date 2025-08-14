@@ -2,126 +2,131 @@
   {
     "handle": "ufo-raindrop-humidifier",
     "title": "Aquamist Raindrop Humidifier",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/S9cd93e459b7c4e9e939ad6a6cd748d6av.jpg?v=1749642028",
-      "alt": "Aquamist Raindrop Humidifier",
-      "width": 800,
-      "height": 800
-    },
-    "price": "$138000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/S9cd93e459b7c4e9e939ad6a6cd748d6av.jpg?v=1749642028",
     "units_sold": 1,
     "revenue": 138000,
     "tags": [
       "Home Decor",
       "humidifier"
     ],
-    "created_at": "2025-06-11T14:40:28+03:00",
-    "published_at": "2025-06-11T14:40:17+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 185000,
+          "sale_price": 138000,
+          "percentage_off": 25
+        }
+      ],
+      "min_regular_price": 185000,
+      "max_regular_price": 185000,
+      "min_sale_price": 138000,
+      "max_sale_price": 138000
+    },
     "rank": 1
   },
   {
     "handle": "bonfire-humidifier-1",
     "title": "Bonfire Flame Effect Humidifier",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/Pinnangare5.jpg?v=1749642009",
-      "alt": "Bonfire Flame Effect Humidifier",
-      "width": 823,
-      "height": 823
-    },
-    "price": "$135000.00",
-    "on_sale": true,
-    "vendor": "Prexofy",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/Pinnangare5.jpg?v=1749642009",
     "units_sold": 1,
     "revenue": 135000,
     "tags": [
       "Home Decor",
       "humidifier"
     ],
-    "created_at": "2025-06-11T14:40:09+03:00",
-    "published_at": "2025-06-11T14:39:57+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 180000,
+          "sale_price": 135000,
+          "percentage_off": 25
+        }
+      ],
+      "min_regular_price": 180000,
+      "max_regular_price": 180000,
+      "min_sale_price": 135000,
+      "max_sale_price": 135000
+    },
     "rank": 2
   },
   {
     "handle": "glowmist™-fireplace-humidifier",
     "title": "GlowMist™ Fireplace Humidifier",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/S8b6732b7bcb9413392e82c39c0791b24E.webp?v=1749641996",
-      "alt": "GlowMist™ Fireplace Humidifier",
-      "width": 3200,
-      "height": 3200
-    },
-    "price": "$145000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/S8b6732b7bcb9413392e82c39c0791b24E.webp?v=1749641996",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Home Decor",
       "humidifier"
     ],
-    "created_at": "2025-06-11T14:39:56+03:00",
-    "published_at": "2025-07-29T14:58:18+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 190000,
+          "sale_price": 145000,
+          "percentage_off": 24
+        }
+      ],
+      "min_regular_price": 190000,
+      "max_regular_price": 190000,
+      "min_sale_price": 145000,
+      "max_sale_price": 145000
+    },
     "rank": 3
   },
   {
     "handle": "volcano-essential-oil-diffuser",
     "title": "Prexo Volcano Humidifier",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/volcano-effect-aroma-diffuser-3.jpg?v=1749641964",
-      "alt": "Prexo Volcano Humidifier",
-      "width": 960,
-      "height": 960
-    },
-    "price": "$135000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/volcano-effect-aroma-diffuser-3.jpg?v=1749641964",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Home Decor",
       "humidifier"
     ],
-    "created_at": "2025-06-11T14:39:24+03:00",
-    "published_at": "2025-06-11T14:39:05+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 180000,
+          "sale_price": 135000,
+          "percentage_off": 25
+        }
+      ],
+      "min_regular_price": 180000,
+      "max_regular_price": 180000,
+      "min_sale_price": 135000,
+      "max_sale_price": 135000
+    },
     "rank": 4
   },
   {
     "handle": "steamloco™-aromatherapy-train-humidifier",
     "title": "SteamLoco™ – Aromatherapy Train Humidifier",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2c7b3373-3980-4e88-8e81-4f6ffc43ae8f.jpg?v=1749641907",
-      "alt": "SteamLoco™ – Aromatherapy Train Humidifier",
-      "width": 1600,
-      "height": 1600
-    },
-    "price": "$188000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Store",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2c7b3373-3980-4e88-8e81-4f6ffc43ae8f.jpg?v=1749641907",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Home Decor",
       "humidifier"
     ],
-    "created_at": "2025-06-11T14:38:27+03:00",
-    "published_at": "2025-06-11T14:38:16+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 250000,
+          "sale_price": 188000,
+          "percentage_off": 25
+        }
+      ],
+      "min_regular_price": 250000,
+      "max_regular_price": 250000,
+      "min_sale_price": 188000,
+      "max_sale_price": 188000
+    },
     "rank": 5
   }
 ]

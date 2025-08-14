@@ -2,192 +2,188 @@
   {
     "handle": "ufo-raindrop-humidifier",
     "title": "Aquamist Raindrop Humidifier",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/S9cd93e459b7c4e9e939ad6a6cd748d6av.jpg?v=1749642028",
-      "alt": "Aquamist Raindrop Humidifier",
-      "width": 800,
-      "height": 800
-    },
-    "price": "$138000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/S9cd93e459b7c4e9e939ad6a6cd748d6av.jpg?v=1749642028",
     "units_sold": 1,
     "revenue": 138000,
     "tags": [
       "Home Decor",
       "humidifier"
     ],
-    "created_at": "2025-06-11T14:40:28+03:00",
-    "published_at": "2025-06-11T14:40:17+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 185000,
+          "sale_price": 138000,
+          "percentage_off": 25
+        }
+      ],
+      "min_regular_price": 185000,
+      "max_regular_price": 185000,
+      "min_sale_price": 138000,
+      "max_sale_price": 138000
+    },
     "rank": 1
   },
   {
     "handle": "bonfire-humidifier-1",
     "title": "Bonfire Flame Effect Humidifier",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/Pinnangare5.jpg?v=1749642009",
-      "alt": "Bonfire Flame Effect Humidifier",
-      "width": 823,
-      "height": 823
-    },
-    "price": "$135000.00",
-    "on_sale": true,
-    "vendor": "Prexofy",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/Pinnangare5.jpg?v=1749642009",
     "units_sold": 1,
     "revenue": 135000,
     "tags": [
       "Home Decor",
       "humidifier"
     ],
-    "created_at": "2025-06-11T14:40:09+03:00",
-    "published_at": "2025-06-11T14:39:57+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 180000,
+          "sale_price": 135000,
+          "percentage_off": 25
+        }
+      ],
+      "min_regular_price": 180000,
+      "max_regular_price": 180000,
+      "min_sale_price": 135000,
+      "max_sale_price": 135000
+    },
     "rank": 2
   },
   {
     "handle": "astronaut-galaxy-projector-your-cosmic-escape",
     "title": "Astronaut Galaxy Projector – Your Cosmic Escape",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5c9aa43b-e802-4398-9ef3-7b81ee6d7907.jpg?v=1754570916",
-      "alt": "Astronaut Galaxy Projector – Your Cosmic Escape",
-      "width": 1500,
-      "height": 1500
-    },
-    "price": "$145000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5c9aa43b-e802-4398-9ef3-7b81ee6d7907.jpg?v=1754570916",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Home Decor",
       "Lighting"
     ],
-    "created_at": "2025-08-07T15:47:43+03:00",
-    "published_at": "2025-08-07T15:49:37+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 190000,
+          "sale_price": 145000,
+          "percentage_off": 24
+        }
+      ],
+      "min_regular_price": 190000,
+      "max_regular_price": 190000,
+      "min_sale_price": 145000,
+      "max_sale_price": 145000
+    },
     "rank": 3
   },
   {
     "handle": "galaxy-star-nebula-projector-with-bluetooth-speaker",
     "title": "Galaxy Star & Nebula Projector with Bluetooth Speaker",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9eab1579-5329-4e2b-ab40-7da7000c306f.png?v=1754683053",
-      "alt": "Galaxy Star & Nebula Projector with Bluetooth Speaker",
-      "width": 500,
-      "height": 500
-    },
-    "price": "$150000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9eab1579-5329-4e2b-ab40-7da7000c306f.png?v=1754683053",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Home Decor",
       "Music"
     ],
-    "created_at": "2025-08-08T22:50:56+03:00",
-    "published_at": "2025-08-08T22:52:38+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 190000,
+          "sale_price": 150000,
+          "percentage_off": 21
+        }
+      ],
+      "min_regular_price": 190000,
+      "max_regular_price": 190000,
+      "min_sale_price": 150000,
+      "max_sale_price": 150000
+    },
     "rank": 4
   },
   {
     "handle": "glowmist™-fireplace-humidifier",
     "title": "GlowMist™ Fireplace Humidifier",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/S8b6732b7bcb9413392e82c39c0791b24E.webp?v=1749641996",
-      "alt": "GlowMist™ Fireplace Humidifier",
-      "width": 3200,
-      "height": 3200
-    },
-    "price": "$145000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/S8b6732b7bcb9413392e82c39c0791b24E.webp?v=1749641996",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Home Decor",
       "humidifier"
     ],
-    "created_at": "2025-06-11T14:39:56+03:00",
-    "published_at": "2025-07-29T14:58:18+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 190000,
+          "sale_price": 145000,
+          "percentage_off": 24
+        }
+      ],
+      "min_regular_price": 190000,
+      "max_regular_price": 190000,
+      "min_sale_price": 145000,
+      "max_sale_price": 145000
+    },
     "rank": 5
   },
   {
     "handle": "hexagon-modular-touch-lights-shape-your-glow",
     "title": "Hexagon Modular Touch Lights – Shape Your Glow",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f4bb569b-05e0-4006-8e54-6e3819308655.jpg?v=1754384700",
-      "alt": "Hexagon Modular Touch Lights – Shape Your Glow",
-      "width": 600,
-      "height": 600
-    },
-    "price": "$195000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f4bb569b-05e0-4006-8e54-6e3819308655.jpg?v=1754384700",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Home Decor",
       "Lighting"
     ],
-    "created_at": "2025-08-05T12:04:30+03:00",
-    "published_at": "2025-08-05T12:08:25+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 230000,
+          "sale_price": 195000,
+          "percentage_off": 15
+        }
+      ],
+      "min_regular_price": 230000,
+      "max_regular_price": 230000,
+      "min_sale_price": 195000,
+      "max_sale_price": 195000
+    },
     "rank": 6
   },
   {
     "handle": "lumifan-360-light-fan",
     "title": "LumiFan™ – 360° Light Fan",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3309b47252b00d69970a66cfd5863891_1_1.png?v=1749641843",
-      "alt": "LumiFan™ – 360° Light Fan",
-      "width": 2400,
-      "height": 2400
-    },
-    "price": "$188000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Store",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3309b47252b00d69970a66cfd5863891_1_1.png?v=1749641843",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Home Decor"
     ],
-    "created_at": "2025-06-11T14:37:22+03:00",
-    "published_at": "2025-06-11T14:37:12+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 250000,
+          "sale_price": 188000,
+          "percentage_off": 25
+        }
+      ],
+      "min_regular_price": 250000,
+      "max_regular_price": 250000,
+      "min_sale_price": 188000,
+      "max_sale_price": 188000
+    },
     "rank": 7
   },
   {
     "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
     "title": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7bd625dc-210f-4246-bee1-ed3244615580.webp?v=1754643849",
-      "alt": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
-      "width": 894,
-      "height": 894
-    },
-    "price": "$185000.00",
-    "on_sale": false,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7bd625dc-210f-4246-bee1-ed3244615580.webp?v=1754643849",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -197,75 +193,78 @@
       "Office",
       "Phone Accessories"
     ],
-    "created_at": "2025-08-08T12:03:39+03:00",
-    "published_at": "2025-08-08T12:06:49+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 185000,
+          "sale_price": 185000,
+          "percentage_off": 0
+        }
+      ],
+      "min_regular_price": 185000,
+      "max_regular_price": 185000,
+      "min_sale_price": 185000,
+      "max_sale_price": 185000
+    },
     "rank": 8
   },
   {
     "handle": "volcano-essential-oil-diffuser",
     "title": "Prexo Volcano Humidifier",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/volcano-effect-aroma-diffuser-3.jpg?v=1749641964",
-      "alt": "Prexo Volcano Humidifier",
-      "width": 960,
-      "height": 960
-    },
-    "price": "$135000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/volcano-effect-aroma-diffuser-3.jpg?v=1749641964",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Home Decor",
       "humidifier"
     ],
-    "created_at": "2025-06-11T14:39:24+03:00",
-    "published_at": "2025-06-11T14:39:05+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 180000,
+          "sale_price": 135000,
+          "percentage_off": 25
+        }
+      ],
+      "min_regular_price": 180000,
+      "max_regular_price": 180000,
+      "min_sale_price": 135000,
+      "max_sale_price": 135000
+    },
     "rank": 9
   },
   {
     "handle": "steamloco™-aromatherapy-train-humidifier",
     "title": "SteamLoco™ – Aromatherapy Train Humidifier",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2c7b3373-3980-4e88-8e81-4f6ffc43ae8f.jpg?v=1749641907",
-      "alt": "SteamLoco™ – Aromatherapy Train Humidifier",
-      "width": 1600,
-      "height": 1600
-    },
-    "price": "$188000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Store",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2c7b3373-3980-4e88-8e81-4f6ffc43ae8f.jpg?v=1749641907",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Home Decor",
       "humidifier"
     ],
-    "created_at": "2025-06-11T14:38:27+03:00",
-    "published_at": "2025-06-11T14:38:16+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 250000,
+          "sale_price": 188000,
+          "percentage_off": 25
+        }
+      ],
+      "min_regular_price": 250000,
+      "max_regular_price": 250000,
+      "min_sale_price": 188000,
+      "max_sale_price": 188000
+    },
     "rank": 10
   },
   {
     "handle": "magic-speaker-bulb-light-sound-combined",
     "title": "🪄 Magic Speaker Bulb – Light & Sound Combined",
-    "featured_image": {
-      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e9c6b8dd-0570-404c-b179-4131946952a0.jpg?v=1754382211",
-      "alt": "🪄 Magic Speaker Bulb – Light & Sound Combined",
-      "width": 600,
-      "height": 600
-    },
-    "price": "$98000.00",
-    "on_sale": true,
-    "vendor": "Prexetric Shop",
-    "product_type": "",
-    "rating": 0,
-    "review_count": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e9c6b8dd-0570-404c-b179-4131946952a0.jpg?v=1754382211",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -275,8 +274,20 @@
       "Music",
       "Speaker"
     ],
-    "created_at": "2025-08-05T11:23:02+03:00",
-    "published_at": "2025-08-05T11:28:55+03:00",
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 130000,
+          "sale_price": 98000,
+          "percentage_off": 25
+        }
+      ],
+      "min_regular_price": 130000,
+      "max_regular_price": 130000,
+      "min_sale_price": 98000,
+      "max_sale_price": 98000
+    },
     "rank": 11
   }
 ]
