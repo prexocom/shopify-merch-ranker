@@ -2,12 +2,26 @@
   {
     "handle": "solar-lamp-for-garden-outdoor",
     "title": "🌞 Solar Garden Lamp – Outdoor Decorative Light",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/1_11ca8efc-b2ba-4f3f-bd4d-8cb0c942a9ce.webp?v=1753815713",
+      "alt": "🌞 Solar Garden Lamp – Outdoor Decorative Light",
+      "width": 493,
+      "height": 493
+    },
+    "price": "$95000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Garden",
       "Lighting"
     ],
+    "created_at": "2025-07-29T22:07:05+03:00",
+    "published_at": "2025-07-29T22:07:22+03:00",
     "rank": 1
   }
 ]

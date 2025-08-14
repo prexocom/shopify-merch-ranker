@@ -2,28 +2,68 @@
   {
     "handle": "prexobeam-mini-portable-smart-projector",
     "title": "PrexoBeam Mini – Portable Smart Projector",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ae4cd61e-4f99-48ae-9ca7-616246a48176.jpg?v=1749641726",
+      "alt": "PrexoBeam Mini – Portable Smart Projector",
+      "width": 1000,
+      "height": 1000
+    },
+    "price": "$325000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Store",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 1,
     "revenue": 295000,
     "tags": [
       "Entertainment",
       "Projector"
     ],
+    "created_at": "2025-06-11T14:35:25+03:00",
+    "published_at": "2025-06-11T14:35:08+03:00",
     "rank": 1
   },
   {
     "handle": "borrego-smart-4-android-smart-projector",
     "title": "Borrego Smart 4 – Android Smart Projector",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_43de8295-4c63-4f6f-8d80-a428b0882d7f.jpg?v=1754649748",
+      "alt": "Borrego Smart 4 – Android Smart Projector",
+      "width": 713,
+      "height": 713
+    },
+    "price": "$485000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Entertainment",
       "Projector"
     ],
+    "created_at": "2025-08-08T13:42:09+03:00",
+    "published_at": "2025-08-08T13:43:55+03:00",
     "rank": 2
   },
   {
     "handle": "green-lion-prisma-4k-portable-projector",
     "title": "Green Lion Prisma 4K Portable Projector",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1a014ce3-5bc7-4b06-96c6-c24878c7cea9.jpg?v=1754943073",
+      "alt": "Green Lion Prisma 4K Portable Projector",
+      "width": 1500,
+      "height": 1500
+    },
+    "price": "$650000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -31,6 +71,8 @@
       "Green Lion",
       "Projector"
     ],
+    "created_at": "2025-08-11T23:10:47+03:00",
+    "published_at": "2025-08-11T23:13:01+03:00",
     "rank": 3
   }
 ]

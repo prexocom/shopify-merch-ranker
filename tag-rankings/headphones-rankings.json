@@ -2,6 +2,18 @@
   {
     "handle": "amaya-tk04-earbuds",
     "title": "Amaya TK04 Earbuds",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_67ad79eb-079b-4c86-8962-b1eb035e6d4c.jpg?v=1754387060",
+      "alt": "Amaya TK04 Earbuds",
+      "width": 500,
+      "height": 500
+    },
+    "price": "$98000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -9,11 +21,25 @@
       "Music",
       "Phone Accessories"
     ],
+    "created_at": "2025-08-05T12:43:03+03:00",
+    "published_at": "2025-08-05T12:50:57+03:00",
     "rank": 1
   },
   {
     "handle": "green-lion-echo-max-headphones",
     "title": "Green Lion Echo Max Headphones",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0d89593e-1173-49fe-8eb4-699785dcd7f4.jpg?v=1754944773",
+      "alt": "Green Lion Echo Max Headphones",
+      "width": 1080,
+      "height": 1080
+    },
+    "price": "$175000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -23,11 +49,25 @@
       "Music",
       "Phone Accessories"
     ],
+    "created_at": "2025-08-08T11:41:12+03:00",
+    "published_at": "2025-08-08T11:42:47+03:00",
     "rank": 2
   },
   {
     "handle": "green-lion-echo-max-headphones-black",
     "title": "Green Lion Echo Max Headphones - Black",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_447f91eb-6fb7-4e3a-bf58-228c1dce5af4.jpg?v=1754945095",
+      "alt": "Green Lion Echo Max Headphones - Black",
+      "width": 800,
+      "height": 800
+    },
+    "price": "$175000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -37,11 +77,25 @@
       "Music",
       "Phone Accessories"
     ],
+    "created_at": "2025-08-11T23:42:01+03:00",
+    "published_at": "2025-08-12T17:58:06+03:00",
     "rank": 3
   },
   {
     "handle": "copy-green-lion-echo-max-headphones-orange",
     "title": "Green Lion Echo Max Headphones - Orange",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_87fc8554-b91c-4656-8a18-ab1de65b12bb.webp?v=1754945345",
+      "alt": "Green Lion Echo Max Headphones - Orange",
+      "width": 1024,
+      "height": 1024
+    },
+    "price": "$175000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -51,17 +105,33 @@
       "Music",
       "Phone Accessories"
     ],
+    "created_at": "2025-08-11T23:46:15+03:00",
+    "published_at": "2025-08-11T23:46:15+03:00",
     "rank": 4
   },
   {
     "handle": "wireless-bluetooth-headband-comfort-meets-sound",
     "title": "Wireless Bluetooth Headband – Comfort Meets Sound",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c448ca12-57c3-428a-b0db-20af9bfc081e.jpg?v=1754385444",
+      "alt": "Wireless Bluetooth Headband – Comfort Meets Sound",
+      "width": 600,
+      "height": 600
+    },
+    "price": "$115000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Headphones",
       "Music"
     ],
+    "created_at": "2025-08-05T12:22:51+03:00",
+    "published_at": "2025-08-05T12:26:37+03:00",
     "rank": 5
   }
 ]

@@ -2,6 +2,18 @@
   {
     "handle": "samsung-galaxy-smarttag2",
     "title": "Samsung Galaxy SmartTag2",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0a458098-4ac0-40b2-a12e-63696b8e963e.jpg?v=1754579664",
+      "alt": "Samsung Galaxy SmartTag2",
+      "width": 600,
+      "height": 600
+    },
+    "price": "$137000.00",
+    "on_sale": false,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -9,6 +21,8 @@
       "Samsung",
       "Travel"
     ],
+    "created_at": "2025-08-07T18:05:48+03:00",
+    "published_at": "2025-08-07T18:08:00+03:00",
     "rank": 1
   }
 ]

@@ -2,6 +2,18 @@
   {
     "handle": "xiaomi-outdoor-camera-cw300",
     "title": "Xiaomi Outdoor Camera CW300",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_583c5985-4fcb-422f-97f9-e77f0ef4dbfe.webp?v=1754597009",
+      "alt": "Xiaomi Outdoor Camera CW300",
+      "width": 525,
+      "height": 525
+    },
+    "price": "$320000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -10,11 +22,25 @@
       "Smart Home",
       "Xiaomi"
     ],
+    "created_at": "2025-08-07T23:03:07+03:00",
+    "published_at": "2025-08-07T23:04:12+03:00",
     "rank": 1
   },
   {
     "handle": "xiaomi-smart-camera-c300",
     "title": "Xiaomi Smart Camera C300",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5afa0b0f-21a2-400b-bfcc-3b1f0cc1d874.jpg?v=1754577759",
+      "alt": "Xiaomi Smart Camera C300",
+      "width": 1500,
+      "height": 1500
+    },
+    "price": "$225000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -23,11 +49,25 @@
       "Smart Home",
       "Xiaomi"
     ],
+    "created_at": "2025-08-07T17:41:36+03:00",
+    "published_at": "2025-08-07T17:44:25+03:00",
     "rank": 2
   },
   {
     "handle": "xiaomi-smart-camera-c300-dual-lens-2k-wi-fi-6",
     "title": "Xiaomi Smart Camera C300 Dual-Lens (2K, Wi-Fi 6)",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_8e76fce9-4228-486a-b610-dd6bbc6932f6.webp?v=1754596460",
+      "alt": "Xiaomi Smart Camera C300 Dual-Lens (2K, Wi-Fi 6)",
+      "width": 1000,
+      "height": 1000
+    },
+    "price": "$345000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -36,11 +76,25 @@
       "Smart Home",
       "Xiaomi"
     ],
+    "created_at": "2025-08-07T22:53:59+03:00",
+    "published_at": "2025-08-07T22:56:07+03:00",
     "rank": 3
   },
   {
     "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
     "title": "Xiaomi Sound Pocket – Compact Hi-Fi Speaker",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d1d020e4-9300-4979-9db4-08911c01612a.png?v=1754650740",
+      "alt": "Xiaomi Sound Pocket – Compact Hi-Fi Speaker",
+      "width": 525,
+      "height": 525
+    },
+    "price": "$155000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -49,6 +103,8 @@
       "Speaker",
       "Xiaomi"
     ],
+    "created_at": "2025-08-08T13:58:17+03:00",
+    "published_at": "2025-08-08T14:00:23+03:00",
     "rank": 4
   }
 ]

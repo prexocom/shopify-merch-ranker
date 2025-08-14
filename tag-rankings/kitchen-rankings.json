@@ -2,16 +2,42 @@
   {
     "handle": "portable-camping-stove",
     "title": "FlameTrek™ Portable Camping Stove",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_103aa47f-2000-445e-9179-13e92ea66d72.png?v=1749641895",
+      "alt": "FlameTrek™ Portable Camping Stove",
+      "width": 800,
+      "height": 800
+    },
+    "price": "$158000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Store",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Kitchen"
     ],
+    "created_at": "2025-06-11T14:38:14+03:00",
+    "published_at": "2025-06-11T14:38:04+03:00",
     "rank": 1
   },
   {
     "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
     "title": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7bd625dc-210f-4246-bee1-ed3244615580.webp?v=1754643849",
+      "alt": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
+      "width": 894,
+      "height": 894
+    },
+    "price": "$185000.00",
+    "on_sale": false,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -21,17 +47,33 @@
       "Office",
       "Phone Accessories"
     ],
+    "created_at": "2025-08-08T12:03:39+03:00",
+    "published_at": "2025-08-08T12:06:49+03:00",
     "rank": 2
   },
   {
     "handle": "120-can-mini-beverage-refrigerator",
     "title": "🧊 120-Can Mini Beverage Refrigerator",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_502b238c-7a86-401e-8c52-c079908a7ff3.jpg?v=1754433862",
+      "alt": "🧊 120-Can Mini Beverage Refrigerator",
+      "width": 600,
+      "height": 600
+    },
+    "price": "$1740000.00",
+    "on_sale": false,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Fridge",
       "Kitchen"
     ],
+    "created_at": "2025-08-06T01:43:36+03:00",
+    "published_at": "2025-08-06T01:45:28+03:00",
     "rank": 3
   }
 ]

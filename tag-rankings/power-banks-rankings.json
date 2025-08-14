@@ -2,23 +2,51 @@
   {
     "handle": "powerology-20-000-mah-65-w-onyx-power-bank",
     "title": "Powerology 20,000 mAh 65 W Onyx Power Bank",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_24c81f91-6660-40e8-92f4-d83260d9468a.jpg?v=1755113368",
+      "alt": "Powerology 20,000 mAh 65 W Onyx Power Bank",
+      "width": 512,
+      "height": 512
+    },
+    "price": "$190000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Power Banks",
       "Powerology"
     ],
+    "created_at": "2025-08-13T22:28:44+03:00",
+    "published_at": "2025-08-13T22:29:41+03:00",
     "rank": 1
   },
   {
     "handle": "powerology-onyx-30000mah-dual-usb-c-power-bank",
     "title": "Powerology Onyx 30000mAh Dual USB-C Power Bank",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_66e3412b-6596-425d-b9bc-85f73bdbad15.jpg?v=1755112675",
+      "alt": "Powerology Onyx 30000mAh Dual USB-C Power Bank",
+      "width": 2048,
+      "height": 2048
+    },
+    "price": "$270000.00",
+    "on_sale": false,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Power Banks",
       "Powerology"
     ],
+    "created_at": "2025-08-13T22:16:06+03:00",
+    "published_at": "2025-08-13T22:17:08+03:00",
     "rank": 2
   }
 ]

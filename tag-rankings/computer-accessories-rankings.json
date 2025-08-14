@@ -2,6 +2,18 @@
   {
     "handle": "green-lion-echo-max-headphones",
     "title": "Green Lion Echo Max Headphones",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0d89593e-1173-49fe-8eb4-699785dcd7f4.jpg?v=1754944773",
+      "alt": "Green Lion Echo Max Headphones",
+      "width": 1080,
+      "height": 1080
+    },
+    "price": "$175000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -11,11 +23,25 @@
       "Music",
       "Phone Accessories"
     ],
+    "created_at": "2025-08-08T11:41:12+03:00",
+    "published_at": "2025-08-08T11:42:47+03:00",
     "rank": 1
   },
   {
     "handle": "green-lion-echo-max-headphones-black",
     "title": "Green Lion Echo Max Headphones - Black",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_447f91eb-6fb7-4e3a-bf58-228c1dce5af4.jpg?v=1754945095",
+      "alt": "Green Lion Echo Max Headphones - Black",
+      "width": 800,
+      "height": 800
+    },
+    "price": "$175000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -25,11 +51,25 @@
       "Music",
       "Phone Accessories"
     ],
+    "created_at": "2025-08-11T23:42:01+03:00",
+    "published_at": "2025-08-12T17:58:06+03:00",
     "rank": 2
   },
   {
     "handle": "copy-green-lion-echo-max-headphones-orange",
     "title": "Green Lion Echo Max Headphones - Orange",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_87fc8554-b91c-4656-8a18-ab1de65b12bb.webp?v=1754945345",
+      "alt": "Green Lion Echo Max Headphones - Orange",
+      "width": 1024,
+      "height": 1024
+    },
+    "price": "$175000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -39,11 +79,25 @@
       "Music",
       "Phone Accessories"
     ],
+    "created_at": "2025-08-11T23:46:15+03:00",
+    "published_at": "2025-08-11T23:46:15+03:00",
     "rank": 3
   },
   {
     "handle": "green-lion-gan-65w-multi-port-travel-adapter",
     "title": "Green Lion GaN 65W Multi-Port Travel Adapter",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3813bdf2-ef52-46b9-8aa4-c293c0734f0c.jpg?v=1754754721",
+      "alt": "Green Lion GaN 65W Multi-Port Travel Adapter",
+      "width": 1024,
+      "height": 1024
+    },
+    "price": "$290000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -52,33 +106,75 @@
       "Office",
       "Phone Accessories"
     ],
+    "created_at": "2025-08-09T18:51:34+03:00",
+    "published_at": "2025-08-09T18:53:30+03:00",
     "rank": 4
   },
   {
     "handle": "green-lion-wireless-presenter-with-retractable-pointer",
     "title": "Green Lion Wireless Presenter with Retractable Pointer",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3b90ddbf-6c12-49b3-bf18-3d61398e824a.webp?v=1754756879",
+      "alt": "Green Lion Wireless Presenter with Retractable Pointer",
+      "width": 1000,
+      "height": 1000
+    },
+    "price": "$95000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Computer Accessories",
       "Office"
     ],
+    "created_at": "2025-08-09T19:27:36+03:00",
+    "published_at": "2025-08-09T19:29:03+03:00",
     "rank": 5
   },
   {
     "handle": "keyfold-pro-foldable-bluetooth-keyboard",
     "title": "Keyfold Pro - Foldable Bluetooth Keyboard",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_03e0123a-e5b8-4d65-a9b0-e76114fc9eb2.jpg?v=1749641752",
+      "alt": "Keyfold Pro - Foldable Bluetooth Keyboard",
+      "width": 1600,
+      "height": 1600
+    },
+    "price": "$155000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Store",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Computer Accessories",
       "Phone Accessories"
     ],
+    "created_at": "2025-06-11T14:35:52+03:00",
+    "published_at": "2025-06-11T14:35:41+03:00",
     "rank": 6
   },
   {
     "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
     "title": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7bd625dc-210f-4246-bee1-ed3244615580.webp?v=1754643849",
+      "alt": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
+      "width": 894,
+      "height": 894
+    },
+    "price": "$185000.00",
+    "on_sale": false,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -88,11 +184,25 @@
       "Office",
       "Phone Accessories"
     ],
+    "created_at": "2025-08-08T12:03:39+03:00",
+    "published_at": "2025-08-08T12:06:49+03:00",
     "rank": 7
   },
   {
     "handle": "powerology-dual-screen-portable-monitor",
     "title": "Powerology Dual Screen Portable Monitor",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_06675db1-3818-4688-9027-05b6412cb3a6.jpg?v=1754753103",
+      "alt": "Powerology Dual Screen Portable Monitor",
+      "width": 1024,
+      "height": 1024
+    },
+    "price": "$1250000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -100,11 +210,25 @@
       "Office",
       "Powerology"
     ],
+    "created_at": "2025-08-09T18:24:40+03:00",
+    "published_at": "2025-08-09T18:26:10+03:00",
     "rank": 8
   },
   {
     "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
     "title": "Powerology Ultra-Slim Full HD Portable Monitor 15.6\"",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d0e7a5a3-ea2b-4aa6-a746-213a3d4df581.webp?v=1754755760",
+      "alt": "Powerology Ultra-Slim Full HD Portable Monitor 15.6\"",
+      "width": 1000,
+      "height": 1000
+    },
+    "price": "$620000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -114,11 +238,25 @@
       "Portable Monitor",
       "Powerology"
     ],
+    "created_at": "2025-08-09T19:15:56+03:00",
+    "published_at": "2025-08-09T19:15:56+03:00",
     "rank": 9
   },
   {
     "handle": "prexoplay-wireless-bluetooth-game-controller",
     "title": "PrexoPlay – Wireless Bluetooth Game Controller",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_287bda09-5cdd-48bc-88af-7144f01050ef.png?v=1749641692",
+      "alt": "PrexoPlay – Wireless Bluetooth Game Controller",
+      "width": 1080,
+      "height": 1080
+    },
+    "price": "$75000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Store",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -126,16 +264,32 @@
       "Entertainment",
       "Phone Accessories"
     ],
+    "created_at": "2025-06-11T14:34:52+03:00",
+    "published_at": "2025-08-06T01:14:43+03:00",
     "rank": 10
   },
   {
     "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
     "title": "TriFoldView Pro - Portable Screen Extender",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bf492e8c-0a5f-41fe-b666-3ddf7ce8cb0b.jpg?v=1749641740",
+      "alt": "TriFoldView Pro - Portable Screen Extender",
+      "width": 1501,
+      "height": 1500
+    },
+    "price": "$1350000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Store",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Computer Accessories"
     ],
+    "created_at": "2025-06-11T14:35:39+03:00",
+    "published_at": "2025-06-11T14:35:28+03:00",
     "rank": 11
   }
 ]

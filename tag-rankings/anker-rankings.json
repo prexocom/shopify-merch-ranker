@@ -2,6 +2,18 @@
   {
     "handle": "anker-soundcore-glow",
     "title": "Anker Soundcore Glow",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fa5b3ecf-8cb6-4d49-a9c6-3206c2786961.jpg?v=1754660889",
+      "alt": "Anker Soundcore Glow",
+      "width": 1500,
+      "height": 1500
+    },
+    "price": "$395000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -10,11 +22,25 @@
       "Portable Speaker",
       "Speaker"
     ],
+    "created_at": "2025-08-08T16:47:40+03:00",
+    "published_at": "2025-08-08T16:49:31+03:00",
     "rank": 1
   },
   {
     "handle": "anker-soundcore-pyro-mini",
     "title": "Anker Soundcore Pyro Mini",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_488ba066-24ba-435d-8c1b-c87cb7f3d971.webp?v=1754660316",
+      "alt": "Anker Soundcore Pyro Mini",
+      "width": 525,
+      "height": 525
+    },
+    "price": "$180000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -23,6 +49,8 @@
       "Portable Speaker",
       "Speaker"
     ],
+    "created_at": "2025-08-08T16:42:26+03:00",
+    "published_at": "2025-08-08T16:42:26+03:00",
     "rank": 2
   }
 ]

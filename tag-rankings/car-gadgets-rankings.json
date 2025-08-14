@@ -2,44 +2,100 @@
   {
     "handle": "automatic-clamping-car-phone-holder",
     "title": "Automatic Clamping Car Phone Holder",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b9689fc7-e574-4954-b13d-5c86d933069a.jpg?v=1754601184",
+      "alt": "Automatic Clamping Car Phone Holder",
+      "width": 1024,
+      "height": 1024
+    },
+    "price": "$185000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Car Gadgets",
       "Phone Accessories"
     ],
+    "created_at": "2025-08-08T00:12:37+03:00",
+    "published_at": "2025-08-08T00:14:07+03:00",
     "rank": 1
   },
   {
     "handle": "green-lion-cx240-cordless-pressure-wash-gun",
     "title": "Green Lion CX240 Cordless Pressure Wash Gun",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bbcb0df0-44e4-4d5d-adb7-8dda8ca3b34d.webp?v=1754870712",
+      "alt": "Green Lion CX240 Cordless Pressure Wash Gun",
+      "width": 1000,
+      "height": 1000
+    },
+    "price": "$285000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Car Gadgets",
       "Green Lion"
     ],
+    "created_at": "2025-08-11T03:04:38+03:00",
+    "published_at": "2025-08-11T03:05:47+03:00",
     "rank": 2
   },
   {
     "handle": "mini-gps-vehicle-tracker-magnetic-anti-theft-locator",
     "title": "Mini GPS Vehicle Tracker – Magnetic Anti-Theft Locator",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f1e8dfd1-6992-4fe6-abbf-f4d022950fc1.jpg?v=1754432994",
+      "alt": "Mini GPS Vehicle Tracker – Magnetic Anti-Theft Locator",
+      "width": 768,
+      "height": 768
+    },
+    "price": "$125000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Car Gadgets"
     ],
+    "created_at": "2025-08-06T01:29:14+03:00",
+    "published_at": "2025-08-06T01:31:40+03:00",
     "rank": 3
   },
   {
     "handle": "powerology-ultra-portable-air-compressor-power-bank",
     "title": "Powerology Ultra Portable Air Compressor Power Bank",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3d161731-a3bb-4ae8-b701-41d21a773974.jpg?v=1754686259",
+      "alt": "Powerology Ultra Portable Air Compressor Power Bank",
+      "width": 1024,
+      "height": 1024
+    },
+    "price": "$220000.00",
+    "on_sale": true,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
       "Car Gadgets",
       "Powerology"
     ],
+    "created_at": "2025-08-08T23:50:34+03:00",
+    "published_at": "2025-08-08T23:52:39+03:00",
     "rank": 4
   }
 ]

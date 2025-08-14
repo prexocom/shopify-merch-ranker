@@ -2,6 +2,18 @@
   {
     "handle": "apple-air-tag",
     "title": "Apple Air Tag",
+    "featured_image": {
+      "src": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bb51b04a-a8e6-4c95-a2b9-271f93c5a509.jpg?v=1754578643",
+      "alt": "Apple Air Tag",
+      "width": 1500,
+      "height": 1500
+    },
+    "price": "$185000.00",
+    "on_sale": false,
+    "vendor": "Prexetric Shop",
+    "product_type": "",
+    "rating": 0,
+    "review_count": 0,
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -9,6 +21,8 @@
       "Phone Accessories",
       "Travel"
     ],
+    "created_at": "2025-08-07T17:56:02+03:00",
+    "published_at": "2025-08-07T17:57:48+03:00",
     "rank": 1
   }
 ]
