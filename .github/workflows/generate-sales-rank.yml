@@ -1,0 +1,31 @@
+name: 🏷️ Generate Tag Rankings JSON
+on:
+  schedule:
+    - cron: "0 */2 * * *"  # every 2 hours
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update-tag-rankings:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+      - name: Install dependencies
+        run: npm install axios
+      - name: Generate tag rankings JSON files
+        run: node scripts/sales-rank.js
+        env:
+          SHOPIFY_STORE_DOMAIN: ${{ secrets.SHOPIFY_STORE_DOMAIN }}
+          SHOPIFY_API_TOKEN: ${{ secrets.SHOPIFY_API_TOKEN }}
+      - name: Commit and push updated tag ranking files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add tag-rankings/
+          git commit -m "🏷️ Update tag rankings JSON files" || echo "No changes to commit"
+          git push
