@@ -1,0 +1,28 @@
+[
+  {
+    "handle": "anker-soundcore-glow",
+    "title": "Anker Soundcore Glow",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Anker",
+      "Music",
+      "Portable Speaker",
+      "Speaker"
+    ],
+    "rank": 1
+  },
+  {
+    "handle": "anker-soundcore-pyro-mini",
+    "title": "Anker Soundcore Pyro Mini",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Anker",
+      "Music",
+      "Portable Speaker",
+      "Speaker"
+    ],
+    "rank": 2
+  }
+]

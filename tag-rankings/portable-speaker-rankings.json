@@ -1,0 +1,93 @@
+[
+  {
+    "handle": "anker-soundcore-glow",
+    "title": "Anker Soundcore Glow",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Anker",
+      "Music",
+      "Portable Speaker",
+      "Speaker"
+    ],
+    "rank": 1
+  },
+  {
+    "handle": "anker-soundcore-pyro-mini",
+    "title": "Anker Soundcore Pyro Mini",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Anker",
+      "Music",
+      "Portable Speaker",
+      "Speaker"
+    ],
+    "rank": 2
+  },
+  {
+    "handle": "beats-pill-wireless-bluetooth®-speaker-matte-black",
+    "title": "Beats Pill – Wireless Bluetooth® Speaker (Matte Black)",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Beats",
+      "Music",
+      "Portable Speaker",
+      "Speaker"
+    ],
+    "rank": 3
+  },
+  {
+    "handle": "jbl-go-4-ultra-portable-bluetooth®-speaker",
+    "title": "JBL Go 4 — Ultra-Portable Bluetooth® Speaker",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "JBL",
+      "Music",
+      "Portable Speaker",
+      "Speaker"
+    ],
+    "rank": 4
+  },
+  {
+    "handle": "porodo-bluetooth-conference-speaker",
+    "title": "Porodo Bluetooth Conference Speaker",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Music",
+      "Porodo",
+      "Portable Speaker",
+      "Speaker"
+    ],
+    "rank": 5
+  },
+  {
+    "handle": "sony-srs-xb100-wireless-speaker",
+    "title": "Sony SRS-XB100 Wireless Speaker",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Music",
+      "Portable Speaker",
+      "Sony",
+      "Speaker"
+    ],
+    "rank": 6
+  },
+  {
+    "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
+    "title": "Xiaomi Sound Pocket – Compact Hi-Fi Speaker",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Music",
+      "Portable Speaker",
+      "Speaker",
+      "Xiaomi"
+    ],
+    "rank": 7
+  }
+]

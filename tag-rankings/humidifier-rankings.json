@@ -1,0 +1,57 @@
+[
+  {
+    "handle": "ufo-raindrop-humidifier",
+    "title": "Aquamist Raindrop Humidifier",
+    "units_sold": 1,
+    "revenue": 138000,
+    "tags": [
+      "Home Decor",
+      "humidifier"
+    ],
+    "rank": 1
+  },
+  {
+    "handle": "bonfire-humidifier-1",
+    "title": "Bonfire Flame Effect Humidifier",
+    "units_sold": 1,
+    "revenue": 135000,
+    "tags": [
+      "Home Decor",
+      "humidifier"
+    ],
+    "rank": 2
+  },
+  {
+    "handle": "glowmist™-fireplace-humidifier",
+    "title": "GlowMist™ Fireplace Humidifier",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Home Decor",
+      "humidifier"
+    ],
+    "rank": 3
+  },
+  {
+    "handle": "volcano-essential-oil-diffuser",
+    "title": "Prexo Volcano Humidifier",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Home Decor",
+      "humidifier"
+    ],
+    "rank": 4
+  },
+  {
+    "handle": "steamloco™-aromatherapy-train-humidifier",
+    "title": "SteamLoco™ – Aromatherapy Train Humidifier",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Home Decor",
+      "humidifier"
+    ],
+    "rank": 5
+  }
+]

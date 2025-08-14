@@ -1,0 +1,68 @@
+[
+  {
+    "handle": "auto-face-tracking-tripod-gimbal",
+    "title": "Auto Face Tracking Tripod Gimbal",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Camera",
+      "Gimbal",
+      "Phone Accessories"
+    ],
+    "rank": 1
+  },
+  {
+    "handle": "green-lion-auto-track-gimbal-stabilizer",
+    "title": "Green Lion Auto Track Gimbal Stabilizer",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Camera",
+      "Gimbal",
+      "Phone Accessories"
+    ],
+    "rank": 2
+  },
+  {
+    "handle": "green-lion-new-york-gimbal-smart-face-tracking",
+    "title": "Green Lion New York Gimbal Smart Face Tracking",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Camera",
+      "Gimbal",
+      "Green Lion",
+      "Phone Accessories",
+      "Travel"
+    ],
+    "rank": 3
+  },
+  {
+    "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
+    "title": "Porodo 3‑Axis Gimbal Stabilizer with Magnetic Fill Light",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Camera",
+      "Gimbal",
+      "Phone Accessories",
+      "Porodo",
+      "Travel"
+    ],
+    "rank": 4
+  },
+  {
+    "handle": "porodo-quadbase-gimbal-stabilizer",
+    "title": "Porodo QuadBase Gimbal Stabilizer",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Camera",
+      "Gimbal",
+      "Phone Accessories",
+      "Porodo",
+      "Travel"
+    ],
+    "rank": 5
+  }
+]

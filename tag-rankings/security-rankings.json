@@ -1,0 +1,87 @@
+[
+  {
+    "handle": "powerology-built-in-solar-outdoor-camera",
+    "title": "Powerology Built-in Solar Outdoor Camera",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Powerology",
+      "Security",
+      "Security Camera",
+      "Smart Home"
+    ],
+    "rank": 1
+  },
+  {
+    "handle": "powerology-built-in-solar-pan-tilt-outdoor-camera-2k",
+    "title": "Powerology Built-In Solar Pan & Tilt Outdoor Camera – 2K",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Powerology",
+      "Security",
+      "Security Camera",
+      "Smart Home"
+    ],
+    "rank": 2
+  },
+  {
+    "handle": "prexosecure-fingerprint-smart-door-lock",
+    "title": "PrexoSecure – Fingerprint Smart Door Lock",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Security"
+    ],
+    "rank": 3
+  },
+  {
+    "handle": "solarsecure-360-full-color-night-vision-security-camera",
+    "title": "SolarSecure 360 – Full-Color Night Vision Security Camera",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Security"
+    ],
+    "rank": 4
+  },
+  {
+    "handle": "xiaomi-outdoor-camera-cw300",
+    "title": "Xiaomi Outdoor Camera CW300",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Security",
+      "Security Camera",
+      "Smart Home",
+      "Xiaomi"
+    ],
+    "rank": 5
+  },
+  {
+    "handle": "xiaomi-smart-camera-c300",
+    "title": "Xiaomi Smart Camera C300",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Security",
+      "Security Camera",
+      "Smart Home",
+      "Xiaomi"
+    ],
+    "rank": 6
+  },
+  {
+    "handle": "xiaomi-smart-camera-c300-dual-lens-2k-wi-fi-6",
+    "title": "Xiaomi Smart Camera C300 Dual-Lens (2K, Wi-Fi 6)",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Security",
+      "Security Camera",
+      "Smart Home",
+      "Xiaomi"
+    ],
+    "rank": 7
+  }
+]

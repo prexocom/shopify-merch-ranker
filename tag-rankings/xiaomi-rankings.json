@@ -1,0 +1,54 @@
+[
+  {
+    "handle": "xiaomi-outdoor-camera-cw300",
+    "title": "Xiaomi Outdoor Camera CW300",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Security",
+      "Security Camera",
+      "Smart Home",
+      "Xiaomi"
+    ],
+    "rank": 1
+  },
+  {
+    "handle": "xiaomi-smart-camera-c300",
+    "title": "Xiaomi Smart Camera C300",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Security",
+      "Security Camera",
+      "Smart Home",
+      "Xiaomi"
+    ],
+    "rank": 2
+  },
+  {
+    "handle": "xiaomi-smart-camera-c300-dual-lens-2k-wi-fi-6",
+    "title": "Xiaomi Smart Camera C300 Dual-Lens (2K, Wi-Fi 6)",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Security",
+      "Security Camera",
+      "Smart Home",
+      "Xiaomi"
+    ],
+    "rank": 3
+  },
+  {
+    "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
+    "title": "Xiaomi Sound Pocket – Compact Hi-Fi Speaker",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Music",
+      "Portable Speaker",
+      "Speaker",
+      "Xiaomi"
+    ],
+    "rank": 4
+  }
+]

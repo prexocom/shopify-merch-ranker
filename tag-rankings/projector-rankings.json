@@ -1,0 +1,36 @@
+[
+  {
+    "handle": "prexobeam-mini-portable-smart-projector",
+    "title": "PrexoBeam Mini – Portable Smart Projector",
+    "units_sold": 1,
+    "revenue": 295000,
+    "tags": [
+      "Entertainment",
+      "Projector"
+    ],
+    "rank": 1
+  },
+  {
+    "handle": "borrego-smart-4-android-smart-projector",
+    "title": "Borrego Smart 4 – Android Smart Projector",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Entertainment",
+      "Projector"
+    ],
+    "rank": 2
+  },
+  {
+    "handle": "green-lion-prisma-4k-portable-projector",
+    "title": "Green Lion Prisma 4K Portable Projector",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Entertainment",
+      "Green Lion",
+      "Projector"
+    ],
+    "rank": 3
+  }
+]

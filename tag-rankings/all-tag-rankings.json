@@ -1,0 +1,2788 @@
+{
+  "Headphones": [
+    {
+      "handle": "amaya-tk04-earbuds",
+      "title": "Amaya TK04 Earbuds",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Headphones",
+        "Music",
+        "Phone Accessories"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "green-lion-echo-max-headphones",
+      "title": "Green Lion Echo Max Headphones",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Headphones",
+        "Music",
+        "Phone Accessories"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "green-lion-echo-max-headphones-black",
+      "title": "Green Lion Echo Max Headphones - Black",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Headphones",
+        "Music",
+        "Phone Accessories"
+      ],
+      "rank": 3
+    },
+    {
+      "handle": "copy-green-lion-echo-max-headphones-orange",
+      "title": "Green Lion Echo Max Headphones - Orange",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Headphones",
+        "Music",
+        "Phone Accessories"
+      ],
+      "rank": 4
+    },
+    {
+      "handle": "wireless-bluetooth-headband-comfort-meets-sound",
+      "title": "Wireless Bluetooth Headband – Comfort Meets Sound",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Headphones",
+        "Music"
+      ],
+      "rank": 5
+    }
+  ],
+  "Music": [
+    {
+      "handle": "amaya-tk04-earbuds",
+      "title": "Amaya TK04 Earbuds",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Headphones",
+        "Music",
+        "Phone Accessories"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "anker-soundcore-glow",
+      "title": "Anker Soundcore Glow",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Anker",
+        "Music",
+        "Portable Speaker",
+        "Speaker"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "anker-soundcore-pyro-mini",
+      "title": "Anker Soundcore Pyro Mini",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Anker",
+        "Music",
+        "Portable Speaker",
+        "Speaker"
+      ],
+      "rank": 3
+    },
+    {
+      "handle": "aquasound-bluetooth-speaker",
+      "title": "AquaSound™ – Waterproof Bluetooth Speaker with Suction Mount",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Speaker"
+      ],
+      "rank": 4
+    },
+    {
+      "handle": "beats-pill-wireless-bluetooth®-speaker-matte-black",
+      "title": "Beats Pill – Wireless Bluetooth® Speaker (Matte Black)",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Beats",
+        "Music",
+        "Portable Speaker",
+        "Speaker"
+      ],
+      "rank": 5
+    },
+    {
+      "handle": "galaxy-star-nebula-projector-with-bluetooth-speaker",
+      "title": "Galaxy Star & Nebula Projector with Bluetooth Speaker",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "Music"
+      ],
+      "rank": 6
+    },
+    {
+      "handle": "green-lion-echo-max-headphones",
+      "title": "Green Lion Echo Max Headphones",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Headphones",
+        "Music",
+        "Phone Accessories"
+      ],
+      "rank": 7
+    },
+    {
+      "handle": "green-lion-echo-max-headphones-black",
+      "title": "Green Lion Echo Max Headphones - Black",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Headphones",
+        "Music",
+        "Phone Accessories"
+      ],
+      "rank": 8
+    },
+    {
+      "handle": "copy-green-lion-echo-max-headphones-orange",
+      "title": "Green Lion Echo Max Headphones - Orange",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Headphones",
+        "Music",
+        "Phone Accessories"
+      ],
+      "rank": 9
+    },
+    {
+      "handle": "jbl-go-4-ultra-portable-bluetooth®-speaker",
+      "title": "JBL Go 4 — Ultra-Portable Bluetooth® Speaker",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "JBL",
+        "Music",
+        "Portable Speaker",
+        "Speaker"
+      ],
+      "rank": 10
+    },
+    {
+      "handle": "porodo-bluetooth-conference-speaker",
+      "title": "Porodo Bluetooth Conference Speaker",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Porodo",
+        "Portable Speaker",
+        "Speaker"
+      ],
+      "rank": 11
+    },
+    {
+      "handle": "sony-srs-xb100-wireless-speaker",
+      "title": "Sony SRS-XB100 Wireless Speaker",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Portable Speaker",
+        "Sony",
+        "Speaker"
+      ],
+      "rank": 12
+    },
+    {
+      "handle": "vintage-mini-wireless-speaker-classic-looks-modern-sound",
+      "title": "Vintage Mini Wireless Speaker – Classic Looks, Modern Sound",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Speaker"
+      ],
+      "rank": 13
+    },
+    {
+      "handle": "waterproof-mini-bluetooth-speaker-big-sound-tiny-body",
+      "title": "Waterproof Mini Bluetooth Speaker – Big Sound, Tiny Body",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Speaker"
+      ],
+      "rank": 14
+    },
+    {
+      "handle": "wireless-bluetooth-headband-comfort-meets-sound",
+      "title": "Wireless Bluetooth Headband – Comfort Meets Sound",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Headphones",
+        "Music"
+      ],
+      "rank": 15
+    },
+    {
+      "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
+      "title": "Xiaomi Sound Pocket – Compact Hi-Fi Speaker",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Portable Speaker",
+        "Speaker",
+        "Xiaomi"
+      ],
+      "rank": 16
+    },
+    {
+      "handle": "magic-speaker-bulb-light-sound-combined",
+      "title": "🪄 Magic Speaker Bulb – Light & Sound Combined",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Gadgets",
+        "Home Decor",
+        "Lighting",
+        "Music",
+        "Speaker"
+      ],
+      "rank": 17
+    }
+  ],
+  "Phone Accessories": [
+    {
+      "handle": "amaya-tk04-earbuds",
+      "title": "Amaya TK04 Earbuds",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Headphones",
+        "Music",
+        "Phone Accessories"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "apple-air-tag",
+      "title": "Apple Air Tag",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Apple",
+        "Phone Accessories",
+        "Travel"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "auto-face-tracking-tripod-gimbal",
+      "title": "Auto Face Tracking Tripod Gimbal",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Phone Accessories"
+      ],
+      "rank": 3
+    },
+    {
+      "handle": "automatic-clamping-car-phone-holder",
+      "title": "Automatic Clamping Car Phone Holder",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Car Gadgets",
+        "Phone Accessories"
+      ],
+      "rank": 4
+    },
+    {
+      "handle": "green-lion-auto-track-gimbal-stabilizer",
+      "title": "Green Lion Auto Track Gimbal Stabilizer",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Phone Accessories"
+      ],
+      "rank": 5
+    },
+    {
+      "handle": "green-lion-echo-max-headphones",
+      "title": "Green Lion Echo Max Headphones",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Headphones",
+        "Music",
+        "Phone Accessories"
+      ],
+      "rank": 6
+    },
+    {
+      "handle": "green-lion-echo-max-headphones-black",
+      "title": "Green Lion Echo Max Headphones - Black",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Headphones",
+        "Music",
+        "Phone Accessories"
+      ],
+      "rank": 7
+    },
+    {
+      "handle": "copy-green-lion-echo-max-headphones-orange",
+      "title": "Green Lion Echo Max Headphones - Orange",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Headphones",
+        "Music",
+        "Phone Accessories"
+      ],
+      "rank": 8
+    },
+    {
+      "handle": "green-lion-gan-65w-multi-port-travel-adapter",
+      "title": "Green Lion GaN 65W Multi-Port Travel Adapter",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Office",
+        "Phone Accessories"
+      ],
+      "rank": 9
+    },
+    {
+      "handle": "green-lion-new-york-gimbal-smart-face-tracking",
+      "title": "Green Lion New York Gimbal Smart Face Tracking",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Green Lion",
+        "Phone Accessories",
+        "Travel"
+      ],
+      "rank": 10
+    },
+    {
+      "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
+      "title": "Green Lion Power Trio™ – 3-in-1 Magnetic Wireless Charger",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Phone Accessories"
+      ],
+      "rank": 11
+    },
+    {
+      "handle": "keyfold-pro-foldable-bluetooth-keyboard",
+      "title": "Keyfold Pro - Foldable Bluetooth Keyboard",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Phone Accessories"
+      ],
+      "rank": 12
+    },
+    {
+      "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
+      "title": "Porodo 3‑Axis Gimbal Stabilizer with Magnetic Fill Light",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Phone Accessories",
+        "Porodo",
+        "Travel"
+      ],
+      "rank": 13
+    },
+    {
+      "handle": "porodo-quadbase-gimbal-stabilizer",
+      "title": "Porodo QuadBase Gimbal Stabilizer",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Phone Accessories",
+        "Porodo",
+        "Travel"
+      ],
+      "rank": 14
+    },
+    {
+      "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
+      "title": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Home Decor",
+        "Kitchen",
+        "Office",
+        "Phone Accessories"
+      ],
+      "rank": 15
+    },
+    {
+      "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
+      "title": "Powerology Ultra-Slim Full HD Portable Monitor 15.6\"",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Office",
+        "Phone Accessories",
+        "Portable Monitor",
+        "Powerology"
+      ],
+      "rank": 16
+    },
+    {
+      "handle": "prexoplay-wireless-bluetooth-game-controller",
+      "title": "PrexoPlay – Wireless Bluetooth Game Controller",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Entertainment",
+        "Phone Accessories"
+      ],
+      "rank": 17
+    },
+    {
+      "handle": "samsung-galaxy-smarttag2",
+      "title": "Samsung Galaxy SmartTag2",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Phone Accessories",
+        "Samsung",
+        "Travel"
+      ],
+      "rank": 18
+    },
+    {
+      "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
+      "title": "TELESIN Magnetic Funshot Camera Phone Grip Holder",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Phone Accessories"
+      ],
+      "rank": 19
+    }
+  ],
+  "Amazon": [
+    {
+      "handle": "amazon-echo-dot-smart-speaker-alexa-5th-gen",
+      "title": "Amazon Echo Dot Smart Speaker & Alexa 5th Gen",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Amazon",
+        "Smart Speakers"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "amazon-echo-pop-compact-smart-speaker",
+      "title": "Amazon Echo Pop Compact Smart Speaker",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Amazon",
+        "Smart Speakers"
+      ],
+      "rank": 2
+    }
+  ],
+  "Smart Speakers": [
+    {
+      "handle": "amazon-echo-dot-smart-speaker-alexa-5th-gen",
+      "title": "Amazon Echo Dot Smart Speaker & Alexa 5th Gen",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Amazon",
+        "Smart Speakers"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "amazon-echo-pop-compact-smart-speaker",
+      "title": "Amazon Echo Pop Compact Smart Speaker",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Amazon",
+        "Smart Speakers"
+      ],
+      "rank": 2
+    }
+  ],
+  "Anker": [
+    {
+      "handle": "anker-soundcore-glow",
+      "title": "Anker Soundcore Glow",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Anker",
+        "Music",
+        "Portable Speaker",
+        "Speaker"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "anker-soundcore-pyro-mini",
+      "title": "Anker Soundcore Pyro Mini",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Anker",
+        "Music",
+        "Portable Speaker",
+        "Speaker"
+      ],
+      "rank": 2
+    }
+  ],
+  "Portable Speaker": [
+    {
+      "handle": "anker-soundcore-glow",
+      "title": "Anker Soundcore Glow",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Anker",
+        "Music",
+        "Portable Speaker",
+        "Speaker"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "anker-soundcore-pyro-mini",
+      "title": "Anker Soundcore Pyro Mini",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Anker",
+        "Music",
+        "Portable Speaker",
+        "Speaker"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "beats-pill-wireless-bluetooth®-speaker-matte-black",
+      "title": "Beats Pill – Wireless Bluetooth® Speaker (Matte Black)",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Beats",
+        "Music",
+        "Portable Speaker",
+        "Speaker"
+      ],
+      "rank": 3
+    },
+    {
+      "handle": "jbl-go-4-ultra-portable-bluetooth®-speaker",
+      "title": "JBL Go 4 — Ultra-Portable Bluetooth® Speaker",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "JBL",
+        "Music",
+        "Portable Speaker",
+        "Speaker"
+      ],
+      "rank": 4
+    },
+    {
+      "handle": "porodo-bluetooth-conference-speaker",
+      "title": "Porodo Bluetooth Conference Speaker",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Porodo",
+        "Portable Speaker",
+        "Speaker"
+      ],
+      "rank": 5
+    },
+    {
+      "handle": "sony-srs-xb100-wireless-speaker",
+      "title": "Sony SRS-XB100 Wireless Speaker",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Portable Speaker",
+        "Sony",
+        "Speaker"
+      ],
+      "rank": 6
+    },
+    {
+      "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
+      "title": "Xiaomi Sound Pocket – Compact Hi-Fi Speaker",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Portable Speaker",
+        "Speaker",
+        "Xiaomi"
+      ],
+      "rank": 7
+    }
+  ],
+  "Speaker": [
+    {
+      "handle": "anker-soundcore-glow",
+      "title": "Anker Soundcore Glow",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Anker",
+        "Music",
+        "Portable Speaker",
+        "Speaker"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "anker-soundcore-pyro-mini",
+      "title": "Anker Soundcore Pyro Mini",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Anker",
+        "Music",
+        "Portable Speaker",
+        "Speaker"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "aquasound-bluetooth-speaker",
+      "title": "AquaSound™ – Waterproof Bluetooth Speaker with Suction Mount",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Speaker"
+      ],
+      "rank": 3
+    },
+    {
+      "handle": "beats-pill-wireless-bluetooth®-speaker-matte-black",
+      "title": "Beats Pill – Wireless Bluetooth® Speaker (Matte Black)",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Beats",
+        "Music",
+        "Portable Speaker",
+        "Speaker"
+      ],
+      "rank": 4
+    },
+    {
+      "handle": "jbl-go-4-ultra-portable-bluetooth®-speaker",
+      "title": "JBL Go 4 — Ultra-Portable Bluetooth® Speaker",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "JBL",
+        "Music",
+        "Portable Speaker",
+        "Speaker"
+      ],
+      "rank": 5
+    },
+    {
+      "handle": "porodo-bluetooth-conference-speaker",
+      "title": "Porodo Bluetooth Conference Speaker",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Porodo",
+        "Portable Speaker",
+        "Speaker"
+      ],
+      "rank": 6
+    },
+    {
+      "handle": "sony-srs-xb100-wireless-speaker",
+      "title": "Sony SRS-XB100 Wireless Speaker",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Portable Speaker",
+        "Sony",
+        "Speaker"
+      ],
+      "rank": 7
+    },
+    {
+      "handle": "vintage-mini-wireless-speaker-classic-looks-modern-sound",
+      "title": "Vintage Mini Wireless Speaker – Classic Looks, Modern Sound",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Speaker"
+      ],
+      "rank": 8
+    },
+    {
+      "handle": "waterproof-mini-bluetooth-speaker-big-sound-tiny-body",
+      "title": "Waterproof Mini Bluetooth Speaker – Big Sound, Tiny Body",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Speaker"
+      ],
+      "rank": 9
+    },
+    {
+      "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
+      "title": "Xiaomi Sound Pocket – Compact Hi-Fi Speaker",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Portable Speaker",
+        "Speaker",
+        "Xiaomi"
+      ],
+      "rank": 10
+    },
+    {
+      "handle": "magic-speaker-bulb-light-sound-combined",
+      "title": "🪄 Magic Speaker Bulb – Light & Sound Combined",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Gadgets",
+        "Home Decor",
+        "Lighting",
+        "Music",
+        "Speaker"
+      ],
+      "rank": 11
+    }
+  ],
+  "Apple": [
+    {
+      "handle": "apple-air-tag",
+      "title": "Apple Air Tag",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Apple",
+        "Phone Accessories",
+        "Travel"
+      ],
+      "rank": 1
+    }
+  ],
+  "Travel": [
+    {
+      "handle": "apple-air-tag",
+      "title": "Apple Air Tag",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Apple",
+        "Phone Accessories",
+        "Travel"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "green-lion-digital-luggage-scale-50-kg-max",
+      "title": "Green Lion Digital Luggage Scale (50 kg Max)",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Travel"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "green-lion-new-york-gimbal-smart-face-tracking",
+      "title": "Green Lion New York Gimbal Smart Face Tracking",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Green Lion",
+        "Phone Accessories",
+        "Travel"
+      ],
+      "rank": 3
+    },
+    {
+      "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
+      "title": "Porodo 3‑Axis Gimbal Stabilizer with Magnetic Fill Light",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Phone Accessories",
+        "Porodo",
+        "Travel"
+      ],
+      "rank": 4
+    },
+    {
+      "handle": "porodo-quadbase-gimbal-stabilizer",
+      "title": "Porodo QuadBase Gimbal Stabilizer",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Phone Accessories",
+        "Porodo",
+        "Travel"
+      ],
+      "rank": 5
+    },
+    {
+      "handle": "prexolingo™-smart-voice-translator-supports-30-languages",
+      "title": "PrexoLingo™ – Smart Voice Translator (Supports 30+ Languages)",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Gadgets",
+        "Translator",
+        "Travel"
+      ],
+      "rank": 6
+    },
+    {
+      "handle": "prexovision-translate™-ai-smart-glasses-with-real-time-translation",
+      "title": "PrexoVision Translate™ – AI Smart Glasses with Real‑Time Translation",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Gadgets",
+        "Translator",
+        "Travel"
+      ],
+      "rank": 7
+    },
+    {
+      "handle": "samsung-galaxy-smarttag2",
+      "title": "Samsung Galaxy SmartTag2",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Phone Accessories",
+        "Samsung",
+        "Travel"
+      ],
+      "rank": 8
+    },
+    {
+      "handle": "vaultcarry-anti-theft-travel-crossbody-bag",
+      "title": "VaultCarry – Anti-Theft Travel Crossbody Bag",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Travel"
+      ],
+      "rank": 9
+    }
+  ],
+  "Home Decor": [
+    {
+      "handle": "ufo-raindrop-humidifier",
+      "title": "Aquamist Raindrop Humidifier",
+      "units_sold": 1,
+      "revenue": 138000,
+      "tags": [
+        "Home Decor",
+        "humidifier"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "bonfire-humidifier-1",
+      "title": "Bonfire Flame Effect Humidifier",
+      "units_sold": 1,
+      "revenue": 135000,
+      "tags": [
+        "Home Decor",
+        "humidifier"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "astronaut-galaxy-projector-your-cosmic-escape",
+      "title": "Astronaut Galaxy Projector – Your Cosmic Escape",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "Lighting"
+      ],
+      "rank": 3
+    },
+    {
+      "handle": "galaxy-star-nebula-projector-with-bluetooth-speaker",
+      "title": "Galaxy Star & Nebula Projector with Bluetooth Speaker",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "Music"
+      ],
+      "rank": 4
+    },
+    {
+      "handle": "glowmist™-fireplace-humidifier",
+      "title": "GlowMist™ Fireplace Humidifier",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "humidifier"
+      ],
+      "rank": 5
+    },
+    {
+      "handle": "hexagon-modular-touch-lights-shape-your-glow",
+      "title": "Hexagon Modular Touch Lights – Shape Your Glow",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "Lighting"
+      ],
+      "rank": 6
+    },
+    {
+      "handle": "lumifan-360-light-fan",
+      "title": "LumiFan™ – 360° Light Fan",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor"
+      ],
+      "rank": 7
+    },
+    {
+      "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
+      "title": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Home Decor",
+        "Kitchen",
+        "Office",
+        "Phone Accessories"
+      ],
+      "rank": 8
+    },
+    {
+      "handle": "volcano-essential-oil-diffuser",
+      "title": "Prexo Volcano Humidifier",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "humidifier"
+      ],
+      "rank": 9
+    },
+    {
+      "handle": "steamloco™-aromatherapy-train-humidifier",
+      "title": "SteamLoco™ – Aromatherapy Train Humidifier",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "humidifier"
+      ],
+      "rank": 10
+    },
+    {
+      "handle": "magic-speaker-bulb-light-sound-combined",
+      "title": "🪄 Magic Speaker Bulb – Light & Sound Combined",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Gadgets",
+        "Home Decor",
+        "Lighting",
+        "Music",
+        "Speaker"
+      ],
+      "rank": 11
+    }
+  ],
+  "humidifier": [
+    {
+      "handle": "ufo-raindrop-humidifier",
+      "title": "Aquamist Raindrop Humidifier",
+      "units_sold": 1,
+      "revenue": 138000,
+      "tags": [
+        "Home Decor",
+        "humidifier"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "bonfire-humidifier-1",
+      "title": "Bonfire Flame Effect Humidifier",
+      "units_sold": 1,
+      "revenue": 135000,
+      "tags": [
+        "Home Decor",
+        "humidifier"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "glowmist™-fireplace-humidifier",
+      "title": "GlowMist™ Fireplace Humidifier",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "humidifier"
+      ],
+      "rank": 3
+    },
+    {
+      "handle": "volcano-essential-oil-diffuser",
+      "title": "Prexo Volcano Humidifier",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "humidifier"
+      ],
+      "rank": 4
+    },
+    {
+      "handle": "steamloco™-aromatherapy-train-humidifier",
+      "title": "SteamLoco™ – Aromatherapy Train Humidifier",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "humidifier"
+      ],
+      "rank": 5
+    }
+  ],
+  "Lighting": [
+    {
+      "handle": "astronaut-galaxy-projector-your-cosmic-escape",
+      "title": "Astronaut Galaxy Projector – Your Cosmic Escape",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "Lighting"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "hexagon-modular-touch-lights-shape-your-glow",
+      "title": "Hexagon Modular Touch Lights – Shape Your Glow",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "Lighting"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "magic-speaker-bulb-light-sound-combined",
+      "title": "🪄 Magic Speaker Bulb – Light & Sound Combined",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Gadgets",
+        "Home Decor",
+        "Lighting",
+        "Music",
+        "Speaker"
+      ],
+      "rank": 3
+    },
+    {
+      "handle": "solar-lamp-for-garden-outdoor",
+      "title": "🌞 Solar Garden Lamp – Outdoor Decorative Light",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Garden",
+        "Lighting"
+      ],
+      "rank": 4
+    }
+  ],
+  "Camera": [
+    {
+      "handle": "auto-face-tracking-tripod-gimbal",
+      "title": "Auto Face Tracking Tripod Gimbal",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Phone Accessories"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "green-lion-auto-track-gimbal-stabilizer",
+      "title": "Green Lion Auto Track Gimbal Stabilizer",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Phone Accessories"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "green-lion-new-york-gimbal-smart-face-tracking",
+      "title": "Green Lion New York Gimbal Smart Face Tracking",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Green Lion",
+        "Phone Accessories",
+        "Travel"
+      ],
+      "rank": 3
+    },
+    {
+      "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
+      "title": "Porodo 3‑Axis Gimbal Stabilizer with Magnetic Fill Light",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Phone Accessories",
+        "Porodo",
+        "Travel"
+      ],
+      "rank": 4
+    },
+    {
+      "handle": "porodo-quadbase-gimbal-stabilizer",
+      "title": "Porodo QuadBase Gimbal Stabilizer",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Phone Accessories",
+        "Porodo",
+        "Travel"
+      ],
+      "rank": 5
+    },
+    {
+      "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
+      "title": "TELESIN Magnetic Funshot Camera Phone Grip Holder",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Phone Accessories"
+      ],
+      "rank": 6
+    }
+  ],
+  "Gimbal": [
+    {
+      "handle": "auto-face-tracking-tripod-gimbal",
+      "title": "Auto Face Tracking Tripod Gimbal",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Phone Accessories"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "green-lion-auto-track-gimbal-stabilizer",
+      "title": "Green Lion Auto Track Gimbal Stabilizer",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Phone Accessories"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "green-lion-new-york-gimbal-smart-face-tracking",
+      "title": "Green Lion New York Gimbal Smart Face Tracking",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Green Lion",
+        "Phone Accessories",
+        "Travel"
+      ],
+      "rank": 3
+    },
+    {
+      "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
+      "title": "Porodo 3‑Axis Gimbal Stabilizer with Magnetic Fill Light",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Phone Accessories",
+        "Porodo",
+        "Travel"
+      ],
+      "rank": 4
+    },
+    {
+      "handle": "porodo-quadbase-gimbal-stabilizer",
+      "title": "Porodo QuadBase Gimbal Stabilizer",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Phone Accessories",
+        "Porodo",
+        "Travel"
+      ],
+      "rank": 5
+    }
+  ],
+  "Car Gadgets": [
+    {
+      "handle": "automatic-clamping-car-phone-holder",
+      "title": "Automatic Clamping Car Phone Holder",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Car Gadgets",
+        "Phone Accessories"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "green-lion-cx240-cordless-pressure-wash-gun",
+      "title": "Green Lion CX240 Cordless Pressure Wash Gun",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Car Gadgets",
+        "Green Lion"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "mini-gps-vehicle-tracker-magnetic-anti-theft-locator",
+      "title": "Mini GPS Vehicle Tracker – Magnetic Anti-Theft Locator",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Car Gadgets"
+      ],
+      "rank": 3
+    },
+    {
+      "handle": "powerology-ultra-portable-air-compressor-power-bank",
+      "title": "Powerology Ultra Portable Air Compressor Power Bank",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Car Gadgets",
+        "Powerology"
+      ],
+      "rank": 4
+    }
+  ],
+  "Health & Fitness": [
+    {
+      "handle": "beatbox-pro™-smart-music-boxing-trainer",
+      "title": "BeatBox Pro™ – Smart Music Boxing Trainer",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Health & Fitness"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "prexo-dunkmaster-outdoor-adjustable-basketball-hoop-system",
+      "title": "DunkMaster – Adjustable Basketball Hoop System",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Health & Fitness"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "eufy-by-anker-smart-scale-p3",
+      "title": "Eufy by Anker Smart Scale P3",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Eufy",
+        "Health & Fitness"
+      ],
+      "rank": 3
+    },
+    {
+      "handle": "flexstride™-portable-walking-running-treadmill",
+      "title": "FlexStride™ – Portable Walking & Running Treadmill",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Health & Fitness"
+      ],
+      "rank": 4
+    },
+    {
+      "handle": "green-lion-smart-body-scale-8-electrode-advanced-analysis",
+      "title": "Green Lion Smart Body Scale (8-Electrode Advanced Analysis)",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Health & Fitness"
+      ],
+      "rank": 5
+    },
+    {
+      "handle": "mini-exercise-stepper-with-resistance-bands",
+      "title": "Mini Exercise Stepper with Resistance Bands",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Health & Fitness"
+      ],
+      "rank": 6
+    },
+    {
+      "handle": "rotator-arm-shoulder-strength-trainer",
+      "title": "Rotator Arm & Shoulder Strength Trainer",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Health & Fitness"
+      ],
+      "rank": 7
+    },
+    {
+      "handle": "solerenew-electric-callus-remover",
+      "title": "SoleRenew™ – Electric Callus Remover & Foot Care Wand",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Health & Fitness"
+      ],
+      "rank": 8
+    },
+    {
+      "handle": "zero-gravity-full-body-massage-chair",
+      "title": "Zero Gravity Full Body Massage Chair",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Health & Fitness"
+      ],
+      "rank": 9
+    }
+  ],
+  "Beats": [
+    {
+      "handle": "beats-pill-wireless-bluetooth®-speaker-matte-black",
+      "title": "Beats Pill – Wireless Bluetooth® Speaker (Matte Black)",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Beats",
+        "Music",
+        "Portable Speaker",
+        "Speaker"
+      ],
+      "rank": 1
+    }
+  ],
+  "Entertainment": [
+    {
+      "handle": "prexobeam-mini-portable-smart-projector",
+      "title": "PrexoBeam Mini – Portable Smart Projector",
+      "units_sold": 1,
+      "revenue": 295000,
+      "tags": [
+        "Entertainment",
+        "Projector"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "borrego-smart-4-android-smart-projector",
+      "title": "Borrego Smart 4 – Android Smart Projector",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Entertainment",
+        "Projector"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "green-lion-prisma-4k-portable-projector",
+      "title": "Green Lion Prisma 4K Portable Projector",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Entertainment",
+        "Green Lion",
+        "Projector"
+      ],
+      "rank": 3
+    },
+    {
+      "handle": "logitech-g29-driving-force-racing-wheel-pedals",
+      "title": "Logitech G29 – Driving Force Racing Wheel & Pedals",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Entertainment",
+        "Gaming"
+      ],
+      "rank": 4
+    },
+    {
+      "handle": "powerology-32-android-smart-screen",
+      "title": "Powerology 32\" Android Smart Screen",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Entertainment",
+        "Powerology",
+        "Smart Screen",
+        "TV"
+      ],
+      "rank": 5
+    },
+    {
+      "handle": "prexoplay-wireless-bluetooth-game-controller",
+      "title": "PrexoPlay – Wireless Bluetooth Game Controller",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Entertainment",
+        "Phone Accessories"
+      ],
+      "rank": 6
+    }
+  ],
+  "Projector": [
+    {
+      "handle": "prexobeam-mini-portable-smart-projector",
+      "title": "PrexoBeam Mini – Portable Smart Projector",
+      "units_sold": 1,
+      "revenue": 295000,
+      "tags": [
+        "Entertainment",
+        "Projector"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "borrego-smart-4-android-smart-projector",
+      "title": "Borrego Smart 4 – Android Smart Projector",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Entertainment",
+        "Projector"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "green-lion-prisma-4k-portable-projector",
+      "title": "Green Lion Prisma 4K Portable Projector",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Entertainment",
+        "Green Lion",
+        "Projector"
+      ],
+      "rank": 3
+    }
+  ],
+  "Eufy": [
+    {
+      "handle": "eufy-by-anker-smart-scale-p3",
+      "title": "Eufy by Anker Smart Scale P3",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Eufy",
+        "Health & Fitness"
+      ],
+      "rank": 1
+    }
+  ],
+  "Kitchen": [
+    {
+      "handle": "portable-camping-stove",
+      "title": "FlameTrek™ Portable Camping Stove",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Kitchen"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
+      "title": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Home Decor",
+        "Kitchen",
+        "Office",
+        "Phone Accessories"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "120-can-mini-beverage-refrigerator",
+      "title": "🧊 120-Can Mini Beverage Refrigerator",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Fridge",
+        "Kitchen"
+      ],
+      "rank": 3
+    }
+  ],
+  "Green Lion": [
+    {
+      "handle": "green-lion-cx240-cordless-pressure-wash-gun",
+      "title": "Green Lion CX240 Cordless Pressure Wash Gun",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Car Gadgets",
+        "Green Lion"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "green-lion-digital-luggage-scale-50-kg-max",
+      "title": "Green Lion Digital Luggage Scale (50 kg Max)",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Travel"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "green-lion-echo-max-headphones",
+      "title": "Green Lion Echo Max Headphones",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Headphones",
+        "Music",
+        "Phone Accessories"
+      ],
+      "rank": 3
+    },
+    {
+      "handle": "green-lion-echo-max-headphones-black",
+      "title": "Green Lion Echo Max Headphones - Black",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Headphones",
+        "Music",
+        "Phone Accessories"
+      ],
+      "rank": 4
+    },
+    {
+      "handle": "copy-green-lion-echo-max-headphones-orange",
+      "title": "Green Lion Echo Max Headphones - Orange",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Headphones",
+        "Music",
+        "Phone Accessories"
+      ],
+      "rank": 5
+    },
+    {
+      "handle": "green-lion-gan-65w-multi-port-travel-adapter",
+      "title": "Green Lion GaN 65W Multi-Port Travel Adapter",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Office",
+        "Phone Accessories"
+      ],
+      "rank": 6
+    },
+    {
+      "handle": "green-lion-new-york-gimbal-smart-face-tracking",
+      "title": "Green Lion New York Gimbal Smart Face Tracking",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Green Lion",
+        "Phone Accessories",
+        "Travel"
+      ],
+      "rank": 7
+    },
+    {
+      "handle": "green-lion-portable-oral-irrigator-300-ml",
+      "title": "Green Lion Portable Oral Irrigator (300 mL)",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Oral Care"
+      ],
+      "rank": 8
+    },
+    {
+      "handle": "green-lion-prisma-4k-portable-projector",
+      "title": "Green Lion Prisma 4K Portable Projector",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Entertainment",
+        "Green Lion",
+        "Projector"
+      ],
+      "rank": 9
+    },
+    {
+      "handle": "green-lion-smart-body-scale-8-electrode-advanced-analysis",
+      "title": "Green Lion Smart Body Scale (8-Electrode Advanced Analysis)",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Health & Fitness"
+      ],
+      "rank": 10
+    },
+    {
+      "handle": "green-lion-smart-brush-60-ultrawide",
+      "title": "Green Lion Smart Brush 60° Ultrawide",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Electric Toothbrush",
+        "Green Lion",
+        "Oral Care"
+      ],
+      "rank": 11
+    },
+    {
+      "handle": "green-lion-smart-toothbrush-sanitizer",
+      "title": "Green Lion Smart Toothbrush Sanitizer",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Electric Toothbrush",
+        "Green Lion",
+        "Oral Care"
+      ],
+      "rank": 12
+    }
+  ],
+  "Computer Accessories": [
+    {
+      "handle": "green-lion-echo-max-headphones",
+      "title": "Green Lion Echo Max Headphones",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Headphones",
+        "Music",
+        "Phone Accessories"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "green-lion-echo-max-headphones-black",
+      "title": "Green Lion Echo Max Headphones - Black",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Headphones",
+        "Music",
+        "Phone Accessories"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "copy-green-lion-echo-max-headphones-orange",
+      "title": "Green Lion Echo Max Headphones - Orange",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Headphones",
+        "Music",
+        "Phone Accessories"
+      ],
+      "rank": 3
+    },
+    {
+      "handle": "green-lion-gan-65w-multi-port-travel-adapter",
+      "title": "Green Lion GaN 65W Multi-Port Travel Adapter",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Office",
+        "Phone Accessories"
+      ],
+      "rank": 4
+    },
+    {
+      "handle": "green-lion-wireless-presenter-with-retractable-pointer",
+      "title": "Green Lion Wireless Presenter with Retractable Pointer",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Office"
+      ],
+      "rank": 5
+    },
+    {
+      "handle": "keyfold-pro-foldable-bluetooth-keyboard",
+      "title": "Keyfold Pro - Foldable Bluetooth Keyboard",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Phone Accessories"
+      ],
+      "rank": 6
+    },
+    {
+      "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
+      "title": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Home Decor",
+        "Kitchen",
+        "Office",
+        "Phone Accessories"
+      ],
+      "rank": 7
+    },
+    {
+      "handle": "powerology-dual-screen-portable-monitor",
+      "title": "Powerology Dual Screen Portable Monitor",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Office",
+        "Powerology"
+      ],
+      "rank": 8
+    },
+    {
+      "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
+      "title": "Powerology Ultra-Slim Full HD Portable Monitor 15.6\"",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Office",
+        "Phone Accessories",
+        "Portable Monitor",
+        "Powerology"
+      ],
+      "rank": 9
+    },
+    {
+      "handle": "prexoplay-wireless-bluetooth-game-controller",
+      "title": "PrexoPlay – Wireless Bluetooth Game Controller",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Entertainment",
+        "Phone Accessories"
+      ],
+      "rank": 10
+    },
+    {
+      "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
+      "title": "TriFoldView Pro - Portable Screen Extender",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories"
+      ],
+      "rank": 11
+    }
+  ],
+  "Office": [
+    {
+      "handle": "green-lion-gan-65w-multi-port-travel-adapter",
+      "title": "Green Lion GaN 65W Multi-Port Travel Adapter",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Office",
+        "Phone Accessories"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "green-lion-wireless-presenter-with-retractable-pointer",
+      "title": "Green Lion Wireless Presenter with Retractable Pointer",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Office"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
+      "title": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Home Decor",
+        "Kitchen",
+        "Office",
+        "Phone Accessories"
+      ],
+      "rank": 3
+    },
+    {
+      "handle": "powerology-dual-screen-portable-monitor",
+      "title": "Powerology Dual Screen Portable Monitor",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Office",
+        "Powerology"
+      ],
+      "rank": 4
+    },
+    {
+      "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
+      "title": "Powerology Ultra-Slim Full HD Portable Monitor 15.6\"",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Office",
+        "Phone Accessories",
+        "Portable Monitor",
+        "Powerology"
+      ],
+      "rank": 5
+    }
+  ],
+  "Oral Care": [
+    {
+      "handle": "green-lion-portable-oral-irrigator-300-ml",
+      "title": "Green Lion Portable Oral Irrigator (300 mL)",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Oral Care"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "green-lion-smart-brush-60-ultrawide",
+      "title": "Green Lion Smart Brush 60° Ultrawide",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Electric Toothbrush",
+        "Green Lion",
+        "Oral Care"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "green-lion-smart-toothbrush-sanitizer",
+      "title": "Green Lion Smart Toothbrush Sanitizer",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Electric Toothbrush",
+        "Green Lion",
+        "Oral Care"
+      ],
+      "rank": 3
+    }
+  ],
+  "Electric Toothbrush": [
+    {
+      "handle": "green-lion-smart-brush-60-ultrawide",
+      "title": "Green Lion Smart Brush 60° Ultrawide",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Electric Toothbrush",
+        "Green Lion",
+        "Oral Care"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "green-lion-smart-toothbrush-sanitizer",
+      "title": "Green Lion Smart Toothbrush Sanitizer",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Electric Toothbrush",
+        "Green Lion",
+        "Oral Care"
+      ],
+      "rank": 2
+    }
+  ],
+  "JBL": [
+    {
+      "handle": "jbl-go-4-ultra-portable-bluetooth®-speaker",
+      "title": "JBL Go 4 — Ultra-Portable Bluetooth® Speaker",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "JBL",
+        "Music",
+        "Portable Speaker",
+        "Speaker"
+      ],
+      "rank": 1
+    }
+  ],
+  "Gaming": [
+    {
+      "handle": "logitech-g29-driving-force-racing-wheel-pedals",
+      "title": "Logitech G29 – Driving Force Racing Wheel & Pedals",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Entertainment",
+        "Gaming"
+      ],
+      "rank": 1
+    }
+  ],
+  "Porodo": [
+    {
+      "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
+      "title": "Porodo 3‑Axis Gimbal Stabilizer with Magnetic Fill Light",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Phone Accessories",
+        "Porodo",
+        "Travel"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "porodo-bluetooth-conference-speaker",
+      "title": "Porodo Bluetooth Conference Speaker",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Porodo",
+        "Portable Speaker",
+        "Speaker"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "porodo-quadbase-gimbal-stabilizer",
+      "title": "Porodo QuadBase Gimbal Stabilizer",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Phone Accessories",
+        "Porodo",
+        "Travel"
+      ],
+      "rank": 3
+    }
+  ],
+  "Power Banks": [
+    {
+      "handle": "powerology-20-000-mah-65-w-onyx-power-bank",
+      "title": "Powerology 20,000 mAh 65 W Onyx Power Bank",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Power Banks",
+        "Powerology"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "powerology-onyx-30000mah-dual-usb-c-power-bank",
+      "title": "Powerology Onyx 30000mAh Dual USB-C Power Bank",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Power Banks",
+        "Powerology"
+      ],
+      "rank": 2
+    }
+  ],
+  "Powerology": [
+    {
+      "handle": "powerology-20-000-mah-65-w-onyx-power-bank",
+      "title": "Powerology 20,000 mAh 65 W Onyx Power Bank",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Power Banks",
+        "Powerology"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "powerology-32-android-smart-screen",
+      "title": "Powerology 32\" Android Smart Screen",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Entertainment",
+        "Powerology",
+        "Smart Screen",
+        "TV"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "powerology-built-in-solar-outdoor-camera",
+      "title": "Powerology Built-in Solar Outdoor Camera",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Powerology",
+        "Security",
+        "Security Camera",
+        "Smart Home"
+      ],
+      "rank": 3
+    },
+    {
+      "handle": "powerology-built-in-solar-pan-tilt-outdoor-camera-2k",
+      "title": "Powerology Built-In Solar Pan & Tilt Outdoor Camera – 2K",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Powerology",
+        "Security",
+        "Security Camera",
+        "Smart Home"
+      ],
+      "rank": 4
+    },
+    {
+      "handle": "powerology-dual-screen-portable-monitor",
+      "title": "Powerology Dual Screen Portable Monitor",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Office",
+        "Powerology"
+      ],
+      "rank": 5
+    },
+    {
+      "handle": "powerology-dynamic800-portable-power-station-800w-black",
+      "title": "Powerology Dynamic800 Portable Power Station (800W, Black)",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Power Station",
+        "Powerology"
+      ],
+      "rank": 6
+    },
+    {
+      "handle": "powerology-onyx-30000mah-dual-usb-c-power-bank",
+      "title": "Powerology Onyx 30000mAh Dual USB-C Power Bank",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Power Banks",
+        "Powerology"
+      ],
+      "rank": 7
+    },
+    {
+      "handle": "powerology-ultra-portable-air-compressor-power-bank",
+      "title": "Powerology Ultra Portable Air Compressor Power Bank",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Car Gadgets",
+        "Powerology"
+      ],
+      "rank": 8
+    },
+    {
+      "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
+      "title": "Powerology Ultra-Slim Full HD Portable Monitor 15.6\"",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Office",
+        "Phone Accessories",
+        "Portable Monitor",
+        "Powerology"
+      ],
+      "rank": 9
+    }
+  ],
+  "Smart Screen": [
+    {
+      "handle": "powerology-32-android-smart-screen",
+      "title": "Powerology 32\" Android Smart Screen",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Entertainment",
+        "Powerology",
+        "Smart Screen",
+        "TV"
+      ],
+      "rank": 1
+    }
+  ],
+  "TV": [
+    {
+      "handle": "powerology-32-android-smart-screen",
+      "title": "Powerology 32\" Android Smart Screen",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Entertainment",
+        "Powerology",
+        "Smart Screen",
+        "TV"
+      ],
+      "rank": 1
+    }
+  ],
+  "Security": [
+    {
+      "handle": "powerology-built-in-solar-outdoor-camera",
+      "title": "Powerology Built-in Solar Outdoor Camera",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Powerology",
+        "Security",
+        "Security Camera",
+        "Smart Home"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "powerology-built-in-solar-pan-tilt-outdoor-camera-2k",
+      "title": "Powerology Built-In Solar Pan & Tilt Outdoor Camera – 2K",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Powerology",
+        "Security",
+        "Security Camera",
+        "Smart Home"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "prexosecure-fingerprint-smart-door-lock",
+      "title": "PrexoSecure – Fingerprint Smart Door Lock",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Security"
+      ],
+      "rank": 3
+    },
+    {
+      "handle": "solarsecure-360-full-color-night-vision-security-camera",
+      "title": "SolarSecure 360 – Full-Color Night Vision Security Camera",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Security"
+      ],
+      "rank": 4
+    },
+    {
+      "handle": "xiaomi-outdoor-camera-cw300",
+      "title": "Xiaomi Outdoor Camera CW300",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Security",
+        "Security Camera",
+        "Smart Home",
+        "Xiaomi"
+      ],
+      "rank": 5
+    },
+    {
+      "handle": "xiaomi-smart-camera-c300",
+      "title": "Xiaomi Smart Camera C300",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Security",
+        "Security Camera",
+        "Smart Home",
+        "Xiaomi"
+      ],
+      "rank": 6
+    },
+    {
+      "handle": "xiaomi-smart-camera-c300-dual-lens-2k-wi-fi-6",
+      "title": "Xiaomi Smart Camera C300 Dual-Lens (2K, Wi-Fi 6)",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Security",
+        "Security Camera",
+        "Smart Home",
+        "Xiaomi"
+      ],
+      "rank": 7
+    }
+  ],
+  "Security Camera": [
+    {
+      "handle": "powerology-built-in-solar-outdoor-camera",
+      "title": "Powerology Built-in Solar Outdoor Camera",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Powerology",
+        "Security",
+        "Security Camera",
+        "Smart Home"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "powerology-built-in-solar-pan-tilt-outdoor-camera-2k",
+      "title": "Powerology Built-In Solar Pan & Tilt Outdoor Camera – 2K",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Powerology",
+        "Security",
+        "Security Camera",
+        "Smart Home"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "xiaomi-outdoor-camera-cw300",
+      "title": "Xiaomi Outdoor Camera CW300",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Security",
+        "Security Camera",
+        "Smart Home",
+        "Xiaomi"
+      ],
+      "rank": 3
+    },
+    {
+      "handle": "xiaomi-smart-camera-c300",
+      "title": "Xiaomi Smart Camera C300",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Security",
+        "Security Camera",
+        "Smart Home",
+        "Xiaomi"
+      ],
+      "rank": 4
+    },
+    {
+      "handle": "xiaomi-smart-camera-c300-dual-lens-2k-wi-fi-6",
+      "title": "Xiaomi Smart Camera C300 Dual-Lens (2K, Wi-Fi 6)",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Security",
+        "Security Camera",
+        "Smart Home",
+        "Xiaomi"
+      ],
+      "rank": 5
+    }
+  ],
+  "Smart Home": [
+    {
+      "handle": "powerology-built-in-solar-outdoor-camera",
+      "title": "Powerology Built-in Solar Outdoor Camera",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Powerology",
+        "Security",
+        "Security Camera",
+        "Smart Home"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "powerology-built-in-solar-pan-tilt-outdoor-camera-2k",
+      "title": "Powerology Built-In Solar Pan & Tilt Outdoor Camera – 2K",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Powerology",
+        "Security",
+        "Security Camera",
+        "Smart Home"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "xiaomi-outdoor-camera-cw300",
+      "title": "Xiaomi Outdoor Camera CW300",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Security",
+        "Security Camera",
+        "Smart Home",
+        "Xiaomi"
+      ],
+      "rank": 3
+    },
+    {
+      "handle": "xiaomi-smart-camera-c300",
+      "title": "Xiaomi Smart Camera C300",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Security",
+        "Security Camera",
+        "Smart Home",
+        "Xiaomi"
+      ],
+      "rank": 4
+    },
+    {
+      "handle": "xiaomi-smart-camera-c300-dual-lens-2k-wi-fi-6",
+      "title": "Xiaomi Smart Camera C300 Dual-Lens (2K, Wi-Fi 6)",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Security",
+        "Security Camera",
+        "Smart Home",
+        "Xiaomi"
+      ],
+      "rank": 5
+    }
+  ],
+  "Power Station": [
+    {
+      "handle": "powerology-dynamic800-portable-power-station-800w-black",
+      "title": "Powerology Dynamic800 Portable Power Station (800W, Black)",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Power Station",
+        "Powerology"
+      ],
+      "rank": 1
+    }
+  ],
+  "Portable Monitor": [
+    {
+      "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
+      "title": "Powerology Ultra-Slim Full HD Portable Monitor 15.6\"",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Office",
+        "Phone Accessories",
+        "Portable Monitor",
+        "Powerology"
+      ],
+      "rank": 1
+    }
+  ],
+  "Industrial": [
+    {
+      "handle": "toauto-melting-furnace",
+      "title": "PrexoForge – 3KG Digital Gold & Metal Melting Furnace",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Industrial"
+      ],
+      "rank": 1
+    }
+  ],
+  "Gadgets": [
+    {
+      "handle": "prexolingo™-smart-voice-translator-supports-30-languages",
+      "title": "PrexoLingo™ – Smart Voice Translator (Supports 30+ Languages)",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Gadgets",
+        "Translator",
+        "Travel"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "prexovision-translate™-ai-smart-glasses-with-real-time-translation",
+      "title": "PrexoVision Translate™ – AI Smart Glasses with Real‑Time Translation",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Gadgets",
+        "Translator",
+        "Travel"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "magic-speaker-bulb-light-sound-combined",
+      "title": "🪄 Magic Speaker Bulb – Light & Sound Combined",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Gadgets",
+        "Home Decor",
+        "Lighting",
+        "Music",
+        "Speaker"
+      ],
+      "rank": 3
+    }
+  ],
+  "Translator": [
+    {
+      "handle": "prexolingo™-smart-voice-translator-supports-30-languages",
+      "title": "PrexoLingo™ – Smart Voice Translator (Supports 30+ Languages)",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Gadgets",
+        "Translator",
+        "Travel"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "prexovision-translate™-ai-smart-glasses-with-real-time-translation",
+      "title": "PrexoVision Translate™ – AI Smart Glasses with Real‑Time Translation",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Gadgets",
+        "Translator",
+        "Travel"
+      ],
+      "rank": 2
+    }
+  ],
+  "Samsung": [
+    {
+      "handle": "samsung-galaxy-smarttag2",
+      "title": "Samsung Galaxy SmartTag2",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Phone Accessories",
+        "Samsung",
+        "Travel"
+      ],
+      "rank": 1
+    }
+  ],
+  "Sony": [
+    {
+      "handle": "sony-srs-xb100-wireless-speaker",
+      "title": "Sony SRS-XB100 Wireless Speaker",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Portable Speaker",
+        "Sony",
+        "Speaker"
+      ],
+      "rank": 1
+    }
+  ],
+  "": [
+    {
+      "handle": "swiftmop™-effortless-spray-cleaning-in-seconds",
+      "title": "SwiftMop™ – Effortless Spray Cleaning in Seconds!",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        ""
+      ],
+      "rank": 1
+    }
+  ],
+  "Grooming": [
+    {
+      "handle": "xiaomi-grooming-kit-pro",
+      "title": "Xiaomi Grooming Kit Pro",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Grooming",
+        "Personal Care"
+      ],
+      "rank": 1
+    }
+  ],
+  "Personal Care": [
+    {
+      "handle": "xiaomi-grooming-kit-pro",
+      "title": "Xiaomi Grooming Kit Pro",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Grooming",
+        "Personal Care"
+      ],
+      "rank": 1
+    }
+  ],
+  "Xiaomi": [
+    {
+      "handle": "xiaomi-outdoor-camera-cw300",
+      "title": "Xiaomi Outdoor Camera CW300",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Security",
+        "Security Camera",
+        "Smart Home",
+        "Xiaomi"
+      ],
+      "rank": 1
+    },
+    {
+      "handle": "xiaomi-smart-camera-c300",
+      "title": "Xiaomi Smart Camera C300",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Security",
+        "Security Camera",
+        "Smart Home",
+        "Xiaomi"
+      ],
+      "rank": 2
+    },
+    {
+      "handle": "xiaomi-smart-camera-c300-dual-lens-2k-wi-fi-6",
+      "title": "Xiaomi Smart Camera C300 Dual-Lens (2K, Wi-Fi 6)",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Security",
+        "Security Camera",
+        "Smart Home",
+        "Xiaomi"
+      ],
+      "rank": 3
+    },
+    {
+      "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
+      "title": "Xiaomi Sound Pocket – Compact Hi-Fi Speaker",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Portable Speaker",
+        "Speaker",
+        "Xiaomi"
+      ],
+      "rank": 4
+    }
+  ],
+  "Fridge": [
+    {
+      "handle": "120-can-mini-beverage-refrigerator",
+      "title": "🧊 120-Can Mini Beverage Refrigerator",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Fridge",
+        "Kitchen"
+      ],
+      "rank": 1
+    }
+  ],
+  "Garden": [
+    {
+      "handle": "solar-lamp-for-garden-outdoor",
+      "title": "🌞 Solar Garden Lamp – Outdoor Decorative Light",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Garden",
+        "Lighting"
+      ],
+      "rank": 1
+    }
+  ]
+}

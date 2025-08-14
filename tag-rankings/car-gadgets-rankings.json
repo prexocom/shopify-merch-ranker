@@ -1,0 +1,45 @@
+[
+  {
+    "handle": "automatic-clamping-car-phone-holder",
+    "title": "Automatic Clamping Car Phone Holder",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Car Gadgets",
+      "Phone Accessories"
+    ],
+    "rank": 1
+  },
+  {
+    "handle": "green-lion-cx240-cordless-pressure-wash-gun",
+    "title": "Green Lion CX240 Cordless Pressure Wash Gun",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Car Gadgets",
+      "Green Lion"
+    ],
+    "rank": 2
+  },
+  {
+    "handle": "mini-gps-vehicle-tracker-magnetic-anti-theft-locator",
+    "title": "Mini GPS Vehicle Tracker – Magnetic Anti-Theft Locator",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Car Gadgets"
+    ],
+    "rank": 3
+  },
+  {
+    "handle": "powerology-ultra-portable-air-compressor-power-bank",
+    "title": "Powerology Ultra Portable Air Compressor Power Bank",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Car Gadgets",
+      "Powerology"
+    ],
+    "rank": 4
+  }
+]

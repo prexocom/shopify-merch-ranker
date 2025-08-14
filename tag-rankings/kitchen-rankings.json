@@ -1,0 +1,37 @@
+[
+  {
+    "handle": "portable-camping-stove",
+    "title": "FlameTrek™ Portable Camping Stove",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Kitchen"
+    ],
+    "rank": 1
+  },
+  {
+    "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
+    "title": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Computer Accessories",
+      "Home Decor",
+      "Kitchen",
+      "Office",
+      "Phone Accessories"
+    ],
+    "rank": 2
+  },
+  {
+    "handle": "120-can-mini-beverage-refrigerator",
+    "title": "🧊 120-Can Mini Beverage Refrigerator",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Fridge",
+      "Kitchen"
+    ],
+    "rank": 3
+  }
+]

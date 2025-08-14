@@ -1,0 +1,128 @@
+[
+  {
+    "handle": "ufo-raindrop-humidifier",
+    "title": "Aquamist Raindrop Humidifier",
+    "units_sold": 1,
+    "revenue": 138000,
+    "tags": [
+      "Home Decor",
+      "humidifier"
+    ],
+    "rank": 1
+  },
+  {
+    "handle": "bonfire-humidifier-1",
+    "title": "Bonfire Flame Effect Humidifier",
+    "units_sold": 1,
+    "revenue": 135000,
+    "tags": [
+      "Home Decor",
+      "humidifier"
+    ],
+    "rank": 2
+  },
+  {
+    "handle": "astronaut-galaxy-projector-your-cosmic-escape",
+    "title": "Astronaut Galaxy Projector – Your Cosmic Escape",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Home Decor",
+      "Lighting"
+    ],
+    "rank": 3
+  },
+  {
+    "handle": "galaxy-star-nebula-projector-with-bluetooth-speaker",
+    "title": "Galaxy Star & Nebula Projector with Bluetooth Speaker",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Home Decor",
+      "Music"
+    ],
+    "rank": 4
+  },
+  {
+    "handle": "glowmist™-fireplace-humidifier",
+    "title": "GlowMist™ Fireplace Humidifier",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Home Decor",
+      "humidifier"
+    ],
+    "rank": 5
+  },
+  {
+    "handle": "hexagon-modular-touch-lights-shape-your-glow",
+    "title": "Hexagon Modular Touch Lights – Shape Your Glow",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Home Decor",
+      "Lighting"
+    ],
+    "rank": 6
+  },
+  {
+    "handle": "lumifan-360-light-fan",
+    "title": "LumiFan™ – 360° Light Fan",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Home Decor"
+    ],
+    "rank": 7
+  },
+  {
+    "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
+    "title": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Computer Accessories",
+      "Home Decor",
+      "Kitchen",
+      "Office",
+      "Phone Accessories"
+    ],
+    "rank": 8
+  },
+  {
+    "handle": "volcano-essential-oil-diffuser",
+    "title": "Prexo Volcano Humidifier",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Home Decor",
+      "humidifier"
+    ],
+    "rank": 9
+  },
+  {
+    "handle": "steamloco™-aromatherapy-train-humidifier",
+    "title": "SteamLoco™ – Aromatherapy Train Humidifier",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Home Decor",
+      "humidifier"
+    ],
+    "rank": 10
+  },
+  {
+    "handle": "magic-speaker-bulb-light-sound-combined",
+    "title": "🪄 Magic Speaker Bulb – Light & Sound Combined",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Gadgets",
+      "Home Decor",
+      "Lighting",
+      "Music",
+      "Speaker"
+    ],
+    "rank": 11
+  }
+]

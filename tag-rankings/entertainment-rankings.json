@@ -1,0 +1,72 @@
+[
+  {
+    "handle": "prexobeam-mini-portable-smart-projector",
+    "title": "PrexoBeam Mini – Portable Smart Projector",
+    "units_sold": 1,
+    "revenue": 295000,
+    "tags": [
+      "Entertainment",
+      "Projector"
+    ],
+    "rank": 1
+  },
+  {
+    "handle": "borrego-smart-4-android-smart-projector",
+    "title": "Borrego Smart 4 – Android Smart Projector",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Entertainment",
+      "Projector"
+    ],
+    "rank": 2
+  },
+  {
+    "handle": "green-lion-prisma-4k-portable-projector",
+    "title": "Green Lion Prisma 4K Portable Projector",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Entertainment",
+      "Green Lion",
+      "Projector"
+    ],
+    "rank": 3
+  },
+  {
+    "handle": "logitech-g29-driving-force-racing-wheel-pedals",
+    "title": "Logitech G29 – Driving Force Racing Wheel & Pedals",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Entertainment",
+      "Gaming"
+    ],
+    "rank": 4
+  },
+  {
+    "handle": "powerology-32-android-smart-screen",
+    "title": "Powerology 32\" Android Smart Screen",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Entertainment",
+      "Powerology",
+      "Smart Screen",
+      "TV"
+    ],
+    "rank": 5
+  },
+  {
+    "handle": "prexoplay-wireless-bluetooth-game-controller",
+    "title": "PrexoPlay – Wireless Bluetooth Game Controller",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Computer Accessories",
+      "Entertainment",
+      "Phone Accessories"
+    ],
+    "rank": 6
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "handle": "amaya-tk04-earbuds",
+    "title": "Amaya TK04 Earbuds",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Headphones",
+      "Music",
+      "Phone Accessories"
+    ],
+    "rank": 1
+  },
+  {
+    "handle": "green-lion-echo-max-headphones",
+    "title": "Green Lion Echo Max Headphones",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Computer Accessories",
+      "Green Lion",
+      "Headphones",
+      "Music",
+      "Phone Accessories"
+    ],
+    "rank": 2
+  },
+  {
+    "handle": "green-lion-echo-max-headphones-black",
+    "title": "Green Lion Echo Max Headphones - Black",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Computer Accessories",
+      "Green Lion",
+      "Headphones",
+      "Music",
+      "Phone Accessories"
+    ],
+    "rank": 3
+  },
+  {
+    "handle": "copy-green-lion-echo-max-headphones-orange",
+    "title": "Green Lion Echo Max Headphones - Orange",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Computer Accessories",
+      "Green Lion",
+      "Headphones",
+      "Music",
+      "Phone Accessories"
+    ],
+    "rank": 4
+  },
+  {
+    "handle": "wireless-bluetooth-headband-comfort-meets-sound",
+    "title": "Wireless Bluetooth Headband – Comfort Meets Sound",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Headphones",
+      "Music"
+    ],
+    "rank": 5
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "handle": "green-lion-portable-oral-irrigator-300-ml",
+    "title": "Green Lion Portable Oral Irrigator (300 mL)",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Green Lion",
+      "Oral Care"
+    ],
+    "rank": 1
+  },
+  {
+    "handle": "green-lion-smart-brush-60-ultrawide",
+    "title": "Green Lion Smart Brush 60° Ultrawide",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Electric Toothbrush",
+      "Green Lion",
+      "Oral Care"
+    ],
+    "rank": 2
+  },
+  {
+    "handle": "green-lion-smart-toothbrush-sanitizer",
+    "title": "Green Lion Smart Toothbrush Sanitizer",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Electric Toothbrush",
+      "Green Lion",
+      "Oral Care"
+    ],
+    "rank": 3
+  }
+]
