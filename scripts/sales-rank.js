@@ -5,7 +5,7 @@ const axios = require("axios");
 const SHOP = process.env.SHOPIFY_STORE_DOMAIN;
 const TOKEN = process.env.SHOPIFY_API_TOKEN;
 
-// Output directory for JSON files
+// Output separate JSON files for each tag category
 const outputDir = path.resolve(__dirname, "../tag-rankings");
 
 // Create output directory if it doesn't exist
@@ -15,7 +15,7 @@ if (!fs.existsSync(outputDir)) {
 
 async function fetchAllProducts() {
   const products = [];
-  let endpoint = `https://${SHOP}/admin/api/2023-04/products.json?limit=250&status=active&fields=id,title,handle,images,variants,tags,product_type,vendor,created_at,published_at,status`;
+  let endpoint = `https://${SHOP}/admin/api/2023-04/products.json?limit=250&status=active`;
 
   while (endpoint) {
     const res = await axios.get(endpoint, {
@@ -30,7 +30,7 @@ async function fetchAllProducts() {
       throw new Error(`Failed to fetch products: ${res.status}`);
     }
 
-    // Filter out non-visible products
+    // Filter out non-visible products just in case
     const filtered = res.data.products.filter((p) => p.published_at);
     products.push(...filtered);
 
@@ -54,7 +54,7 @@ async function fetchSalesData(allProducts) {
     productIdToHandle[product.id] = product.handle;
   }
 
-  let endpoint = `https://${SHOP}/admin/api/2023-04/orders.json?status=any&limit=250&created_at_min=2024-01-01&fields=line_items`;
+  let endpoint = `https://${SHOP}/admin/api/2023-04/orders.json?status=any&limit=250&created_at_min=2024-01-01`;
 
   while (endpoint) {
     const res = await axios.get(endpoint, {
@@ -96,96 +96,52 @@ async function fetchSalesData(allProducts) {
   return salesByProductId;
 }
 
-async function fetchProductRatings(allProducts) {
-  const ratingsByHandle = {};
-  const productHandles = allProducts.map(p => p.handle);
-  
-  // This assumes you have a product reviews app installed
-  // Replace with your actual reviews API endpoint if different
-  try {
-    const res = await axios.get(`https://${SHOP}/apps/product-reviews/api/reviews`, {
-      params: {
-        handles: productHandles.join(',')
-      }
-    });
-    
-    res.data.reviews.forEach(review => {
-      if (!ratingsByHandle[review.product_handle]) {
-        ratingsByHandle[review.product_handle] = {
-          rating: 0,
-          count: 0
-        };
-      }
-      ratingsByHandle[review.product_handle].rating += review.rating;
-      ratingsByHandle[review.product_handle].count++;
-    });
-    
-    // Calculate average ratings
-    Object.keys(ratingsByHandle).forEach(handle => {
-      ratingsByHandle[handle].rating = 
-        ratingsByHandle[handle].rating / ratingsByHandle[handle].count;
-    });
-    
-  } catch (err) {
-    console.warn("Could not fetch product ratings:", err.message);
-  }
-  
-  return ratingsByHandle;
+function getPricingInfo(product) {
+  const prices = product.variants.map(v => ({
+    title: v.title,
+    regular_price: parseFloat(v.compare_at_price) || parseFloat(v.price),
+    sale_price: parseFloat(v.price),
+    percentage_off: v.compare_at_price && parseFloat(v.compare_at_price) > parseFloat(v.price)
+      ? Math.round(((parseFloat(v.compare_at_price) - parseFloat(v.price)) / parseFloat(v.compare_at_price)) * 100)
+      : 0
+  }));
+
+  // Overall min/max pricing for quick reference
+  const regularPrices = prices.map(p => p.regular_price).filter(Boolean);
+  const salePrices = prices.map(p => p.sale_price).filter(Boolean);
+
+  return {
+    variants: prices,
+    min_regular_price: Math.min(...regularPrices),
+    max_regular_price: Math.max(...regularPrices),
+    min_sale_price: Math.min(...salePrices),
+    max_sale_price: Math.max(...salePrices),
+  };
 }
 
 async function generateTagBasedRankings() {
   const allProducts = await fetchAllProducts();
   const sales = await fetchSalesData(allProducts);
-  const ratings = await fetchProductRatings(allProducts);
 
   // Group products by tags
   const productsByTag = {};
-  
+
   allProducts.forEach(product => {
     const handle = product.handle;
     const sale = sales[handle] || { units_sold: 0, revenue: 0 };
-    const rating = ratings[handle] || { rating: 0, count: 0 };
-    
-    // Get featured image
-    const featuredImage = product.images.length > 0 
-      ? product.images.find(img => img.position === 1) || product.images[0]
-      : null;
-    
-    // Get price range
-    const prices = product.variants.map(v => parseFloat(v.price));
-    const minPrice = Math.min(...prices);
-    const maxPrice = Math.max(...prices);
-    const priceRange = minPrice === maxPrice 
-      ? `$${minPrice.toFixed(2)}` 
-      : `$${minPrice.toFixed(2)} - $${maxPrice.toFixed(2)}`;
-    
-    // Check for compare_at_price to determine if on sale
-    const onSale = product.variants.some(v => v.compare_at_price && 
-      parseFloat(v.compare_at_price) > parseFloat(v.price));
-    
+
+    const pricingInfo = getPricingInfo(product);
+
     const productData = {
       handle,
       title: product.title,
-      featured_image: featuredImage ? {
-        src: featuredImage.src,
-        alt: featuredImage.alt || product.title,
-        width: featuredImage.width,
-        height: featuredImage.height
-      } : null,
-      price: priceRange,
-      on_sale: onSale,
-      vendor: product.vendor,
-      product_type: product.product_type,
-      rating: rating.rating,
-      review_count: rating.count,
+      featured_image: product.image?.src || null,
       units_sold: sale.units_sold,
       revenue: sale.revenue,
       tags: product.tags.split(', ').map(tag => tag.trim()),
-      created_at: product.created_at,
-      published_at: product.published_at
+      pricing: pricingInfo
     };
 
-    // Add product to each tag category
     product.tags.split(', ').forEach(tag => {
       const cleanTag = tag.trim();
       if (!productsByTag[cleanTag]) {
@@ -197,43 +153,42 @@ async function generateTagBasedRankings() {
 
   // Generate rankings for each tag
   const tagRankings = {};
-  
+
   Object.keys(productsByTag).forEach(tag => {
     const tagProducts = productsByTag[tag];
-    
-    // Sort by units sold (primary) and revenue (secondary)
-    tagProducts.sort((a, b) => {
-      if (b.units_sold !== a.units_sold) {
-        return b.units_sold - a.units_sold;
-      }
-      return b.revenue - a.revenue;
-    });
-    
-    // Add ranking position to each product
-    const rankedProducts = tagProducts.map((product, index) => ({
+
+    // Sort by units sold
+    tagProducts.sort((a, b) => b.units_sold - a.units_sold);
+
+    // Limit to 50 products max
+    const limitedProducts = tagProducts.slice(0, 50);
+
+    // Add ranking position
+    const rankedProducts = limitedProducts.map((product, index) => ({
       ...product,
       rank: index + 1
     }));
-    
+
     tagRankings[tag] = rankedProducts;
-    
-    // Save individual JSON file for each tag
-    const tagFileName = tag.toLowerCase()
-      .replace(/\s+/g, '-')
-      .replace(/[^a-z0-9-]/g, '') + '-rankings.json';
+
+    // Save individual JSON
+    const tagFileName = tag.toLowerCase().replace(/[^a-z0-9]/g, '-') + '-rankings.json';
     const tagFilePath = path.join(outputDir, tagFileName);
-    
+
     fs.writeFileSync(tagFilePath, JSON.stringify(rankedProducts, null, 2));
     console.log(`✅ ${tagFileName} generated with ${rankedProducts.length} products`);
   });
 
-  // Also save a master file with all tag rankings
+  // Master file with all tag rankings (also limited to 50 per tag)
+  const masterLimited = {};
+  Object.keys(tagRankings).forEach(tag => {
+    masterLimited[tag] = tagRankings[tag].slice(0, 50);
+  });
+
   const masterFilePath = path.join(outputDir, 'all-tag-rankings.json');
-  fs.writeFileSync(masterFilePath, JSON.stringify(tagRankings, null, 2));
-  
+  fs.writeFileSync(masterFilePath, JSON.stringify(masterLimited, null, 2));
+
   console.log(`✅ Master file generated with ${Object.keys(tagRankings).length} tag categories`);
-  
-  return tagRankings;
 }
 
 generateTagBasedRankings().catch((err) => {
