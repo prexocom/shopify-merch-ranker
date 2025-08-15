@@ -87,9 +87,9 @@
     "rank": 3
   },
   {
-    "handle": "jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones",
-    "title": "JBL TUNE 770NC – Adaptive Noise-Cancelling Over-Ear Headphones",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a1ae2789-ce10-46fe-8e8b-2abc5c9672a3.jpg?v=1755281918",
+    "handle": "copy-jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones-black",
+    "title": "JBL TUNE 770NC – Adaptive Noise-Cancelling Over-Ear Headphones (Black)",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_95ab9637-ba51-4b93-8d05-22acf6a632f6.jpg?v=1755283096",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -111,6 +111,58 @@
       "max_sale_price": 375000
     },
     "rank": 4
+  },
+  {
+    "handle": "jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones",
+    "title": "JBL TUNE 770NC – Adaptive Noise-Cancelling Over-Ear Headphones (Blue)",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a1ae2789-ce10-46fe-8e8b-2abc5c9672a3.jpg?v=1755281918",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Headphones",
+      "JBL"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 400000,
+          "sale_price": 375000,
+          "percentage_off": 6
+        }
+      ],
+      "min_regular_price": 400000,
+      "max_regular_price": 400000,
+      "min_sale_price": 375000,
+      "max_sale_price": 375000
+    },
+    "rank": 5
+  },
+  {
+    "handle": "jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones-white",
+    "title": "JBL TUNE 770NC – Adaptive Noise-Cancelling Over-Ear Headphones (White)",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fe0d865e-4582-4679-9483-5b5dcb80a978.webp?v=1755283218",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Headphones",
+      "JBL"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 400000,
+          "sale_price": 375000,
+          "percentage_off": 6
+        }
+      ],
+      "min_regular_price": 400000,
+      "max_regular_price": 400000,
+      "min_sale_price": 375000,
+      "max_sale_price": 375000
+    },
+    "rank": 6
   },
   {
     "handle": "powerology-hybrid-anc-headphone",
@@ -136,7 +188,7 @@
       "min_sale_price": 195000,
       "max_sale_price": 195000
     },
-    "rank": 5
+    "rank": 7
   },
   {
     "handle": "powerology-hybrid-anc-headphone-cream",
@@ -162,7 +214,7 @@
       "min_sale_price": 195000,
       "max_sale_price": 195000
     },
-    "rank": 6
+    "rank": 8
   },
   {
     "handle": "wireless-bluetooth-headband-comfort-meets-sound",
@@ -188,6 +240,6 @@
       "min_sale_price": 115000,
       "max_sale_price": 115000
     },
-    "rank": 7
+    "rank": 9
   }
 ]
