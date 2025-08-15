@@ -266,6 +266,13 @@
     "score": 0.1
   },
   {
+    "handle": "jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
     "handle": "keyfold-pro-foldable-bluetooth-keyboard",
     "in_stock": true,
     "units_sold": 0,
@@ -295,6 +302,20 @@
   },
   {
     "handle": "mini-gps-vehicle-tracker-magnetic-anti-theft-locator",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "oraimo-freepods-4-anc-true-wireless-earbuds",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "oraimo-soundflow-50w-wireless-speaker",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
