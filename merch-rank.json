@@ -336,6 +336,20 @@
     "score": 0.1
   },
   {
+    "handle": "powerology-6-mic-hybrid-anc-enc-tws-earbuds",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "powerology-air-conduction-enc-tws-earbuds-with-display",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
     "handle": "powerology-built-in-solar-outdoor-camera",
     "in_stock": true,
     "units_sold": 0,
@@ -364,7 +378,28 @@
     "score": 0.1
   },
   {
+    "handle": "powerology-hybrid-anc-headphone",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "powerology-hybrid-anc-headphone-cream",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
     "handle": "powerology-onyx-30000mah-dual-usb-c-power-bank",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "powerology-quad-mic-enc-tws-earbuds",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
