@@ -1,0 +1,54 @@
+[
+  {
+    "handle": "oraimo-freepods-4-anc-true-wireless-earbuds",
+    "title": "Oraimo FreePods 4 – ANC True Wireless Earbuds",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9ccf712e-29e1-4ee9-8cf6-379d0dc97f94.webp?v=1755275949",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Earbuds",
+      "Oraimo"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 225000,
+          "sale_price": 180000,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 225000,
+      "max_regular_price": 225000,
+      "min_sale_price": 180000,
+      "max_sale_price": 180000
+    },
+    "rank": 1
+  },
+  {
+    "handle": "oraimo-soundflow-50w-wireless-speaker",
+    "title": "Oraimo SoundFlow 50W Wireless Speaker",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_97178671-4d50-4567-a345-533b1a149aa2.jpg?v=1755278186",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Oraimo",
+      "Portable Speakers"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 295000,
+          "sale_price": 250000,
+          "percentage_off": 15
+        }
+      ],
+      "min_regular_price": 295000,
+      "max_regular_price": 295000,
+      "min_sale_price": 250000,
+      "max_sale_price": 250000
+    },
+    "rank": 2
+  }
+]

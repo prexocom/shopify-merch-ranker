@@ -139,6 +139,32 @@
     "rank": 5
   },
   {
+    "handle": "oraimo-soundflow-50w-wireless-speaker",
+    "title": "Oraimo SoundFlow 50W Wireless Speaker",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_97178671-4d50-4567-a345-533b1a149aa2.jpg?v=1755278186",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Oraimo",
+      "Portable Speakers"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 295000,
+          "sale_price": 250000,
+          "percentage_off": 15
+        }
+      ],
+      "min_regular_price": 295000,
+      "max_regular_price": 295000,
+      "min_sale_price": 250000,
+      "max_sale_price": 250000
+    },
+    "rank": 6
+  },
+  {
     "handle": "porodo-bluetooth-conference-speaker",
     "title": "Porodo Bluetooth Conference Speaker",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_91341ad2-6c6d-4b06-b59d-00198e3269d9.webp?v=1754651692",
@@ -164,7 +190,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 6
+    "rank": 7
   },
   {
     "handle": "sony-srs-xb100-wireless-speaker",
@@ -192,7 +218,7 @@
       "min_sale_price": 279000,
       "max_sale_price": 279000
     },
-    "rank": 7
+    "rank": 8
   },
   {
     "handle": "vintage-mini-wireless-speaker-classic-looks-modern-sound",
@@ -219,7 +245,7 @@
       "min_sale_price": 139000,
       "max_sale_price": 139000
     },
-    "rank": 8
+    "rank": 9
   },
   {
     "handle": "waterproof-mini-bluetooth-speaker-big-sound-tiny-body",
@@ -246,7 +272,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 9
+    "rank": 10
   },
   {
     "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
@@ -273,35 +299,6 @@
       "max_regular_price": 190000,
       "min_sale_price": 155000,
       "max_sale_price": 155000
-    },
-    "rank": 10
-  },
-  {
-    "handle": "magic-speaker-bulb-light-sound-combined",
-    "title": "🪄 Magic Speaker Bulb – Light & Sound Combined",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e9c6b8dd-0570-404c-b179-4131946952a0.jpg?v=1754382211",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Gadgets",
-      "Home Decor",
-      "Lighting",
-      "Music",
-      "Speaker"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 130000,
-          "sale_price": 98000,
-          "percentage_off": 25
-        }
-      ],
-      "min_regular_price": 130000,
-      "max_regular_price": 130000,
-      "min_sale_price": 98000,
-      "max_sale_price": 98000
     },
     "rank": 11
   }

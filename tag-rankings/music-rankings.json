@@ -1,32 +1,5 @@
 [
   {
-    "handle": "amaya-tk04-earbuds",
-    "title": "Amaya TK04 Earbuds",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_67ad79eb-079b-4c86-8962-b1eb035e6d4c.jpg?v=1754387060",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Earbuds",
-      "Music",
-      "Phone Accessories"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 130000,
-          "sale_price": 98000,
-          "percentage_off": 25
-        }
-      ],
-      "min_regular_price": 130000,
-      "max_regular_price": 130000,
-      "min_sale_price": 98000,
-      "max_sale_price": 98000
-    },
-    "rank": 1
-  },
-  {
     "handle": "anker-soundcore-glow",
     "title": "Anker Soundcore Glow",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fa5b3ecf-8cb6-4d49-a9c6-3206c2786961.jpg?v=1754660889",
@@ -35,7 +8,7 @@
     "tags": [
       "Anker",
       "Music",
-      "Portable Speaker",
+      "Portable Speakers",
       "Speaker"
     ],
     "pricing": {
@@ -52,7 +25,7 @@
       "min_sale_price": 395000,
       "max_sale_price": 395000
     },
-    "rank": 2
+    "rank": 1
   },
   {
     "handle": "anker-soundcore-pyro-mini",
@@ -63,7 +36,7 @@
     "tags": [
       "Anker",
       "Music",
-      "Portable Speaker",
+      "Portable Speakers",
       "Speaker"
     ],
     "pricing": {
@@ -80,7 +53,7 @@
       "min_sale_price": 180000,
       "max_sale_price": 180000
     },
-    "rank": 3
+    "rank": 2
   },
   {
     "handle": "aquasound-bluetooth-speaker",
@@ -90,6 +63,7 @@
     "revenue": 0,
     "tags": [
       "Music",
+      "Portable Speakers",
       "Speaker"
     ],
     "pricing": {
@@ -106,7 +80,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 4
+    "rank": 3
   },
   {
     "handle": "beats-pill-wireless-bluetooth®-speaker-matte-black",
@@ -117,7 +91,7 @@
     "tags": [
       "Beats",
       "Music",
-      "Portable Speaker",
+      "Portable Speakers",
       "Speaker"
     ],
     "pricing": {
@@ -134,7 +108,7 @@
       "min_sale_price": 625000,
       "max_sale_price": 625000
     },
-    "rank": 5
+    "rank": 4
   },
   {
     "handle": "galaxy-star-nebula-projector-with-bluetooth-speaker",
@@ -160,7 +134,7 @@
       "min_sale_price": 150000,
       "max_sale_price": 150000
     },
-    "rank": 6
+    "rank": 5
   },
   {
     "handle": "green-lion-echo-max-headphones",
@@ -189,7 +163,7 @@
       "min_sale_price": 175000,
       "max_sale_price": 175000
     },
-    "rank": 7
+    "rank": 6
   },
   {
     "handle": "green-lion-echo-max-headphones-black",
@@ -218,7 +192,7 @@
       "min_sale_price": 175000,
       "max_sale_price": 175000
     },
-    "rank": 8
+    "rank": 7
   },
   {
     "handle": "copy-green-lion-echo-max-headphones-orange",
@@ -247,7 +221,7 @@
       "min_sale_price": 175000,
       "max_sale_price": 175000
     },
-    "rank": 9
+    "rank": 8
   },
   {
     "handle": "jbl-go-4-ultra-portable-bluetooth®-speaker",
@@ -258,7 +232,7 @@
     "tags": [
       "JBL",
       "Music",
-      "Portable Speaker",
+      "Portable Speakers",
       "Speaker"
     ],
     "pricing": {
@@ -275,7 +249,7 @@
       "min_sale_price": 245000,
       "max_sale_price": 245000
     },
-    "rank": 10
+    "rank": 9
   },
   {
     "handle": "porodo-bluetooth-conference-speaker",
@@ -286,7 +260,7 @@
     "tags": [
       "Music",
       "Porodo",
-      "Portable Speaker",
+      "Portable Speakers",
       "Speaker"
     ],
     "pricing": {
@@ -303,7 +277,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 11
+    "rank": 10
   },
   {
     "handle": "sony-srs-xb100-wireless-speaker",
@@ -313,7 +287,7 @@
     "revenue": 0,
     "tags": [
       "Music",
-      "Portable Speaker",
+      "Portable Speakers",
       "Sony",
       "Speaker"
     ],
@@ -331,7 +305,7 @@
       "min_sale_price": 279000,
       "max_sale_price": 279000
     },
-    "rank": 12
+    "rank": 11
   },
   {
     "handle": "vintage-mini-wireless-speaker-classic-looks-modern-sound",
@@ -341,6 +315,7 @@
     "revenue": 0,
     "tags": [
       "Music",
+      "Portable Speakers",
       "Speaker"
     ],
     "pricing": {
@@ -357,7 +332,7 @@
       "min_sale_price": 139000,
       "max_sale_price": 139000
     },
-    "rank": 13
+    "rank": 12
   },
   {
     "handle": "waterproof-mini-bluetooth-speaker-big-sound-tiny-body",
@@ -367,6 +342,7 @@
     "revenue": 0,
     "tags": [
       "Music",
+      "Portable Speakers",
       "Speaker"
     ],
     "pricing": {
@@ -383,7 +359,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 14
+    "rank": 13
   },
   {
     "handle": "wireless-bluetooth-headband-comfort-meets-sound",
@@ -409,7 +385,7 @@
       "min_sale_price": 115000,
       "max_sale_price": 115000
     },
-    "rank": 15
+    "rank": 14
   },
   {
     "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
@@ -419,7 +395,7 @@
     "revenue": 0,
     "tags": [
       "Music",
-      "Portable Speaker",
+      "Portable Speakers",
       "Speaker",
       "Xiaomi"
     ],
@@ -437,7 +413,7 @@
       "min_sale_price": 155000,
       "max_sale_price": 155000
     },
-    "rank": 16
+    "rank": 15
   },
   {
     "handle": "magic-speaker-bulb-light-sound-combined",
@@ -466,6 +442,6 @@
       "min_sale_price": 98000,
       "max_sale_price": 98000
     },
-    "rank": 17
+    "rank": 16
   }
 ]

@@ -8,7 +8,6 @@
       "revenue": 0,
       "tags": [
         "Earbuds",
-        "Music",
         "Phone Accessories"
       ],
       "pricing": {
@@ -26,6 +25,32 @@
         "max_sale_price": 98000
       },
       "rank": 1
+    },
+    {
+      "handle": "oraimo-freepods-4-anc-true-wireless-earbuds",
+      "title": "Oraimo FreePods 4 – ANC True Wireless Earbuds",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9ccf712e-29e1-4ee9-8cf6-379d0dc97f94.webp?v=1755275949",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Earbuds",
+        "Oraimo"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 225000,
+            "sale_price": 180000,
+            "percentage_off": 20
+          }
+        ],
+        "min_regular_price": 225000,
+        "max_regular_price": 225000,
+        "min_sale_price": 180000,
+        "max_sale_price": 180000
+      },
+      "rank": 2
     },
     {
       "handle": "powerology-6-mic-hybrid-anc-enc-tws-earbuds",
@@ -51,7 +76,7 @@
         "min_sale_price": 120000,
         "max_sale_price": 120000
       },
-      "rank": 2
+      "rank": 3
     },
     {
       "handle": "powerology-air-conduction-enc-tws-earbuds-with-display",
@@ -77,7 +102,7 @@
         "min_sale_price": 195000,
         "max_sale_price": 195000
       },
-      "rank": 3
+      "rank": 4
     },
     {
       "handle": "powerology-quad-mic-enc-tws-earbuds",
@@ -103,478 +128,7 @@
         "min_sale_price": 95000,
         "max_sale_price": 95000
       },
-      "rank": 4
-    }
-  ],
-  "Music": [
-    {
-      "handle": "amaya-tk04-earbuds",
-      "title": "Amaya TK04 Earbuds",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_67ad79eb-079b-4c86-8962-b1eb035e6d4c.jpg?v=1754387060",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "Music",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 130000,
-            "sale_price": 98000,
-            "percentage_off": 25
-          }
-        ],
-        "min_regular_price": 130000,
-        "max_regular_price": 130000,
-        "min_sale_price": 98000,
-        "max_sale_price": 98000
-      },
-      "rank": 1
-    },
-    {
-      "handle": "anker-soundcore-glow",
-      "title": "Anker Soundcore Glow",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fa5b3ecf-8cb6-4d49-a9c6-3206c2786961.jpg?v=1754660889",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Anker",
-        "Music",
-        "Portable Speaker",
-        "Speaker"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 450000,
-            "sale_price": 395000,
-            "percentage_off": 12
-          }
-        ],
-        "min_regular_price": 450000,
-        "max_regular_price": 450000,
-        "min_sale_price": 395000,
-        "max_sale_price": 395000
-      },
-      "rank": 2
-    },
-    {
-      "handle": "anker-soundcore-pyro-mini",
-      "title": "Anker Soundcore Pyro Mini",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_488ba066-24ba-435d-8c1b-c87cb7f3d971.webp?v=1754660316",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Anker",
-        "Music",
-        "Portable Speaker",
-        "Speaker"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 180000,
-            "percentage_off": 18
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 180000,
-        "max_sale_price": 180000
-      },
-      "rank": 3
-    },
-    {
-      "handle": "aquasound-bluetooth-speaker",
-      "title": "AquaSound™ – Waterproof Bluetooth Speaker with Suction Mount",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9671fc51-c8f1-4590-9f56-2c3bb141fdbf.jpg?v=1754337148",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Music",
-        "Speaker"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 200000,
-            "sale_price": 145000,
-            "percentage_off": 28
-          }
-        ],
-        "min_regular_price": 200000,
-        "max_regular_price": 200000,
-        "min_sale_price": 145000,
-        "max_sale_price": 145000
-      },
-      "rank": 4
-    },
-    {
-      "handle": "beats-pill-wireless-bluetooth®-speaker-matte-black",
-      "title": "Beats Pill – Wireless Bluetooth® Speaker (Matte Black)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3a5f2525-d5e6-4efb-a6a5-236915cbb8be.jpg?v=1754651203",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Beats",
-        "Music",
-        "Portable Speaker",
-        "Speaker"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 690000,
-            "sale_price": 625000,
-            "percentage_off": 9
-          }
-        ],
-        "min_regular_price": 690000,
-        "max_regular_price": 690000,
-        "min_sale_price": 625000,
-        "max_sale_price": 625000
-      },
       "rank": 5
-    },
-    {
-      "handle": "galaxy-star-nebula-projector-with-bluetooth-speaker",
-      "title": "Galaxy Star & Nebula Projector with Bluetooth Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9eab1579-5329-4e2b-ab40-7da7000c306f.png?v=1754683053",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Home Decor",
-        "Music"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 190000,
-            "sale_price": 150000,
-            "percentage_off": 21
-          }
-        ],
-        "min_regular_price": 190000,
-        "max_regular_price": 190000,
-        "min_sale_price": 150000,
-        "max_sale_price": 150000
-      },
-      "rank": 6
-    },
-    {
-      "handle": "green-lion-echo-max-headphones",
-      "title": "Green Lion Echo Max Headphones",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0d89593e-1173-49fe-8eb4-699785dcd7f4.jpg?v=1754944773",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Green Lion",
-        "Headphones",
-        "Music",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 175000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 175000,
-        "max_sale_price": 175000
-      },
-      "rank": 7
-    },
-    {
-      "handle": "green-lion-echo-max-headphones-black",
-      "title": "Green Lion Echo Max Headphones - Black",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_447f91eb-6fb7-4e3a-bf58-228c1dce5af4.jpg?v=1754945095",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Green Lion",
-        "Headphones",
-        "Music",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 175000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 175000,
-        "max_sale_price": 175000
-      },
-      "rank": 8
-    },
-    {
-      "handle": "copy-green-lion-echo-max-headphones-orange",
-      "title": "Green Lion Echo Max Headphones - Orange",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_87fc8554-b91c-4656-8a18-ab1de65b12bb.webp?v=1754945345",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Green Lion",
-        "Headphones",
-        "Music",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 175000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 175000,
-        "max_sale_price": 175000
-      },
-      "rank": 9
-    },
-    {
-      "handle": "jbl-go-4-ultra-portable-bluetooth®-speaker",
-      "title": "JBL Go 4 — Ultra-Portable Bluetooth® Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_6c34340b-afd4-41aa-bed4-a6885ea6b09b.webp?v=1754661617",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "JBL",
-        "Music",
-        "Portable Speaker",
-        "Speaker"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 290000,
-            "sale_price": 245000,
-            "percentage_off": 16
-          }
-        ],
-        "min_regular_price": 290000,
-        "max_regular_price": 290000,
-        "min_sale_price": 245000,
-        "max_sale_price": 245000
-      },
-      "rank": 10
-    },
-    {
-      "handle": "porodo-bluetooth-conference-speaker",
-      "title": "Porodo Bluetooth Conference Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_91341ad2-6c6d-4b06-b59d-00198e3269d9.webp?v=1754651692",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Music",
-        "Porodo",
-        "Portable Speaker",
-        "Speaker"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 190000,
-            "sale_price": 145000,
-            "percentage_off": 24
-          }
-        ],
-        "min_regular_price": 190000,
-        "max_regular_price": 190000,
-        "min_sale_price": 145000,
-        "max_sale_price": 145000
-      },
-      "rank": 11
-    },
-    {
-      "handle": "sony-srs-xb100-wireless-speaker",
-      "title": "Sony SRS-XB100 Wireless Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f46745f9-630d-4db5-9909-d4b388c451f9.jpg?v=1754659543",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Music",
-        "Portable Speaker",
-        "Sony",
-        "Speaker"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 320000,
-            "sale_price": 279000,
-            "percentage_off": 13
-          }
-        ],
-        "min_regular_price": 320000,
-        "max_regular_price": 320000,
-        "min_sale_price": 279000,
-        "max_sale_price": 279000
-      },
-      "rank": 12
-    },
-    {
-      "handle": "vintage-mini-wireless-speaker-classic-looks-modern-sound",
-      "title": "Vintage Mini Wireless Speaker – Classic Looks, Modern Sound",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_18af6093-4923-4e79-86c0-53118827028f.jpg?v=1754383602",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Music",
-        "Speaker"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 170000,
-            "sale_price": 139000,
-            "percentage_off": 18
-          }
-        ],
-        "min_regular_price": 170000,
-        "max_regular_price": 170000,
-        "min_sale_price": 139000,
-        "max_sale_price": 139000
-      },
-      "rank": 13
-    },
-    {
-      "handle": "waterproof-mini-bluetooth-speaker-big-sound-tiny-body",
-      "title": "Waterproof Mini Bluetooth Speaker – Big Sound, Tiny Body",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3668c64e-326a-46c5-ae56-9ce535ce04cd.jpg?v=1754384101",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Music",
-        "Speaker"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 180000,
-            "sale_price": 145000,
-            "percentage_off": 19
-          }
-        ],
-        "min_regular_price": 180000,
-        "max_regular_price": 180000,
-        "min_sale_price": 145000,
-        "max_sale_price": 145000
-      },
-      "rank": 14
-    },
-    {
-      "handle": "wireless-bluetooth-headband-comfort-meets-sound",
-      "title": "Wireless Bluetooth Headband – Comfort Meets Sound",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c448ca12-57c3-428a-b0db-20af9bfc081e.jpg?v=1754385444",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "Music"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 150000,
-            "sale_price": 115000,
-            "percentage_off": 23
-          }
-        ],
-        "min_regular_price": 150000,
-        "max_regular_price": 150000,
-        "min_sale_price": 115000,
-        "max_sale_price": 115000
-      },
-      "rank": 15
-    },
-    {
-      "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
-      "title": "Xiaomi Sound Pocket – Compact Hi-Fi Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d1d020e4-9300-4979-9db4-08911c01612a.png?v=1754650740",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Music",
-        "Portable Speaker",
-        "Speaker",
-        "Xiaomi"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 190000,
-            "sale_price": 155000,
-            "percentage_off": 18
-          }
-        ],
-        "min_regular_price": 190000,
-        "max_regular_price": 190000,
-        "min_sale_price": 155000,
-        "max_sale_price": 155000
-      },
-      "rank": 16
-    },
-    {
-      "handle": "magic-speaker-bulb-light-sound-combined",
-      "title": "🪄 Magic Speaker Bulb – Light & Sound Combined",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e9c6b8dd-0570-404c-b179-4131946952a0.jpg?v=1754382211",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Gadgets",
-        "Home Decor",
-        "Lighting",
-        "Music",
-        "Speaker"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 130000,
-            "sale_price": 98000,
-            "percentage_off": 25
-          }
-        ],
-        "min_regular_price": 130000,
-        "max_regular_price": 130000,
-        "min_sale_price": 98000,
-        "max_sale_price": 98000
-      },
-      "rank": 17
     }
   ],
   "Phone Accessories": [
@@ -586,7 +140,6 @@
       "revenue": 0,
       "tags": [
         "Earbuds",
-        "Music",
         "Phone Accessories"
       ],
       "pricing": {
@@ -1222,7 +775,7 @@
       "tags": [
         "Anker",
         "Music",
-        "Portable Speaker",
+        "Portable Speakers",
         "Speaker"
       ],
       "pricing": {
@@ -1250,7 +803,7 @@
       "tags": [
         "Anker",
         "Music",
-        "Portable Speaker",
+        "Portable Speakers",
         "Speaker"
       ],
       "pricing": {
@@ -1270,7 +823,7 @@
       "rank": 2
     }
   ],
-  "Portable Speaker": [
+  "Music": [
     {
       "handle": "anker-soundcore-glow",
       "title": "Anker Soundcore Glow",
@@ -1280,7 +833,7 @@
       "tags": [
         "Anker",
         "Music",
-        "Portable Speaker",
+        "Portable Speakers",
         "Speaker"
       ],
       "pricing": {
@@ -1308,205 +861,7 @@
       "tags": [
         "Anker",
         "Music",
-        "Portable Speaker",
-        "Speaker"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 180000,
-            "percentage_off": 18
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 180000,
-        "max_sale_price": 180000
-      },
-      "rank": 2
-    },
-    {
-      "handle": "beats-pill-wireless-bluetooth®-speaker-matte-black",
-      "title": "Beats Pill – Wireless Bluetooth® Speaker (Matte Black)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3a5f2525-d5e6-4efb-a6a5-236915cbb8be.jpg?v=1754651203",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Beats",
-        "Music",
-        "Portable Speaker",
-        "Speaker"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 690000,
-            "sale_price": 625000,
-            "percentage_off": 9
-          }
-        ],
-        "min_regular_price": 690000,
-        "max_regular_price": 690000,
-        "min_sale_price": 625000,
-        "max_sale_price": 625000
-      },
-      "rank": 3
-    },
-    {
-      "handle": "jbl-go-4-ultra-portable-bluetooth®-speaker",
-      "title": "JBL Go 4 — Ultra-Portable Bluetooth® Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_6c34340b-afd4-41aa-bed4-a6885ea6b09b.webp?v=1754661617",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "JBL",
-        "Music",
-        "Portable Speaker",
-        "Speaker"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 290000,
-            "sale_price": 245000,
-            "percentage_off": 16
-          }
-        ],
-        "min_regular_price": 290000,
-        "max_regular_price": 290000,
-        "min_sale_price": 245000,
-        "max_sale_price": 245000
-      },
-      "rank": 4
-    },
-    {
-      "handle": "porodo-bluetooth-conference-speaker",
-      "title": "Porodo Bluetooth Conference Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_91341ad2-6c6d-4b06-b59d-00198e3269d9.webp?v=1754651692",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Music",
-        "Porodo",
-        "Portable Speaker",
-        "Speaker"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 190000,
-            "sale_price": 145000,
-            "percentage_off": 24
-          }
-        ],
-        "min_regular_price": 190000,
-        "max_regular_price": 190000,
-        "min_sale_price": 145000,
-        "max_sale_price": 145000
-      },
-      "rank": 5
-    },
-    {
-      "handle": "sony-srs-xb100-wireless-speaker",
-      "title": "Sony SRS-XB100 Wireless Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f46745f9-630d-4db5-9909-d4b388c451f9.jpg?v=1754659543",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Music",
-        "Portable Speaker",
-        "Sony",
-        "Speaker"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 320000,
-            "sale_price": 279000,
-            "percentage_off": 13
-          }
-        ],
-        "min_regular_price": 320000,
-        "max_regular_price": 320000,
-        "min_sale_price": 279000,
-        "max_sale_price": 279000
-      },
-      "rank": 6
-    },
-    {
-      "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
-      "title": "Xiaomi Sound Pocket – Compact Hi-Fi Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d1d020e4-9300-4979-9db4-08911c01612a.png?v=1754650740",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Music",
-        "Portable Speaker",
-        "Speaker",
-        "Xiaomi"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 190000,
-            "sale_price": 155000,
-            "percentage_off": 18
-          }
-        ],
-        "min_regular_price": 190000,
-        "max_regular_price": 190000,
-        "min_sale_price": 155000,
-        "max_sale_price": 155000
-      },
-      "rank": 7
-    }
-  ],
-  "Speaker": [
-    {
-      "handle": "anker-soundcore-glow",
-      "title": "Anker Soundcore Glow",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fa5b3ecf-8cb6-4d49-a9c6-3206c2786961.jpg?v=1754660889",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Anker",
-        "Music",
-        "Portable Speaker",
-        "Speaker"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 450000,
-            "sale_price": 395000,
-            "percentage_off": 12
-          }
-        ],
-        "min_regular_price": 450000,
-        "max_regular_price": 450000,
-        "min_sale_price": 395000,
-        "max_sale_price": 395000
-      },
-      "rank": 1
-    },
-    {
-      "handle": "anker-soundcore-pyro-mini",
-      "title": "Anker Soundcore Pyro Mini",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_488ba066-24ba-435d-8c1b-c87cb7f3d971.webp?v=1754660316",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Anker",
-        "Music",
-        "Portable Speaker",
+        "Portable Speakers",
         "Speaker"
       ],
       "pricing": {
@@ -1533,6 +888,7 @@
       "revenue": 0,
       "tags": [
         "Music",
+        "Portable Speakers",
         "Speaker"
       ],
       "pricing": {
@@ -1560,7 +916,454 @@
       "tags": [
         "Beats",
         "Music",
-        "Portable Speaker",
+        "Portable Speakers",
+        "Speaker"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 690000,
+            "sale_price": 625000,
+            "percentage_off": 9
+          }
+        ],
+        "min_regular_price": 690000,
+        "max_regular_price": 690000,
+        "min_sale_price": 625000,
+        "max_sale_price": 625000
+      },
+      "rank": 4
+    },
+    {
+      "handle": "galaxy-star-nebula-projector-with-bluetooth-speaker",
+      "title": "Galaxy Star & Nebula Projector with Bluetooth Speaker",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9eab1579-5329-4e2b-ab40-7da7000c306f.png?v=1754683053",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "Music"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 190000,
+            "sale_price": 150000,
+            "percentage_off": 21
+          }
+        ],
+        "min_regular_price": 190000,
+        "max_regular_price": 190000,
+        "min_sale_price": 150000,
+        "max_sale_price": 150000
+      },
+      "rank": 5
+    },
+    {
+      "handle": "green-lion-echo-max-headphones",
+      "title": "Green Lion Echo Max Headphones",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0d89593e-1173-49fe-8eb4-699785dcd7f4.jpg?v=1754944773",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Headphones",
+        "Music",
+        "Phone Accessories"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 220000,
+            "sale_price": 175000,
+            "percentage_off": 20
+          }
+        ],
+        "min_regular_price": 220000,
+        "max_regular_price": 220000,
+        "min_sale_price": 175000,
+        "max_sale_price": 175000
+      },
+      "rank": 6
+    },
+    {
+      "handle": "green-lion-echo-max-headphones-black",
+      "title": "Green Lion Echo Max Headphones - Black",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_447f91eb-6fb7-4e3a-bf58-228c1dce5af4.jpg?v=1754945095",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Headphones",
+        "Music",
+        "Phone Accessories"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 220000,
+            "sale_price": 175000,
+            "percentage_off": 20
+          }
+        ],
+        "min_regular_price": 220000,
+        "max_regular_price": 220000,
+        "min_sale_price": 175000,
+        "max_sale_price": 175000
+      },
+      "rank": 7
+    },
+    {
+      "handle": "copy-green-lion-echo-max-headphones-orange",
+      "title": "Green Lion Echo Max Headphones - Orange",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_87fc8554-b91c-4656-8a18-ab1de65b12bb.webp?v=1754945345",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Headphones",
+        "Music",
+        "Phone Accessories"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 220000,
+            "sale_price": 175000,
+            "percentage_off": 20
+          }
+        ],
+        "min_regular_price": 220000,
+        "max_regular_price": 220000,
+        "min_sale_price": 175000,
+        "max_sale_price": 175000
+      },
+      "rank": 8
+    },
+    {
+      "handle": "jbl-go-4-ultra-portable-bluetooth®-speaker",
+      "title": "JBL Go 4 — Ultra-Portable Bluetooth® Speaker",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_6c34340b-afd4-41aa-bed4-a6885ea6b09b.webp?v=1754661617",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "JBL",
+        "Music",
+        "Portable Speakers",
+        "Speaker"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 290000,
+            "sale_price": 245000,
+            "percentage_off": 16
+          }
+        ],
+        "min_regular_price": 290000,
+        "max_regular_price": 290000,
+        "min_sale_price": 245000,
+        "max_sale_price": 245000
+      },
+      "rank": 9
+    },
+    {
+      "handle": "porodo-bluetooth-conference-speaker",
+      "title": "Porodo Bluetooth Conference Speaker",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_91341ad2-6c6d-4b06-b59d-00198e3269d9.webp?v=1754651692",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Porodo",
+        "Portable Speakers",
+        "Speaker"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 190000,
+            "sale_price": 145000,
+            "percentage_off": 24
+          }
+        ],
+        "min_regular_price": 190000,
+        "max_regular_price": 190000,
+        "min_sale_price": 145000,
+        "max_sale_price": 145000
+      },
+      "rank": 10
+    },
+    {
+      "handle": "sony-srs-xb100-wireless-speaker",
+      "title": "Sony SRS-XB100 Wireless Speaker",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f46745f9-630d-4db5-9909-d4b388c451f9.jpg?v=1754659543",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Portable Speakers",
+        "Sony",
+        "Speaker"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 320000,
+            "sale_price": 279000,
+            "percentage_off": 13
+          }
+        ],
+        "min_regular_price": 320000,
+        "max_regular_price": 320000,
+        "min_sale_price": 279000,
+        "max_sale_price": 279000
+      },
+      "rank": 11
+    },
+    {
+      "handle": "vintage-mini-wireless-speaker-classic-looks-modern-sound",
+      "title": "Vintage Mini Wireless Speaker – Classic Looks, Modern Sound",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_18af6093-4923-4e79-86c0-53118827028f.jpg?v=1754383602",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Portable Speakers",
+        "Speaker"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 170000,
+            "sale_price": 139000,
+            "percentage_off": 18
+          }
+        ],
+        "min_regular_price": 170000,
+        "max_regular_price": 170000,
+        "min_sale_price": 139000,
+        "max_sale_price": 139000
+      },
+      "rank": 12
+    },
+    {
+      "handle": "waterproof-mini-bluetooth-speaker-big-sound-tiny-body",
+      "title": "Waterproof Mini Bluetooth Speaker – Big Sound, Tiny Body",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3668c64e-326a-46c5-ae56-9ce535ce04cd.jpg?v=1754384101",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Portable Speakers",
+        "Speaker"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 180000,
+            "sale_price": 145000,
+            "percentage_off": 19
+          }
+        ],
+        "min_regular_price": 180000,
+        "max_regular_price": 180000,
+        "min_sale_price": 145000,
+        "max_sale_price": 145000
+      },
+      "rank": 13
+    },
+    {
+      "handle": "wireless-bluetooth-headband-comfort-meets-sound",
+      "title": "Wireless Bluetooth Headband – Comfort Meets Sound",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c448ca12-57c3-428a-b0db-20af9bfc081e.jpg?v=1754385444",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Headphones",
+        "Music"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 150000,
+            "sale_price": 115000,
+            "percentage_off": 23
+          }
+        ],
+        "min_regular_price": 150000,
+        "max_regular_price": 150000,
+        "min_sale_price": 115000,
+        "max_sale_price": 115000
+      },
+      "rank": 14
+    },
+    {
+      "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
+      "title": "Xiaomi Sound Pocket – Compact Hi-Fi Speaker",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d1d020e4-9300-4979-9db4-08911c01612a.png?v=1754650740",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Portable Speakers",
+        "Speaker",
+        "Xiaomi"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 190000,
+            "sale_price": 155000,
+            "percentage_off": 18
+          }
+        ],
+        "min_regular_price": 190000,
+        "max_regular_price": 190000,
+        "min_sale_price": 155000,
+        "max_sale_price": 155000
+      },
+      "rank": 15
+    },
+    {
+      "handle": "magic-speaker-bulb-light-sound-combined",
+      "title": "🪄 Magic Speaker Bulb – Light & Sound Combined",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e9c6b8dd-0570-404c-b179-4131946952a0.jpg?v=1754382211",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Gadgets",
+        "Home Decor",
+        "Lighting",
+        "Music",
+        "Speaker"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 130000,
+            "sale_price": 98000,
+            "percentage_off": 25
+          }
+        ],
+        "min_regular_price": 130000,
+        "max_regular_price": 130000,
+        "min_sale_price": 98000,
+        "max_sale_price": 98000
+      },
+      "rank": 16
+    }
+  ],
+  "Portable Speakers": [
+    {
+      "handle": "anker-soundcore-glow",
+      "title": "Anker Soundcore Glow",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fa5b3ecf-8cb6-4d49-a9c6-3206c2786961.jpg?v=1754660889",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Anker",
+        "Music",
+        "Portable Speakers",
+        "Speaker"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 450000,
+            "sale_price": 395000,
+            "percentage_off": 12
+          }
+        ],
+        "min_regular_price": 450000,
+        "max_regular_price": 450000,
+        "min_sale_price": 395000,
+        "max_sale_price": 395000
+      },
+      "rank": 1
+    },
+    {
+      "handle": "anker-soundcore-pyro-mini",
+      "title": "Anker Soundcore Pyro Mini",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_488ba066-24ba-435d-8c1b-c87cb7f3d971.webp?v=1754660316",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Anker",
+        "Music",
+        "Portable Speakers",
+        "Speaker"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 220000,
+            "sale_price": 180000,
+            "percentage_off": 18
+          }
+        ],
+        "min_regular_price": 220000,
+        "max_regular_price": 220000,
+        "min_sale_price": 180000,
+        "max_sale_price": 180000
+      },
+      "rank": 2
+    },
+    {
+      "handle": "aquasound-bluetooth-speaker",
+      "title": "AquaSound™ – Waterproof Bluetooth Speaker with Suction Mount",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9671fc51-c8f1-4590-9f56-2c3bb141fdbf.jpg?v=1754337148",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Portable Speakers",
+        "Speaker"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 200000,
+            "sale_price": 145000,
+            "percentage_off": 28
+          }
+        ],
+        "min_regular_price": 200000,
+        "max_regular_price": 200000,
+        "min_sale_price": 145000,
+        "max_sale_price": 145000
+      },
+      "rank": 3
+    },
+    {
+      "handle": "beats-pill-wireless-bluetooth®-speaker-matte-black",
+      "title": "Beats Pill – Wireless Bluetooth® Speaker (Matte Black)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3a5f2525-d5e6-4efb-a6a5-236915cbb8be.jpg?v=1754651203",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Beats",
+        "Music",
+        "Portable Speakers",
         "Speaker"
       ],
       "pricing": {
@@ -1588,7 +1391,312 @@
       "tags": [
         "JBL",
         "Music",
-        "Portable Speaker",
+        "Portable Speakers",
+        "Speaker"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 290000,
+            "sale_price": 245000,
+            "percentage_off": 16
+          }
+        ],
+        "min_regular_price": 290000,
+        "max_regular_price": 290000,
+        "min_sale_price": 245000,
+        "max_sale_price": 245000
+      },
+      "rank": 5
+    },
+    {
+      "handle": "oraimo-soundflow-50w-wireless-speaker",
+      "title": "Oraimo SoundFlow 50W Wireless Speaker",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_97178671-4d50-4567-a345-533b1a149aa2.jpg?v=1755278186",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Oraimo",
+        "Portable Speakers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 295000,
+            "sale_price": 250000,
+            "percentage_off": 15
+          }
+        ],
+        "min_regular_price": 295000,
+        "max_regular_price": 295000,
+        "min_sale_price": 250000,
+        "max_sale_price": 250000
+      },
+      "rank": 6
+    },
+    {
+      "handle": "porodo-bluetooth-conference-speaker",
+      "title": "Porodo Bluetooth Conference Speaker",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_91341ad2-6c6d-4b06-b59d-00198e3269d9.webp?v=1754651692",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Porodo",
+        "Portable Speakers",
+        "Speaker"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 190000,
+            "sale_price": 145000,
+            "percentage_off": 24
+          }
+        ],
+        "min_regular_price": 190000,
+        "max_regular_price": 190000,
+        "min_sale_price": 145000,
+        "max_sale_price": 145000
+      },
+      "rank": 7
+    },
+    {
+      "handle": "sony-srs-xb100-wireless-speaker",
+      "title": "Sony SRS-XB100 Wireless Speaker",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f46745f9-630d-4db5-9909-d4b388c451f9.jpg?v=1754659543",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Portable Speakers",
+        "Sony",
+        "Speaker"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 320000,
+            "sale_price": 279000,
+            "percentage_off": 13
+          }
+        ],
+        "min_regular_price": 320000,
+        "max_regular_price": 320000,
+        "min_sale_price": 279000,
+        "max_sale_price": 279000
+      },
+      "rank": 8
+    },
+    {
+      "handle": "vintage-mini-wireless-speaker-classic-looks-modern-sound",
+      "title": "Vintage Mini Wireless Speaker – Classic Looks, Modern Sound",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_18af6093-4923-4e79-86c0-53118827028f.jpg?v=1754383602",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Portable Speakers",
+        "Speaker"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 170000,
+            "sale_price": 139000,
+            "percentage_off": 18
+          }
+        ],
+        "min_regular_price": 170000,
+        "max_regular_price": 170000,
+        "min_sale_price": 139000,
+        "max_sale_price": 139000
+      },
+      "rank": 9
+    },
+    {
+      "handle": "waterproof-mini-bluetooth-speaker-big-sound-tiny-body",
+      "title": "Waterproof Mini Bluetooth Speaker – Big Sound, Tiny Body",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3668c64e-326a-46c5-ae56-9ce535ce04cd.jpg?v=1754384101",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Portable Speakers",
+        "Speaker"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 180000,
+            "sale_price": 145000,
+            "percentage_off": 19
+          }
+        ],
+        "min_regular_price": 180000,
+        "max_regular_price": 180000,
+        "min_sale_price": 145000,
+        "max_sale_price": 145000
+      },
+      "rank": 10
+    },
+    {
+      "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
+      "title": "Xiaomi Sound Pocket – Compact Hi-Fi Speaker",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d1d020e4-9300-4979-9db4-08911c01612a.png?v=1754650740",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Portable Speakers",
+        "Speaker",
+        "Xiaomi"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 190000,
+            "sale_price": 155000,
+            "percentage_off": 18
+          }
+        ],
+        "min_regular_price": 190000,
+        "max_regular_price": 190000,
+        "min_sale_price": 155000,
+        "max_sale_price": 155000
+      },
+      "rank": 11
+    }
+  ],
+  "Speaker": [
+    {
+      "handle": "anker-soundcore-glow",
+      "title": "Anker Soundcore Glow",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fa5b3ecf-8cb6-4d49-a9c6-3206c2786961.jpg?v=1754660889",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Anker",
+        "Music",
+        "Portable Speakers",
+        "Speaker"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 450000,
+            "sale_price": 395000,
+            "percentage_off": 12
+          }
+        ],
+        "min_regular_price": 450000,
+        "max_regular_price": 450000,
+        "min_sale_price": 395000,
+        "max_sale_price": 395000
+      },
+      "rank": 1
+    },
+    {
+      "handle": "anker-soundcore-pyro-mini",
+      "title": "Anker Soundcore Pyro Mini",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_488ba066-24ba-435d-8c1b-c87cb7f3d971.webp?v=1754660316",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Anker",
+        "Music",
+        "Portable Speakers",
+        "Speaker"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 220000,
+            "sale_price": 180000,
+            "percentage_off": 18
+          }
+        ],
+        "min_regular_price": 220000,
+        "max_regular_price": 220000,
+        "min_sale_price": 180000,
+        "max_sale_price": 180000
+      },
+      "rank": 2
+    },
+    {
+      "handle": "aquasound-bluetooth-speaker",
+      "title": "AquaSound™ – Waterproof Bluetooth Speaker with Suction Mount",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9671fc51-c8f1-4590-9f56-2c3bb141fdbf.jpg?v=1754337148",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Music",
+        "Portable Speakers",
+        "Speaker"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 200000,
+            "sale_price": 145000,
+            "percentage_off": 28
+          }
+        ],
+        "min_regular_price": 200000,
+        "max_regular_price": 200000,
+        "min_sale_price": 145000,
+        "max_sale_price": 145000
+      },
+      "rank": 3
+    },
+    {
+      "handle": "beats-pill-wireless-bluetooth®-speaker-matte-black",
+      "title": "Beats Pill – Wireless Bluetooth® Speaker (Matte Black)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3a5f2525-d5e6-4efb-a6a5-236915cbb8be.jpg?v=1754651203",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Beats",
+        "Music",
+        "Portable Speakers",
+        "Speaker"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 690000,
+            "sale_price": 625000,
+            "percentage_off": 9
+          }
+        ],
+        "min_regular_price": 690000,
+        "max_regular_price": 690000,
+        "min_sale_price": 625000,
+        "max_sale_price": 625000
+      },
+      "rank": 4
+    },
+    {
+      "handle": "jbl-go-4-ultra-portable-bluetooth®-speaker",
+      "title": "JBL Go 4 — Ultra-Portable Bluetooth® Speaker",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_6c34340b-afd4-41aa-bed4-a6885ea6b09b.webp?v=1754661617",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "JBL",
+        "Music",
+        "Portable Speakers",
         "Speaker"
       ],
       "pricing": {
@@ -1616,7 +1724,7 @@
       "tags": [
         "Music",
         "Porodo",
-        "Portable Speaker",
+        "Portable Speakers",
         "Speaker"
       ],
       "pricing": {
@@ -1643,7 +1751,7 @@
       "revenue": 0,
       "tags": [
         "Music",
-        "Portable Speaker",
+        "Portable Speakers",
         "Sony",
         "Speaker"
       ],
@@ -1671,6 +1779,7 @@
       "revenue": 0,
       "tags": [
         "Music",
+        "Portable Speakers",
         "Speaker"
       ],
       "pricing": {
@@ -1697,6 +1806,7 @@
       "revenue": 0,
       "tags": [
         "Music",
+        "Portable Speakers",
         "Speaker"
       ],
       "pricing": {
@@ -1723,7 +1833,7 @@
       "revenue": 0,
       "tags": [
         "Music",
-        "Portable Speaker",
+        "Portable Speakers",
         "Speaker",
         "Xiaomi"
       ],
@@ -3240,7 +3350,7 @@
       "tags": [
         "Beats",
         "Music",
-        "Portable Speaker",
+        "Portable Speakers",
         "Speaker"
       ],
       "pricing": {
@@ -4339,6 +4449,32 @@
       "rank": 3
     },
     {
+      "handle": "jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones",
+      "title": "JBL TUNE 770NC – Adaptive Noise-Cancelling Over-Ear Headphones",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a1ae2789-ce10-46fe-8e8b-2abc5c9672a3.jpg?v=1755281918",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Headphones",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 400000,
+            "sale_price": 375000,
+            "percentage_off": 6
+          }
+        ],
+        "min_regular_price": 400000,
+        "max_regular_price": 400000,
+        "min_sale_price": 375000,
+        "max_sale_price": 375000
+      },
+      "rank": 4
+    },
+    {
       "handle": "powerology-hybrid-anc-headphone",
       "title": "Powerology Hybrid ANC Headphone",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_339dd619-d4a9-44ee-91f8-f088916e7b07.jpg?v=1755273990",
@@ -4362,7 +4498,7 @@
         "min_sale_price": 195000,
         "max_sale_price": 195000
       },
-      "rank": 4
+      "rank": 5
     },
     {
       "handle": "powerology-hybrid-anc-headphone-cream",
@@ -4388,7 +4524,7 @@
         "min_sale_price": 195000,
         "max_sale_price": 195000
       },
-      "rank": 5
+      "rank": 6
     },
     {
       "handle": "wireless-bluetooth-headband-comfort-meets-sound",
@@ -4414,7 +4550,7 @@
         "min_sale_price": 115000,
         "max_sale_price": 115000
       },
-      "rank": 6
+      "rank": 7
     }
   ],
   "Office": [
@@ -4706,7 +4842,7 @@
       "tags": [
         "JBL",
         "Music",
-        "Portable Speaker",
+        "Portable Speakers",
         "Speaker"
       ],
       "pricing": {
@@ -4724,6 +4860,32 @@
         "max_sale_price": 245000
       },
       "rank": 1
+    },
+    {
+      "handle": "jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones",
+      "title": "JBL TUNE 770NC – Adaptive Noise-Cancelling Over-Ear Headphones",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a1ae2789-ce10-46fe-8e8b-2abc5c9672a3.jpg?v=1755281918",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Headphones",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 400000,
+            "sale_price": 375000,
+            "percentage_off": 6
+          }
+        ],
+        "min_regular_price": 400000,
+        "max_regular_price": 400000,
+        "min_sale_price": 375000,
+        "max_sale_price": 375000
+      },
+      "rank": 2
     }
   ],
   "Gaming": [
@@ -4752,6 +4914,60 @@
         "max_sale_price": 1220000
       },
       "rank": 1
+    }
+  ],
+  "Oraimo": [
+    {
+      "handle": "oraimo-freepods-4-anc-true-wireless-earbuds",
+      "title": "Oraimo FreePods 4 – ANC True Wireless Earbuds",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9ccf712e-29e1-4ee9-8cf6-379d0dc97f94.webp?v=1755275949",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Earbuds",
+        "Oraimo"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 225000,
+            "sale_price": 180000,
+            "percentage_off": 20
+          }
+        ],
+        "min_regular_price": 225000,
+        "max_regular_price": 225000,
+        "min_sale_price": 180000,
+        "max_sale_price": 180000
+      },
+      "rank": 1
+    },
+    {
+      "handle": "oraimo-soundflow-50w-wireless-speaker",
+      "title": "Oraimo SoundFlow 50W Wireless Speaker",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_97178671-4d50-4567-a345-533b1a149aa2.jpg?v=1755278186",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Oraimo",
+        "Portable Speakers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 295000,
+            "sale_price": 250000,
+            "percentage_off": 15
+          }
+        ],
+        "min_regular_price": 295000,
+        "max_regular_price": 295000,
+        "min_sale_price": 250000,
+        "max_sale_price": 250000
+      },
+      "rank": 2
     }
   ],
   "Porodo": [
@@ -4793,7 +5009,7 @@
       "tags": [
         "Music",
         "Porodo",
-        "Portable Speaker",
+        "Portable Speakers",
         "Speaker"
       ],
       "pricing": {
@@ -6073,7 +6289,7 @@
       "revenue": 0,
       "tags": [
         "Music",
-        "Portable Speaker",
+        "Portable Speakers",
         "Sony",
         "Speaker"
       ],
@@ -6270,7 +6486,7 @@
       "revenue": 0,
       "tags": [
         "Music",
-        "Portable Speaker",
+        "Portable Speakers",
         "Speaker",
         "Xiaomi"
       ],

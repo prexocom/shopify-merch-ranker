@@ -7,7 +7,6 @@
     "revenue": 0,
     "tags": [
       "Earbuds",
-      "Music",
       "Phone Accessories"
     ],
     "pricing": {
@@ -25,6 +24,32 @@
       "max_sale_price": 98000
     },
     "rank": 1
+  },
+  {
+    "handle": "oraimo-freepods-4-anc-true-wireless-earbuds",
+    "title": "Oraimo FreePods 4 – ANC True Wireless Earbuds",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9ccf712e-29e1-4ee9-8cf6-379d0dc97f94.webp?v=1755275949",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Earbuds",
+      "Oraimo"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 225000,
+          "sale_price": 180000,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 225000,
+      "max_regular_price": 225000,
+      "min_sale_price": 180000,
+      "max_sale_price": 180000
+    },
+    "rank": 2
   },
   {
     "handle": "powerology-6-mic-hybrid-anc-enc-tws-earbuds",
@@ -50,7 +75,7 @@
       "min_sale_price": 120000,
       "max_sale_price": 120000
     },
-    "rank": 2
+    "rank": 3
   },
   {
     "handle": "powerology-air-conduction-enc-tws-earbuds-with-display",
@@ -76,7 +101,7 @@
       "min_sale_price": 195000,
       "max_sale_price": 195000
     },
-    "rank": 3
+    "rank": 4
   },
   {
     "handle": "powerology-quad-mic-enc-tws-earbuds",
@@ -102,6 +127,6 @@
       "min_sale_price": 95000,
       "max_sale_price": 95000
     },
-    "rank": 4
+    "rank": 5
   }
 ]

@@ -87,6 +87,32 @@
     "rank": 3
   },
   {
+    "handle": "jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones",
+    "title": "JBL TUNE 770NC – Adaptive Noise-Cancelling Over-Ear Headphones",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a1ae2789-ce10-46fe-8e8b-2abc5c9672a3.jpg?v=1755281918",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Headphones",
+      "JBL"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 400000,
+          "sale_price": 375000,
+          "percentage_off": 6
+        }
+      ],
+      "min_regular_price": 400000,
+      "max_regular_price": 400000,
+      "min_sale_price": 375000,
+      "max_sale_price": 375000
+    },
+    "rank": 4
+  },
+  {
     "handle": "powerology-hybrid-anc-headphone",
     "title": "Powerology Hybrid ANC Headphone",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_339dd619-d4a9-44ee-91f8-f088916e7b07.jpg?v=1755273990",
@@ -110,7 +136,7 @@
       "min_sale_price": 195000,
       "max_sale_price": 195000
     },
-    "rank": 4
+    "rank": 5
   },
   {
     "handle": "powerology-hybrid-anc-headphone-cream",
@@ -136,7 +162,7 @@
       "min_sale_price": 195000,
       "max_sale_price": 195000
     },
-    "rank": 5
+    "rank": 6
   },
   {
     "handle": "wireless-bluetooth-headband-comfort-meets-sound",
@@ -162,6 +188,6 @@
       "min_sale_price": 115000,
       "max_sale_price": 115000
     },
-    "rank": 6
+    "rank": 7
   }
 ]
