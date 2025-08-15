@@ -1,0 +1,107 @@
+[
+  {
+    "handle": "amaya-tk04-earbuds",
+    "title": "Amaya TK04 Earbuds",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_67ad79eb-079b-4c86-8962-b1eb035e6d4c.jpg?v=1754387060",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Earbuds",
+      "Music",
+      "Phone Accessories"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 130000,
+          "sale_price": 98000,
+          "percentage_off": 25
+        }
+      ],
+      "min_regular_price": 130000,
+      "max_regular_price": 130000,
+      "min_sale_price": 98000,
+      "max_sale_price": 98000
+    },
+    "rank": 1
+  },
+  {
+    "handle": "powerology-6-mic-hybrid-anc-enc-tws-earbuds",
+    "title": "Powerology 6-Mic Hybrid ANC + ENC TWS Earbuds",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fd9f7ff8-e7dd-4cb8-8c66-3904ea4577f7.jpg?v=1755273381",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Earbuds",
+      "Powerology"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 150000,
+          "sale_price": 120000,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 150000,
+      "max_regular_price": 150000,
+      "min_sale_price": 120000,
+      "max_sale_price": 120000
+    },
+    "rank": 2
+  },
+  {
+    "handle": "powerology-air-conduction-enc-tws-earbuds-with-display",
+    "title": "Powerology Air Conduction ENC TWS Earbuds (with Display)",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_4ad2a8f9-aa10-471c-8072-562d79c0492a.jpg?v=1755271565",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Earbuds",
+      "Powerology"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 220000,
+          "sale_price": 195000,
+          "percentage_off": 11
+        }
+      ],
+      "min_regular_price": 220000,
+      "max_regular_price": 220000,
+      "min_sale_price": 195000,
+      "max_sale_price": 195000
+    },
+    "rank": 3
+  },
+  {
+    "handle": "powerology-quad-mic-enc-tws-earbuds",
+    "title": "Powerology Quad Mic ENC TWS Earbuds",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_39b8e672-6735-480f-95a9-6bb30d7ad171.jpg?v=1755272608",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Earbuds",
+      "Powerology"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 95000,
+          "sale_price": 95000,
+          "percentage_off": 0
+        }
+      ],
+      "min_regular_price": 95000,
+      "max_regular_price": 95000,
+      "min_sale_price": 95000,
+      "max_sale_price": 95000
+    },
+    "rank": 4
+  }
+]

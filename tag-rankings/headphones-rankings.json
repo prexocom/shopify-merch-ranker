@@ -1,32 +1,5 @@
 [
   {
-    "handle": "amaya-tk04-earbuds",
-    "title": "Amaya TK04 Earbuds",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_67ad79eb-079b-4c86-8962-b1eb035e6d4c.jpg?v=1754387060",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Headphones",
-      "Music",
-      "Phone Accessories"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 130000,
-          "sale_price": 98000,
-          "percentage_off": 25
-        }
-      ],
-      "min_regular_price": 130000,
-      "max_regular_price": 130000,
-      "min_sale_price": 98000,
-      "max_sale_price": 98000
-    },
-    "rank": 1
-  },
-  {
     "handle": "green-lion-echo-max-headphones",
     "title": "Green Lion Echo Max Headphones",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0d89593e-1173-49fe-8eb4-699785dcd7f4.jpg?v=1754944773",
@@ -53,7 +26,7 @@
       "min_sale_price": 175000,
       "max_sale_price": 175000
     },
-    "rank": 2
+    "rank": 1
   },
   {
     "handle": "green-lion-echo-max-headphones-black",
@@ -82,7 +55,7 @@
       "min_sale_price": 175000,
       "max_sale_price": 175000
     },
-    "rank": 3
+    "rank": 2
   },
   {
     "handle": "copy-green-lion-echo-max-headphones-orange",
@@ -111,7 +84,59 @@
       "min_sale_price": 175000,
       "max_sale_price": 175000
     },
+    "rank": 3
+  },
+  {
+    "handle": "powerology-hybrid-anc-headphone",
+    "title": "Powerology Hybrid ANC Headphone",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_339dd619-d4a9-44ee-91f8-f088916e7b07.jpg?v=1755273990",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Headphones",
+      "Powerology"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 230000,
+          "sale_price": 195000,
+          "percentage_off": 15
+        }
+      ],
+      "min_regular_price": 230000,
+      "max_regular_price": 230000,
+      "min_sale_price": 195000,
+      "max_sale_price": 195000
+    },
     "rank": 4
+  },
+  {
+    "handle": "powerology-hybrid-anc-headphone-cream",
+    "title": "Powerology Hybrid ANC Headphone - Cream",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5e1e2716-6595-4505-9863-2dcfb44145e9.jpg?v=1755275083",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Headphones",
+      "Powerology"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 230000,
+          "sale_price": 195000,
+          "percentage_off": 15
+        }
+      ],
+      "min_regular_price": 230000,
+      "max_regular_price": 230000,
+      "min_sale_price": 195000,
+      "max_sale_price": 195000
+    },
+    "rank": 5
   },
   {
     "handle": "wireless-bluetooth-headband-comfort-meets-sound",
@@ -137,6 +162,6 @@
       "min_sale_price": 115000,
       "max_sale_price": 115000
     },
-    "rank": 5
+    "rank": 6
   }
 ]

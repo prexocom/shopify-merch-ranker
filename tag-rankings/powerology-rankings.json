@@ -54,6 +54,58 @@
     "rank": 2
   },
   {
+    "handle": "powerology-6-mic-hybrid-anc-enc-tws-earbuds",
+    "title": "Powerology 6-Mic Hybrid ANC + ENC TWS Earbuds",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fd9f7ff8-e7dd-4cb8-8c66-3904ea4577f7.jpg?v=1755273381",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Earbuds",
+      "Powerology"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 150000,
+          "sale_price": 120000,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 150000,
+      "max_regular_price": 150000,
+      "min_sale_price": 120000,
+      "max_sale_price": 120000
+    },
+    "rank": 3
+  },
+  {
+    "handle": "powerology-air-conduction-enc-tws-earbuds-with-display",
+    "title": "Powerology Air Conduction ENC TWS Earbuds (with Display)",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_4ad2a8f9-aa10-471c-8072-562d79c0492a.jpg?v=1755271565",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Earbuds",
+      "Powerology"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 220000,
+          "sale_price": 195000,
+          "percentage_off": 11
+        }
+      ],
+      "min_regular_price": 220000,
+      "max_regular_price": 220000,
+      "min_sale_price": 195000,
+      "max_sale_price": 195000
+    },
+    "rank": 4
+  },
+  {
     "handle": "powerology-built-in-solar-outdoor-camera",
     "title": "Powerology Built-in Solar Outdoor Camera",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f6cb4452-0bd6-4c0c-843f-8d888ebdcf24.webp?v=1754595537",
@@ -79,7 +131,7 @@
       "min_sale_price": 320000,
       "max_sale_price": 320000
     },
-    "rank": 3
+    "rank": 5
   },
   {
     "handle": "powerology-built-in-solar-pan-tilt-outdoor-camera-2k",
@@ -107,7 +159,7 @@
       "min_sale_price": 395000,
       "max_sale_price": 395000
     },
-    "rank": 4
+    "rank": 6
   },
   {
     "handle": "powerology-dual-screen-portable-monitor",
@@ -134,7 +186,7 @@
       "min_sale_price": 1250000,
       "max_sale_price": 1250000
     },
-    "rank": 5
+    "rank": 7
   },
   {
     "handle": "powerology-dynamic800-portable-power-station-800w-black",
@@ -160,7 +212,59 @@
       "min_sale_price": 1950000,
       "max_sale_price": 1950000
     },
-    "rank": 6
+    "rank": 8
+  },
+  {
+    "handle": "powerology-hybrid-anc-headphone",
+    "title": "Powerology Hybrid ANC Headphone",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_339dd619-d4a9-44ee-91f8-f088916e7b07.jpg?v=1755273990",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Headphones",
+      "Powerology"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 230000,
+          "sale_price": 195000,
+          "percentage_off": 15
+        }
+      ],
+      "min_regular_price": 230000,
+      "max_regular_price": 230000,
+      "min_sale_price": 195000,
+      "max_sale_price": 195000
+    },
+    "rank": 9
+  },
+  {
+    "handle": "powerology-hybrid-anc-headphone-cream",
+    "title": "Powerology Hybrid ANC Headphone - Cream",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5e1e2716-6595-4505-9863-2dcfb44145e9.jpg?v=1755275083",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Headphones",
+      "Powerology"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 230000,
+          "sale_price": 195000,
+          "percentage_off": 15
+        }
+      ],
+      "min_regular_price": 230000,
+      "max_regular_price": 230000,
+      "min_sale_price": 195000,
+      "max_sale_price": 195000
+    },
+    "rank": 10
   },
   {
     "handle": "powerology-onyx-30000mah-dual-usb-c-power-bank",
@@ -186,7 +290,33 @@
       "min_sale_price": 270000,
       "max_sale_price": 270000
     },
-    "rank": 7
+    "rank": 11
+  },
+  {
+    "handle": "powerology-quad-mic-enc-tws-earbuds",
+    "title": "Powerology Quad Mic ENC TWS Earbuds",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_39b8e672-6735-480f-95a9-6bb30d7ad171.jpg?v=1755272608",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Earbuds",
+      "Powerology"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 95000,
+          "sale_price": 95000,
+          "percentage_off": 0
+        }
+      ],
+      "min_regular_price": 95000,
+      "max_regular_price": 95000,
+      "min_sale_price": 95000,
+      "max_sale_price": 95000
+    },
+    "rank": 12
   },
   {
     "handle": "powerology-ultra-portable-air-compressor-power-bank",
@@ -212,7 +342,7 @@
       "min_sale_price": 220000,
       "max_sale_price": 220000
     },
-    "rank": 8
+    "rank": 13
   },
   {
     "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
@@ -241,6 +371,6 @@
       "min_sale_price": 620000,
       "max_sale_price": 620000
     },
-    "rank": 9
+    "rank": 14
   }
 ]
