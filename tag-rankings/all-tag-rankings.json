@@ -27,6 +27,136 @@
       "rank": 1
     },
     {
+      "handle": "jbl-tune-buds-true-wireless-anc-earbuds",
+      "title": "JBL Tune Buds – True Wireless ANC Earbuds",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a8797835-9b51-4bc6-8839-2f3b090a7fdf.webp?v=1755330412",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Earbuds",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 420000,
+            "sale_price": 369000,
+            "percentage_off": 12
+          }
+        ],
+        "min_regular_price": 420000,
+        "max_regular_price": 420000,
+        "min_sale_price": 369000,
+        "max_sale_price": 369000
+      },
+      "rank": 2
+    },
+    {
+      "handle": "jbl-tune-buds-true-wireless-anc-earbuds-blue",
+      "title": "JBL Tune Buds – True Wireless ANC Earbuds (Blue)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f9561e1c-f0fe-4f32-9b4f-5b2d580e606f.webp?v=1755331221",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Earbuds",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 420000,
+            "sale_price": 369000,
+            "percentage_off": 12
+          }
+        ],
+        "min_regular_price": 420000,
+        "max_regular_price": 420000,
+        "min_sale_price": 369000,
+        "max_sale_price": 369000
+      },
+      "rank": 3
+    },
+    {
+      "handle": "jbl-tune-buds-true-wireless-anc-earbuds-purple",
+      "title": "JBL Tune Buds – True Wireless ANC Earbuds (Purple)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_00a6ee5a-10eb-404d-be6b-2e6ab08878aa.webp?v=1755331396",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Earbuds",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 420000,
+            "sale_price": 369000,
+            "percentage_off": 12
+          }
+        ],
+        "min_regular_price": 420000,
+        "max_regular_price": 420000,
+        "min_sale_price": 369000,
+        "max_sale_price": 369000
+      },
+      "rank": 4
+    },
+    {
+      "handle": "jbl-tune-buds-true-wireless-anc-earbuds-white",
+      "title": "JBL Tune Buds – True Wireless ANC Earbuds (White)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_02ee04a6-c461-45f7-9a4a-49ff7cc91b14.webp?v=1755331476",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Earbuds",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 420000,
+            "sale_price": 369000,
+            "percentage_off": 12
+          }
+        ],
+        "min_regular_price": 420000,
+        "max_regular_price": 420000,
+        "min_sale_price": 369000,
+        "max_sale_price": 369000
+      },
+      "rank": 5
+    },
+    {
+      "handle": "jbl-vibe-flex-true-wireless-earbuds",
+      "title": "JBL Vibe Flex – True Wireless Earbuds",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_32d3fe0d-042d-4ef1-af72-7eda77002c4f.webp?v=1755332261",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Earbuds",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 300000,
+            "sale_price": 285000,
+            "percentage_off": 5
+          }
+        ],
+        "min_regular_price": 300000,
+        "max_regular_price": 300000,
+        "min_sale_price": 285000,
+        "max_sale_price": 285000
+      },
+      "rank": 6
+    },
+    {
       "handle": "oraimo-freepods-4-anc-true-wireless-earbuds",
       "title": "Oraimo FreePods 4 – ANC True Wireless Earbuds",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9ccf712e-29e1-4ee9-8cf6-379d0dc97f94.webp?v=1755275949",
@@ -50,7 +180,7 @@
         "min_sale_price": 180000,
         "max_sale_price": 180000
       },
-      "rank": 2
+      "rank": 7
     },
     {
       "handle": "powerology-6-mic-hybrid-anc-enc-tws-earbuds",
@@ -76,7 +206,7 @@
         "min_sale_price": 120000,
         "max_sale_price": 120000
       },
-      "rank": 3
+      "rank": 8
     },
     {
       "handle": "powerology-air-conduction-enc-tws-earbuds-with-display",
@@ -102,7 +232,7 @@
         "min_sale_price": 195000,
         "max_sale_price": 195000
       },
-      "rank": 4
+      "rank": 9
     },
     {
       "handle": "powerology-quad-mic-enc-tws-earbuds",
@@ -128,7 +258,7 @@
         "min_sale_price": 95000,
         "max_sale_price": 95000
       },
-      "rank": 5
+      "rank": 10
     }
   ],
   "Phone Accessories": [
@@ -4990,6 +5120,136 @@
         "max_sale_price": 375000
       },
       "rank": 4
+    },
+    {
+      "handle": "jbl-tune-buds-true-wireless-anc-earbuds",
+      "title": "JBL Tune Buds – True Wireless ANC Earbuds",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a8797835-9b51-4bc6-8839-2f3b090a7fdf.webp?v=1755330412",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Earbuds",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 420000,
+            "sale_price": 369000,
+            "percentage_off": 12
+          }
+        ],
+        "min_regular_price": 420000,
+        "max_regular_price": 420000,
+        "min_sale_price": 369000,
+        "max_sale_price": 369000
+      },
+      "rank": 5
+    },
+    {
+      "handle": "jbl-tune-buds-true-wireless-anc-earbuds-blue",
+      "title": "JBL Tune Buds – True Wireless ANC Earbuds (Blue)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f9561e1c-f0fe-4f32-9b4f-5b2d580e606f.webp?v=1755331221",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Earbuds",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 420000,
+            "sale_price": 369000,
+            "percentage_off": 12
+          }
+        ],
+        "min_regular_price": 420000,
+        "max_regular_price": 420000,
+        "min_sale_price": 369000,
+        "max_sale_price": 369000
+      },
+      "rank": 6
+    },
+    {
+      "handle": "jbl-tune-buds-true-wireless-anc-earbuds-purple",
+      "title": "JBL Tune Buds – True Wireless ANC Earbuds (Purple)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_00a6ee5a-10eb-404d-be6b-2e6ab08878aa.webp?v=1755331396",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Earbuds",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 420000,
+            "sale_price": 369000,
+            "percentage_off": 12
+          }
+        ],
+        "min_regular_price": 420000,
+        "max_regular_price": 420000,
+        "min_sale_price": 369000,
+        "max_sale_price": 369000
+      },
+      "rank": 7
+    },
+    {
+      "handle": "jbl-tune-buds-true-wireless-anc-earbuds-white",
+      "title": "JBL Tune Buds – True Wireless ANC Earbuds (White)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_02ee04a6-c461-45f7-9a4a-49ff7cc91b14.webp?v=1755331476",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Earbuds",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 420000,
+            "sale_price": 369000,
+            "percentage_off": 12
+          }
+        ],
+        "min_regular_price": 420000,
+        "max_regular_price": 420000,
+        "min_sale_price": 369000,
+        "max_sale_price": 369000
+      },
+      "rank": 8
+    },
+    {
+      "handle": "jbl-vibe-flex-true-wireless-earbuds",
+      "title": "JBL Vibe Flex – True Wireless Earbuds",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_32d3fe0d-042d-4ef1-af72-7eda77002c4f.webp?v=1755332261",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Earbuds",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 300000,
+            "sale_price": 285000,
+            "percentage_off": 5
+          }
+        ],
+        "min_regular_price": 300000,
+        "max_regular_price": 300000,
+        "min_sale_price": 285000,
+        "max_sale_price": 285000
+      },
+      "rank": 9
     }
   ],
   "Gaming": [
