@@ -7,6 +7,20 @@
     "score": 1
   },
   {
+    "handle": "lumifan-360-light-fan",
+    "in_stock": true,
+    "units_sold": 1,
+    "revenue": 188000,
+    "score": 0.7824
+  },
+  {
+    "handle": "anker-soundcore-pyro-mini",
+    "in_stock": true,
+    "units_sold": 1,
+    "revenue": 180000,
+    "score": 0.7661
+  },
+  {
     "handle": "ufo-raindrop-humidifier",
     "in_stock": true,
     "units_sold": 1,
@@ -36,13 +50,6 @@
   },
   {
     "handle": "anker-soundcore-glow",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "anker-soundcore-pyro-mini",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
@@ -365,13 +372,6 @@
   },
   {
     "handle": "logitech-g29-driving-force-racing-wheel-pedals",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "lumifan-360-light-fan",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
