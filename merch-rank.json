@@ -259,6 +259,13 @@
     "score": 0.1
   },
   {
+    "handle": "jbl-endurance-peak-3",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
     "handle": "jbl-go-4-ultra-portable-bluetooth®-speaker",
     "in_stock": true,
     "units_sold": 0,
@@ -316,6 +323,34 @@
   },
   {
     "handle": "jbl-vibe-flex-true-wireless-earbuds",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "jbl-wave-flex-2",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "jbl-wave-flex-2-blue",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "jbl-wave-flex-2-pink",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "jbl-wave-flex-2-white",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
