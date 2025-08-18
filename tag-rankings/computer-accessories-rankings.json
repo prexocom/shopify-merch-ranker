@@ -1,92 +1,5 @@
 [
   {
-    "handle": "green-lion-echo-max-headphones",
-    "title": "Green Lion Echo Max Headphones",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0d89593e-1173-49fe-8eb4-699785dcd7f4.jpg?v=1754944773",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Computer Accessories",
-      "Green Lion",
-      "Headphones",
-      "Music",
-      "Phone Accessories"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 220000,
-          "sale_price": 175000,
-          "percentage_off": 20
-        }
-      ],
-      "min_regular_price": 220000,
-      "max_regular_price": 220000,
-      "min_sale_price": 175000,
-      "max_sale_price": 175000
-    },
-    "rank": 1
-  },
-  {
-    "handle": "green-lion-echo-max-headphones-black",
-    "title": "Green Lion Echo Max Headphones - Black",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_447f91eb-6fb7-4e3a-bf58-228c1dce5af4.jpg?v=1754945095",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Computer Accessories",
-      "Green Lion",
-      "Headphones",
-      "Music",
-      "Phone Accessories"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 220000,
-          "sale_price": 175000,
-          "percentage_off": 20
-        }
-      ],
-      "min_regular_price": 220000,
-      "max_regular_price": 220000,
-      "min_sale_price": 175000,
-      "max_sale_price": 175000
-    },
-    "rank": 2
-  },
-  {
-    "handle": "copy-green-lion-echo-max-headphones-orange",
-    "title": "Green Lion Echo Max Headphones - Orange",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_87fc8554-b91c-4656-8a18-ab1de65b12bb.webp?v=1754945345",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Computer Accessories",
-      "Green Lion",
-      "Headphones",
-      "Music",
-      "Phone Accessories"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 220000,
-          "sale_price": 175000,
-          "percentage_off": 20
-        }
-      ],
-      "min_regular_price": 220000,
-      "max_regular_price": 220000,
-      "min_sale_price": 175000,
-      "max_sale_price": 175000
-    },
-    "rank": 3
-  },
-  {
     "handle": "green-lion-gan-65w-multi-port-travel-adapter",
     "title": "Green Lion GaN 65W Multi-Port Travel Adapter",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3813bdf2-ef52-46b9-8aa4-c293c0734f0c.jpg?v=1754754721",
@@ -112,7 +25,7 @@
       "min_sale_price": 290000,
       "max_sale_price": 290000
     },
-    "rank": 4
+    "rank": 1
   },
   {
     "handle": "green-lion-wireless-presenter-with-retractable-pointer",
@@ -138,7 +51,7 @@
       "min_sale_price": 95000,
       "max_sale_price": 95000
     },
-    "rank": 5
+    "rank": 2
   },
   {
     "handle": "keyfold-pro-foldable-bluetooth-keyboard",
@@ -164,7 +77,7 @@
       "min_sale_price": 155000,
       "max_sale_price": 155000
     },
-    "rank": 6
+    "rank": 3
   },
   {
     "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
@@ -193,7 +106,7 @@
       "min_sale_price": 185000,
       "max_sale_price": 185000
     },
-    "rank": 7
+    "rank": 4
   },
   {
     "handle": "powerology-dual-screen-portable-monitor",
@@ -220,7 +133,7 @@
       "min_sale_price": 1250000,
       "max_sale_price": 1250000
     },
-    "rank": 8
+    "rank": 5
   },
   {
     "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
@@ -249,7 +162,7 @@
       "min_sale_price": 620000,
       "max_sale_price": 620000
     },
-    "rank": 9
+    "rank": 6
   },
   {
     "handle": "prexoplay-wireless-bluetooth-game-controller",
@@ -276,7 +189,7 @@
       "min_sale_price": 75000,
       "max_sale_price": 75000
     },
-    "rank": 10
+    "rank": 7
   },
   {
     "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
@@ -301,6 +214,6 @@
       "min_sale_price": 1350000,
       "max_sale_price": 1350000
     },
-    "rank": 11
+    "rank": 8
   }
 ]

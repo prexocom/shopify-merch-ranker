@@ -526,93 +526,6 @@
       "rank": 5
     },
     {
-      "handle": "green-lion-echo-max-headphones",
-      "title": "Green Lion Echo Max Headphones",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0d89593e-1173-49fe-8eb4-699785dcd7f4.jpg?v=1754944773",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Green Lion",
-        "Headphones",
-        "Music",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 175000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 175000,
-        "max_sale_price": 175000
-      },
-      "rank": 6
-    },
-    {
-      "handle": "green-lion-echo-max-headphones-black",
-      "title": "Green Lion Echo Max Headphones - Black",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_447f91eb-6fb7-4e3a-bf58-228c1dce5af4.jpg?v=1754945095",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Green Lion",
-        "Headphones",
-        "Music",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 175000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 175000,
-        "max_sale_price": 175000
-      },
-      "rank": 7
-    },
-    {
-      "handle": "copy-green-lion-echo-max-headphones-orange",
-      "title": "Green Lion Echo Max Headphones - Orange",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_87fc8554-b91c-4656-8a18-ab1de65b12bb.webp?v=1754945345",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Green Lion",
-        "Headphones",
-        "Music",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 175000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 175000,
-        "max_sale_price": 175000
-      },
-      "rank": 8
-    },
-    {
       "handle": "green-lion-gan-65w-multi-port-travel-adapter",
       "title": "Green Lion GaN 65W Multi-Port Travel Adapter",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3813bdf2-ef52-46b9-8aa4-c293c0734f0c.jpg?v=1754754721",
@@ -638,7 +551,7 @@
         "min_sale_price": 290000,
         "max_sale_price": 290000
       },
-      "rank": 9
+      "rank": 6
     },
     {
       "handle": "green-lion-new-york-gimbal-smart-face-tracking",
@@ -667,7 +580,7 @@
         "min_sale_price": 425000,
         "max_sale_price": 425000
       },
-      "rank": 10
+      "rank": 7
     },
     {
       "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
@@ -692,7 +605,7 @@
         "min_sale_price": 185000,
         "max_sale_price": 185000
       },
-      "rank": 11
+      "rank": 8
     },
     {
       "handle": "keyfold-pro-foldable-bluetooth-keyboard",
@@ -718,7 +631,7 @@
         "min_sale_price": 155000,
         "max_sale_price": 155000
       },
-      "rank": 12
+      "rank": 9
     },
     {
       "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
@@ -747,7 +660,7 @@
         "min_sale_price": 315000,
         "max_sale_price": 315000
       },
-      "rank": 13
+      "rank": 10
     },
     {
       "handle": "porodo-quadbase-gimbal-stabilizer",
@@ -776,7 +689,7 @@
         "min_sale_price": 175000,
         "max_sale_price": 175000
       },
-      "rank": 14
+      "rank": 11
     },
     {
       "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
@@ -805,7 +718,7 @@
         "min_sale_price": 185000,
         "max_sale_price": 185000
       },
-      "rank": 15
+      "rank": 12
     },
     {
       "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
@@ -834,7 +747,7 @@
         "min_sale_price": 620000,
         "max_sale_price": 620000
       },
-      "rank": 16
+      "rank": 13
     },
     {
       "handle": "prexoplay-wireless-bluetooth-game-controller",
@@ -861,7 +774,7 @@
         "min_sale_price": 75000,
         "max_sale_price": 75000
       },
-      "rank": 17
+      "rank": 14
     },
     {
       "handle": "samsung-galaxy-smarttag2",
@@ -888,7 +801,7 @@
         "min_sale_price": 137000,
         "max_sale_price": 137000
       },
-      "rank": 18
+      "rank": 15
     },
     {
       "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
@@ -914,7 +827,7 @@
         "min_sale_price": 150000,
         "max_sale_price": 150000
       },
-      "rank": 19
+      "rank": 16
     }
   ],
   "Amazon": [
@@ -1222,93 +1135,6 @@
       "rank": 5
     },
     {
-      "handle": "green-lion-echo-max-headphones",
-      "title": "Green Lion Echo Max Headphones",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0d89593e-1173-49fe-8eb4-699785dcd7f4.jpg?v=1754944773",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Green Lion",
-        "Headphones",
-        "Music",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 175000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 175000,
-        "max_sale_price": 175000
-      },
-      "rank": 6
-    },
-    {
-      "handle": "green-lion-echo-max-headphones-black",
-      "title": "Green Lion Echo Max Headphones - Black",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_447f91eb-6fb7-4e3a-bf58-228c1dce5af4.jpg?v=1754945095",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Green Lion",
-        "Headphones",
-        "Music",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 175000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 175000,
-        "max_sale_price": 175000
-      },
-      "rank": 7
-    },
-    {
-      "handle": "copy-green-lion-echo-max-headphones-orange",
-      "title": "Green Lion Echo Max Headphones - Orange",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_87fc8554-b91c-4656-8a18-ab1de65b12bb.webp?v=1754945345",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Green Lion",
-        "Headphones",
-        "Music",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 175000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 175000,
-        "max_sale_price": 175000
-      },
-      "rank": 8
-    },
-    {
       "handle": "jbl-go-4-ultra-portable-bluetooth®-speaker",
       "title": "JBL Go 4 — Ultra-Portable Bluetooth® Speaker",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_6c34340b-afd4-41aa-bed4-a6885ea6b09b.webp?v=1754661617",
@@ -1334,7 +1160,7 @@
         "min_sale_price": 245000,
         "max_sale_price": 245000
       },
-      "rank": 9
+      "rank": 6
     },
     {
       "handle": "porodo-bluetooth-conference-speaker",
@@ -1362,7 +1188,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 10
+      "rank": 7
     },
     {
       "handle": "sony-srs-xb100-wireless-speaker",
@@ -1390,7 +1216,7 @@
         "min_sale_price": 279000,
         "max_sale_price": 279000
       },
-      "rank": 11
+      "rank": 8
     },
     {
       "handle": "vintage-mini-wireless-speaker-classic-looks-modern-sound",
@@ -1417,7 +1243,7 @@
         "min_sale_price": 139000,
         "max_sale_price": 139000
       },
-      "rank": 12
+      "rank": 9
     },
     {
       "handle": "waterproof-mini-bluetooth-speaker-big-sound-tiny-body",
@@ -1444,7 +1270,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 13
+      "rank": 10
     },
     {
       "handle": "wireless-bluetooth-headband-comfort-meets-sound",
@@ -1470,7 +1296,7 @@
         "min_sale_price": 115000,
         "max_sale_price": 115000
       },
-      "rank": 14
+      "rank": 11
     },
     {
       "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
@@ -1498,7 +1324,7 @@
         "min_sale_price": 155000,
         "max_sale_price": 155000
       },
-      "rank": 15
+      "rank": 12
     },
     {
       "handle": "magic-speaker-bulb-light-sound-combined",
@@ -1527,7 +1353,7 @@
         "min_sale_price": 98000,
         "max_sale_price": 98000
       },
-      "rank": 16
+      "rank": 13
     }
   ],
   "Portable Speakers": [
@@ -4043,11 +3869,8 @@
       "units_sold": 0,
       "revenue": 0,
       "tags": [
-        "Computer Accessories",
         "Green Lion",
-        "Headphones",
-        "Music",
-        "Phone Accessories"
+        "Headphones"
       ],
       "pricing": {
         "variants": [
@@ -4072,11 +3895,8 @@
       "units_sold": 0,
       "revenue": 0,
       "tags": [
-        "Computer Accessories",
         "Green Lion",
-        "Headphones",
-        "Music",
-        "Phone Accessories"
+        "Headphones"
       ],
       "pricing": {
         "variants": [
@@ -4101,11 +3921,8 @@
       "units_sold": 0,
       "revenue": 0,
       "tags": [
-        "Computer Accessories",
         "Green Lion",
-        "Headphones",
-        "Music",
-        "Phone Accessories"
+        "Headphones"
       ],
       "pricing": {
         "variants": [
@@ -4314,312 +4131,6 @@
       "rank": 12
     }
   ],
-  "Computer Accessories": [
-    {
-      "handle": "green-lion-echo-max-headphones",
-      "title": "Green Lion Echo Max Headphones",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0d89593e-1173-49fe-8eb4-699785dcd7f4.jpg?v=1754944773",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Green Lion",
-        "Headphones",
-        "Music",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 175000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 175000,
-        "max_sale_price": 175000
-      },
-      "rank": 1
-    },
-    {
-      "handle": "green-lion-echo-max-headphones-black",
-      "title": "Green Lion Echo Max Headphones - Black",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_447f91eb-6fb7-4e3a-bf58-228c1dce5af4.jpg?v=1754945095",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Green Lion",
-        "Headphones",
-        "Music",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 175000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 175000,
-        "max_sale_price": 175000
-      },
-      "rank": 2
-    },
-    {
-      "handle": "copy-green-lion-echo-max-headphones-orange",
-      "title": "Green Lion Echo Max Headphones - Orange",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_87fc8554-b91c-4656-8a18-ab1de65b12bb.webp?v=1754945345",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Green Lion",
-        "Headphones",
-        "Music",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 175000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 175000,
-        "max_sale_price": 175000
-      },
-      "rank": 3
-    },
-    {
-      "handle": "green-lion-gan-65w-multi-port-travel-adapter",
-      "title": "Green Lion GaN 65W Multi-Port Travel Adapter",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3813bdf2-ef52-46b9-8aa4-c293c0734f0c.jpg?v=1754754721",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Green Lion",
-        "Office",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 350000,
-            "sale_price": 290000,
-            "percentage_off": 17
-          }
-        ],
-        "min_regular_price": 350000,
-        "max_regular_price": 350000,
-        "min_sale_price": 290000,
-        "max_sale_price": 290000
-      },
-      "rank": 4
-    },
-    {
-      "handle": "green-lion-wireless-presenter-with-retractable-pointer",
-      "title": "Green Lion Wireless Presenter with Retractable Pointer",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3b90ddbf-6c12-49b3-bf18-3d61398e824a.webp?v=1754756879",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Office"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 120000,
-            "sale_price": 95000,
-            "percentage_off": 21
-          }
-        ],
-        "min_regular_price": 120000,
-        "max_regular_price": 120000,
-        "min_sale_price": 95000,
-        "max_sale_price": 95000
-      },
-      "rank": 5
-    },
-    {
-      "handle": "keyfold-pro-foldable-bluetooth-keyboard",
-      "title": "Keyfold Pro - Foldable Bluetooth Keyboard",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_03e0123a-e5b8-4d65-a9b0-e76114fc9eb2.jpg?v=1749641752",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 155000,
-            "percentage_off": 30
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 155000,
-        "max_sale_price": 155000
-      },
-      "rank": 6
-    },
-    {
-      "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
-      "title": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7bd625dc-210f-4246-bee1-ed3244615580.webp?v=1754643849",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Home Decor",
-        "Kitchen",
-        "Office",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 185000,
-            "sale_price": 185000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 185000,
-        "max_regular_price": 185000,
-        "min_sale_price": 185000,
-        "max_sale_price": 185000
-      },
-      "rank": 7
-    },
-    {
-      "handle": "powerology-dual-screen-portable-monitor",
-      "title": "Powerology Dual Screen Portable Monitor",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_06675db1-3818-4688-9027-05b6412cb3a6.jpg?v=1754753103",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Office",
-        "Powerology"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 1400000,
-            "sale_price": 1250000,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 1400000,
-        "max_regular_price": 1400000,
-        "min_sale_price": 1250000,
-        "max_sale_price": 1250000
-      },
-      "rank": 8
-    },
-    {
-      "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
-      "title": "Powerology Ultra-Slim Full HD Portable Monitor 15.6\"",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d0e7a5a3-ea2b-4aa6-a746-213a3d4df581.webp?v=1754755760",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Office",
-        "Phone Accessories",
-        "Portable Monitor",
-        "Powerology"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 700000,
-            "sale_price": 620000,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 700000,
-        "max_regular_price": 700000,
-        "min_sale_price": 620000,
-        "max_sale_price": 620000
-      },
-      "rank": 9
-    },
-    {
-      "handle": "prexoplay-wireless-bluetooth-game-controller",
-      "title": "PrexoPlay – Wireless Bluetooth Game Controller",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_287bda09-5cdd-48bc-88af-7144f01050ef.png?v=1749641692",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Entertainment",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 129000,
-            "sale_price": 75000,
-            "percentage_off": 42
-          }
-        ],
-        "min_regular_price": 129000,
-        "max_regular_price": 129000,
-        "min_sale_price": 75000,
-        "max_sale_price": 75000
-      },
-      "rank": 10
-    },
-    {
-      "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
-      "title": "TriFoldView Pro - Portable Screen Extender",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bf492e8c-0a5f-41fe-b666-3ddf7ce8cb0b.jpg?v=1749641740",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 1500000,
-            "sale_price": 1350000,
-            "percentage_off": 10
-          }
-        ],
-        "min_regular_price": 1500000,
-        "max_regular_price": 1500000,
-        "min_sale_price": 1350000,
-        "max_sale_price": 1350000
-      },
-      "rank": 11
-    }
-  ],
   "Headphones": [
     {
       "handle": "green-lion-echo-max-headphones",
@@ -4628,11 +4139,8 @@
       "units_sold": 0,
       "revenue": 0,
       "tags": [
-        "Computer Accessories",
         "Green Lion",
-        "Headphones",
-        "Music",
-        "Phone Accessories"
+        "Headphones"
       ],
       "pricing": {
         "variants": [
@@ -4657,11 +4165,8 @@
       "units_sold": 0,
       "revenue": 0,
       "tags": [
-        "Computer Accessories",
         "Green Lion",
-        "Headphones",
-        "Music",
-        "Phone Accessories"
+        "Headphones"
       ],
       "pricing": {
         "variants": [
@@ -4686,11 +4191,8 @@
       "units_sold": 0,
       "revenue": 0,
       "tags": [
-        "Computer Accessories",
         "Green Lion",
-        "Headphones",
-        "Music",
-        "Phone Accessories"
+        "Headphones"
       ],
       "pricing": {
         "variants": [
@@ -4863,6 +4365,225 @@
         "max_sale_price": 115000
       },
       "rank": 9
+    }
+  ],
+  "Computer Accessories": [
+    {
+      "handle": "green-lion-gan-65w-multi-port-travel-adapter",
+      "title": "Green Lion GaN 65W Multi-Port Travel Adapter",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3813bdf2-ef52-46b9-8aa4-c293c0734f0c.jpg?v=1754754721",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Office",
+        "Phone Accessories"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 350000,
+            "sale_price": 290000,
+            "percentage_off": 17
+          }
+        ],
+        "min_regular_price": 350000,
+        "max_regular_price": 350000,
+        "min_sale_price": 290000,
+        "max_sale_price": 290000
+      },
+      "rank": 1
+    },
+    {
+      "handle": "green-lion-wireless-presenter-with-retractable-pointer",
+      "title": "Green Lion Wireless Presenter with Retractable Pointer",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3b90ddbf-6c12-49b3-bf18-3d61398e824a.webp?v=1754756879",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Office"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 120000,
+            "sale_price": 95000,
+            "percentage_off": 21
+          }
+        ],
+        "min_regular_price": 120000,
+        "max_regular_price": 120000,
+        "min_sale_price": 95000,
+        "max_sale_price": 95000
+      },
+      "rank": 2
+    },
+    {
+      "handle": "keyfold-pro-foldable-bluetooth-keyboard",
+      "title": "Keyfold Pro - Foldable Bluetooth Keyboard",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_03e0123a-e5b8-4d65-a9b0-e76114fc9eb2.jpg?v=1749641752",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Phone Accessories"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 220000,
+            "sale_price": 155000,
+            "percentage_off": 30
+          }
+        ],
+        "min_regular_price": 220000,
+        "max_regular_price": 220000,
+        "min_sale_price": 155000,
+        "max_sale_price": 155000
+      },
+      "rank": 3
+    },
+    {
+      "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
+      "title": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7bd625dc-210f-4246-bee1-ed3244615580.webp?v=1754643849",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Home Decor",
+        "Kitchen",
+        "Office",
+        "Phone Accessories"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 185000,
+            "sale_price": 185000,
+            "percentage_off": 0
+          }
+        ],
+        "min_regular_price": 185000,
+        "max_regular_price": 185000,
+        "min_sale_price": 185000,
+        "max_sale_price": 185000
+      },
+      "rank": 4
+    },
+    {
+      "handle": "powerology-dual-screen-portable-monitor",
+      "title": "Powerology Dual Screen Portable Monitor",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_06675db1-3818-4688-9027-05b6412cb3a6.jpg?v=1754753103",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Office",
+        "Powerology"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 1400000,
+            "sale_price": 1250000,
+            "percentage_off": 11
+          }
+        ],
+        "min_regular_price": 1400000,
+        "max_regular_price": 1400000,
+        "min_sale_price": 1250000,
+        "max_sale_price": 1250000
+      },
+      "rank": 5
+    },
+    {
+      "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
+      "title": "Powerology Ultra-Slim Full HD Portable Monitor 15.6\"",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d0e7a5a3-ea2b-4aa6-a746-213a3d4df581.webp?v=1754755760",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Office",
+        "Phone Accessories",
+        "Portable Monitor",
+        "Powerology"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 700000,
+            "sale_price": 620000,
+            "percentage_off": 11
+          }
+        ],
+        "min_regular_price": 700000,
+        "max_regular_price": 700000,
+        "min_sale_price": 620000,
+        "max_sale_price": 620000
+      },
+      "rank": 6
+    },
+    {
+      "handle": "prexoplay-wireless-bluetooth-game-controller",
+      "title": "PrexoPlay – Wireless Bluetooth Game Controller",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_287bda09-5cdd-48bc-88af-7144f01050ef.png?v=1749641692",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Entertainment",
+        "Phone Accessories"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 129000,
+            "sale_price": 75000,
+            "percentage_off": 42
+          }
+        ],
+        "min_regular_price": 129000,
+        "max_regular_price": 129000,
+        "min_sale_price": 75000,
+        "max_sale_price": 75000
+      },
+      "rank": 7
+    },
+    {
+      "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
+      "title": "TriFoldView Pro - Portable Screen Extender",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bf492e8c-0a5f-41fe-b666-3ddf7ce8cb0b.jpg?v=1749641740",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 1500000,
+            "sale_price": 1350000,
+            "percentage_off": 10
+          }
+        ],
+        "min_regular_price": 1500000,
+        "max_regular_price": 1500000,
+        "min_sale_price": 1350000,
+        "max_sale_price": 1350000
+      },
+      "rank": 8
     }
   ],
   "Office": [
