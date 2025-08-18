@@ -532,10 +532,12 @@
       "units_sold": 0,
       "revenue": 0,
       "tags": [
+        "Adapters & Chargers",
         "Computer Accessories",
         "Green Lion",
         "Office",
-        "Phone Accessories"
+        "Phone Accessories",
+        "Wireless Chargers"
       ],
       "pricing": {
         "variants": [
@@ -552,6 +554,34 @@
         "max_sale_price": 290000
       },
       "rank": 6
+    },
+    {
+      "handle": "green-lion-mouse-pad-with-wireless-charger",
+      "title": "Green Lion Mouse Pad with Wireless Charger",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1e3bd37e-62d8-4170-a8ed-e20eceeefdf3.jpg?v=1755549275",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Phone Accessories",
+        "Wireless Chargers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 180000,
+            "sale_price": 145000,
+            "percentage_off": 19
+          }
+        ],
+        "min_regular_price": 180000,
+        "max_regular_price": 180000,
+        "min_sale_price": 145000,
+        "max_sale_price": 145000
+      },
+      "rank": 7
     },
     {
       "handle": "green-lion-new-york-gimbal-smart-face-tracking",
@@ -580,7 +610,7 @@
         "min_sale_price": 425000,
         "max_sale_price": 425000
       },
-      "rank": 7
+      "rank": 8
     },
     {
       "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
@@ -589,7 +619,9 @@
       "units_sold": 0,
       "revenue": 0,
       "tags": [
-        "Phone Accessories"
+        "Green Lion",
+        "Phone Accessories",
+        "Wireless Chargers"
       ],
       "pricing": {
         "variants": [
@@ -605,7 +637,7 @@
         "min_sale_price": 185000,
         "max_sale_price": 185000
       },
-      "rank": 8
+      "rank": 9
     },
     {
       "handle": "keyfold-pro-foldable-bluetooth-keyboard",
@@ -631,7 +663,7 @@
         "min_sale_price": 155000,
         "max_sale_price": 155000
       },
-      "rank": 9
+      "rank": 10
     },
     {
       "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
@@ -660,7 +692,7 @@
         "min_sale_price": 315000,
         "max_sale_price": 315000
       },
-      "rank": 10
+      "rank": 11
     },
     {
       "handle": "porodo-quadbase-gimbal-stabilizer",
@@ -688,35 +720,6 @@
         "max_regular_price": 220000,
         "min_sale_price": 175000,
         "max_sale_price": 175000
-      },
-      "rank": 11
-    },
-    {
-      "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
-      "title": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7bd625dc-210f-4246-bee1-ed3244615580.webp?v=1754643849",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Home Decor",
-        "Kitchen",
-        "Office",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 185000,
-            "sale_price": 185000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 185000,
-        "max_regular_price": 185000,
-        "min_sale_price": 185000,
-        "max_sale_price": 185000
       },
       "rank": 12
     },
@@ -2429,35 +2432,6 @@
       "rank": 7
     },
     {
-      "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
-      "title": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7bd625dc-210f-4246-bee1-ed3244615580.webp?v=1754643849",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Home Decor",
-        "Kitchen",
-        "Office",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 185000,
-            "sale_price": 185000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 185000,
-        "max_regular_price": 185000,
-        "min_sale_price": 185000,
-        "max_sale_price": 185000
-      },
-      "rank": 8
-    },
-    {
       "handle": "volcano-essential-oil-diffuser",
       "title": "Prexo Volcano Humidifier",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/volcano-effect-aroma-diffuser-3.jpg?v=1749641964",
@@ -2481,7 +2455,7 @@
         "min_sale_price": 135000,
         "max_sale_price": 135000
       },
-      "rank": 9
+      "rank": 8
     },
     {
       "handle": "steamloco™-aromatherapy-train-humidifier",
@@ -2507,7 +2481,7 @@
         "min_sale_price": 188000,
         "max_sale_price": 188000
       },
-      "rank": 10
+      "rank": 9
     },
     {
       "handle": "magic-speaker-bulb-light-sound-combined",
@@ -2536,7 +2510,7 @@
         "min_sale_price": 98000,
         "max_sale_price": 98000
       },
-      "rank": 11
+      "rank": 10
     }
   ],
   "humidifier": [
@@ -3754,35 +3728,6 @@
       "rank": 1
     },
     {
-      "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
-      "title": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7bd625dc-210f-4246-bee1-ed3244615580.webp?v=1754643849",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Home Decor",
-        "Kitchen",
-        "Office",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 185000,
-            "sale_price": 185000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 185000,
-        "max_regular_price": 185000,
-        "min_sale_price": 185000,
-        "max_sale_price": 185000
-      },
-      "rank": 2
-    },
-    {
       "handle": "120-can-mini-beverage-refrigerator",
       "title": "🧊 120-Can Mini Beverage Refrigerator",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_502b238c-7a86-401e-8c52-c079908a7ff3.jpg?v=1754433862",
@@ -3806,10 +3751,62 @@
         "min_sale_price": 1740000,
         "max_sale_price": 1740000
       },
-      "rank": 3
+      "rank": 2
     }
   ],
   "Green Lion": [
+    {
+      "handle": "green-lion-360-rotatable-laptop-stand",
+      "title": "Green Lion 360 Rotatable Laptop Stand",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_27be5940-6fd1-4fa1-b189-317c157f3dc4.jpg?v=1755552283",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Laptop Stands"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 195000,
+            "sale_price": 195000,
+            "percentage_off": 0
+          }
+        ],
+        "min_regular_price": 195000,
+        "max_regular_price": 195000,
+        "min_sale_price": 195000,
+        "max_sale_price": 195000
+      },
+      "rank": 1
+    },
+    {
+      "handle": "green-lion-adjustable-laptop-stand-with-cooling-fan",
+      "title": "Green Lion Adjustable Laptop Stand with Cooling Fan",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_def6fc92-090a-43f7-96c4-ac8fcf16d538.webp?v=1755550569",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Laptop Stands"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 270000,
+            "sale_price": 230000,
+            "percentage_off": 15
+          }
+        ],
+        "min_regular_price": 270000,
+        "max_regular_price": 270000,
+        "min_sale_price": 230000,
+        "max_sale_price": 230000
+      },
+      "rank": 2
+    },
     {
       "handle": "green-lion-cx240-cordless-pressure-wash-gun",
       "title": "Green Lion CX240 Cordless Pressure Wash Gun",
@@ -3834,7 +3831,7 @@
         "min_sale_price": 285000,
         "max_sale_price": 285000
       },
-      "rank": 1
+      "rank": 3
     },
     {
       "handle": "green-lion-digital-luggage-scale-50-kg-max",
@@ -3860,7 +3857,7 @@
         "min_sale_price": 95000,
         "max_sale_price": 95000
       },
-      "rank": 2
+      "rank": 4
     },
     {
       "handle": "green-lion-echo-max-headphones",
@@ -3886,7 +3883,7 @@
         "min_sale_price": 175000,
         "max_sale_price": 175000
       },
-      "rank": 3
+      "rank": 5
     },
     {
       "handle": "green-lion-echo-max-headphones-black",
@@ -3912,7 +3909,7 @@
         "min_sale_price": 175000,
         "max_sale_price": 175000
       },
-      "rank": 4
+      "rank": 6
     },
     {
       "handle": "copy-green-lion-echo-max-headphones-orange",
@@ -3938,7 +3935,7 @@
         "min_sale_price": 175000,
         "max_sale_price": 175000
       },
-      "rank": 5
+      "rank": 7
     },
     {
       "handle": "green-lion-gan-65w-multi-port-travel-adapter",
@@ -3947,10 +3944,12 @@
       "units_sold": 0,
       "revenue": 0,
       "tags": [
+        "Adapters & Chargers",
         "Computer Accessories",
         "Green Lion",
         "Office",
-        "Phone Accessories"
+        "Phone Accessories",
+        "Wireless Chargers"
       ],
       "pricing": {
         "variants": [
@@ -3966,7 +3965,35 @@
         "min_sale_price": 290000,
         "max_sale_price": 290000
       },
-      "rank": 6
+      "rank": 8
+    },
+    {
+      "handle": "green-lion-mouse-pad-with-wireless-charger",
+      "title": "Green Lion Mouse Pad with Wireless Charger",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1e3bd37e-62d8-4170-a8ed-e20eceeefdf3.jpg?v=1755549275",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Phone Accessories",
+        "Wireless Chargers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 180000,
+            "sale_price": 145000,
+            "percentage_off": 19
+          }
+        ],
+        "min_regular_price": 180000,
+        "max_regular_price": 180000,
+        "min_sale_price": 145000,
+        "max_sale_price": 145000
+      },
+      "rank": 9
     },
     {
       "handle": "green-lion-new-york-gimbal-smart-face-tracking",
@@ -3995,7 +4022,7 @@
         "min_sale_price": 425000,
         "max_sale_price": 425000
       },
-      "rank": 7
+      "rank": 10
     },
     {
       "handle": "green-lion-portable-oral-irrigator-300-ml",
@@ -4021,7 +4048,34 @@
         "min_sale_price": 175000,
         "max_sale_price": 175000
       },
-      "rank": 8
+      "rank": 11
+    },
+    {
+      "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
+      "title": "Green Lion Power Trio™ – 3-in-1 Magnetic Wireless Charger",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ee366daa-24a3-46b9-9846-910d007df480.jpg?v=1749641860",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Phone Accessories",
+        "Wireless Chargers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 220000,
+            "sale_price": 185000,
+            "percentage_off": 16
+          }
+        ],
+        "min_regular_price": 220000,
+        "max_regular_price": 220000,
+        "min_sale_price": 185000,
+        "max_sale_price": 185000
+      },
+      "rank": 12
     },
     {
       "handle": "green-lion-prisma-4k-portable-projector",
@@ -4048,7 +4102,7 @@
         "min_sale_price": 650000,
         "max_sale_price": 650000
       },
-      "rank": 9
+      "rank": 13
     },
     {
       "handle": "green-lion-smart-body-scale-8-electrode-advanced-analysis",
@@ -4074,7 +4128,7 @@
         "min_sale_price": 245000,
         "max_sale_price": 245000
       },
-      "rank": 10
+      "rank": 14
     },
     {
       "handle": "green-lion-smart-brush-60-ultrawide",
@@ -4101,7 +4155,7 @@
         "min_sale_price": 185000,
         "max_sale_price": 185000
       },
-      "rank": 11
+      "rank": 15
     },
     {
       "handle": "green-lion-smart-toothbrush-sanitizer",
@@ -4128,7 +4182,87 @@
         "min_sale_price": 160000,
         "max_sale_price": 160000
       },
-      "rank": 12
+      "rank": 16
+    },
+    {
+      "handle": "green-lion-thermal-portable-printer",
+      "title": "Green Lion Thermal Label Printer",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1783cc3b-61ce-4d97-8f32-3a3b656b5ab7.jpg?v=1755551780",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Portable Printers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 280000,
+            "sale_price": 245000,
+            "percentage_off": 13
+          }
+        ],
+        "min_regular_price": 280000,
+        "max_regular_price": 280000,
+        "min_sale_price": 245000,
+        "max_sale_price": 245000
+      },
+      "rank": 17
+    }
+  ],
+  "Laptop Stands": [
+    {
+      "handle": "green-lion-360-rotatable-laptop-stand",
+      "title": "Green Lion 360 Rotatable Laptop Stand",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_27be5940-6fd1-4fa1-b189-317c157f3dc4.jpg?v=1755552283",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Laptop Stands"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 195000,
+            "sale_price": 195000,
+            "percentage_off": 0
+          }
+        ],
+        "min_regular_price": 195000,
+        "max_regular_price": 195000,
+        "min_sale_price": 195000,
+        "max_sale_price": 195000
+      },
+      "rank": 1
+    },
+    {
+      "handle": "green-lion-adjustable-laptop-stand-with-cooling-fan",
+      "title": "Green Lion Adjustable Laptop Stand with Cooling Fan",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_def6fc92-090a-43f7-96c4-ac8fcf16d538.webp?v=1755550569",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Laptop Stands"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 270000,
+            "sale_price": 230000,
+            "percentage_off": 15
+          }
+        ],
+        "min_regular_price": 270000,
+        "max_regular_price": 270000,
+        "min_sale_price": 230000,
+        "max_sale_price": 230000
+      },
+      "rank": 2
     }
   ],
   "Headphones": [
@@ -4211,6 +4345,214 @@
       "rank": 3
     },
     {
+      "handle": "jbl-live-770nc-over-ear-headphones-black",
+      "title": "JBL Live 770NC Over-Ear Headphones (Black)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3471d615-cb65-4806-b561-483ef9663899.jpg?v=1755544378",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Headphones",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 620000,
+            "sale_price": 550000,
+            "percentage_off": 11
+          }
+        ],
+        "min_regular_price": 620000,
+        "max_regular_price": 620000,
+        "min_sale_price": 550000,
+        "max_sale_price": 550000
+      },
+      "rank": 4
+    },
+    {
+      "handle": "jbl-live-770nc-over-ear-headphones",
+      "title": "JBL Live 770NC Over-Ear Headphones (Blue)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1a31ed41-c912-4252-b0d9-18d081539545.webp?v=1755542657",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Headphones",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 620000,
+            "sale_price": 550000,
+            "percentage_off": 11
+          }
+        ],
+        "min_regular_price": 620000,
+        "max_regular_price": 620000,
+        "min_sale_price": 550000,
+        "max_sale_price": 550000
+      },
+      "rank": 5
+    },
+    {
+      "handle": "jbl-live-770nc-over-ear-headphones-sandstone",
+      "title": "JBL Live 770NC Over-Ear Headphones (Sandstone)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2210a7b8-d5ef-4d57-89d4-995fcd4df6e1.webp?v=1755544499",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Headphones",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 620000,
+            "sale_price": 550000,
+            "percentage_off": 11
+          }
+        ],
+        "min_regular_price": 620000,
+        "max_regular_price": 620000,
+        "min_sale_price": 550000,
+        "max_sale_price": 550000
+      },
+      "rank": 6
+    },
+    {
+      "handle": "jbl-live-770nc-over-ear-headphones-white",
+      "title": "JBL Live 770NC Over-Ear Headphones (White)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_87a148fd-303a-4ba6-a98b-36b261e08d3d.jpg?v=1755544441",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Headphones",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 620000,
+            "sale_price": 550000,
+            "percentage_off": 11
+          }
+        ],
+        "min_regular_price": 620000,
+        "max_regular_price": 620000,
+        "min_sale_price": 550000,
+        "max_sale_price": 550000
+      },
+      "rank": 7
+    },
+    {
+      "handle": "jbl-tune-520bt-wireless-on-ear-headphones-black",
+      "title": "JBL Tune 520BT – Wireless On-Ear Headphones (Black)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_384cef21-b62e-4442-8885-f0c8fc6ace27.jpg?v=1755546180",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Headphones",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 250000,
+            "sale_price": 220000,
+            "percentage_off": 12
+          }
+        ],
+        "min_regular_price": 250000,
+        "max_regular_price": 250000,
+        "min_sale_price": 220000,
+        "max_sale_price": 220000
+      },
+      "rank": 8
+    },
+    {
+      "handle": "jbl-tune-520bt-wireless-on-ear-headphones-blue",
+      "title": "JBL Tune 520BT – Wireless On-Ear Headphones (Blue)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_87369e5c-dd3c-4458-a11c-df2d7341d254.webp?v=1755545439",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Headphones",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 230000,
+            "sale_price": 190000,
+            "percentage_off": 17
+          }
+        ],
+        "min_regular_price": 230000,
+        "max_regular_price": 230000,
+        "min_sale_price": 190000,
+        "max_sale_price": 190000
+      },
+      "rank": 9
+    },
+    {
+      "handle": "jbl-tune-520bt-wireless-on-ear-headphones-purple",
+      "title": "JBL Tune 520BT – Wireless On-Ear Headphones (Purple)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ef10b952-d8ec-4a74-8d7a-4d262b785d22.jpg?v=1755546389",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Headphones",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 255000,
+            "sale_price": 227000,
+            "percentage_off": 11
+          }
+        ],
+        "min_regular_price": 255000,
+        "max_regular_price": 255000,
+        "min_sale_price": 227000,
+        "max_sale_price": 227000
+      },
+      "rank": 10
+    },
+    {
+      "handle": "jbl-tune-520bt-wireless-on-ear-headphones-white",
+      "title": "JBL Tune 520BT – Wireless On-Ear Headphones (White)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d127a324-c26a-4677-9521-8494f0350a6c.webp?v=1755546450",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Headphones",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 230000,
+            "sale_price": 195000,
+            "percentage_off": 15
+          }
+        ],
+        "min_regular_price": 230000,
+        "max_regular_price": 230000,
+        "min_sale_price": 195000,
+        "max_sale_price": 195000
+      },
+      "rank": 11
+    },
+    {
       "handle": "copy-jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones-black",
       "title": "JBL TUNE 770NC – Adaptive Noise-Cancelling Over-Ear Headphones (Black)",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_95ab9637-ba51-4b93-8d05-22acf6a632f6.jpg?v=1755283096",
@@ -4234,7 +4576,7 @@
         "min_sale_price": 375000,
         "max_sale_price": 375000
       },
-      "rank": 4
+      "rank": 12
     },
     {
       "handle": "jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones",
@@ -4260,7 +4602,7 @@
         "min_sale_price": 375000,
         "max_sale_price": 375000
       },
-      "rank": 5
+      "rank": 13
     },
     {
       "handle": "jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones-white",
@@ -4286,7 +4628,7 @@
         "min_sale_price": 375000,
         "max_sale_price": 375000
       },
-      "rank": 6
+      "rank": 14
     },
     {
       "handle": "powerology-hybrid-anc-headphone",
@@ -4312,7 +4654,7 @@
         "min_sale_price": 195000,
         "max_sale_price": 195000
       },
-      "rank": 7
+      "rank": 15
     },
     {
       "handle": "powerology-hybrid-anc-headphone-cream",
@@ -4338,7 +4680,7 @@
         "min_sale_price": 195000,
         "max_sale_price": 195000
       },
-      "rank": 8
+      "rank": 16
     },
     {
       "handle": "wireless-bluetooth-headband-comfort-meets-sound",
@@ -4364,10 +4706,10 @@
         "min_sale_price": 115000,
         "max_sale_price": 115000
       },
-      "rank": 9
+      "rank": 17
     }
   ],
-  "Computer Accessories": [
+  "Adapters & Chargers": [
     {
       "handle": "green-lion-gan-65w-multi-port-travel-adapter",
       "title": "Green Lion GaN 65W Multi-Port Travel Adapter",
@@ -4375,10 +4717,12 @@
       "units_sold": 0,
       "revenue": 0,
       "tags": [
+        "Adapters & Chargers",
         "Computer Accessories",
         "Green Lion",
         "Office",
-        "Phone Accessories"
+        "Phone Accessories",
+        "Wireless Chargers"
       ],
       "pricing": {
         "variants": [
@@ -4395,6 +4739,66 @@
         "max_sale_price": 290000
       },
       "rank": 1
+    }
+  ],
+  "Computer Accessories": [
+    {
+      "handle": "green-lion-gan-65w-multi-port-travel-adapter",
+      "title": "Green Lion GaN 65W Multi-Port Travel Adapter",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3813bdf2-ef52-46b9-8aa4-c293c0734f0c.jpg?v=1754754721",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Adapters & Chargers",
+        "Computer Accessories",
+        "Green Lion",
+        "Office",
+        "Phone Accessories",
+        "Wireless Chargers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 350000,
+            "sale_price": 290000,
+            "percentage_off": 17
+          }
+        ],
+        "min_regular_price": 350000,
+        "max_regular_price": 350000,
+        "min_sale_price": 290000,
+        "max_sale_price": 290000
+      },
+      "rank": 1
+    },
+    {
+      "handle": "green-lion-mouse-pad-with-wireless-charger",
+      "title": "Green Lion Mouse Pad with Wireless Charger",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1e3bd37e-62d8-4170-a8ed-e20eceeefdf3.jpg?v=1755549275",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Phone Accessories",
+        "Wireless Chargers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 180000,
+            "sale_price": 145000,
+            "percentage_off": 19
+          }
+        ],
+        "min_regular_price": 180000,
+        "max_regular_price": 180000,
+        "min_sale_price": 145000,
+        "max_sale_price": 145000
+      },
+      "rank": 2
     },
     {
       "handle": "green-lion-wireless-presenter-with-retractable-pointer",
@@ -4420,7 +4824,7 @@
         "min_sale_price": 95000,
         "max_sale_price": 95000
       },
-      "rank": 2
+      "rank": 3
     },
     {
       "handle": "keyfold-pro-foldable-bluetooth-keyboard",
@@ -4445,35 +4849,6 @@
         "max_regular_price": 220000,
         "min_sale_price": 155000,
         "max_sale_price": 155000
-      },
-      "rank": 3
-    },
-    {
-      "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
-      "title": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7bd625dc-210f-4246-bee1-ed3244615580.webp?v=1754643849",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Home Decor",
-        "Kitchen",
-        "Office",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 185000,
-            "sale_price": 185000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 185000,
-        "max_regular_price": 185000,
-        "min_sale_price": 185000,
-        "max_sale_price": 185000
       },
       "rank": 4
     },
@@ -4594,10 +4969,12 @@
       "units_sold": 0,
       "revenue": 0,
       "tags": [
+        "Adapters & Chargers",
         "Computer Accessories",
         "Green Lion",
         "Office",
-        "Phone Accessories"
+        "Phone Accessories",
+        "Wireless Chargers"
       ],
       "pricing": {
         "variants": [
@@ -4644,27 +5021,24 @@
     {
       "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
       "title": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7bd625dc-210f-4246-bee1-ed3244615580.webp?v=1754643849",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_be47bce4-3a24-4f13-abbf-8a4dd0a5dbc8.jpg?v=1755554007",
       "units_sold": 0,
       "revenue": 0,
       "tags": [
-        "Computer Accessories",
-        "Home Decor",
-        "Kitchen",
         "Office",
-        "Phone Accessories"
+        "Portable Printers"
       ],
       "pricing": {
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 185000,
+            "regular_price": 220000,
             "sale_price": 185000,
-            "percentage_off": 0
+            "percentage_off": 16
           }
         ],
-        "min_regular_price": 185000,
-        "max_regular_price": 185000,
+        "min_regular_price": 220000,
+        "max_regular_price": 220000,
         "min_sale_price": 185000,
         "max_sale_price": 185000
       },
@@ -4725,6 +5099,93 @@
         "max_sale_price": 620000
       },
       "rank": 5
+    }
+  ],
+  "Wireless Chargers": [
+    {
+      "handle": "green-lion-gan-65w-multi-port-travel-adapter",
+      "title": "Green Lion GaN 65W Multi-Port Travel Adapter",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3813bdf2-ef52-46b9-8aa4-c293c0734f0c.jpg?v=1754754721",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Adapters & Chargers",
+        "Computer Accessories",
+        "Green Lion",
+        "Office",
+        "Phone Accessories",
+        "Wireless Chargers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 350000,
+            "sale_price": 290000,
+            "percentage_off": 17
+          }
+        ],
+        "min_regular_price": 350000,
+        "max_regular_price": 350000,
+        "min_sale_price": 290000,
+        "max_sale_price": 290000
+      },
+      "rank": 1
+    },
+    {
+      "handle": "green-lion-mouse-pad-with-wireless-charger",
+      "title": "Green Lion Mouse Pad with Wireless Charger",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1e3bd37e-62d8-4170-a8ed-e20eceeefdf3.jpg?v=1755549275",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Phone Accessories",
+        "Wireless Chargers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 180000,
+            "sale_price": 145000,
+            "percentage_off": 19
+          }
+        ],
+        "min_regular_price": 180000,
+        "max_regular_price": 180000,
+        "min_sale_price": 145000,
+        "max_sale_price": 145000
+      },
+      "rank": 2
+    },
+    {
+      "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
+      "title": "Green Lion Power Trio™ – 3-in-1 Magnetic Wireless Charger",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ee366daa-24a3-46b9-9846-910d007df480.jpg?v=1749641860",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Phone Accessories",
+        "Wireless Chargers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 220000,
+            "sale_price": 185000,
+            "percentage_off": 16
+          }
+        ],
+        "min_regular_price": 220000,
+        "max_regular_price": 220000,
+        "min_sale_price": 185000,
+        "max_sale_price": 185000
+      },
+      "rank": 3
     }
   ],
   "Oral Care": [
@@ -4865,6 +5326,60 @@
       "rank": 2
     }
   ],
+  "Portable Printers": [
+    {
+      "handle": "green-lion-thermal-portable-printer",
+      "title": "Green Lion Thermal Label Printer",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1783cc3b-61ce-4d97-8f32-3a3b656b5ab7.jpg?v=1755551780",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Portable Printers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 280000,
+            "sale_price": 245000,
+            "percentage_off": 13
+          }
+        ],
+        "min_regular_price": 280000,
+        "max_regular_price": 280000,
+        "min_sale_price": 245000,
+        "max_sale_price": 245000
+      },
+      "rank": 1
+    },
+    {
+      "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
+      "title": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_be47bce4-3a24-4f13-abbf-8a4dd0a5dbc8.jpg?v=1755554007",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Office",
+        "Portable Printers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 220000,
+            "sale_price": 185000,
+            "percentage_off": 16
+          }
+        ],
+        "min_regular_price": 220000,
+        "max_regular_price": 220000,
+        "min_sale_price": 185000,
+        "max_sale_price": 185000
+      },
+      "rank": 2
+    }
+  ],
   "JBL": [
     {
       "handle": "jbl-endurance-peak-3",
@@ -4921,6 +5436,214 @@
       "rank": 2
     },
     {
+      "handle": "jbl-live-770nc-over-ear-headphones-black",
+      "title": "JBL Live 770NC Over-Ear Headphones (Black)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3471d615-cb65-4806-b561-483ef9663899.jpg?v=1755544378",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Headphones",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 620000,
+            "sale_price": 550000,
+            "percentage_off": 11
+          }
+        ],
+        "min_regular_price": 620000,
+        "max_regular_price": 620000,
+        "min_sale_price": 550000,
+        "max_sale_price": 550000
+      },
+      "rank": 3
+    },
+    {
+      "handle": "jbl-live-770nc-over-ear-headphones",
+      "title": "JBL Live 770NC Over-Ear Headphones (Blue)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1a31ed41-c912-4252-b0d9-18d081539545.webp?v=1755542657",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Headphones",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 620000,
+            "sale_price": 550000,
+            "percentage_off": 11
+          }
+        ],
+        "min_regular_price": 620000,
+        "max_regular_price": 620000,
+        "min_sale_price": 550000,
+        "max_sale_price": 550000
+      },
+      "rank": 4
+    },
+    {
+      "handle": "jbl-live-770nc-over-ear-headphones-sandstone",
+      "title": "JBL Live 770NC Over-Ear Headphones (Sandstone)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2210a7b8-d5ef-4d57-89d4-995fcd4df6e1.webp?v=1755544499",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Headphones",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 620000,
+            "sale_price": 550000,
+            "percentage_off": 11
+          }
+        ],
+        "min_regular_price": 620000,
+        "max_regular_price": 620000,
+        "min_sale_price": 550000,
+        "max_sale_price": 550000
+      },
+      "rank": 5
+    },
+    {
+      "handle": "jbl-live-770nc-over-ear-headphones-white",
+      "title": "JBL Live 770NC Over-Ear Headphones (White)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_87a148fd-303a-4ba6-a98b-36b261e08d3d.jpg?v=1755544441",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Headphones",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 620000,
+            "sale_price": 550000,
+            "percentage_off": 11
+          }
+        ],
+        "min_regular_price": 620000,
+        "max_regular_price": 620000,
+        "min_sale_price": 550000,
+        "max_sale_price": 550000
+      },
+      "rank": 6
+    },
+    {
+      "handle": "jbl-tune-520bt-wireless-on-ear-headphones-black",
+      "title": "JBL Tune 520BT – Wireless On-Ear Headphones (Black)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_384cef21-b62e-4442-8885-f0c8fc6ace27.jpg?v=1755546180",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Headphones",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 250000,
+            "sale_price": 220000,
+            "percentage_off": 12
+          }
+        ],
+        "min_regular_price": 250000,
+        "max_regular_price": 250000,
+        "min_sale_price": 220000,
+        "max_sale_price": 220000
+      },
+      "rank": 7
+    },
+    {
+      "handle": "jbl-tune-520bt-wireless-on-ear-headphones-blue",
+      "title": "JBL Tune 520BT – Wireless On-Ear Headphones (Blue)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_87369e5c-dd3c-4458-a11c-df2d7341d254.webp?v=1755545439",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Headphones",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 230000,
+            "sale_price": 190000,
+            "percentage_off": 17
+          }
+        ],
+        "min_regular_price": 230000,
+        "max_regular_price": 230000,
+        "min_sale_price": 190000,
+        "max_sale_price": 190000
+      },
+      "rank": 8
+    },
+    {
+      "handle": "jbl-tune-520bt-wireless-on-ear-headphones-purple",
+      "title": "JBL Tune 520BT – Wireless On-Ear Headphones (Purple)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ef10b952-d8ec-4a74-8d7a-4d262b785d22.jpg?v=1755546389",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Headphones",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 255000,
+            "sale_price": 227000,
+            "percentage_off": 11
+          }
+        ],
+        "min_regular_price": 255000,
+        "max_regular_price": 255000,
+        "min_sale_price": 227000,
+        "max_sale_price": 227000
+      },
+      "rank": 9
+    },
+    {
+      "handle": "jbl-tune-520bt-wireless-on-ear-headphones-white",
+      "title": "JBL Tune 520BT – Wireless On-Ear Headphones (White)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d127a324-c26a-4677-9521-8494f0350a6c.webp?v=1755546450",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Headphones",
+        "JBL"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 230000,
+            "sale_price": 195000,
+            "percentage_off": 15
+          }
+        ],
+        "min_regular_price": 230000,
+        "max_regular_price": 230000,
+        "min_sale_price": 195000,
+        "max_sale_price": 195000
+      },
+      "rank": 10
+    },
+    {
       "handle": "copy-jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones-black",
       "title": "JBL TUNE 770NC – Adaptive Noise-Cancelling Over-Ear Headphones (Black)",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_95ab9637-ba51-4b93-8d05-22acf6a632f6.jpg?v=1755283096",
@@ -4944,7 +5667,7 @@
         "min_sale_price": 375000,
         "max_sale_price": 375000
       },
-      "rank": 3
+      "rank": 11
     },
     {
       "handle": "jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones",
@@ -4970,7 +5693,7 @@
         "min_sale_price": 375000,
         "max_sale_price": 375000
       },
-      "rank": 4
+      "rank": 12
     },
     {
       "handle": "jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones-white",
@@ -4996,7 +5719,7 @@
         "min_sale_price": 375000,
         "max_sale_price": 375000
       },
-      "rank": 5
+      "rank": 13
     },
     {
       "handle": "jbl-tune-buds-true-wireless-anc-earbuds",
@@ -5022,7 +5745,7 @@
         "min_sale_price": 369000,
         "max_sale_price": 369000
       },
-      "rank": 6
+      "rank": 14
     },
     {
       "handle": "jbl-tune-buds-true-wireless-anc-earbuds-blue",
@@ -5048,7 +5771,7 @@
         "min_sale_price": 369000,
         "max_sale_price": 369000
       },
-      "rank": 7
+      "rank": 15
     },
     {
       "handle": "jbl-tune-buds-true-wireless-anc-earbuds-purple",
@@ -5074,7 +5797,7 @@
         "min_sale_price": 369000,
         "max_sale_price": 369000
       },
-      "rank": 8
+      "rank": 16
     },
     {
       "handle": "jbl-tune-buds-true-wireless-anc-earbuds-white",
@@ -5100,7 +5823,7 @@
         "min_sale_price": 369000,
         "max_sale_price": 369000
       },
-      "rank": 9
+      "rank": 17
     },
     {
       "handle": "jbl-vibe-flex-true-wireless-earbuds",
@@ -5126,7 +5849,7 @@
         "min_sale_price": 285000,
         "max_sale_price": 285000
       },
-      "rank": 10
+      "rank": 18
     },
     {
       "handle": "jbl-wave-flex-2",
@@ -5152,7 +5875,7 @@
         "min_sale_price": 375000,
         "max_sale_price": 375000
       },
-      "rank": 11
+      "rank": 19
     },
     {
       "handle": "jbl-wave-flex-2-blue",
@@ -5178,7 +5901,7 @@
         "min_sale_price": 375000,
         "max_sale_price": 375000
       },
-      "rank": 12
+      "rank": 20
     },
     {
       "handle": "jbl-wave-flex-2-pink",
@@ -5204,7 +5927,7 @@
         "min_sale_price": 375000,
         "max_sale_price": 375000
       },
-      "rank": 13
+      "rank": 21
     },
     {
       "handle": "jbl-wave-flex-2-white",
@@ -5230,7 +5953,7 @@
         "min_sale_price": 375000,
         "max_sale_price": 375000
       },
-      "rank": 14
+      "rank": 22
     }
   ],
   "Gaming": [

@@ -54,6 +54,214 @@
     "rank": 2
   },
   {
+    "handle": "jbl-live-770nc-over-ear-headphones-black",
+    "title": "JBL Live 770NC Over-Ear Headphones (Black)",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3471d615-cb65-4806-b561-483ef9663899.jpg?v=1755544378",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Headphones",
+      "JBL"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 620000,
+          "sale_price": 550000,
+          "percentage_off": 11
+        }
+      ],
+      "min_regular_price": 620000,
+      "max_regular_price": 620000,
+      "min_sale_price": 550000,
+      "max_sale_price": 550000
+    },
+    "rank": 3
+  },
+  {
+    "handle": "jbl-live-770nc-over-ear-headphones",
+    "title": "JBL Live 770NC Over-Ear Headphones (Blue)",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1a31ed41-c912-4252-b0d9-18d081539545.webp?v=1755542657",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Headphones",
+      "JBL"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 620000,
+          "sale_price": 550000,
+          "percentage_off": 11
+        }
+      ],
+      "min_regular_price": 620000,
+      "max_regular_price": 620000,
+      "min_sale_price": 550000,
+      "max_sale_price": 550000
+    },
+    "rank": 4
+  },
+  {
+    "handle": "jbl-live-770nc-over-ear-headphones-sandstone",
+    "title": "JBL Live 770NC Over-Ear Headphones (Sandstone)",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2210a7b8-d5ef-4d57-89d4-995fcd4df6e1.webp?v=1755544499",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Headphones",
+      "JBL"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 620000,
+          "sale_price": 550000,
+          "percentage_off": 11
+        }
+      ],
+      "min_regular_price": 620000,
+      "max_regular_price": 620000,
+      "min_sale_price": 550000,
+      "max_sale_price": 550000
+    },
+    "rank": 5
+  },
+  {
+    "handle": "jbl-live-770nc-over-ear-headphones-white",
+    "title": "JBL Live 770NC Over-Ear Headphones (White)",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_87a148fd-303a-4ba6-a98b-36b261e08d3d.jpg?v=1755544441",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Headphones",
+      "JBL"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 620000,
+          "sale_price": 550000,
+          "percentage_off": 11
+        }
+      ],
+      "min_regular_price": 620000,
+      "max_regular_price": 620000,
+      "min_sale_price": 550000,
+      "max_sale_price": 550000
+    },
+    "rank": 6
+  },
+  {
+    "handle": "jbl-tune-520bt-wireless-on-ear-headphones-black",
+    "title": "JBL Tune 520BT – Wireless On-Ear Headphones (Black)",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_384cef21-b62e-4442-8885-f0c8fc6ace27.jpg?v=1755546180",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Headphones",
+      "JBL"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 250000,
+          "sale_price": 220000,
+          "percentage_off": 12
+        }
+      ],
+      "min_regular_price": 250000,
+      "max_regular_price": 250000,
+      "min_sale_price": 220000,
+      "max_sale_price": 220000
+    },
+    "rank": 7
+  },
+  {
+    "handle": "jbl-tune-520bt-wireless-on-ear-headphones-blue",
+    "title": "JBL Tune 520BT – Wireless On-Ear Headphones (Blue)",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_87369e5c-dd3c-4458-a11c-df2d7341d254.webp?v=1755545439",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Headphones",
+      "JBL"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 230000,
+          "sale_price": 190000,
+          "percentage_off": 17
+        }
+      ],
+      "min_regular_price": 230000,
+      "max_regular_price": 230000,
+      "min_sale_price": 190000,
+      "max_sale_price": 190000
+    },
+    "rank": 8
+  },
+  {
+    "handle": "jbl-tune-520bt-wireless-on-ear-headphones-purple",
+    "title": "JBL Tune 520BT – Wireless On-Ear Headphones (Purple)",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ef10b952-d8ec-4a74-8d7a-4d262b785d22.jpg?v=1755546389",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Headphones",
+      "JBL"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 255000,
+          "sale_price": 227000,
+          "percentage_off": 11
+        }
+      ],
+      "min_regular_price": 255000,
+      "max_regular_price": 255000,
+      "min_sale_price": 227000,
+      "max_sale_price": 227000
+    },
+    "rank": 9
+  },
+  {
+    "handle": "jbl-tune-520bt-wireless-on-ear-headphones-white",
+    "title": "JBL Tune 520BT – Wireless On-Ear Headphones (White)",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d127a324-c26a-4677-9521-8494f0350a6c.webp?v=1755546450",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Headphones",
+      "JBL"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 230000,
+          "sale_price": 195000,
+          "percentage_off": 15
+        }
+      ],
+      "min_regular_price": 230000,
+      "max_regular_price": 230000,
+      "min_sale_price": 195000,
+      "max_sale_price": 195000
+    },
+    "rank": 10
+  },
+  {
     "handle": "copy-jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones-black",
     "title": "JBL TUNE 770NC – Adaptive Noise-Cancelling Over-Ear Headphones (Black)",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_95ab9637-ba51-4b93-8d05-22acf6a632f6.jpg?v=1755283096",
@@ -77,7 +285,7 @@
       "min_sale_price": 375000,
       "max_sale_price": 375000
     },
-    "rank": 3
+    "rank": 11
   },
   {
     "handle": "jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones",
@@ -103,7 +311,7 @@
       "min_sale_price": 375000,
       "max_sale_price": 375000
     },
-    "rank": 4
+    "rank": 12
   },
   {
     "handle": "jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones-white",
@@ -129,7 +337,7 @@
       "min_sale_price": 375000,
       "max_sale_price": 375000
     },
-    "rank": 5
+    "rank": 13
   },
   {
     "handle": "jbl-tune-buds-true-wireless-anc-earbuds",
@@ -155,7 +363,7 @@
       "min_sale_price": 369000,
       "max_sale_price": 369000
     },
-    "rank": 6
+    "rank": 14
   },
   {
     "handle": "jbl-tune-buds-true-wireless-anc-earbuds-blue",
@@ -181,7 +389,7 @@
       "min_sale_price": 369000,
       "max_sale_price": 369000
     },
-    "rank": 7
+    "rank": 15
   },
   {
     "handle": "jbl-tune-buds-true-wireless-anc-earbuds-purple",
@@ -207,7 +415,7 @@
       "min_sale_price": 369000,
       "max_sale_price": 369000
     },
-    "rank": 8
+    "rank": 16
   },
   {
     "handle": "jbl-tune-buds-true-wireless-anc-earbuds-white",
@@ -233,7 +441,7 @@
       "min_sale_price": 369000,
       "max_sale_price": 369000
     },
-    "rank": 9
+    "rank": 17
   },
   {
     "handle": "jbl-vibe-flex-true-wireless-earbuds",
@@ -259,7 +467,7 @@
       "min_sale_price": 285000,
       "max_sale_price": 285000
     },
-    "rank": 10
+    "rank": 18
   },
   {
     "handle": "jbl-wave-flex-2",
@@ -285,7 +493,7 @@
       "min_sale_price": 375000,
       "max_sale_price": 375000
     },
-    "rank": 11
+    "rank": 19
   },
   {
     "handle": "jbl-wave-flex-2-blue",
@@ -311,7 +519,7 @@
       "min_sale_price": 375000,
       "max_sale_price": 375000
     },
-    "rank": 12
+    "rank": 20
   },
   {
     "handle": "jbl-wave-flex-2-pink",
@@ -337,7 +545,7 @@
       "min_sale_price": 375000,
       "max_sale_price": 375000
     },
-    "rank": 13
+    "rank": 21
   },
   {
     "handle": "jbl-wave-flex-2-white",
@@ -363,6 +571,6 @@
       "min_sale_price": 375000,
       "max_sale_price": 375000
     },
-    "rank": 14
+    "rank": 22
   }
 ]

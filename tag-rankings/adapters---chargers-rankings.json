@@ -1,0 +1,32 @@
+[
+  {
+    "handle": "green-lion-gan-65w-multi-port-travel-adapter",
+    "title": "Green Lion GaN 65W Multi-Port Travel Adapter",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3813bdf2-ef52-46b9-8aa4-c293c0734f0c.jpg?v=1754754721",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Adapters & Chargers",
+      "Computer Accessories",
+      "Green Lion",
+      "Office",
+      "Phone Accessories",
+      "Wireless Chargers"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 350000,
+          "sale_price": 290000,
+          "percentage_off": 17
+        }
+      ],
+      "min_regular_price": 350000,
+      "max_regular_price": 350000,
+      "min_sale_price": 290000,
+      "max_sale_price": 290000
+    },
+    "rank": 1
+  }
+]

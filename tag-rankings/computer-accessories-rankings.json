@@ -6,10 +6,12 @@
     "units_sold": 0,
     "revenue": 0,
     "tags": [
+      "Adapters & Chargers",
       "Computer Accessories",
       "Green Lion",
       "Office",
-      "Phone Accessories"
+      "Phone Accessories",
+      "Wireless Chargers"
     ],
     "pricing": {
       "variants": [
@@ -26,6 +28,34 @@
       "max_sale_price": 290000
     },
     "rank": 1
+  },
+  {
+    "handle": "green-lion-mouse-pad-with-wireless-charger",
+    "title": "Green Lion Mouse Pad with Wireless Charger",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1e3bd37e-62d8-4170-a8ed-e20eceeefdf3.jpg?v=1755549275",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Computer Accessories",
+      "Green Lion",
+      "Phone Accessories",
+      "Wireless Chargers"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 180000,
+          "sale_price": 145000,
+          "percentage_off": 19
+        }
+      ],
+      "min_regular_price": 180000,
+      "max_regular_price": 180000,
+      "min_sale_price": 145000,
+      "max_sale_price": 145000
+    },
+    "rank": 2
   },
   {
     "handle": "green-lion-wireless-presenter-with-retractable-pointer",
@@ -51,7 +81,7 @@
       "min_sale_price": 95000,
       "max_sale_price": 95000
     },
-    "rank": 2
+    "rank": 3
   },
   {
     "handle": "keyfold-pro-foldable-bluetooth-keyboard",
@@ -76,35 +106,6 @@
       "max_regular_price": 220000,
       "min_sale_price": 155000,
       "max_sale_price": 155000
-    },
-    "rank": 3
-  },
-  {
-    "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
-    "title": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7bd625dc-210f-4246-bee1-ed3244615580.webp?v=1754643849",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Computer Accessories",
-      "Home Decor",
-      "Kitchen",
-      "Office",
-      "Phone Accessories"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 185000,
-          "sale_price": 185000,
-          "percentage_off": 0
-        }
-      ],
-      "min_regular_price": 185000,
-      "max_regular_price": 185000,
-      "min_sale_price": 185000,
-      "max_sale_price": 185000
     },
     "rank": 4
   },

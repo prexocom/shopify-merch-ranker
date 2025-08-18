@@ -1,0 +1,54 @@
+[
+  {
+    "handle": "green-lion-thermal-portable-printer",
+    "title": "Green Lion Thermal Label Printer",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1783cc3b-61ce-4d97-8f32-3a3b656b5ab7.jpg?v=1755551780",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Green Lion",
+      "Portable Printers"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 280000,
+          "sale_price": 245000,
+          "percentage_off": 13
+        }
+      ],
+      "min_regular_price": 280000,
+      "max_regular_price": 280000,
+      "min_sale_price": 245000,
+      "max_sale_price": 245000
+    },
+    "rank": 1
+  },
+  {
+    "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
+    "title": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_be47bce4-3a24-4f13-abbf-8a4dd0a5dbc8.jpg?v=1755554007",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Office",
+      "Portable Printers"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 220000,
+          "sale_price": 185000,
+          "percentage_off": 16
+        }
+      ],
+      "min_regular_price": 220000,
+      "max_regular_price": 220000,
+      "min_sale_price": 185000,
+      "max_sale_price": 185000
+    },
+    "rank": 2
+  }
+]

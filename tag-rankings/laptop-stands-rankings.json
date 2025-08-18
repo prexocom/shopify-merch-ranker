@@ -1,0 +1,54 @@
+[
+  {
+    "handle": "green-lion-360-rotatable-laptop-stand",
+    "title": "Green Lion 360 Rotatable Laptop Stand",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_27be5940-6fd1-4fa1-b189-317c157f3dc4.jpg?v=1755552283",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Green Lion",
+      "Laptop Stands"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 195000,
+          "sale_price": 195000,
+          "percentage_off": 0
+        }
+      ],
+      "min_regular_price": 195000,
+      "max_regular_price": 195000,
+      "min_sale_price": 195000,
+      "max_sale_price": 195000
+    },
+    "rank": 1
+  },
+  {
+    "handle": "green-lion-adjustable-laptop-stand-with-cooling-fan",
+    "title": "Green Lion Adjustable Laptop Stand with Cooling Fan",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_def6fc92-090a-43f7-96c4-ac8fcf16d538.webp?v=1755550569",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Green Lion",
+      "Laptop Stands"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 270000,
+          "sale_price": 230000,
+          "percentage_off": 15
+        }
+      ],
+      "min_regular_price": 270000,
+      "max_regular_price": 270000,
+      "min_sale_price": 230000,
+      "max_sale_price": 230000
+    },
+    "rank": 2
+  }
+]

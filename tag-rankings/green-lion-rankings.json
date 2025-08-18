@@ -1,5 +1,57 @@
 [
   {
+    "handle": "green-lion-360-rotatable-laptop-stand",
+    "title": "Green Lion 360 Rotatable Laptop Stand",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_27be5940-6fd1-4fa1-b189-317c157f3dc4.jpg?v=1755552283",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Green Lion",
+      "Laptop Stands"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 195000,
+          "sale_price": 195000,
+          "percentage_off": 0
+        }
+      ],
+      "min_regular_price": 195000,
+      "max_regular_price": 195000,
+      "min_sale_price": 195000,
+      "max_sale_price": 195000
+    },
+    "rank": 1
+  },
+  {
+    "handle": "green-lion-adjustable-laptop-stand-with-cooling-fan",
+    "title": "Green Lion Adjustable Laptop Stand with Cooling Fan",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_def6fc92-090a-43f7-96c4-ac8fcf16d538.webp?v=1755550569",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Green Lion",
+      "Laptop Stands"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 270000,
+          "sale_price": 230000,
+          "percentage_off": 15
+        }
+      ],
+      "min_regular_price": 270000,
+      "max_regular_price": 270000,
+      "min_sale_price": 230000,
+      "max_sale_price": 230000
+    },
+    "rank": 2
+  },
+  {
     "handle": "green-lion-cx240-cordless-pressure-wash-gun",
     "title": "Green Lion CX240 Cordless Pressure Wash Gun",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bbcb0df0-44e4-4d5d-adb7-8dda8ca3b34d.webp?v=1754870712",
@@ -23,7 +75,7 @@
       "min_sale_price": 285000,
       "max_sale_price": 285000
     },
-    "rank": 1
+    "rank": 3
   },
   {
     "handle": "green-lion-digital-luggage-scale-50-kg-max",
@@ -49,7 +101,7 @@
       "min_sale_price": 95000,
       "max_sale_price": 95000
     },
-    "rank": 2
+    "rank": 4
   },
   {
     "handle": "green-lion-echo-max-headphones",
@@ -75,7 +127,7 @@
       "min_sale_price": 175000,
       "max_sale_price": 175000
     },
-    "rank": 3
+    "rank": 5
   },
   {
     "handle": "green-lion-echo-max-headphones-black",
@@ -101,7 +153,7 @@
       "min_sale_price": 175000,
       "max_sale_price": 175000
     },
-    "rank": 4
+    "rank": 6
   },
   {
     "handle": "copy-green-lion-echo-max-headphones-orange",
@@ -127,7 +179,7 @@
       "min_sale_price": 175000,
       "max_sale_price": 175000
     },
-    "rank": 5
+    "rank": 7
   },
   {
     "handle": "green-lion-gan-65w-multi-port-travel-adapter",
@@ -136,10 +188,12 @@
     "units_sold": 0,
     "revenue": 0,
     "tags": [
+      "Adapters & Chargers",
       "Computer Accessories",
       "Green Lion",
       "Office",
-      "Phone Accessories"
+      "Phone Accessories",
+      "Wireless Chargers"
     ],
     "pricing": {
       "variants": [
@@ -155,7 +209,35 @@
       "min_sale_price": 290000,
       "max_sale_price": 290000
     },
-    "rank": 6
+    "rank": 8
+  },
+  {
+    "handle": "green-lion-mouse-pad-with-wireless-charger",
+    "title": "Green Lion Mouse Pad with Wireless Charger",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1e3bd37e-62d8-4170-a8ed-e20eceeefdf3.jpg?v=1755549275",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Computer Accessories",
+      "Green Lion",
+      "Phone Accessories",
+      "Wireless Chargers"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 180000,
+          "sale_price": 145000,
+          "percentage_off": 19
+        }
+      ],
+      "min_regular_price": 180000,
+      "max_regular_price": 180000,
+      "min_sale_price": 145000,
+      "max_sale_price": 145000
+    },
+    "rank": 9
   },
   {
     "handle": "green-lion-new-york-gimbal-smart-face-tracking",
@@ -184,7 +266,7 @@
       "min_sale_price": 425000,
       "max_sale_price": 425000
     },
-    "rank": 7
+    "rank": 10
   },
   {
     "handle": "green-lion-portable-oral-irrigator-300-ml",
@@ -210,7 +292,34 @@
       "min_sale_price": 175000,
       "max_sale_price": 175000
     },
-    "rank": 8
+    "rank": 11
+  },
+  {
+    "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
+    "title": "Green Lion Power Trio™ – 3-in-1 Magnetic Wireless Charger",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ee366daa-24a3-46b9-9846-910d007df480.jpg?v=1749641860",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Green Lion",
+      "Phone Accessories",
+      "Wireless Chargers"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 220000,
+          "sale_price": 185000,
+          "percentage_off": 16
+        }
+      ],
+      "min_regular_price": 220000,
+      "max_regular_price": 220000,
+      "min_sale_price": 185000,
+      "max_sale_price": 185000
+    },
+    "rank": 12
   },
   {
     "handle": "green-lion-prisma-4k-portable-projector",
@@ -237,7 +346,7 @@
       "min_sale_price": 650000,
       "max_sale_price": 650000
     },
-    "rank": 9
+    "rank": 13
   },
   {
     "handle": "green-lion-smart-body-scale-8-electrode-advanced-analysis",
@@ -263,7 +372,7 @@
       "min_sale_price": 245000,
       "max_sale_price": 245000
     },
-    "rank": 10
+    "rank": 14
   },
   {
     "handle": "green-lion-smart-brush-60-ultrawide",
@@ -290,7 +399,7 @@
       "min_sale_price": 185000,
       "max_sale_price": 185000
     },
-    "rank": 11
+    "rank": 15
   },
   {
     "handle": "green-lion-smart-toothbrush-sanitizer",
@@ -317,6 +426,32 @@
       "min_sale_price": 160000,
       "max_sale_price": 160000
     },
-    "rank": 12
+    "rank": 16
+  },
+  {
+    "handle": "green-lion-thermal-portable-printer",
+    "title": "Green Lion Thermal Label Printer",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1783cc3b-61ce-4d97-8f32-3a3b656b5ab7.jpg?v=1755551780",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Green Lion",
+      "Portable Printers"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 280000,
+          "sale_price": 245000,
+          "percentage_off": 13
+        }
+      ],
+      "min_regular_price": 280000,
+      "max_regular_price": 280000,
+      "min_sale_price": 245000,
+      "max_sale_price": 245000
+    },
+    "rank": 17
   }
 ]

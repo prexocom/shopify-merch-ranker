@@ -181,35 +181,6 @@
     "rank": 7
   },
   {
-    "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
-    "title": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7bd625dc-210f-4246-bee1-ed3244615580.webp?v=1754643849",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Computer Accessories",
-      "Home Decor",
-      "Kitchen",
-      "Office",
-      "Phone Accessories"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 185000,
-          "sale_price": 185000,
-          "percentage_off": 0
-        }
-      ],
-      "min_regular_price": 185000,
-      "max_regular_price": 185000,
-      "min_sale_price": 185000,
-      "max_sale_price": 185000
-    },
-    "rank": 8
-  },
-  {
     "handle": "volcano-essential-oil-diffuser",
     "title": "Prexo Volcano Humidifier",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/volcano-effect-aroma-diffuser-3.jpg?v=1749641964",
@@ -233,7 +204,7 @@
       "min_sale_price": 135000,
       "max_sale_price": 135000
     },
-    "rank": 9
+    "rank": 8
   },
   {
     "handle": "steamloco™-aromatherapy-train-humidifier",
@@ -259,7 +230,7 @@
       "min_sale_price": 188000,
       "max_sale_price": 188000
     },
-    "rank": 10
+    "rank": 9
   },
   {
     "handle": "magic-speaker-bulb-light-sound-combined",
@@ -288,6 +259,6 @@
       "min_sale_price": 98000,
       "max_sale_price": 98000
     },
-    "rank": 11
+    "rank": 10
   }
 ]
