@@ -2177,6 +2177,7 @@
       "revenue": 0,
       "tags": [
         "Gadgets",
+        "Smart Glasses",
         "Translator",
         "Travel"
       ],
@@ -3300,6 +3301,33 @@
       "rank": 5
     },
     {
+      "handle": "green-lion-smart-health-tracker-ring",
+      "title": "Green Lion Smart Health Tracker Ring",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_44987bce-7027-4c0b-9e1c-09eaaf394848.jpg?v=1755583055",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Health & Fitness",
+        "Smart Rings"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 180000,
+            "sale_price": 155000,
+            "percentage_off": 14
+          }
+        ],
+        "min_regular_price": 180000,
+        "max_regular_price": 180000,
+        "min_sale_price": 155000,
+        "max_sale_price": 155000
+      },
+      "rank": 6
+    },
+    {
       "handle": "mini-exercise-stepper-with-resistance-bands",
       "title": "Mini Exercise Stepper with Resistance Bands",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9f981628-877f-499f-88b0-3dce21df58d4.jpg?v=1754743681",
@@ -3322,7 +3350,7 @@
         "min_sale_price": 295000,
         "max_sale_price": 295000
       },
-      "rank": 6
+      "rank": 7
     },
     {
       "handle": "rotator-arm-shoulder-strength-trainer",
@@ -3347,7 +3375,7 @@
         "min_sale_price": 345000,
         "max_sale_price": 345000
       },
-      "rank": 7
+      "rank": 8
     },
     {
       "handle": "solerenew-electric-callus-remover",
@@ -3372,7 +3400,7 @@
         "min_sale_price": 89000,
         "max_sale_price": 89000
       },
-      "rank": 8
+      "rank": 9
     },
     {
       "handle": "zero-gravity-full-body-massage-chair",
@@ -3397,7 +3425,7 @@
         "min_sale_price": 4850000,
         "max_sale_price": 4850000
       },
-      "rank": 9
+      "rank": 10
     }
   ],
   "Beats": [
@@ -4158,6 +4186,33 @@
       "rank": 15
     },
     {
+      "handle": "green-lion-smart-health-tracker-ring",
+      "title": "Green Lion Smart Health Tracker Ring",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_44987bce-7027-4c0b-9e1c-09eaaf394848.jpg?v=1755583055",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Health & Fitness",
+        "Smart Rings"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 180000,
+            "sale_price": 155000,
+            "percentage_off": 14
+          }
+        ],
+        "min_regular_price": 180000,
+        "max_regular_price": 180000,
+        "min_sale_price": 155000,
+        "max_sale_price": 155000
+      },
+      "rank": 16
+    },
+    {
       "handle": "green-lion-smart-toothbrush-sanitizer",
       "title": "Green Lion Smart Toothbrush Sanitizer",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5544c8fe-3f75-4134-bc6d-1808feaef585.jpg?v=1754726691",
@@ -4182,7 +4237,33 @@
         "min_sale_price": 160000,
         "max_sale_price": 160000
       },
-      "rank": 16
+      "rank": 17
+    },
+    {
+      "handle": "green-lion-stockholm-smart-glasses-black",
+      "title": "Green Lion Stockholm Smart Glasses – Black",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bb71dfc2-7eb0-4184-8057-1e2bf733bf84.webp?v=1755580462",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Smart Glasses"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 180000,
+            "sale_price": 155000,
+            "percentage_off": 14
+          }
+        ],
+        "min_regular_price": 180000,
+        "max_regular_price": 180000,
+        "min_sale_price": 155000,
+        "max_sale_price": 155000
+      },
+      "rank": 18
     },
     {
       "handle": "green-lion-thermal-portable-printer",
@@ -4208,7 +4289,33 @@
         "min_sale_price": 245000,
         "max_sale_price": 245000
       },
-      "rank": 17
+      "rank": 19
+    },
+    {
+      "handle": "green-lion-urbanic-smart-eyewear",
+      "title": "Green Lion Urbanic Smart Eyewear",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c37cc734-260b-4e3f-9625-20b728829aa7.jpg?v=1755581789",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Smart Glasses"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 190000,
+            "sale_price": 165000,
+            "percentage_off": 13
+          }
+        ],
+        "min_regular_price": 190000,
+        "max_regular_price": 190000,
+        "min_sale_price": 165000,
+        "max_sale_price": 165000
+      },
+      "rank": 20
     }
   ],
   "Laptop Stands": [
@@ -5324,6 +5431,117 @@
         "max_sale_price": 160000
       },
       "rank": 2
+    }
+  ],
+  "Smart Rings": [
+    {
+      "handle": "green-lion-smart-health-tracker-ring",
+      "title": "Green Lion Smart Health Tracker Ring",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_44987bce-7027-4c0b-9e1c-09eaaf394848.jpg?v=1755583055",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Health & Fitness",
+        "Smart Rings"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 180000,
+            "sale_price": 155000,
+            "percentage_off": 14
+          }
+        ],
+        "min_regular_price": 180000,
+        "max_regular_price": 180000,
+        "min_sale_price": 155000,
+        "max_sale_price": 155000
+      },
+      "rank": 1
+    }
+  ],
+  "Smart Glasses": [
+    {
+      "handle": "green-lion-stockholm-smart-glasses-black",
+      "title": "Green Lion Stockholm Smart Glasses – Black",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bb71dfc2-7eb0-4184-8057-1e2bf733bf84.webp?v=1755580462",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Smart Glasses"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 180000,
+            "sale_price": 155000,
+            "percentage_off": 14
+          }
+        ],
+        "min_regular_price": 180000,
+        "max_regular_price": 180000,
+        "min_sale_price": 155000,
+        "max_sale_price": 155000
+      },
+      "rank": 1
+    },
+    {
+      "handle": "green-lion-urbanic-smart-eyewear",
+      "title": "Green Lion Urbanic Smart Eyewear",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c37cc734-260b-4e3f-9625-20b728829aa7.jpg?v=1755581789",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Smart Glasses"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 190000,
+            "sale_price": 165000,
+            "percentage_off": 13
+          }
+        ],
+        "min_regular_price": 190000,
+        "max_regular_price": 190000,
+        "min_sale_price": 165000,
+        "max_sale_price": 165000
+      },
+      "rank": 2
+    },
+    {
+      "handle": "prexovision-translate™-ai-smart-glasses-with-real-time-translation",
+      "title": "PrexoVision Translate™ – AI Smart Glasses with Real‑Time Translation",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7f3e21c6-7ddf-4694-b085-24b0103d5bf8.jpg?v=1754375910",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Gadgets",
+        "Smart Glasses",
+        "Translator",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 630000,
+            "sale_price": 450000,
+            "percentage_off": 29
+          }
+        ],
+        "min_regular_price": 630000,
+        "max_regular_price": 630000,
+        "min_sale_price": 450000,
+        "max_sale_price": 450000
+      },
+      "rank": 3
     }
   ],
   "Portable Printers": [
@@ -7035,6 +7253,7 @@
       "revenue": 0,
       "tags": [
         "Gadgets",
+        "Smart Glasses",
         "Translator",
         "Travel"
       ],
@@ -7120,6 +7339,7 @@
       "revenue": 0,
       "tags": [
         "Gadgets",
+        "Smart Glasses",
         "Translator",
         "Travel"
       ],

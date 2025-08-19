@@ -402,6 +402,33 @@
     "rank": 15
   },
   {
+    "handle": "green-lion-smart-health-tracker-ring",
+    "title": "Green Lion Smart Health Tracker Ring",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_44987bce-7027-4c0b-9e1c-09eaaf394848.jpg?v=1755583055",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Green Lion",
+      "Health & Fitness",
+      "Smart Rings"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 180000,
+          "sale_price": 155000,
+          "percentage_off": 14
+        }
+      ],
+      "min_regular_price": 180000,
+      "max_regular_price": 180000,
+      "min_sale_price": 155000,
+      "max_sale_price": 155000
+    },
+    "rank": 16
+  },
+  {
     "handle": "green-lion-smart-toothbrush-sanitizer",
     "title": "Green Lion Smart Toothbrush Sanitizer",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5544c8fe-3f75-4134-bc6d-1808feaef585.jpg?v=1754726691",
@@ -426,7 +453,33 @@
       "min_sale_price": 160000,
       "max_sale_price": 160000
     },
-    "rank": 16
+    "rank": 17
+  },
+  {
+    "handle": "green-lion-stockholm-smart-glasses-black",
+    "title": "Green Lion Stockholm Smart Glasses – Black",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bb71dfc2-7eb0-4184-8057-1e2bf733bf84.webp?v=1755580462",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Green Lion",
+      "Smart Glasses"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 180000,
+          "sale_price": 155000,
+          "percentage_off": 14
+        }
+      ],
+      "min_regular_price": 180000,
+      "max_regular_price": 180000,
+      "min_sale_price": 155000,
+      "max_sale_price": 155000
+    },
+    "rank": 18
   },
   {
     "handle": "green-lion-thermal-portable-printer",
@@ -452,6 +505,32 @@
       "min_sale_price": 245000,
       "max_sale_price": 245000
     },
-    "rank": 17
+    "rank": 19
+  },
+  {
+    "handle": "green-lion-urbanic-smart-eyewear",
+    "title": "Green Lion Urbanic Smart Eyewear",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c37cc734-260b-4e3f-9625-20b728829aa7.jpg?v=1755581789",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Green Lion",
+      "Smart Glasses"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 190000,
+          "sale_price": 165000,
+          "percentage_off": 13
+        }
+      ],
+      "min_regular_price": 190000,
+      "max_regular_price": 190000,
+      "min_sale_price": 165000,
+      "max_sale_price": 165000
+    },
+    "rank": 20
   }
 ]

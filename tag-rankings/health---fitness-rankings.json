@@ -127,6 +127,33 @@
     "rank": 5
   },
   {
+    "handle": "green-lion-smart-health-tracker-ring",
+    "title": "Green Lion Smart Health Tracker Ring",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_44987bce-7027-4c0b-9e1c-09eaaf394848.jpg?v=1755583055",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Green Lion",
+      "Health & Fitness",
+      "Smart Rings"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 180000,
+          "sale_price": 155000,
+          "percentage_off": 14
+        }
+      ],
+      "min_regular_price": 180000,
+      "max_regular_price": 180000,
+      "min_sale_price": 155000,
+      "max_sale_price": 155000
+    },
+    "rank": 6
+  },
+  {
     "handle": "mini-exercise-stepper-with-resistance-bands",
     "title": "Mini Exercise Stepper with Resistance Bands",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9f981628-877f-499f-88b0-3dce21df58d4.jpg?v=1754743681",
@@ -149,7 +176,7 @@
       "min_sale_price": 295000,
       "max_sale_price": 295000
     },
-    "rank": 6
+    "rank": 7
   },
   {
     "handle": "rotator-arm-shoulder-strength-trainer",
@@ -174,7 +201,7 @@
       "min_sale_price": 345000,
       "max_sale_price": 345000
     },
-    "rank": 7
+    "rank": 8
   },
   {
     "handle": "solerenew-electric-callus-remover",
@@ -199,7 +226,7 @@
       "min_sale_price": 89000,
       "max_sale_price": 89000
     },
-    "rank": 8
+    "rank": 9
   },
   {
     "handle": "zero-gravity-full-body-massage-chair",
@@ -224,6 +251,6 @@
       "min_sale_price": 4850000,
       "max_sale_price": 4850000
     },
-    "rank": 9
+    "rank": 10
   }
 ]
