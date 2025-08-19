@@ -49,6 +49,13 @@
     "score": 0.1
   },
   {
+    "handle": "amazon-echo-pop-compact-smart-speaker",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
     "handle": "anker-soundcore-glow",
     "in_stock": true,
     "units_sold": 0,
@@ -266,6 +273,13 @@
     "score": 0.1
   },
   {
+    "handle": "green-lion-smart-health-tracker-ring",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
     "handle": "green-lion-smart-toothbrush-sanitizer",
     "in_stock": true,
     "units_sold": 0,
@@ -273,7 +287,21 @@
     "score": 0.1
   },
   {
+    "handle": "green-lion-stockholm-smart-glasses-black",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
     "handle": "green-lion-thermal-portable-printer",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "green-lion-urbanic-smart-eyewear",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
@@ -651,6 +679,13 @@
     "score": 0.1
   },
   {
+    "handle": "rotator-arm-shoulder-strength-trainer",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
     "handle": "samsung-galaxy-smarttag2",
     "in_stock": true,
     "units_sold": 0,
@@ -796,19 +831,5 @@
     "units_sold": 0,
     "revenue": 0,
     "score": 0.1
-  },
-  {
-    "handle": "amazon-echo-pop-compact-smart-speaker",
-    "in_stock": false,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0
-  },
-  {
-    "handle": "rotator-arm-shoulder-strength-trainer",
-    "in_stock": false,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0
   }
 ]
