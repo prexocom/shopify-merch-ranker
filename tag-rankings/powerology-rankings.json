@@ -1,5 +1,31 @@
 [
   {
+    "handle": "powerology-16-000-mah-solar-power-bank-fm-radio-speaker-lights",
+    "title": "Powerology 16,000 mAh Solar Power Bank — FM Radio, Speaker & Lights",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_81c12232-001b-4dbf-bb06-880f5840a2e0.jpg?v=1755628024",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Power Banks",
+      "Powerology"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 300000,
+          "sale_price": 275000,
+          "percentage_off": 8
+        }
+      ],
+      "min_regular_price": 300000,
+      "max_regular_price": 300000,
+      "min_sale_price": 275000,
+      "max_sale_price": 275000
+    },
+    "rank": 1
+  },
+  {
     "handle": "powerology-20-000-mah-65-w-onyx-power-bank",
     "title": "Powerology 20,000 mAh 65 W Onyx Power Bank",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_24c81f91-6660-40e8-92f4-d83260d9468a.jpg?v=1755113368",
@@ -23,7 +49,7 @@
       "min_sale_price": 190000,
       "max_sale_price": 190000
     },
-    "rank": 1
+    "rank": 2
   },
   {
     "handle": "powerology-32-android-smart-screen",
@@ -51,7 +77,7 @@
       "min_sale_price": 3250000,
       "max_sale_price": 3250000
     },
-    "rank": 2
+    "rank": 3
   },
   {
     "handle": "powerology-6-mic-hybrid-anc-enc-tws-earbuds",
@@ -77,7 +103,7 @@
       "min_sale_price": 120000,
       "max_sale_price": 120000
     },
-    "rank": 3
+    "rank": 4
   },
   {
     "handle": "powerology-air-conduction-enc-tws-earbuds-with-display",
@@ -103,7 +129,7 @@
       "min_sale_price": 195000,
       "max_sale_price": 195000
     },
-    "rank": 4
+    "rank": 5
   },
   {
     "handle": "powerology-built-in-solar-outdoor-camera",
@@ -130,7 +156,7 @@
       "min_sale_price": 320000,
       "max_sale_price": 320000
     },
-    "rank": 5
+    "rank": 6
   },
   {
     "handle": "powerology-built-in-solar-pan-tilt-outdoor-camera-2k",
@@ -157,7 +183,7 @@
       "min_sale_price": 395000,
       "max_sale_price": 395000
     },
-    "rank": 6
+    "rank": 7
   },
   {
     "handle": "powerology-dual-screen-portable-monitor",
@@ -184,7 +210,7 @@
       "min_sale_price": 1250000,
       "max_sale_price": 1250000
     },
-    "rank": 7
+    "rank": 8
   },
   {
     "handle": "powerology-dynamic800-portable-power-station-800w-black",
@@ -210,7 +236,7 @@
       "min_sale_price": 1950000,
       "max_sale_price": 1950000
     },
-    "rank": 8
+    "rank": 9
   },
   {
     "handle": "powerology-hybrid-anc-headphone",
@@ -236,7 +262,7 @@
       "min_sale_price": 195000,
       "max_sale_price": 195000
     },
-    "rank": 9
+    "rank": 10
   },
   {
     "handle": "powerology-hybrid-anc-headphone-cream",
@@ -262,7 +288,7 @@
       "min_sale_price": 195000,
       "max_sale_price": 195000
     },
-    "rank": 10
+    "rank": 11
   },
   {
     "handle": "powerology-onyx-30000mah-dual-usb-c-power-bank",
@@ -288,7 +314,7 @@
       "min_sale_price": 270000,
       "max_sale_price": 270000
     },
-    "rank": 11
+    "rank": 12
   },
   {
     "handle": "powerology-quad-mic-enc-tws-earbuds",
@@ -314,7 +340,7 @@
       "min_sale_price": 95000,
       "max_sale_price": 95000
     },
-    "rank": 12
+    "rank": 13
   },
   {
     "handle": "powerology-ultra-portable-air-compressor-power-bank",
@@ -340,7 +366,7 @@
       "min_sale_price": 220000,
       "max_sale_price": 220000
     },
-    "rank": 13
+    "rank": 14
   },
   {
     "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
@@ -369,6 +395,6 @@
       "min_sale_price": 620000,
       "max_sale_price": 620000
     },
-    "rank": 14
+    "rank": 15
   }
 ]

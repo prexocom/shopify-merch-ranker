@@ -27,6 +27,32 @@
       "rank": 1
     },
     {
+      "handle": "green-lion-classic-true-wireless-earbuds",
+      "title": "Green Lion Classic True Wireless Earbuds",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c19842d3-0588-430a-85e1-964e413d1d6a.jpg?v=1755628979",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Earbuds",
+        "Green Lion"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 150000,
+            "sale_price": 125000,
+            "percentage_off": 17
+          }
+        ],
+        "min_regular_price": 150000,
+        "max_regular_price": 150000,
+        "min_sale_price": 125000,
+        "max_sale_price": 125000
+      },
+      "rank": 2
+    },
+    {
       "handle": "jbl-endurance-peak-3",
       "title": "JBL Endurance Peak 3",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_081200a4-f62a-4e8e-92d9-4810856a2ed6.jpg?v=1755332898",
@@ -50,7 +76,7 @@
         "min_sale_price": 445000,
         "max_sale_price": 445000
       },
-      "rank": 2
+      "rank": 3
     },
     {
       "handle": "jbl-tune-buds-true-wireless-anc-earbuds",
@@ -76,7 +102,7 @@
         "min_sale_price": 369000,
         "max_sale_price": 369000
       },
-      "rank": 3
+      "rank": 4
     },
     {
       "handle": "jbl-tune-buds-true-wireless-anc-earbuds-blue",
@@ -102,7 +128,7 @@
         "min_sale_price": 369000,
         "max_sale_price": 369000
       },
-      "rank": 4
+      "rank": 5
     },
     {
       "handle": "jbl-tune-buds-true-wireless-anc-earbuds-purple",
@@ -128,7 +154,7 @@
         "min_sale_price": 369000,
         "max_sale_price": 369000
       },
-      "rank": 5
+      "rank": 6
     },
     {
       "handle": "jbl-tune-buds-true-wireless-anc-earbuds-white",
@@ -154,7 +180,7 @@
         "min_sale_price": 369000,
         "max_sale_price": 369000
       },
-      "rank": 6
+      "rank": 7
     },
     {
       "handle": "jbl-vibe-flex-true-wireless-earbuds",
@@ -180,7 +206,7 @@
         "min_sale_price": 285000,
         "max_sale_price": 285000
       },
-      "rank": 7
+      "rank": 8
     },
     {
       "handle": "jbl-wave-flex-2",
@@ -206,7 +232,7 @@
         "min_sale_price": 375000,
         "max_sale_price": 375000
       },
-      "rank": 8
+      "rank": 9
     },
     {
       "handle": "jbl-wave-flex-2-blue",
@@ -232,7 +258,7 @@
         "min_sale_price": 375000,
         "max_sale_price": 375000
       },
-      "rank": 9
+      "rank": 10
     },
     {
       "handle": "jbl-wave-flex-2-pink",
@@ -258,7 +284,7 @@
         "min_sale_price": 375000,
         "max_sale_price": 375000
       },
-      "rank": 10
+      "rank": 11
     },
     {
       "handle": "jbl-wave-flex-2-white",
@@ -284,7 +310,7 @@
         "min_sale_price": 375000,
         "max_sale_price": 375000
       },
-      "rank": 11
+      "rank": 12
     },
     {
       "handle": "oraimo-freepods-4-anc-true-wireless-earbuds",
@@ -310,7 +336,7 @@
         "min_sale_price": 180000,
         "max_sale_price": 180000
       },
-      "rank": 12
+      "rank": 13
     },
     {
       "handle": "powerology-6-mic-hybrid-anc-enc-tws-earbuds",
@@ -336,7 +362,7 @@
         "min_sale_price": 120000,
         "max_sale_price": 120000
       },
-      "rank": 13
+      "rank": 14
     },
     {
       "handle": "powerology-air-conduction-enc-tws-earbuds-with-display",
@@ -362,7 +388,7 @@
         "min_sale_price": 195000,
         "max_sale_price": 195000
       },
-      "rank": 14
+      "rank": 15
     },
     {
       "handle": "powerology-quad-mic-enc-tws-earbuds",
@@ -388,7 +414,7 @@
         "min_sale_price": 95000,
         "max_sale_price": 95000
       },
-      "rank": 15
+      "rank": 16
     }
   ],
   "Phone Accessories": [
@@ -3836,6 +3862,32 @@
       "rank": 2
     },
     {
+      "handle": "green-lion-classic-true-wireless-earbuds",
+      "title": "Green Lion Classic True Wireless Earbuds",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c19842d3-0588-430a-85e1-964e413d1d6a.jpg?v=1755628979",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Earbuds",
+        "Green Lion"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 150000,
+            "sale_price": 125000,
+            "percentage_off": 17
+          }
+        ],
+        "min_regular_price": 150000,
+        "max_regular_price": 150000,
+        "min_sale_price": 125000,
+        "max_sale_price": 125000
+      },
+      "rank": 3
+    },
+    {
       "handle": "green-lion-cx240-cordless-pressure-wash-gun",
       "title": "Green Lion CX240 Cordless Pressure Wash Gun",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bbcb0df0-44e4-4d5d-adb7-8dda8ca3b34d.webp?v=1754870712",
@@ -3859,7 +3911,7 @@
         "min_sale_price": 285000,
         "max_sale_price": 285000
       },
-      "rank": 3
+      "rank": 4
     },
     {
       "handle": "green-lion-digital-luggage-scale-50-kg-max",
@@ -3885,7 +3937,7 @@
         "min_sale_price": 95000,
         "max_sale_price": 95000
       },
-      "rank": 4
+      "rank": 5
     },
     {
       "handle": "green-lion-echo-max-headphones",
@@ -3911,7 +3963,7 @@
         "min_sale_price": 175000,
         "max_sale_price": 175000
       },
-      "rank": 5
+      "rank": 6
     },
     {
       "handle": "green-lion-echo-max-headphones-black",
@@ -3937,7 +3989,7 @@
         "min_sale_price": 175000,
         "max_sale_price": 175000
       },
-      "rank": 6
+      "rank": 7
     },
     {
       "handle": "copy-green-lion-echo-max-headphones-orange",
@@ -3963,7 +4015,7 @@
         "min_sale_price": 175000,
         "max_sale_price": 175000
       },
-      "rank": 7
+      "rank": 8
     },
     {
       "handle": "green-lion-gan-65w-multi-port-travel-adapter",
@@ -3993,7 +4045,7 @@
         "min_sale_price": 290000,
         "max_sale_price": 290000
       },
-      "rank": 8
+      "rank": 9
     },
     {
       "handle": "green-lion-mouse-pad-with-wireless-charger",
@@ -4021,7 +4073,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 9
+      "rank": 10
     },
     {
       "handle": "green-lion-new-york-gimbal-smart-face-tracking",
@@ -4050,7 +4102,7 @@
         "min_sale_price": 425000,
         "max_sale_price": 425000
       },
-      "rank": 10
+      "rank": 11
     },
     {
       "handle": "green-lion-portable-oral-irrigator-300-ml",
@@ -4076,7 +4128,7 @@
         "min_sale_price": 175000,
         "max_sale_price": 175000
       },
-      "rank": 11
+      "rank": 12
     },
     {
       "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
@@ -4103,7 +4155,7 @@
         "min_sale_price": 185000,
         "max_sale_price": 185000
       },
-      "rank": 12
+      "rank": 13
     },
     {
       "handle": "green-lion-prisma-4k-portable-projector",
@@ -4130,7 +4182,7 @@
         "min_sale_price": 650000,
         "max_sale_price": 650000
       },
-      "rank": 13
+      "rank": 14
     },
     {
       "handle": "green-lion-smart-body-scale-8-electrode-advanced-analysis",
@@ -4156,7 +4208,7 @@
         "min_sale_price": 245000,
         "max_sale_price": 245000
       },
-      "rank": 14
+      "rank": 15
     },
     {
       "handle": "green-lion-smart-brush-60-ultrawide",
@@ -4183,7 +4235,7 @@
         "min_sale_price": 185000,
         "max_sale_price": 185000
       },
-      "rank": 15
+      "rank": 16
     },
     {
       "handle": "green-lion-smart-health-tracker-ring",
@@ -4210,7 +4262,7 @@
         "min_sale_price": 155000,
         "max_sale_price": 155000
       },
-      "rank": 16
+      "rank": 17
     },
     {
       "handle": "green-lion-smart-toothbrush-sanitizer",
@@ -4237,7 +4289,7 @@
         "min_sale_price": 160000,
         "max_sale_price": 160000
       },
-      "rank": 17
+      "rank": 18
     },
     {
       "handle": "green-lion-stockholm-smart-glasses-black",
@@ -4263,7 +4315,7 @@
         "min_sale_price": 155000,
         "max_sale_price": 155000
       },
-      "rank": 18
+      "rank": 19
     },
     {
       "handle": "green-lion-thermal-portable-printer",
@@ -4289,7 +4341,7 @@
         "min_sale_price": 245000,
         "max_sale_price": 245000
       },
-      "rank": 19
+      "rank": 20
     },
     {
       "handle": "green-lion-urbanic-smart-eyewear",
@@ -4315,7 +4367,7 @@
         "min_sale_price": 165000,
         "max_sale_price": 165000
       },
-      "rank": 20
+      "rank": 21
     }
   ],
   "Laptop Stands": [
@@ -6346,6 +6398,32 @@
   ],
   "Power Banks": [
     {
+      "handle": "powerology-16-000-mah-solar-power-bank-fm-radio-speaker-lights",
+      "title": "Powerology 16,000 mAh Solar Power Bank — FM Radio, Speaker & Lights",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_81c12232-001b-4dbf-bb06-880f5840a2e0.jpg?v=1755628024",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Power Banks",
+        "Powerology"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 300000,
+            "sale_price": 275000,
+            "percentage_off": 8
+          }
+        ],
+        "min_regular_price": 300000,
+        "max_regular_price": 300000,
+        "min_sale_price": 275000,
+        "max_sale_price": 275000
+      },
+      "rank": 1
+    },
+    {
       "handle": "powerology-20-000-mah-65-w-onyx-power-bank",
       "title": "Powerology 20,000 mAh 65 W Onyx Power Bank",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_24c81f91-6660-40e8-92f4-d83260d9468a.jpg?v=1755113368",
@@ -6369,7 +6447,7 @@
         "min_sale_price": 190000,
         "max_sale_price": 190000
       },
-      "rank": 1
+      "rank": 2
     },
     {
       "handle": "powerology-onyx-30000mah-dual-usb-c-power-bank",
@@ -6395,10 +6473,36 @@
         "min_sale_price": 270000,
         "max_sale_price": 270000
       },
-      "rank": 2
+      "rank": 3
     }
   ],
   "Powerology": [
+    {
+      "handle": "powerology-16-000-mah-solar-power-bank-fm-radio-speaker-lights",
+      "title": "Powerology 16,000 mAh Solar Power Bank — FM Radio, Speaker & Lights",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_81c12232-001b-4dbf-bb06-880f5840a2e0.jpg?v=1755628024",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Power Banks",
+        "Powerology"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 300000,
+            "sale_price": 275000,
+            "percentage_off": 8
+          }
+        ],
+        "min_regular_price": 300000,
+        "max_regular_price": 300000,
+        "min_sale_price": 275000,
+        "max_sale_price": 275000
+      },
+      "rank": 1
+    },
     {
       "handle": "powerology-20-000-mah-65-w-onyx-power-bank",
       "title": "Powerology 20,000 mAh 65 W Onyx Power Bank",
@@ -6423,7 +6527,7 @@
         "min_sale_price": 190000,
         "max_sale_price": 190000
       },
-      "rank": 1
+      "rank": 2
     },
     {
       "handle": "powerology-32-android-smart-screen",
@@ -6451,7 +6555,7 @@
         "min_sale_price": 3250000,
         "max_sale_price": 3250000
       },
-      "rank": 2
+      "rank": 3
     },
     {
       "handle": "powerology-6-mic-hybrid-anc-enc-tws-earbuds",
@@ -6477,7 +6581,7 @@
         "min_sale_price": 120000,
         "max_sale_price": 120000
       },
-      "rank": 3
+      "rank": 4
     },
     {
       "handle": "powerology-air-conduction-enc-tws-earbuds-with-display",
@@ -6503,7 +6607,7 @@
         "min_sale_price": 195000,
         "max_sale_price": 195000
       },
-      "rank": 4
+      "rank": 5
     },
     {
       "handle": "powerology-built-in-solar-outdoor-camera",
@@ -6530,7 +6634,7 @@
         "min_sale_price": 320000,
         "max_sale_price": 320000
       },
-      "rank": 5
+      "rank": 6
     },
     {
       "handle": "powerology-built-in-solar-pan-tilt-outdoor-camera-2k",
@@ -6557,7 +6661,7 @@
         "min_sale_price": 395000,
         "max_sale_price": 395000
       },
-      "rank": 6
+      "rank": 7
     },
     {
       "handle": "powerology-dual-screen-portable-monitor",
@@ -6584,7 +6688,7 @@
         "min_sale_price": 1250000,
         "max_sale_price": 1250000
       },
-      "rank": 7
+      "rank": 8
     },
     {
       "handle": "powerology-dynamic800-portable-power-station-800w-black",
@@ -6610,7 +6714,7 @@
         "min_sale_price": 1950000,
         "max_sale_price": 1950000
       },
-      "rank": 8
+      "rank": 9
     },
     {
       "handle": "powerology-hybrid-anc-headphone",
@@ -6636,7 +6740,7 @@
         "min_sale_price": 195000,
         "max_sale_price": 195000
       },
-      "rank": 9
+      "rank": 10
     },
     {
       "handle": "powerology-hybrid-anc-headphone-cream",
@@ -6662,7 +6766,7 @@
         "min_sale_price": 195000,
         "max_sale_price": 195000
       },
-      "rank": 10
+      "rank": 11
     },
     {
       "handle": "powerology-onyx-30000mah-dual-usb-c-power-bank",
@@ -6688,7 +6792,7 @@
         "min_sale_price": 270000,
         "max_sale_price": 270000
       },
-      "rank": 11
+      "rank": 12
     },
     {
       "handle": "powerology-quad-mic-enc-tws-earbuds",
@@ -6714,7 +6818,7 @@
         "min_sale_price": 95000,
         "max_sale_price": 95000
       },
-      "rank": 12
+      "rank": 13
     },
     {
       "handle": "powerology-ultra-portable-air-compressor-power-bank",
@@ -6740,7 +6844,7 @@
         "min_sale_price": 220000,
         "max_sale_price": 220000
       },
-      "rank": 13
+      "rank": 14
     },
     {
       "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
@@ -6769,7 +6873,7 @@
         "min_sale_price": 620000,
         "max_sale_price": 620000
       },
-      "rank": 14
+      "rank": 15
     }
   ],
   "Smart Screen": [
