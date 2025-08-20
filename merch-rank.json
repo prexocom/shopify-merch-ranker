@@ -175,6 +175,13 @@
     "score": 0.1
   },
   {
+    "handle": "green-lion-auto-pop-tripod",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
     "handle": "green-lion-auto-track-gimbal-stabilizer",
     "in_stock": true,
     "units_sold": 0,
@@ -197,6 +204,13 @@
   },
   {
     "handle": "green-lion-digital-luggage-scale-50-kg-max",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "green-lion-digital-weight-scale",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
@@ -281,6 +295,13 @@
   },
   {
     "handle": "green-lion-smart-health-tracker-ring",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "green-lion-smart-oled-vertical-mouse",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
