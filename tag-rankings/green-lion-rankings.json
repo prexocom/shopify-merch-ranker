@@ -78,6 +78,32 @@
     "rank": 3
   },
   {
+    "handle": "green-lion-buenos-aires-display-speaker",
+    "title": "Green Lion Buenos Aires Display Speaker",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_4f69b87a-2971-4cc9-8b19-2d1e57c5214c.webp?v=1755674071",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Green Lion",
+      "Portable Speakers"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 1550000,
+          "sale_price": 1550000,
+          "percentage_off": 0
+        }
+      ],
+      "min_regular_price": 1550000,
+      "max_regular_price": 1550000,
+      "min_sale_price": 1550000,
+      "max_sale_price": 1550000
+    },
+    "rank": 4
+  },
+  {
     "handle": "green-lion-classic-true-wireless-earbuds",
     "title": "Green Lion Classic True Wireless Earbuds",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c19842d3-0588-430a-85e1-964e413d1d6a.jpg?v=1755628979",
@@ -101,7 +127,7 @@
       "min_sale_price": 125000,
       "max_sale_price": 125000
     },
-    "rank": 4
+    "rank": 5
   },
   {
     "handle": "green-lion-cx240-cordless-pressure-wash-gun",
@@ -127,7 +153,7 @@
       "min_sale_price": 285000,
       "max_sale_price": 285000
     },
-    "rank": 5
+    "rank": 6
   },
   {
     "handle": "green-lion-digital-luggage-scale-50-kg-max",
@@ -153,7 +179,7 @@
       "min_sale_price": 95000,
       "max_sale_price": 95000
     },
-    "rank": 6
+    "rank": 7
   },
   {
     "handle": "green-lion-digital-weight-scale",
@@ -179,7 +205,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 7
+    "rank": 8
   },
   {
     "handle": "green-lion-echo-max-headphones",
@@ -205,7 +231,7 @@
       "min_sale_price": 175000,
       "max_sale_price": 175000
     },
-    "rank": 8
+    "rank": 9
   },
   {
     "handle": "green-lion-echo-max-headphones-black",
@@ -231,7 +257,7 @@
       "min_sale_price": 175000,
       "max_sale_price": 175000
     },
-    "rank": 9
+    "rank": 10
   },
   {
     "handle": "copy-green-lion-echo-max-headphones-orange",
@@ -257,7 +283,7 @@
       "min_sale_price": 175000,
       "max_sale_price": 175000
     },
-    "rank": 10
+    "rank": 11
   },
   {
     "handle": "green-lion-gan-65w-multi-port-travel-adapter",
@@ -287,7 +313,7 @@
       "min_sale_price": 290000,
       "max_sale_price": 290000
     },
-    "rank": 11
+    "rank": 12
   },
   {
     "handle": "green-lion-mouse-pad-with-wireless-charger",
@@ -315,7 +341,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 12
+    "rank": 13
   },
   {
     "handle": "green-lion-new-york-gimbal-smart-face-tracking",
@@ -344,7 +370,33 @@
       "min_sale_price": 425000,
       "max_sale_price": 425000
     },
-    "rank": 13
+    "rank": 14
+  },
+  {
+    "handle": "green-lion-palma-pro-wireless-speaker",
+    "title": "Green Lion Palma Pro Wireless Speaker",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_db223ea9-2ba6-451a-a69d-5718165323bf.jpg?v=1755673216",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Green Lion",
+      "Portable Speakers"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 185000,
+          "sale_price": 185000,
+          "percentage_off": 0
+        }
+      ],
+      "min_regular_price": 185000,
+      "max_regular_price": 185000,
+      "min_sale_price": 185000,
+      "max_sale_price": 185000
+    },
+    "rank": 15
   },
   {
     "handle": "green-lion-portable-oral-irrigator-300-ml",
@@ -370,7 +422,33 @@
       "min_sale_price": 175000,
       "max_sale_price": 175000
     },
-    "rank": 14
+    "rank": 16
+  },
+  {
+    "handle": "green-lion-porto-wireless-speaker",
+    "title": "Green Lion Porto Wireless Speaker",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f09cd42e-6f0f-4c4a-a3a5-351f95deef79.webp?v=1755672358",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Green Lion",
+      "Portable Speakers"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 155000,
+          "sale_price": 140000,
+          "percentage_off": 10
+        }
+      ],
+      "min_regular_price": 155000,
+      "max_regular_price": 155000,
+      "min_sale_price": 140000,
+      "max_sale_price": 140000
+    },
+    "rank": 17
   },
   {
     "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
@@ -397,7 +475,7 @@
       "min_sale_price": 185000,
       "max_sale_price": 185000
     },
-    "rank": 15
+    "rank": 18
   },
   {
     "handle": "green-lion-prisma-4k-portable-projector",
@@ -424,7 +502,33 @@
       "min_sale_price": 650000,
       "max_sale_price": 650000
     },
-    "rank": 16
+    "rank": 19
+  },
+  {
+    "handle": "green-lion-sao-paulo-portable-touch-display-speaker",
+    "title": "Green Lion São Paulo Portable Touch Display Speaker",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9266bee7-7057-4c43-86c3-c7ad13ed4879.webp?v=1755674788",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Green Lion",
+      "Portable Speakers"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 1420000,
+          "sale_price": 1420000,
+          "percentage_off": 0
+        }
+      ],
+      "min_regular_price": 1420000,
+      "max_regular_price": 1420000,
+      "min_sale_price": 1420000,
+      "max_sale_price": 1420000
+    },
+    "rank": 20
   },
   {
     "handle": "green-lion-smart-body-scale-8-electrode-advanced-analysis",
@@ -450,7 +554,7 @@
       "min_sale_price": 245000,
       "max_sale_price": 245000
     },
-    "rank": 17
+    "rank": 21
   },
   {
     "handle": "green-lion-smart-brush-60-ultrawide",
@@ -477,7 +581,7 @@
       "min_sale_price": 185000,
       "max_sale_price": 185000
     },
-    "rank": 18
+    "rank": 22
   },
   {
     "handle": "green-lion-smart-health-tracker-ring",
@@ -504,7 +608,7 @@
       "min_sale_price": 155000,
       "max_sale_price": 155000
     },
-    "rank": 19
+    "rank": 23
   },
   {
     "handle": "green-lion-smart-oled-vertical-mouse",
@@ -530,7 +634,7 @@
       "min_sale_price": 150000,
       "max_sale_price": 150000
     },
-    "rank": 20
+    "rank": 24
   },
   {
     "handle": "green-lion-smart-toothbrush-sanitizer",
@@ -557,7 +661,7 @@
       "min_sale_price": 160000,
       "max_sale_price": 160000
     },
-    "rank": 21
+    "rank": 25
   },
   {
     "handle": "green-lion-stockholm-smart-glasses-black",
@@ -583,7 +687,7 @@
       "min_sale_price": 155000,
       "max_sale_price": 155000
     },
-    "rank": 22
+    "rank": 26
   },
   {
     "handle": "green-lion-thermal-portable-printer",
@@ -609,7 +713,7 @@
       "min_sale_price": 245000,
       "max_sale_price": 245000
     },
-    "rank": 23
+    "rank": 27
   },
   {
     "handle": "green-lion-urbanic-smart-eyewear",
@@ -635,6 +739,6 @@
       "min_sale_price": 165000,
       "max_sale_price": 165000
     },
-    "rank": 24
+    "rank": 28
   }
 ]
