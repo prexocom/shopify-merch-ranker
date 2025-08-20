@@ -76,5 +76,32 @@
       "max_sale_price": 270000
     },
     "rank": 3
+  },
+  {
+    "handle": "powerology-ultra-portable-air-compressor-power-bank",
+    "title": "Powerology Ultra Portable Air Compressor Power Bank",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3d161731-a3bb-4ae8-b701-41d21a773974.jpg?v=1754686259",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Car Gadgets",
+      "Power Banks",
+      "Powerology"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 260000,
+          "sale_price": 220000,
+          "percentage_off": 15
+        }
+      ],
+      "min_regular_price": 260000,
+      "max_regular_price": 260000,
+      "min_sale_price": 220000,
+      "max_sale_price": 220000
+    },
+    "rank": 4
   }
 ]

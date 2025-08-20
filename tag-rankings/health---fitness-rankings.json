@@ -101,6 +101,32 @@
     "rank": 4
   },
   {
+    "handle": "green-lion-digital-weight-scale",
+    "title": "Green Lion Digital Weight Scale",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5dcb372e-76f4-44f3-a872-3af6337fb39d.jpg?v=1755668796",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Green Lion",
+      "Health & Fitness"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 145000,
+          "sale_price": 145000,
+          "percentage_off": 0
+        }
+      ],
+      "min_regular_price": 145000,
+      "max_regular_price": 145000,
+      "min_sale_price": 145000,
+      "max_sale_price": 145000
+    },
+    "rank": 5
+  },
+  {
     "handle": "green-lion-smart-body-scale-8-electrode-advanced-analysis",
     "title": "Green Lion Smart Body Scale (8-Electrode Advanced Analysis)",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_30dbf50a-5c91-4bf0-9492-4249c1678a66.jpg?v=1754725076",
@@ -124,7 +150,7 @@
       "min_sale_price": 245000,
       "max_sale_price": 245000
     },
-    "rank": 5
+    "rank": 6
   },
   {
     "handle": "green-lion-smart-health-tracker-ring",
@@ -151,7 +177,7 @@
       "min_sale_price": 155000,
       "max_sale_price": 155000
     },
-    "rank": 6
+    "rank": 7
   },
   {
     "handle": "mini-exercise-stepper-with-resistance-bands",
@@ -176,7 +202,7 @@
       "min_sale_price": 295000,
       "max_sale_price": 295000
     },
-    "rank": 7
+    "rank": 8
   },
   {
     "handle": "rotator-arm-shoulder-strength-trainer",
@@ -201,7 +227,7 @@
       "min_sale_price": 345000,
       "max_sale_price": 345000
     },
-    "rank": 8
+    "rank": 9
   },
   {
     "handle": "solerenew-electric-callus-remover",
@@ -226,7 +252,7 @@
       "min_sale_price": 89000,
       "max_sale_price": 89000
     },
-    "rank": 9
+    "rank": 10
   },
   {
     "handle": "zero-gravity-full-body-massage-chair",
@@ -251,6 +277,6 @@
       "min_sale_price": 4850000,
       "max_sale_price": 4850000
     },
-    "rank": 10
+    "rank": 11
   }
 ]

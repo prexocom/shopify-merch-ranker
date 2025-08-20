@@ -52,6 +52,32 @@
     "rank": 2
   },
   {
+    "handle": "green-lion-auto-pop-tripod",
+    "title": "Green Lion Auto Pop Tripod",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_934d663d-6802-4a2d-bb80-d64ce39a5c37.jpg?v=1755666587",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Green Lion",
+      "Tripods"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 160000,
+          "sale_price": 135000,
+          "percentage_off": 16
+        }
+      ],
+      "min_regular_price": 160000,
+      "max_regular_price": 160000,
+      "min_sale_price": 135000,
+      "max_sale_price": 135000
+    },
+    "rank": 3
+  },
+  {
     "handle": "green-lion-classic-true-wireless-earbuds",
     "title": "Green Lion Classic True Wireless Earbuds",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c19842d3-0588-430a-85e1-964e413d1d6a.jpg?v=1755628979",
@@ -75,7 +101,7 @@
       "min_sale_price": 125000,
       "max_sale_price": 125000
     },
-    "rank": 3
+    "rank": 4
   },
   {
     "handle": "green-lion-cx240-cordless-pressure-wash-gun",
@@ -101,7 +127,7 @@
       "min_sale_price": 285000,
       "max_sale_price": 285000
     },
-    "rank": 4
+    "rank": 5
   },
   {
     "handle": "green-lion-digital-luggage-scale-50-kg-max",
@@ -127,7 +153,33 @@
       "min_sale_price": 95000,
       "max_sale_price": 95000
     },
-    "rank": 5
+    "rank": 6
+  },
+  {
+    "handle": "green-lion-digital-weight-scale",
+    "title": "Green Lion Digital Weight Scale",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5dcb372e-76f4-44f3-a872-3af6337fb39d.jpg?v=1755668796",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Green Lion",
+      "Health & Fitness"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 145000,
+          "sale_price": 145000,
+          "percentage_off": 0
+        }
+      ],
+      "min_regular_price": 145000,
+      "max_regular_price": 145000,
+      "min_sale_price": 145000,
+      "max_sale_price": 145000
+    },
+    "rank": 7
   },
   {
     "handle": "green-lion-echo-max-headphones",
@@ -153,7 +205,7 @@
       "min_sale_price": 175000,
       "max_sale_price": 175000
     },
-    "rank": 6
+    "rank": 8
   },
   {
     "handle": "green-lion-echo-max-headphones-black",
@@ -179,7 +231,7 @@
       "min_sale_price": 175000,
       "max_sale_price": 175000
     },
-    "rank": 7
+    "rank": 9
   },
   {
     "handle": "copy-green-lion-echo-max-headphones-orange",
@@ -205,7 +257,7 @@
       "min_sale_price": 175000,
       "max_sale_price": 175000
     },
-    "rank": 8
+    "rank": 10
   },
   {
     "handle": "green-lion-gan-65w-multi-port-travel-adapter",
@@ -235,7 +287,7 @@
       "min_sale_price": 290000,
       "max_sale_price": 290000
     },
-    "rank": 9
+    "rank": 11
   },
   {
     "handle": "green-lion-mouse-pad-with-wireless-charger",
@@ -263,7 +315,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 10
+    "rank": 12
   },
   {
     "handle": "green-lion-new-york-gimbal-smart-face-tracking",
@@ -292,7 +344,7 @@
       "min_sale_price": 425000,
       "max_sale_price": 425000
     },
-    "rank": 11
+    "rank": 13
   },
   {
     "handle": "green-lion-portable-oral-irrigator-300-ml",
@@ -318,7 +370,7 @@
       "min_sale_price": 175000,
       "max_sale_price": 175000
     },
-    "rank": 12
+    "rank": 14
   },
   {
     "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
@@ -345,7 +397,7 @@
       "min_sale_price": 185000,
       "max_sale_price": 185000
     },
-    "rank": 13
+    "rank": 15
   },
   {
     "handle": "green-lion-prisma-4k-portable-projector",
@@ -372,7 +424,7 @@
       "min_sale_price": 650000,
       "max_sale_price": 650000
     },
-    "rank": 14
+    "rank": 16
   },
   {
     "handle": "green-lion-smart-body-scale-8-electrode-advanced-analysis",
@@ -398,7 +450,7 @@
       "min_sale_price": 245000,
       "max_sale_price": 245000
     },
-    "rank": 15
+    "rank": 17
   },
   {
     "handle": "green-lion-smart-brush-60-ultrawide",
@@ -425,7 +477,7 @@
       "min_sale_price": 185000,
       "max_sale_price": 185000
     },
-    "rank": 16
+    "rank": 18
   },
   {
     "handle": "green-lion-smart-health-tracker-ring",
@@ -452,7 +504,33 @@
       "min_sale_price": 155000,
       "max_sale_price": 155000
     },
-    "rank": 17
+    "rank": 19
+  },
+  {
+    "handle": "green-lion-smart-oled-vertical-mouse",
+    "title": "Green Lion Smart OLED Vertical Mouse",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e44757ff-f4f6-426c-80b3-752a9a413f2d.jpg?v=1755669554",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Computer Accessories",
+      "Green Lion"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 150000,
+          "sale_price": 150000,
+          "percentage_off": 0
+        }
+      ],
+      "min_regular_price": 150000,
+      "max_regular_price": 150000,
+      "min_sale_price": 150000,
+      "max_sale_price": 150000
+    },
+    "rank": 20
   },
   {
     "handle": "green-lion-smart-toothbrush-sanitizer",
@@ -479,7 +557,7 @@
       "min_sale_price": 160000,
       "max_sale_price": 160000
     },
-    "rank": 18
+    "rank": 21
   },
   {
     "handle": "green-lion-stockholm-smart-glasses-black",
@@ -505,7 +583,7 @@
       "min_sale_price": 155000,
       "max_sale_price": 155000
     },
-    "rank": 19
+    "rank": 22
   },
   {
     "handle": "green-lion-thermal-portable-printer",
@@ -531,7 +609,7 @@
       "min_sale_price": 245000,
       "max_sale_price": 245000
     },
-    "rank": 20
+    "rank": 23
   },
   {
     "handle": "green-lion-urbanic-smart-eyewear",
@@ -557,6 +635,6 @@
       "min_sale_price": 165000,
       "max_sale_price": 165000
     },
-    "rank": 21
+    "rank": 24
   }
 ]
