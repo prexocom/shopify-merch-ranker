@@ -3624,7 +3624,7 @@
       "revenue": 295000,
       "tags": [
         "Entertainment",
-        "Projector"
+        "Projectors"
       ],
       "pricing": {
         "variants": [
@@ -3650,7 +3650,7 @@
       "revenue": 0,
       "tags": [
         "Entertainment",
-        "Projector"
+        "Projectors"
       ],
       "pricing": {
         "variants": [
@@ -3677,7 +3677,7 @@
       "tags": [
         "Entertainment",
         "Green Lion",
-        "Projector"
+        "Projectors"
       ],
       "pricing": {
         "variants": [
@@ -3777,7 +3777,7 @@
       "rank": 6
     }
   ],
-  "Projector": [
+  "Projectors": [
     {
       "handle": "prexobeam-mini-portable-smart-projector",
       "title": "PrexoBeam Mini – Portable Smart Projector",
@@ -3786,7 +3786,7 @@
       "revenue": 295000,
       "tags": [
         "Entertainment",
-        "Projector"
+        "Projectors"
       ],
       "pricing": {
         "variants": [
@@ -3812,7 +3812,7 @@
       "revenue": 0,
       "tags": [
         "Entertainment",
-        "Projector"
+        "Projectors"
       ],
       "pricing": {
         "variants": [
@@ -3839,7 +3839,7 @@
       "tags": [
         "Entertainment",
         "Green Lion",
-        "Projector"
+        "Projectors"
       ],
       "pricing": {
         "variants": [
@@ -4427,7 +4427,7 @@
       "tags": [
         "Entertainment",
         "Green Lion",
-        "Projector"
+        "Projectors"
       ],
       "pricing": {
         "variants": [
