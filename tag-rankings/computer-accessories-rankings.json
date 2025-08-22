@@ -136,6 +136,32 @@
     "rank": 5
   },
   {
+    "handle": "keyfold-pro-2-foldable-bluetooth-keyboard",
+    "title": "Keyfold Pro 2 - Foldable Bluetooth Keyboard",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f14edf69-1add-47c3-bd91-4eae73628f34.jpg?v=1755880560",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Computer Accessories",
+      "Phone Accessories"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 220000,
+          "sale_price": 155000,
+          "percentage_off": 30
+        }
+      ],
+      "min_regular_price": 220000,
+      "max_regular_price": 220000,
+      "min_sale_price": 155000,
+      "max_sale_price": 155000
+    },
+    "rank": 6
+  },
+  {
     "handle": "powerology-dual-screen-portable-monitor",
     "title": "Powerology Dual Screen Portable Monitor",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_06675db1-3818-4688-9027-05b6412cb3a6.jpg?v=1754753103",
@@ -160,7 +186,7 @@
       "min_sale_price": 1250000,
       "max_sale_price": 1250000
     },
-    "rank": 6
+    "rank": 7
   },
   {
     "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
@@ -189,7 +215,7 @@
       "min_sale_price": 620000,
       "max_sale_price": 620000
     },
-    "rank": 7
+    "rank": 8
   },
   {
     "handle": "prexoplay-wireless-bluetooth-game-controller",
@@ -216,7 +242,7 @@
       "min_sale_price": 75000,
       "max_sale_price": 75000
     },
-    "rank": 8
+    "rank": 9
   },
   {
     "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
@@ -241,6 +267,6 @@
       "min_sale_price": 1350000,
       "max_sale_price": 1350000
     },
-    "rank": 9
+    "rank": 10
   }
 ]

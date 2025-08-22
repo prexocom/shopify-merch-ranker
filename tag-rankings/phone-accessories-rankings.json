@@ -273,6 +273,32 @@
     "rank": 10
   },
   {
+    "handle": "keyfold-pro-2-foldable-bluetooth-keyboard",
+    "title": "Keyfold Pro 2 - Foldable Bluetooth Keyboard",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f14edf69-1add-47c3-bd91-4eae73628f34.jpg?v=1755880560",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Computer Accessories",
+      "Phone Accessories"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 220000,
+          "sale_price": 155000,
+          "percentage_off": 30
+        }
+      ],
+      "min_regular_price": 220000,
+      "max_regular_price": 220000,
+      "min_sale_price": 155000,
+      "max_sale_price": 155000
+    },
+    "rank": 11
+  },
+  {
     "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
     "title": "Porodo 3‑Axis Gimbal Stabilizer with Magnetic Fill Light",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2087b3da-f4f0-42f3-b9bc-ea20e7af57d7.jpg?v=1754597732",
@@ -299,7 +325,7 @@
       "min_sale_price": 315000,
       "max_sale_price": 315000
     },
-    "rank": 11
+    "rank": 12
   },
   {
     "handle": "porodo-quadbase-gimbal-stabilizer",
@@ -328,7 +354,7 @@
       "min_sale_price": 175000,
       "max_sale_price": 175000
     },
-    "rank": 12
+    "rank": 13
   },
   {
     "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
@@ -357,7 +383,7 @@
       "min_sale_price": 620000,
       "max_sale_price": 620000
     },
-    "rank": 13
+    "rank": 14
   },
   {
     "handle": "prexoplay-wireless-bluetooth-game-controller",
@@ -384,7 +410,7 @@
       "min_sale_price": 75000,
       "max_sale_price": 75000
     },
-    "rank": 14
+    "rank": 15
   },
   {
     "handle": "samsung-galaxy-smarttag2",
@@ -411,7 +437,7 @@
       "min_sale_price": 137000,
       "max_sale_price": 137000
     },
-    "rank": 15
+    "rank": 16
   },
   {
     "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
@@ -437,6 +463,6 @@
       "min_sale_price": 150000,
       "max_sale_price": 150000
     },
-    "rank": 16
+    "rank": 17
   }
 ]
