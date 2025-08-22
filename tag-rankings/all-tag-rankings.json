@@ -53,6 +53,32 @@
       "rank": 2
     },
     {
+      "handle": "green-lion-ocean-open-ear-headphones",
+      "title": "Green Lion Ocean Open-Ear Headphones",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b05825b3-5030-4366-a8a5-e1e5978b508f.jpg?v=1755898196",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Earbuds",
+        "Green Lion"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 170000,
+            "sale_price": 135000,
+            "percentage_off": 21
+          }
+        ],
+        "min_regular_price": 170000,
+        "max_regular_price": 170000,
+        "min_sale_price": 135000,
+        "max_sale_price": 135000
+      },
+      "rank": 3
+    },
+    {
       "handle": "jbl-endurance-peak-3",
       "title": "JBL Endurance Peak 3",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_081200a4-f62a-4e8e-92d9-4810856a2ed6.jpg?v=1755332898",
@@ -76,7 +102,7 @@
         "min_sale_price": 445000,
         "max_sale_price": 445000
       },
-      "rank": 3
+      "rank": 4
     },
     {
       "handle": "jbl-tune-buds-true-wireless-anc-earbuds",
@@ -102,7 +128,7 @@
         "min_sale_price": 369000,
         "max_sale_price": 369000
       },
-      "rank": 4
+      "rank": 5
     },
     {
       "handle": "jbl-tune-buds-true-wireless-anc-earbuds-blue",
@@ -128,7 +154,7 @@
         "min_sale_price": 369000,
         "max_sale_price": 369000
       },
-      "rank": 5
+      "rank": 6
     },
     {
       "handle": "jbl-tune-buds-true-wireless-anc-earbuds-purple",
@@ -154,7 +180,7 @@
         "min_sale_price": 369000,
         "max_sale_price": 369000
       },
-      "rank": 6
+      "rank": 7
     },
     {
       "handle": "jbl-tune-buds-true-wireless-anc-earbuds-white",
@@ -180,7 +206,7 @@
         "min_sale_price": 369000,
         "max_sale_price": 369000
       },
-      "rank": 7
+      "rank": 8
     },
     {
       "handle": "jbl-vibe-flex-true-wireless-earbuds",
@@ -206,7 +232,7 @@
         "min_sale_price": 285000,
         "max_sale_price": 285000
       },
-      "rank": 8
+      "rank": 9
     },
     {
       "handle": "jbl-wave-flex-2",
@@ -232,7 +258,7 @@
         "min_sale_price": 375000,
         "max_sale_price": 375000
       },
-      "rank": 9
+      "rank": 10
     },
     {
       "handle": "jbl-wave-flex-2-blue",
@@ -258,7 +284,7 @@
         "min_sale_price": 375000,
         "max_sale_price": 375000
       },
-      "rank": 10
+      "rank": 11
     },
     {
       "handle": "jbl-wave-flex-2-pink",
@@ -284,7 +310,7 @@
         "min_sale_price": 375000,
         "max_sale_price": 375000
       },
-      "rank": 11
+      "rank": 12
     },
     {
       "handle": "jbl-wave-flex-2-white",
@@ -310,7 +336,7 @@
         "min_sale_price": 375000,
         "max_sale_price": 375000
       },
-      "rank": 12
+      "rank": 13
     },
     {
       "handle": "oraimo-freepods-4-anc-true-wireless-earbuds",
@@ -336,7 +362,7 @@
         "min_sale_price": 180000,
         "max_sale_price": 180000
       },
-      "rank": 13
+      "rank": 14
     },
     {
       "handle": "powerology-6-mic-hybrid-anc-enc-tws-earbuds",
@@ -362,7 +388,7 @@
         "min_sale_price": 120000,
         "max_sale_price": 120000
       },
-      "rank": 14
+      "rank": 15
     },
     {
       "handle": "powerology-air-conduction-enc-tws-earbuds-with-display",
@@ -388,7 +414,7 @@
         "min_sale_price": 195000,
         "max_sale_price": 195000
       },
-      "rank": 15
+      "rank": 16
     },
     {
       "handle": "powerology-quad-mic-enc-tws-earbuds",
@@ -414,7 +440,7 @@
         "min_sale_price": 95000,
         "max_sale_price": 95000
       },
-      "rank": 16
+      "rank": 17
     }
   ],
   "Phone Accessories": [
@@ -4340,6 +4366,32 @@
       "rank": 14
     },
     {
+      "handle": "green-lion-ocean-open-ear-headphones",
+      "title": "Green Lion Ocean Open-Ear Headphones",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b05825b3-5030-4366-a8a5-e1e5978b508f.jpg?v=1755898196",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Earbuds",
+        "Green Lion"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 170000,
+            "sale_price": 135000,
+            "percentage_off": 21
+          }
+        ],
+        "min_regular_price": 170000,
+        "max_regular_price": 170000,
+        "min_sale_price": 135000,
+        "max_sale_price": 135000
+      },
+      "rank": 15
+    },
+    {
       "handle": "green-lion-palma-pro-wireless-speaker",
       "title": "Green Lion Palma Pro Wireless Speaker",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_db223ea9-2ba6-451a-a69d-5718165323bf.jpg?v=1755673216",
@@ -4363,7 +4415,7 @@
         "min_sale_price": 185000,
         "max_sale_price": 185000
       },
-      "rank": 15
+      "rank": 16
     },
     {
       "handle": "green-lion-portable-oral-irrigator-300-ml",
@@ -4389,7 +4441,7 @@
         "min_sale_price": 175000,
         "max_sale_price": 175000
       },
-      "rank": 16
+      "rank": 17
     },
     {
       "handle": "green-lion-porto-wireless-speaker",
@@ -4415,7 +4467,7 @@
         "min_sale_price": 140000,
         "max_sale_price": 140000
       },
-      "rank": 17
+      "rank": 18
     },
     {
       "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
@@ -4442,7 +4494,7 @@
         "min_sale_price": 185000,
         "max_sale_price": 185000
       },
-      "rank": 18
+      "rank": 19
     },
     {
       "handle": "green-lion-prisma-4k-portable-projector",
@@ -4469,7 +4521,7 @@
         "min_sale_price": 650000,
         "max_sale_price": 650000
       },
-      "rank": 19
+      "rank": 20
     },
     {
       "handle": "green-lion-sao-paulo-portable-touch-display-speaker",
@@ -4495,7 +4547,7 @@
         "min_sale_price": 1420000,
         "max_sale_price": 1420000
       },
-      "rank": 20
+      "rank": 21
     },
     {
       "handle": "green-lion-smart-body-scale-8-electrode-advanced-analysis",
@@ -4521,7 +4573,7 @@
         "min_sale_price": 245000,
         "max_sale_price": 245000
       },
-      "rank": 21
+      "rank": 22
     },
     {
       "handle": "green-lion-smart-brush-60-ultrawide",
@@ -4548,7 +4600,7 @@
         "min_sale_price": 185000,
         "max_sale_price": 185000
       },
-      "rank": 22
+      "rank": 23
     },
     {
       "handle": "green-lion-smart-health-tracker-ring",
@@ -4575,7 +4627,7 @@
         "min_sale_price": 155000,
         "max_sale_price": 155000
       },
-      "rank": 23
+      "rank": 24
     },
     {
       "handle": "green-lion-smart-oled-vertical-mouse",
@@ -4601,7 +4653,7 @@
         "min_sale_price": 150000,
         "max_sale_price": 150000
       },
-      "rank": 24
+      "rank": 25
     },
     {
       "handle": "green-lion-smart-toothbrush-sanitizer",
@@ -4628,7 +4680,7 @@
         "min_sale_price": 160000,
         "max_sale_price": 160000
       },
-      "rank": 25
+      "rank": 26
     },
     {
       "handle": "green-lion-stockholm-smart-glasses-black",
@@ -4654,7 +4706,7 @@
         "min_sale_price": 155000,
         "max_sale_price": 155000
       },
-      "rank": 26
+      "rank": 27
     },
     {
       "handle": "green-lion-thermal-portable-printer",
@@ -4680,7 +4732,7 @@
         "min_sale_price": 245000,
         "max_sale_price": 245000
       },
-      "rank": 27
+      "rank": 28
     },
     {
       "handle": "green-lion-urbanic-smart-eyewear",
@@ -4706,7 +4758,7 @@
         "min_sale_price": 165000,
         "max_sale_price": 165000
       },
-      "rank": 28
+      "rank": 29
     }
   ],
   "Laptop Stands": [
