@@ -2641,6 +2641,31 @@
       "rank": 8
     },
     {
+      "handle": "quicksand-painting-night-light",
+      "title": "Quicksand Painting Night Light",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f6734e57-556c-4403-b972-218571655237.jpg?v=1755935915",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 250000,
+            "sale_price": 195000,
+            "percentage_off": 22
+          }
+        ],
+        "min_regular_price": 250000,
+        "max_regular_price": 250000,
+        "min_sale_price": 195000,
+        "max_sale_price": 195000
+      },
+      "rank": 9
+    },
+    {
       "handle": "steamloco™-aromatherapy-train-humidifier",
       "title": "SteamLoco™ – Aromatherapy Train Humidifier",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2c7b3373-3980-4e88-8e81-4f6ffc43ae8f.jpg?v=1749641907",
@@ -2664,7 +2689,7 @@
         "min_sale_price": 188000,
         "max_sale_price": 188000
       },
-      "rank": 9
+      "rank": 10
     },
     {
       "handle": "magic-speaker-bulb-light-sound-combined",
@@ -2693,7 +2718,7 @@
         "min_sale_price": 98000,
         "max_sale_price": 98000
       },
-      "rank": 10
+      "rank": 11
     }
   ],
   "humidifier": [
@@ -3599,15 +3624,15 @@
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 120000,
-            "sale_price": 89000,
-            "percentage_off": 26
+            "regular_price": 130000,
+            "sale_price": 99000,
+            "percentage_off": 24
           }
         ],
-        "min_regular_price": 120000,
-        "max_regular_price": 120000,
-        "min_sale_price": 89000,
-        "max_sale_price": 89000
+        "min_regular_price": 130000,
+        "max_regular_price": 130000,
+        "min_sale_price": 99000,
+        "max_sale_price": 99000
       },
       "rank": 10
     },
