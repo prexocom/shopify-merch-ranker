@@ -1,38 +1,45 @@
 [
   {
+    "handle": "prexobeam-mini-portable-smart-projector",
+    "in_stock": true,
+    "units_sold": 2,
+    "revenue": 620000,
+    "score": 1
+  },
+  {
     "handle": "ufo-raindrop-humidifier",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 276000,
-    "score": 0.9614
-  },
-  {
-    "handle": "prexobeam-mini-portable-smart-projector",
-    "in_stock": true,
-    "units_sold": 1,
-    "revenue": 295000,
-    "score": 0.85
+    "score": 0.6671
   },
   {
     "handle": "lumifan-360-light-fan",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 188000,
-    "score": 0.6324
+    "score": 0.4319
   },
   {
     "handle": "anker-soundcore-pyro-mini",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 180000,
-    "score": 0.6161
+    "score": 0.4242
+  },
+  {
+    "handle": "keyfold-pro-foldable-bluetooth-keyboard",
+    "in_stock": true,
+    "units_sold": 1,
+    "revenue": 155000,
+    "score": 0.4
   },
   {
     "handle": "bonfire-humidifier-1",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 135000,
-    "score": 0.5246
+    "score": 0.3806
   },
   {
     "handle": "amaya-tk04-earbuds",
@@ -540,13 +547,6 @@
   },
   {
     "handle": "jbl-wave-flex-2-white",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "keyfold-pro-foldable-bluetooth-keyboard",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
