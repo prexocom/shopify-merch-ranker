@@ -445,6 +445,32 @@
   ],
   "Phone Accessories": [
     {
+      "handle": "keyfold-pro-foldable-bluetooth-keyboard",
+      "title": "Keyfold Pro - Foldable Bluetooth Keyboard",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_03e0123a-e5b8-4d65-a9b0-e76114fc9eb2.jpg?v=1755880560",
+      "units_sold": 1,
+      "revenue": 155000,
+      "tags": [
+        "Computer Accessories",
+        "Phone Accessories"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 220000,
+            "sale_price": 155000,
+            "percentage_off": 30
+          }
+        ],
+        "min_regular_price": 220000,
+        "max_regular_price": 220000,
+        "min_sale_price": 155000,
+        "max_sale_price": 155000
+      },
+      "rank": 1
+    },
+    {
       "handle": "amaya-tk04-earbuds",
       "title": "Amaya TK04 Earbuds",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_67ad79eb-079b-4c86-8962-b1eb035e6d4c.jpg?v=1754387060",
@@ -468,7 +494,7 @@
         "min_sale_price": 98000,
         "max_sale_price": 98000
       },
-      "rank": 1
+      "rank": 2
     },
     {
       "handle": "apple-air-tag",
@@ -495,7 +521,7 @@
         "min_sale_price": 185000,
         "max_sale_price": 185000
       },
-      "rank": 2
+      "rank": 3
     },
     {
       "handle": "auto-face-tracking-tripod-gimbal",
@@ -522,7 +548,7 @@
         "min_sale_price": 199000,
         "max_sale_price": 199000
       },
-      "rank": 3
+      "rank": 4
     },
     {
       "handle": "automatic-clamping-car-phone-holder",
@@ -548,7 +574,7 @@
         "min_sale_price": 185000,
         "max_sale_price": 185000
       },
-      "rank": 4
+      "rank": 5
     },
     {
       "handle": "green-lion-auto-track-gimbal-stabilizer",
@@ -575,7 +601,7 @@
         "min_sale_price": 165000,
         "max_sale_price": 165000
       },
-      "rank": 5
+      "rank": 6
     },
     {
       "handle": "green-lion-gan-65w-multi-port-travel-adapter",
@@ -605,7 +631,7 @@
         "min_sale_price": 290000,
         "max_sale_price": 290000
       },
-      "rank": 6
+      "rank": 7
     },
     {
       "handle": "green-lion-mouse-pad-with-wireless-charger",
@@ -633,7 +659,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 7
+      "rank": 8
     },
     {
       "handle": "green-lion-new-york-gimbal-smart-face-tracking",
@@ -662,7 +688,7 @@
         "min_sale_price": 425000,
         "max_sale_price": 425000
       },
-      "rank": 8
+      "rank": 9
     },
     {
       "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
@@ -688,32 +714,6 @@
         "max_regular_price": 220000,
         "min_sale_price": 185000,
         "max_sale_price": 185000
-      },
-      "rank": 9
-    },
-    {
-      "handle": "keyfold-pro-foldable-bluetooth-keyboard",
-      "title": "Keyfold Pro - Foldable Bluetooth Keyboard",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_03e0123a-e5b8-4d65-a9b0-e76114fc9eb2.jpg?v=1755880560",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 155000,
-            "percentage_off": 30
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 155000,
-        "max_sale_price": 155000
       },
       "rank": 10
     },
@@ -3722,8 +3722,8 @@
       "handle": "prexobeam-mini-portable-smart-projector",
       "title": "PrexoBeam Mini – Portable Smart Projector",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ae4cd61e-4f99-48ae-9ca7-616246a48176.jpg?v=1749641726",
-      "units_sold": 1,
-      "revenue": 295000,
+      "units_sold": 2,
+      "revenue": 620000,
       "tags": [
         "Entertainment",
         "Projectors"
@@ -3884,8 +3884,8 @@
       "handle": "prexobeam-mini-portable-smart-projector",
       "title": "PrexoBeam Mini – Portable Smart Projector",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ae4cd61e-4f99-48ae-9ca7-616246a48176.jpg?v=1749641726",
-      "units_sold": 1,
-      "revenue": 295000,
+      "units_sold": 2,
+      "revenue": 620000,
       "tags": [
         "Entertainment",
         "Projectors"
@@ -5371,6 +5371,32 @@
   ],
   "Computer Accessories": [
     {
+      "handle": "keyfold-pro-foldable-bluetooth-keyboard",
+      "title": "Keyfold Pro - Foldable Bluetooth Keyboard",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_03e0123a-e5b8-4d65-a9b0-e76114fc9eb2.jpg?v=1755880560",
+      "units_sold": 1,
+      "revenue": 155000,
+      "tags": [
+        "Computer Accessories",
+        "Phone Accessories"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 220000,
+            "sale_price": 155000,
+            "percentage_off": 30
+          }
+        ],
+        "min_regular_price": 220000,
+        "max_regular_price": 220000,
+        "min_sale_price": 155000,
+        "max_sale_price": 155000
+      },
+      "rank": 1
+    },
+    {
       "handle": "green-lion-gan-65w-multi-port-travel-adapter",
       "title": "Green Lion GaN 65W Multi-Port Travel Adapter",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3813bdf2-ef52-46b9-8aa4-c293c0734f0c.jpg?v=1754754721",
@@ -5398,7 +5424,7 @@
         "min_sale_price": 290000,
         "max_sale_price": 290000
       },
-      "rank": 1
+      "rank": 2
     },
     {
       "handle": "green-lion-mouse-pad-with-wireless-charger",
@@ -5426,7 +5452,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 2
+      "rank": 3
     },
     {
       "handle": "green-lion-smart-oled-vertical-mouse",
@@ -5452,7 +5478,7 @@
         "min_sale_price": 150000,
         "max_sale_price": 150000
       },
-      "rank": 3
+      "rank": 4
     },
     {
       "handle": "green-lion-wireless-presenter-with-retractable-pointer",
@@ -5477,32 +5503,6 @@
         "max_regular_price": 120000,
         "min_sale_price": 95000,
         "max_sale_price": 95000
-      },
-      "rank": 4
-    },
-    {
-      "handle": "keyfold-pro-foldable-bluetooth-keyboard",
-      "title": "Keyfold Pro - Foldable Bluetooth Keyboard",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_03e0123a-e5b8-4d65-a9b0-e76114fc9eb2.jpg?v=1755880560",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 155000,
-            "percentage_off": 30
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 155000,
-        "max_sale_price": 155000
       },
       "rank": 5
     },
