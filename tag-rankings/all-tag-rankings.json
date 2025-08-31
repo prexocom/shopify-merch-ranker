@@ -3160,6 +3160,31 @@
       "rank": 1
     },
     {
+      "handle": "dji-osmo-mobile-se-gimbal",
+      "title": "DJI Osmo Mobile SE Gimbal",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9823c958-8d37-4036-8036-f0f158f8c62c.jpg?v=1756623097",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Gimbal"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 550000,
+            "sale_price": 495000,
+            "percentage_off": 10
+          }
+        ],
+        "min_regular_price": 550000,
+        "max_regular_price": 550000,
+        "min_sale_price": 495000,
+        "max_sale_price": 495000
+      },
+      "rank": 2
+    },
+    {
       "handle": "green-lion-auto-track-gimbal-stabilizer",
       "title": "Green Lion Auto Track Gimbal Stabilizer",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d3945714-bb75-418e-a3a0-a38147e828af.webp?v=1754571795",
@@ -3184,7 +3209,7 @@
         "min_sale_price": 165000,
         "max_sale_price": 165000
       },
-      "rank": 2
+      "rank": 3
     },
     {
       "handle": "green-lion-new-york-gimbal-smart-face-tracking",
@@ -3213,7 +3238,7 @@
         "min_sale_price": 425000,
         "max_sale_price": 425000
       },
-      "rank": 3
+      "rank": 4
     },
     {
       "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
@@ -3242,7 +3267,7 @@
         "min_sale_price": 315000,
         "max_sale_price": 315000
       },
-      "rank": 4
+      "rank": 5
     },
     {
       "handle": "porodo-quadbase-gimbal-stabilizer",
@@ -3271,7 +3296,7 @@
         "min_sale_price": 175000,
         "max_sale_price": 175000
       },
-      "rank": 5
+      "rank": 6
     }
   ],
   "Car Gadgets": [
