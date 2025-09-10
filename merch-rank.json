@@ -2,8 +2,8 @@
   {
     "handle": "lumifan-360-light-fan",
     "in_stock": true,
-    "units_sold": 11,
-    "revenue": 1738000,
+    "units_sold": 12,
+    "revenue": 1893000,
     "score": 1
   },
   {
@@ -11,35 +11,49 @@
     "in_stock": true,
     "units_sold": 2,
     "revenue": 620000,
-    "score": 0.3686
+    "score": 0.3465
   },
   {
     "handle": "ufo-raindrop-humidifier",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 276000,
-    "score": 0.2498
+    "score": 0.2375
   },
   {
     "handle": "anker-soundcore-pyro-mini",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 180000,
-    "score": 0.1894
+    "score": 0.1821
   },
   {
     "handle": "keyfold-pro-foldable-bluetooth-keyboard",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 155000,
-    "score": 0.1808
+    "score": 0.1741
   },
   {
     "handle": "bonfire-humidifier-1",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 135000,
-    "score": 0.1739
+    "score": 0.1678
+  },
+  {
+    "handle": "swiftmop™-effortless-spray-cleaning-in-seconds",
+    "in_stock": true,
+    "units_sold": 1,
+    "revenue": 98000,
+    "score": 0.1561
+  },
+  {
+    "handle": "green-lion-digital-luggage-scale-50-kg-max",
+    "in_stock": true,
+    "units_sold": 1,
+    "revenue": 95000,
+    "score": 0.1551
   },
   {
     "handle": "amaya-tk04-earbuds",
@@ -225,13 +239,6 @@
   },
   {
     "handle": "green-lion-cx240-cordless-pressure-wash-gun",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-digital-luggage-scale-50-kg-max",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
@@ -813,13 +820,6 @@
   },
   {
     "handle": "steamloco™-aromatherapy-train-humidifier",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "swiftmop™-effortless-spray-cleaning-in-seconds",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
