@@ -2185,6 +2185,32 @@
   ],
   "Travel": [
     {
+      "handle": "green-lion-digital-luggage-scale-50-kg-max",
+      "title": "Green Lion Digital Luggage Scale (50 kg Max)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_010671a0-2256-4d4d-bb91-961ff766fed2.webp?v=1754724471",
+      "units_sold": 1,
+      "revenue": 95000,
+      "tags": [
+        "Green Lion",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 120000,
+            "sale_price": 95000,
+            "percentage_off": 21
+          }
+        ],
+        "min_regular_price": 120000,
+        "max_regular_price": 120000,
+        "min_sale_price": 95000,
+        "max_sale_price": 95000
+      },
+      "rank": 1
+    },
+    {
       "handle": "apple-air-tag",
       "title": "Apple Air Tag",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bb51b04a-a8e6-4c95-a2b9-271f93c5a509.jpg?v=1754578643",
@@ -2208,32 +2234,6 @@
         "max_regular_price": 185000,
         "min_sale_price": 185000,
         "max_sale_price": 185000
-      },
-      "rank": 1
-    },
-    {
-      "handle": "green-lion-digital-luggage-scale-50-kg-max",
-      "title": "Green Lion Digital Luggage Scale (50 kg Max)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_010671a0-2256-4d4d-bb91-961ff766fed2.webp?v=1754724471",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 120000,
-            "sale_price": 95000,
-            "percentage_off": 21
-          }
-        ],
-        "min_regular_price": 120000,
-        "max_regular_price": 120000,
-        "min_sale_price": 95000,
-        "max_sale_price": 95000
       },
       "rank": 2
     },
@@ -2437,8 +2437,8 @@
       "handle": "lumifan-360-light-fan",
       "title": "LumiFan™ – 360° Light Fan",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3309b47252b00d69970a66cfd5863891_1_1.png?v=1749641843",
-      "units_sold": 11,
-      "revenue": 1738000,
+      "units_sold": 12,
+      "revenue": 1893000,
       "tags": [
         "Home Decor"
       ],
@@ -4068,6 +4068,32 @@
   ],
   "Green Lion": [
     {
+      "handle": "green-lion-digital-luggage-scale-50-kg-max",
+      "title": "Green Lion Digital Luggage Scale (50 kg Max)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_010671a0-2256-4d4d-bb91-961ff766fed2.webp?v=1754724471",
+      "units_sold": 1,
+      "revenue": 95000,
+      "tags": [
+        "Green Lion",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 120000,
+            "sale_price": 95000,
+            "percentage_off": 21
+          }
+        ],
+        "min_regular_price": 120000,
+        "max_regular_price": 120000,
+        "min_sale_price": 95000,
+        "max_sale_price": 95000
+      },
+      "rank": 1
+    },
+    {
       "handle": "green-lion-360-rotatable-laptop-stand",
       "title": "Green Lion 360 Rotatable Laptop Stand",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_27be5940-6fd1-4fa1-b189-317c157f3dc4.jpg?v=1755552283",
@@ -4091,7 +4117,7 @@
         "min_sale_price": 195000,
         "max_sale_price": 195000
       },
-      "rank": 1
+      "rank": 2
     },
     {
       "handle": "green-lion-adjustable-laptop-stand-with-cooling-fan",
@@ -4117,7 +4143,7 @@
         "min_sale_price": 230000,
         "max_sale_price": 230000
       },
-      "rank": 2
+      "rank": 3
     },
     {
       "handle": "green-lion-auto-pop-tripod",
@@ -4143,7 +4169,7 @@
         "min_sale_price": 135000,
         "max_sale_price": 135000
       },
-      "rank": 3
+      "rank": 4
     },
     {
       "handle": "green-lion-buenos-aires-display-speaker",
@@ -4169,7 +4195,7 @@
         "min_sale_price": 1550000,
         "max_sale_price": 1550000
       },
-      "rank": 4
+      "rank": 5
     },
     {
       "handle": "green-lion-classic-true-wireless-earbuds",
@@ -4195,7 +4221,7 @@
         "min_sale_price": 125000,
         "max_sale_price": 125000
       },
-      "rank": 5
+      "rank": 6
     },
     {
       "handle": "green-lion-cx240-cordless-pressure-wash-gun",
@@ -4220,32 +4246,6 @@
         "max_regular_price": 320000,
         "min_sale_price": 285000,
         "max_sale_price": 285000
-      },
-      "rank": 6
-    },
-    {
-      "handle": "green-lion-digital-luggage-scale-50-kg-max",
-      "title": "Green Lion Digital Luggage Scale (50 kg Max)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_010671a0-2256-4d4d-bb91-961ff766fed2.webp?v=1754724471",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 120000,
-            "sale_price": 95000,
-            "percentage_off": 21
-          }
-        ],
-        "min_regular_price": 120000,
-        "max_regular_price": 120000,
-        "min_sale_price": 95000,
-        "max_sale_price": 95000
       },
       "rank": 7
     },
@@ -8102,8 +8102,8 @@
       "handle": "swiftmop™-effortless-spray-cleaning-in-seconds",
       "title": "SwiftMop™ – Effortless Spray Cleaning in Seconds!",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a068100c-4189-4422-9ece-8bdedd4c11f2.png?v=1749641920",
-      "units_sold": 0,
-      "revenue": 0,
+      "units_sold": 1,
+      "revenue": 98000,
       "tags": [
         ""
       ],

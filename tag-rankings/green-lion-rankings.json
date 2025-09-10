@@ -1,5 +1,31 @@
 [
   {
+    "handle": "green-lion-digital-luggage-scale-50-kg-max",
+    "title": "Green Lion Digital Luggage Scale (50 kg Max)",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_010671a0-2256-4d4d-bb91-961ff766fed2.webp?v=1754724471",
+    "units_sold": 1,
+    "revenue": 95000,
+    "tags": [
+      "Green Lion",
+      "Travel"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 120000,
+          "sale_price": 95000,
+          "percentage_off": 21
+        }
+      ],
+      "min_regular_price": 120000,
+      "max_regular_price": 120000,
+      "min_sale_price": 95000,
+      "max_sale_price": 95000
+    },
+    "rank": 1
+  },
+  {
     "handle": "green-lion-360-rotatable-laptop-stand",
     "title": "Green Lion 360 Rotatable Laptop Stand",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_27be5940-6fd1-4fa1-b189-317c157f3dc4.jpg?v=1755552283",
@@ -23,7 +49,7 @@
       "min_sale_price": 195000,
       "max_sale_price": 195000
     },
-    "rank": 1
+    "rank": 2
   },
   {
     "handle": "green-lion-adjustable-laptop-stand-with-cooling-fan",
@@ -49,7 +75,7 @@
       "min_sale_price": 230000,
       "max_sale_price": 230000
     },
-    "rank": 2
+    "rank": 3
   },
   {
     "handle": "green-lion-auto-pop-tripod",
@@ -75,7 +101,7 @@
       "min_sale_price": 135000,
       "max_sale_price": 135000
     },
-    "rank": 3
+    "rank": 4
   },
   {
     "handle": "green-lion-buenos-aires-display-speaker",
@@ -101,7 +127,7 @@
       "min_sale_price": 1550000,
       "max_sale_price": 1550000
     },
-    "rank": 4
+    "rank": 5
   },
   {
     "handle": "green-lion-classic-true-wireless-earbuds",
@@ -127,7 +153,7 @@
       "min_sale_price": 125000,
       "max_sale_price": 125000
     },
-    "rank": 5
+    "rank": 6
   },
   {
     "handle": "green-lion-cx240-cordless-pressure-wash-gun",
@@ -152,32 +178,6 @@
       "max_regular_price": 320000,
       "min_sale_price": 285000,
       "max_sale_price": 285000
-    },
-    "rank": 6
-  },
-  {
-    "handle": "green-lion-digital-luggage-scale-50-kg-max",
-    "title": "Green Lion Digital Luggage Scale (50 kg Max)",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_010671a0-2256-4d4d-bb91-961ff766fed2.webp?v=1754724471",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Green Lion",
-      "Travel"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 120000,
-          "sale_price": 95000,
-          "percentage_off": 21
-        }
-      ],
-      "min_regular_price": 120000,
-      "max_regular_price": 120000,
-      "min_sale_price": 95000,
-      "max_sale_price": 95000
     },
     "rank": 7
   },
