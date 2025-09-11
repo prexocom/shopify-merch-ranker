@@ -1,5 +1,30 @@
 [
   {
+    "handle": "solarsecure-360-full-color-night-vision-security-camera",
+    "title": "SolarSecure 360 – Full-Color Night Vision Security Camera",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_df6ee820-3071-4a55-88de-4472b6b10155.webp?v=1749641793",
+    "units_sold": 1,
+    "revenue": 445000,
+    "tags": [
+      "Security Cameras"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 550000,
+          "sale_price": 445000,
+          "percentage_off": 19
+        }
+      ],
+      "min_regular_price": 550000,
+      "max_regular_price": 550000,
+      "min_sale_price": 445000,
+      "max_sale_price": 445000
+    },
+    "rank": 1
+  },
+  {
     "handle": "powerology-built-in-solar-outdoor-camera",
     "title": "Powerology Built-in Solar Outdoor Camera",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f6cb4452-0bd6-4c0c-843f-8d888ebdcf24.webp?v=1754595537",
@@ -24,7 +49,7 @@
       "min_sale_price": 320000,
       "max_sale_price": 320000
     },
-    "rank": 1
+    "rank": 2
   },
   {
     "handle": "powerology-built-in-solar-pan-tilt-outdoor-camera-2k",
@@ -50,31 +75,6 @@
       "max_regular_price": 450000,
       "min_sale_price": 395000,
       "max_sale_price": 395000
-    },
-    "rank": 2
-  },
-  {
-    "handle": "solarsecure-360-full-color-night-vision-security-camera",
-    "title": "SolarSecure 360 – Full-Color Night Vision Security Camera",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_df6ee820-3071-4a55-88de-4472b6b10155.webp?v=1749641793",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Security Cameras"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 550000,
-          "sale_price": 445000,
-          "percentage_off": 19
-        }
-      ],
-      "min_regular_price": 550000,
-      "max_regular_price": 550000,
-      "min_sale_price": 445000,
-      "max_sale_price": 445000
     },
     "rank": 3
   },
