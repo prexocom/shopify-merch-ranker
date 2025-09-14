@@ -1,7 +1,7 @@
 name: 🏷️ Generate Tag Rankings JSON
 on:
   schedule:
-    - cron: "0 */2 * * *"  # every 2 hours
+    - cron: "0 */12 * * *"  # every 12 hours
   workflow_dispatch:
 permissions:
   contents: write
