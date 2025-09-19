@@ -180,6 +180,31 @@
     "rank": 7
   },
   {
+    "handle": "mini-exercise-stepper-pro",
+    "title": "Mini Exercise Stepper Pro",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a666cc7a-1981-4af9-b279-8bb026c050df.jpg?v=1758208131",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Health & Fitness"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 350000,
+          "sale_price": 215000,
+          "percentage_off": 39
+        }
+      ],
+      "min_regular_price": 350000,
+      "max_regular_price": 350000,
+      "min_sale_price": 215000,
+      "max_sale_price": 215000
+    },
+    "rank": 8
+  },
+  {
     "handle": "mini-exercise-stepper-with-resistance-bands",
     "title": "Mini Exercise Stepper with Resistance Bands",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9f981628-877f-499f-88b0-3dce21df58d4.jpg?v=1754743681",
@@ -193,16 +218,16 @@
         {
           "title": "Default Title",
           "regular_price": 350000,
-          "sale_price": 295000,
-          "percentage_off": 16
+          "sale_price": 195000,
+          "percentage_off": 44
         }
       ],
       "min_regular_price": 350000,
       "max_regular_price": 350000,
-      "min_sale_price": 295000,
-      "max_sale_price": 295000
+      "min_sale_price": 195000,
+      "max_sale_price": 195000
     },
-    "rank": 8
+    "rank": 9
   },
   {
     "handle": "rotator-arm-shoulder-strength-trainer",
@@ -227,7 +252,7 @@
       "min_sale_price": 345000,
       "max_sale_price": 345000
     },
-    "rank": 9
+    "rank": 10
   },
   {
     "handle": "solerenew-electric-callus-remover",
@@ -252,7 +277,7 @@
       "min_sale_price": 99000,
       "max_sale_price": 99000
     },
-    "rank": 10
+    "rank": 11
   },
   {
     "handle": "zero-gravity-full-body-massage-chair",
@@ -277,6 +302,6 @@
       "min_sale_price": 4850000,
       "max_sale_price": 4850000
     },
-    "rank": 11
+    "rank": 12
   }
 ]
