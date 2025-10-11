@@ -26,6 +26,31 @@
     "rank": 1
   },
   {
+    "handle": "14-quad-monitor-laptop-screen-extender",
+    "title": "14\" Quad Monitor Laptop Screen Extender",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b3dc0597-68ef-4c3b-a665-e58847efe680.jpg?v=1760165209",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Computer Accessories"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 2700000,
+          "sale_price": 2550000,
+          "percentage_off": 6
+        }
+      ],
+      "min_regular_price": 2700000,
+      "max_regular_price": 2700000,
+      "min_sale_price": 2550000,
+      "max_sale_price": 2550000
+    },
+    "rank": 2
+  },
+  {
     "handle": "green-lion-gan-65w-multi-port-travel-adapter",
     "title": "Green Lion GaN 65W Multi-Port Travel Adapter",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3813bdf2-ef52-46b9-8aa4-c293c0734f0c.jpg?v=1754754721",
@@ -53,7 +78,7 @@
       "min_sale_price": 290000,
       "max_sale_price": 290000
     },
-    "rank": 2
+    "rank": 3
   },
   {
     "handle": "green-lion-mouse-pad-with-wireless-charger",
@@ -81,7 +106,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 3
+    "rank": 4
   },
   {
     "handle": "green-lion-smart-oled-vertical-mouse",
@@ -107,7 +132,7 @@
       "min_sale_price": 150000,
       "max_sale_price": 150000
     },
-    "rank": 4
+    "rank": 5
   },
   {
     "handle": "green-lion-wireless-presenter-with-retractable-pointer",
@@ -133,7 +158,7 @@
       "min_sale_price": 95000,
       "max_sale_price": 95000
     },
-    "rank": 5
+    "rank": 6
   },
   {
     "handle": "keyfold-pro-2-foldable-bluetooth-keyboard",
@@ -159,7 +184,7 @@
       "min_sale_price": 155000,
       "max_sale_price": 155000
     },
-    "rank": 6
+    "rank": 7
   },
   {
     "handle": "powerology-dual-screen-portable-monitor",
@@ -186,7 +211,7 @@
       "min_sale_price": 1250000,
       "max_sale_price": 1250000
     },
-    "rank": 7
+    "rank": 8
   },
   {
     "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
@@ -215,7 +240,7 @@
       "min_sale_price": 620000,
       "max_sale_price": 620000
     },
-    "rank": 8
+    "rank": 9
   },
   {
     "handle": "prexoplay-wireless-bluetooth-game-controller",
@@ -242,7 +267,7 @@
       "min_sale_price": 75000,
       "max_sale_price": 75000
     },
-    "rank": 9
+    "rank": 10
   },
   {
     "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
@@ -267,6 +292,6 @@
       "min_sale_price": 1350000,
       "max_sale_price": 1350000
     },
-    "rank": 10
+    "rank": 11
   }
 ]
