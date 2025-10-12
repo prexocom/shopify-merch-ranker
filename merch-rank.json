@@ -427,6 +427,13 @@
     "score": 0.1
   },
   {
+    "handle": "high-power-electric-metal-smelting-furnace",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
     "handle": "jbl-endurance-peak-3",
     "in_stock": true,
     "units_sold": 0,
@@ -820,6 +827,13 @@
   },
   {
     "handle": "samsung-galaxy-smarttag2",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "sandsara-mini-kinetic-sand-painting-sculpture",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
