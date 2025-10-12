@@ -175,6 +175,13 @@
     "score": 0.1
   },
   {
+    "handle": "fireplace-flame-air-humidifier",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
     "handle": "portable-camping-stove",
     "in_stock": true,
     "units_sold": 0,
@@ -568,6 +575,13 @@
   },
   {
     "handle": "jbl-wave-flex-2-white",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "jellyfish-humidifier",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
