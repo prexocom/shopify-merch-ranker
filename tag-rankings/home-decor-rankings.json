@@ -284,6 +284,33 @@
     "rank": 11
   },
   {
+    "handle": "sandsara-mini-kinetic-sand-painting-sculpture",
+    "title": "Sandsara Mini – Kinetic Sand Painting Sculpture",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_14869714-1c74-4fa0-b34e-6b22eb5dd26a.jpg?v=1760271446",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Desk Accessories",
+      "Home Decor",
+      "Office"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 1050000,
+          "sale_price": 890000,
+          "percentage_off": 15
+        }
+      ],
+      "min_regular_price": 1050000,
+      "max_regular_price": 1050000,
+      "min_sale_price": 890000,
+      "max_sale_price": 890000
+    },
+    "rank": 12
+  },
+  {
     "handle": "steamloco™-aromatherapy-train-humidifier",
     "title": "SteamLoco™ – Aromatherapy Train Humidifier",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2c7b3373-3980-4e88-8e81-4f6ffc43ae8f.jpg?v=1749641907",
@@ -307,7 +334,7 @@
       "min_sale_price": 188000,
       "max_sale_price": 188000
     },
-    "rank": 12
+    "rank": 13
   },
   {
     "handle": "magic-speaker-bulb-light-sound-combined",
@@ -336,6 +363,6 @@
       "min_sale_price": 98000,
       "max_sale_price": 98000
     },
-    "rank": 13
+    "rank": 14
   }
 ]

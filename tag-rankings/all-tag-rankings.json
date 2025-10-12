@@ -3015,6 +3015,33 @@
       "rank": 11
     },
     {
+      "handle": "sandsara-mini-kinetic-sand-painting-sculpture",
+      "title": "Sandsara Mini – Kinetic Sand Painting Sculpture",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_14869714-1c74-4fa0-b34e-6b22eb5dd26a.jpg?v=1760271446",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Desk Accessories",
+        "Home Decor",
+        "Office"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 1050000,
+            "sale_price": 890000,
+            "percentage_off": 15
+          }
+        ],
+        "min_regular_price": 1050000,
+        "max_regular_price": 1050000,
+        "min_sale_price": 890000,
+        "max_sale_price": 890000
+      },
+      "rank": 12
+    },
+    {
       "handle": "steamloco™-aromatherapy-train-humidifier",
       "title": "SteamLoco™ – Aromatherapy Train Humidifier",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2c7b3373-3980-4e88-8e81-4f6ffc43ae8f.jpg?v=1749641907",
@@ -3038,7 +3065,7 @@
         "min_sale_price": 188000,
         "max_sale_price": 188000
       },
-      "rank": 12
+      "rank": 13
     },
     {
       "handle": "magic-speaker-bulb-light-sound-combined",
@@ -3067,7 +3094,7 @@
         "min_sale_price": 98000,
         "max_sale_price": 98000
       },
-      "rank": 13
+      "rank": 14
     }
   ],
   "humidifier": [
@@ -5933,6 +5960,33 @@
         "max_sale_price": 620000
       },
       "rank": 5
+    },
+    {
+      "handle": "sandsara-mini-kinetic-sand-painting-sculpture",
+      "title": "Sandsara Mini – Kinetic Sand Painting Sculpture",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_14869714-1c74-4fa0-b34e-6b22eb5dd26a.jpg?v=1760271446",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Desk Accessories",
+        "Home Decor",
+        "Office"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 1050000,
+            "sale_price": 890000,
+            "percentage_off": 15
+          }
+        ],
+        "min_regular_price": 1050000,
+        "max_regular_price": 1050000,
+        "min_sale_price": 890000,
+        "max_sale_price": 890000
+      },
+      "rank": 6
     }
   ],
   "Wireless Chargers": [
@@ -6321,6 +6375,58 @@
         "max_regular_price": 220000,
         "min_sale_price": 185000,
         "max_sale_price": 185000
+      },
+      "rank": 2
+    }
+  ],
+  "Industrial": [
+    {
+      "handle": "high-power-electric-metal-smelting-furnace",
+      "title": "High-Power Electric Metal Smelting Furnace",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ff0d0721-1db0-448d-80f7-2faa68d0090e.jpg?v=1760252947",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Industrial"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 2100000,
+            "sale_price": 1850000,
+            "percentage_off": 12
+          }
+        ],
+        "min_regular_price": 2100000,
+        "max_regular_price": 2100000,
+        "min_sale_price": 1850000,
+        "max_sale_price": 1850000
+      },
+      "rank": 1
+    },
+    {
+      "handle": "toauto-melting-furnace",
+      "title": "PrexoForge – 3KG Digital Gold & Metal Melting Furnace",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7182b0a3-0a94-445b-be30-683c6f57a3cd.jpg?v=1749641637",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Industrial"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 3200000,
+            "sale_price": 2650000,
+            "percentage_off": 17
+          }
+        ],
+        "min_regular_price": 3200000,
+        "max_regular_price": 3200000,
+        "min_sale_price": 2650000,
+        "max_sale_price": 2650000
       },
       "rank": 2
     }
@@ -7997,33 +8103,6 @@
       "rank": 1
     }
   ],
-  "Industrial": [
-    {
-      "handle": "toauto-melting-furnace",
-      "title": "PrexoForge – 3KG Digital Gold & Metal Melting Furnace",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7182b0a3-0a94-445b-be30-683c6f57a3cd.jpg?v=1749641637",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Industrial"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 3200000,
-            "sale_price": 2650000,
-            "percentage_off": 17
-          }
-        ],
-        "min_regular_price": 3200000,
-        "max_regular_price": 3200000,
-        "min_sale_price": 2650000,
-        "max_sale_price": 2650000
-      },
-      "rank": 1
-    }
-  ],
   "Gadgets": [
     {
       "handle": "prexolingo™-smart-voice-translator-supports-30-languages",
@@ -8192,6 +8271,35 @@
         "max_regular_price": 137000,
         "min_sale_price": 137000,
         "max_sale_price": 137000
+      },
+      "rank": 1
+    }
+  ],
+  "Desk Accessories": [
+    {
+      "handle": "sandsara-mini-kinetic-sand-painting-sculpture",
+      "title": "Sandsara Mini – Kinetic Sand Painting Sculpture",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_14869714-1c74-4fa0-b34e-6b22eb5dd26a.jpg?v=1760271446",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Desk Accessories",
+        "Home Decor",
+        "Office"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 1050000,
+            "sale_price": 890000,
+            "percentage_off": 15
+          }
+        ],
+        "min_regular_price": 1050000,
+        "max_regular_price": 1050000,
+        "min_sale_price": 890000,
+        "max_sale_price": 890000
       },
       "rank": 1
     }

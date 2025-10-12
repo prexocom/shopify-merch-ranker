@@ -1,5 +1,30 @@
 [
   {
+    "handle": "high-power-electric-metal-smelting-furnace",
+    "title": "High-Power Electric Metal Smelting Furnace",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ff0d0721-1db0-448d-80f7-2faa68d0090e.jpg?v=1760252947",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Industrial"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 2100000,
+          "sale_price": 1850000,
+          "percentage_off": 12
+        }
+      ],
+      "min_regular_price": 2100000,
+      "max_regular_price": 2100000,
+      "min_sale_price": 1850000,
+      "max_sale_price": 1850000
+    },
+    "rank": 1
+  },
+  {
     "handle": "toauto-melting-furnace",
     "title": "PrexoForge – 3KG Digital Gold & Metal Melting Furnace",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7182b0a3-0a94-445b-be30-683c6f57a3cd.jpg?v=1749641637",
@@ -22,6 +47,6 @@
       "min_sale_price": 2650000,
       "max_sale_price": 2650000
     },
-    "rank": 1
+    "rank": 2
   }
 ]
