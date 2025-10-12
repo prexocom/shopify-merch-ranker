@@ -52,6 +52,32 @@
     "rank": 2
   },
   {
+    "handle": "fireplace-flame-air-humidifier",
+    "title": "Fireplace Flame Air Humidifier",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_04fc974e-e1b3-429e-8fac-e921322ccc57.jpg?v=1760189170",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Home Decor",
+      "humidifier"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 170000,
+          "sale_price": 145000,
+          "percentage_off": 15
+        }
+      ],
+      "min_regular_price": 170000,
+      "max_regular_price": 170000,
+      "min_sale_price": 145000,
+      "max_sale_price": 145000
+    },
+    "rank": 3
+  },
+  {
     "handle": "glowmist™-fireplace-humidifier",
     "title": "GlowMist™ Fireplace Humidifier",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/S8b6732b7bcb9413392e82c39c0791b24E.webp?v=1749641996",
@@ -75,7 +101,33 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 3
+    "rank": 4
+  },
+  {
+    "handle": "jellyfish-humidifier",
+    "title": "Jellyfish Humidifier",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d095ee78-7e1b-4f49-9af5-2ef8be3797c0.jpg?v=1760191137",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Home Decor",
+      "humidifier"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 180000,
+          "sale_price": 155000,
+          "percentage_off": 14
+        }
+      ],
+      "min_regular_price": 180000,
+      "max_regular_price": 180000,
+      "min_sale_price": 155000,
+      "max_sale_price": 155000
+    },
+    "rank": 5
   },
   {
     "handle": "volcano-essential-oil-diffuser",
@@ -101,7 +153,7 @@
       "min_sale_price": 135000,
       "max_sale_price": 135000
     },
-    "rank": 4
+    "rank": 6
   },
   {
     "handle": "steamloco™-aromatherapy-train-humidifier",
@@ -127,6 +179,6 @@
       "min_sale_price": 188000,
       "max_sale_price": 188000
     },
-    "rank": 5
+    "rank": 7
   }
 ]
