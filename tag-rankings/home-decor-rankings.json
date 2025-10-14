@@ -77,6 +77,31 @@
     "rank": 3
   },
   {
+    "handle": "absorbent-quick-dry-bath-mat",
+    "title": "Absorbent Quick Dry Bath Mat",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_97dc856a-8e8e-4653-984b-2554684e96a6.jpg?v=1760417135",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Home Decor"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 75000,
+          "sale_price": 65000,
+          "percentage_off": 13
+        }
+      ],
+      "min_regular_price": 75000,
+      "max_regular_price": 75000,
+      "min_sale_price": 65000,
+      "max_sale_price": 65000
+    },
+    "rank": 4
+  },
+  {
     "handle": "astronaut-galaxy-projector-your-cosmic-escape",
     "title": "Astronaut Galaxy Projector – Your Cosmic Escape",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5c9aa43b-e802-4398-9ef3-7b81ee6d7907.jpg?v=1754570916",
@@ -100,7 +125,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 4
+    "rank": 5
   },
   {
     "handle": "fireplace-flame-air-humidifier",
@@ -126,7 +151,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 5
+    "rank": 6
   },
   {
     "handle": "galaxy-star-nebula-projector-with-bluetooth-speaker",
@@ -152,7 +177,7 @@
       "min_sale_price": 150000,
       "max_sale_price": 150000
     },
-    "rank": 6
+    "rank": 7
   },
   {
     "handle": "glowmist™-fireplace-humidifier",
@@ -178,7 +203,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 7
+    "rank": 8
   },
   {
     "handle": "hexagon-modular-touch-lights-shape-your-glow",
@@ -204,7 +229,7 @@
       "min_sale_price": 195000,
       "max_sale_price": 195000
     },
-    "rank": 8
+    "rank": 9
   },
   {
     "handle": "jellyfish-humidifier",
@@ -230,7 +255,7 @@
       "min_sale_price": 155000,
       "max_sale_price": 155000
     },
-    "rank": 9
+    "rank": 10
   },
   {
     "handle": "volcano-essential-oil-diffuser",
@@ -256,7 +281,7 @@
       "min_sale_price": 135000,
       "max_sale_price": 135000
     },
-    "rank": 10
+    "rank": 11
   },
   {
     "handle": "quicksand-painting-night-light",
@@ -281,7 +306,7 @@
       "min_sale_price": 195000,
       "max_sale_price": 195000
     },
-    "rank": 11
+    "rank": 12
   },
   {
     "handle": "sandsara-mini-kinetic-sand-painting-sculpture",
@@ -308,7 +333,7 @@
       "min_sale_price": 890000,
       "max_sale_price": 890000
     },
-    "rank": 12
+    "rank": 13
   },
   {
     "handle": "steamloco™-aromatherapy-train-humidifier",
@@ -334,7 +359,7 @@
       "min_sale_price": 188000,
       "max_sale_price": 188000
     },
-    "rank": 13
+    "rank": 14
   },
   {
     "handle": "magic-speaker-bulb-light-sound-combined",
@@ -363,6 +388,6 @@
       "min_sale_price": 98000,
       "max_sale_price": 98000
     },
-    "rank": 14
+    "rank": 15
   }
 ]
