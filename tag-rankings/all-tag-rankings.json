@@ -530,6 +530,31 @@
       "rank": 9
     },
     {
+      "handle": "inflatable-air-sofa-air-lounger",
+      "title": "Inflatable Air Sofa / Air Lounger",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_4176d39e-0b82-4bb3-ad16-dd0cf0d50990.jpg?v=1760460924",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 190000,
+            "sale_price": 165000,
+            "percentage_off": 13
+          }
+        ],
+        "min_regular_price": 190000,
+        "max_regular_price": 190000,
+        "min_sale_price": 165000,
+        "max_sale_price": 165000
+      },
+      "rank": 10
+    },
+    {
       "handle": "jellyfish-humidifier",
       "title": "Jellyfish Humidifier",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d095ee78-7e1b-4f49-9af5-2ef8be3797c0.jpg?v=1760191137",
@@ -553,7 +578,7 @@
         "min_sale_price": 155000,
         "max_sale_price": 155000
       },
-      "rank": 10
+      "rank": 11
     },
     {
       "handle": "volcano-essential-oil-diffuser",
@@ -579,7 +604,7 @@
         "min_sale_price": 135000,
         "max_sale_price": 135000
       },
-      "rank": 11
+      "rank": 12
     },
     {
       "handle": "quicksand-painting-night-light",
@@ -604,7 +629,7 @@
         "min_sale_price": 195000,
         "max_sale_price": 195000
       },
-      "rank": 12
+      "rank": 13
     },
     {
       "handle": "sandsara-mini-kinetic-sand-painting-sculpture",
@@ -631,7 +656,7 @@
         "min_sale_price": 890000,
         "max_sale_price": 890000
       },
-      "rank": 13
+      "rank": 14
     },
     {
       "handle": "steamloco™-aromatherapy-train-humidifier",
@@ -657,7 +682,7 @@
         "min_sale_price": 188000,
         "max_sale_price": 188000
       },
-      "rank": 14
+      "rank": 15
     },
     {
       "handle": "magic-speaker-bulb-light-sound-combined",
@@ -686,7 +711,7 @@
         "min_sale_price": 98000,
         "max_sale_price": 98000
       },
-      "rank": 15
+      "rank": 16
     }
   ],
   "Earbuds": [
