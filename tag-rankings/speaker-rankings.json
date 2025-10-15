@@ -222,6 +222,32 @@
     "rank": 8
   },
   {
+    "handle": "vsonic-mars-levitating-magnetic-speaker",
+    "title": "Vsonic Mars Levitating Magnetic Speaker",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_10aff36a-f874-4ee8-b163-cd5ca1f64954.jpg?v=1760502930",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Smart Speakers",
+      "Speaker"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 2100000,
+          "sale_price": 1850000,
+          "percentage_off": 12
+        }
+      ],
+      "min_regular_price": 2100000,
+      "max_regular_price": 2100000,
+      "min_sale_price": 1850000,
+      "max_sale_price": 1850000
+    },
+    "rank": 9
+  },
+  {
     "handle": "waterproof-mini-bluetooth-speaker-big-sound-tiny-body",
     "title": "Waterproof Mini Bluetooth Speaker – Big Sound, Tiny Body",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3668c64e-326a-46c5-ae56-9ce535ce04cd.jpg?v=1754384101",
@@ -246,7 +272,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 9
+    "rank": 10
   },
   {
     "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
@@ -274,7 +300,7 @@
       "min_sale_price": 155000,
       "max_sale_price": 155000
     },
-    "rank": 10
+    "rank": 11
   },
   {
     "handle": "magic-speaker-bulb-light-sound-combined",
@@ -303,6 +329,6 @@
       "min_sale_price": 98000,
       "max_sale_price": 98000
     },
-    "rank": 11
+    "rank": 12
   }
 ]

@@ -80,6 +80,32 @@
     "rank": 3
   },
   {
+    "handle": "powerology-360-security-camera-dual-lens",
+    "title": "Powerology 360° Security Camera (Dual-Lens)",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d35489d0-2abf-49a8-8df0-775493b8c426.webp?v=1760504093",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Powerology",
+      "Security Cameras"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 730000,
+          "sale_price": 650000,
+          "percentage_off": 11
+        }
+      ],
+      "min_regular_price": 730000,
+      "max_regular_price": 730000,
+      "min_sale_price": 650000,
+      "max_sale_price": 650000
+    },
+    "rank": 4
+  },
+  {
     "handle": "powerology-6-mic-hybrid-anc-enc-tws-earbuds",
     "title": "Powerology 6-Mic Hybrid ANC + ENC TWS Earbuds",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fd9f7ff8-e7dd-4cb8-8c66-3904ea4577f7.jpg?v=1755273381",
@@ -103,7 +129,7 @@
       "min_sale_price": 120000,
       "max_sale_price": 120000
     },
-    "rank": 4
+    "rank": 5
   },
   {
     "handle": "powerology-air-conduction-enc-tws-earbuds-with-display",
@@ -129,7 +155,7 @@
       "min_sale_price": 195000,
       "max_sale_price": 195000
     },
-    "rank": 5
+    "rank": 6
   },
   {
     "handle": "powerology-built-in-solar-outdoor-camera",
@@ -156,7 +182,7 @@
       "min_sale_price": 320000,
       "max_sale_price": 320000
     },
-    "rank": 6
+    "rank": 7
   },
   {
     "handle": "powerology-built-in-solar-pan-tilt-outdoor-camera-2k",
@@ -183,7 +209,7 @@
       "min_sale_price": 395000,
       "max_sale_price": 395000
     },
-    "rank": 7
+    "rank": 8
   },
   {
     "handle": "powerology-dual-screen-portable-monitor",
@@ -210,7 +236,7 @@
       "min_sale_price": 1250000,
       "max_sale_price": 1250000
     },
-    "rank": 8
+    "rank": 9
   },
   {
     "handle": "powerology-dynamic800-portable-power-station-800w-black",
@@ -236,7 +262,7 @@
       "min_sale_price": 1950000,
       "max_sale_price": 1950000
     },
-    "rank": 9
+    "rank": 10
   },
   {
     "handle": "powerology-hybrid-anc-headphone",
@@ -262,7 +288,7 @@
       "min_sale_price": 195000,
       "max_sale_price": 195000
     },
-    "rank": 10
+    "rank": 11
   },
   {
     "handle": "powerology-hybrid-anc-headphone-cream",
@@ -288,7 +314,33 @@
       "min_sale_price": 195000,
       "max_sale_price": 195000
     },
-    "rank": 11
+    "rank": 12
+  },
+  {
+    "handle": "powerology-indoor-ptz-smart-camera",
+    "title": "Powerology Indoor PTZ Smart Camera",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_497a22c1-5f22-4fda-8d17-18152078d3a8.webp?v=1760507882",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Powerology",
+      "Security Cameras"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 165000,
+          "sale_price": 165000,
+          "percentage_off": 0
+        }
+      ],
+      "min_regular_price": 165000,
+      "max_regular_price": 165000,
+      "min_sale_price": 165000,
+      "max_sale_price": 165000
+    },
+    "rank": 13
   },
   {
     "handle": "powerology-onyx-30000mah-dual-usb-c-power-bank",
@@ -314,7 +366,7 @@
       "min_sale_price": 270000,
       "max_sale_price": 270000
     },
-    "rank": 12
+    "rank": 14
   },
   {
     "handle": "powerology-quad-mic-enc-tws-earbuds",
@@ -340,7 +392,7 @@
       "min_sale_price": 95000,
       "max_sale_price": 95000
     },
-    "rank": 13
+    "rank": 15
   },
   {
     "handle": "powerology-ultra-portable-air-compressor-power-bank",
@@ -367,7 +419,7 @@
       "min_sale_price": 220000,
       "max_sale_price": 220000
     },
-    "rank": 14
+    "rank": 16
   },
   {
     "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
@@ -396,6 +448,6 @@
       "min_sale_price": 620000,
       "max_sale_price": 620000
     },
-    "rank": 15
+    "rank": 17
   }
 ]

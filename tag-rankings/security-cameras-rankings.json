@@ -25,6 +25,32 @@
     "rank": 1
   },
   {
+    "handle": "powerology-360-security-camera-dual-lens",
+    "title": "Powerology 360° Security Camera (Dual-Lens)",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d35489d0-2abf-49a8-8df0-775493b8c426.webp?v=1760504093",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Powerology",
+      "Security Cameras"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 730000,
+          "sale_price": 650000,
+          "percentage_off": 11
+        }
+      ],
+      "min_regular_price": 730000,
+      "max_regular_price": 730000,
+      "min_sale_price": 650000,
+      "max_sale_price": 650000
+    },
+    "rank": 2
+  },
+  {
     "handle": "powerology-built-in-solar-outdoor-camera",
     "title": "Powerology Built-in Solar Outdoor Camera",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f6cb4452-0bd6-4c0c-843f-8d888ebdcf24.webp?v=1754595537",
@@ -49,7 +75,7 @@
       "min_sale_price": 320000,
       "max_sale_price": 320000
     },
-    "rank": 2
+    "rank": 3
   },
   {
     "handle": "powerology-built-in-solar-pan-tilt-outdoor-camera-2k",
@@ -76,7 +102,33 @@
       "min_sale_price": 395000,
       "max_sale_price": 395000
     },
-    "rank": 3
+    "rank": 4
+  },
+  {
+    "handle": "powerology-indoor-ptz-smart-camera",
+    "title": "Powerology Indoor PTZ Smart Camera",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_497a22c1-5f22-4fda-8d17-18152078d3a8.webp?v=1760507882",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Powerology",
+      "Security Cameras"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 165000,
+          "sale_price": 165000,
+          "percentage_off": 0
+        }
+      ],
+      "min_regular_price": 165000,
+      "max_regular_price": 165000,
+      "min_sale_price": 165000,
+      "max_sale_price": 165000
+    },
+    "rank": 5
   },
   {
     "handle": "xiaomi-outdoor-camera-cw300",
@@ -103,7 +155,7 @@
       "min_sale_price": 320000,
       "max_sale_price": 320000
     },
-    "rank": 4
+    "rank": 6
   },
   {
     "handle": "xiaomi-smart-camera-c300",
@@ -130,7 +182,7 @@
       "min_sale_price": 225000,
       "max_sale_price": 225000
     },
-    "rank": 5
+    "rank": 7
   },
   {
     "handle": "xiaomi-smart-camera-c300-dual-lens-2k-wi-fi-6",
@@ -157,6 +209,6 @@
       "min_sale_price": 345000,
       "max_sale_price": 345000
     },
-    "rank": 6
+    "rank": 8
   }
 ]
