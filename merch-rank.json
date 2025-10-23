@@ -168,6 +168,13 @@
     "score": 0.1
   },
   {
+    "handle": "dji-osmo-pocket-3-creator-combo",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
     "handle": "prexo-dunkmaster-outdoor-adjustable-basketball-hoop-system",
     "in_stock": true,
     "units_sold": 0,
@@ -616,7 +623,21 @@
     "score": 0.1
   },
   {
+    "handle": "livtab-smart-coffee-table-built-in-fridge-wireless-charging-speakers",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
     "handle": "logitech-g29-driving-force-racing-wheel-pedals",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "looi-robot-space-black-ai-desktop-companion",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
