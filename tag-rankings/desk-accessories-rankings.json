@@ -1,5 +1,32 @@
 [
   {
+    "handle": "looi-robot-space-black-ai-desktop-companion",
+    "title": "LOOI Robot – Space Black AI Desktop Companion",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_658990e9-8400-4ea4-98f1-56c8a5a7f821.jpg?v=1761210901",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Desk Accessories",
+      "Gadgets",
+      "Office"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 870000,
+          "sale_price": 785000,
+          "percentage_off": 10
+        }
+      ],
+      "min_regular_price": 870000,
+      "max_regular_price": 870000,
+      "min_sale_price": 785000,
+      "max_sale_price": 785000
+    },
+    "rank": 1
+  },
+  {
     "handle": "sandsara-mini-kinetic-sand-painting-sculpture",
     "title": "Sandsara Mini – Kinetic Sand Painting Sculpture",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_14869714-1c74-4fa0-b34e-6b22eb5dd26a.jpg?v=1760271446",
@@ -24,6 +51,6 @@
       "min_sale_price": 890000,
       "max_sale_price": 890000
     },
-    "rank": 1
+    "rank": 2
   }
 ]

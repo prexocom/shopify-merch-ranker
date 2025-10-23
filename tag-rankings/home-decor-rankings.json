@@ -283,6 +283,31 @@
     "rank": 11
   },
   {
+    "handle": "livtab-smart-coffee-table-built-in-fridge-wireless-charging-speakers",
+    "title": "LIVTAB Smart Coffee Table – Built-in Fridge + Wireless Charging & Speakers",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_792ce048-8de8-42dd-8989-d5a3bfcdc4e4.jpg?v=1761203726",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Home Decor"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 4250000,
+          "sale_price": 3500000,
+          "percentage_off": 18
+        }
+      ],
+      "min_regular_price": 4250000,
+      "max_regular_price": 4250000,
+      "min_sale_price": 3500000,
+      "max_sale_price": 3500000
+    },
+    "rank": 12
+  },
+  {
     "handle": "volcano-essential-oil-diffuser",
     "title": "Prexo Volcano Humidifier",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/volcano-effect-aroma-diffuser-3.jpg?v=1749641964",
@@ -306,7 +331,7 @@
       "min_sale_price": 135000,
       "max_sale_price": 135000
     },
-    "rank": 12
+    "rank": 13
   },
   {
     "handle": "quicksand-painting-night-light",
@@ -331,7 +356,7 @@
       "min_sale_price": 195000,
       "max_sale_price": 195000
     },
-    "rank": 13
+    "rank": 14
   },
   {
     "handle": "sandsara-mini-kinetic-sand-painting-sculpture",
@@ -358,7 +383,7 @@
       "min_sale_price": 890000,
       "max_sale_price": 890000
     },
-    "rank": 14
+    "rank": 15
   },
   {
     "handle": "steamloco™-aromatherapy-train-humidifier",
@@ -384,7 +409,7 @@
       "min_sale_price": 188000,
       "max_sale_price": 188000
     },
-    "rank": 15
+    "rank": 16
   },
   {
     "handle": "magic-speaker-bulb-light-sound-combined",
@@ -413,6 +438,6 @@
       "min_sale_price": 98000,
       "max_sale_price": 98000
     },
-    "rank": 16
+    "rank": 17
   }
 ]

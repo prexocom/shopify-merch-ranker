@@ -56,6 +56,33 @@
     "rank": 2
   },
   {
+    "handle": "looi-robot-space-black-ai-desktop-companion",
+    "title": "LOOI Robot – Space Black AI Desktop Companion",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_658990e9-8400-4ea4-98f1-56c8a5a7f821.jpg?v=1761210901",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Desk Accessories",
+      "Gadgets",
+      "Office"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 870000,
+          "sale_price": 785000,
+          "percentage_off": 10
+        }
+      ],
+      "min_regular_price": 870000,
+      "max_regular_price": 870000,
+      "min_sale_price": 785000,
+      "max_sale_price": 785000
+    },
+    "rank": 3
+  },
+  {
     "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
     "title": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_be47bce4-3a24-4f13-abbf-8a4dd0a5dbc8.jpg?v=1755554007",
@@ -79,7 +106,7 @@
       "min_sale_price": 185000,
       "max_sale_price": 185000
     },
-    "rank": 3
+    "rank": 4
   },
   {
     "handle": "powerology-dual-screen-portable-monitor",
@@ -106,7 +133,7 @@
       "min_sale_price": 1250000,
       "max_sale_price": 1250000
     },
-    "rank": 4
+    "rank": 5
   },
   {
     "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
@@ -135,7 +162,7 @@
       "min_sale_price": 620000,
       "max_sale_price": 620000
     },
-    "rank": 5
+    "rank": 6
   },
   {
     "handle": "sandsara-mini-kinetic-sand-painting-sculpture",
@@ -162,6 +189,6 @@
       "min_sale_price": 890000,
       "max_sale_price": 890000
     },
-    "rank": 6
+    "rank": 7
   }
 ]

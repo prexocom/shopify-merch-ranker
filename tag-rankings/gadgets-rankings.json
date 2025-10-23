@@ -1,5 +1,60 @@
 [
   {
+    "handle": "dji-osmo-pocket-3-creator-combo",
+    "title": "DJI Osmo Pocket 3 Creator Combo",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_34e81e7e-0553-4851-a4bf-413e3683107f.jpg?v=1761193411",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Camera",
+      "DJI",
+      "Gadgets",
+      "Travel"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 3250000,
+          "sale_price": 3250000,
+          "percentage_off": 0
+        }
+      ],
+      "min_regular_price": 3250000,
+      "max_regular_price": 3250000,
+      "min_sale_price": 3250000,
+      "max_sale_price": 3250000
+    },
+    "rank": 1
+  },
+  {
+    "handle": "looi-robot-space-black-ai-desktop-companion",
+    "title": "LOOI Robot – Space Black AI Desktop Companion",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_658990e9-8400-4ea4-98f1-56c8a5a7f821.jpg?v=1761210901",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Desk Accessories",
+      "Gadgets",
+      "Office"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 870000,
+          "sale_price": 785000,
+          "percentage_off": 10
+        }
+      ],
+      "min_regular_price": 870000,
+      "max_regular_price": 870000,
+      "min_sale_price": 785000,
+      "max_sale_price": 785000
+    },
+    "rank": 2
+  },
+  {
     "handle": "prexolingo™-smart-voice-translator-supports-30-languages",
     "title": "PrexoLingo™ – Smart Voice Translator (Supports 30+ Languages)",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_13d6a3d7-5ddf-4b62-9e3b-b5bf5c09877e.jpg?v=1754361176",
@@ -24,7 +79,7 @@
       "min_sale_price": 380000,
       "max_sale_price": 380000
     },
-    "rank": 1
+    "rank": 3
   },
   {
     "handle": "prexovision-translate™-ai-smart-glasses-with-real-time-translation",
@@ -52,7 +107,7 @@
       "min_sale_price": 450000,
       "max_sale_price": 450000
     },
-    "rank": 2
+    "rank": 4
   },
   {
     "handle": "magic-speaker-bulb-light-sound-combined",
@@ -81,6 +136,6 @@
       "min_sale_price": 98000,
       "max_sale_price": 98000
     },
-    "rank": 3
+    "rank": 5
   }
 ]

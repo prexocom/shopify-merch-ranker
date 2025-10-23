@@ -1,0 +1,56 @@
+[
+  {
+    "handle": "dji-osmo-mobile-se-gimbal",
+    "title": "DJI Osmo Mobile SE Gimbal",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9823c958-8d37-4036-8036-f0f158f8c62c.jpg?v=1756623097",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "DJI",
+      "Gimbal"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 550000,
+          "sale_price": 495000,
+          "percentage_off": 10
+        }
+      ],
+      "min_regular_price": 550000,
+      "max_regular_price": 550000,
+      "min_sale_price": 495000,
+      "max_sale_price": 495000
+    },
+    "rank": 1
+  },
+  {
+    "handle": "dji-osmo-pocket-3-creator-combo",
+    "title": "DJI Osmo Pocket 3 Creator Combo",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_34e81e7e-0553-4851-a4bf-413e3683107f.jpg?v=1761193411",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Camera",
+      "DJI",
+      "Gadgets",
+      "Travel"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 3250000,
+          "sale_price": 3250000,
+          "percentage_off": 0
+        }
+      ],
+      "min_regular_price": 3250000,
+      "max_regular_price": 3250000,
+      "min_sale_price": 3250000,
+      "max_sale_price": 3250000
+    },
+    "rank": 2
+  }
+]

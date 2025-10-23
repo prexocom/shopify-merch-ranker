@@ -581,6 +581,31 @@
       "rank": 11
     },
     {
+      "handle": "livtab-smart-coffee-table-built-in-fridge-wireless-charging-speakers",
+      "title": "LIVTAB Smart Coffee Table – Built-in Fridge + Wireless Charging & Speakers",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_792ce048-8de8-42dd-8989-d5a3bfcdc4e4.jpg?v=1761203726",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 4250000,
+            "sale_price": 3500000,
+            "percentage_off": 18
+          }
+        ],
+        "min_regular_price": 4250000,
+        "max_regular_price": 4250000,
+        "min_sale_price": 3500000,
+        "max_sale_price": 3500000
+      },
+      "rank": 12
+    },
+    {
       "handle": "volcano-essential-oil-diffuser",
       "title": "Prexo Volcano Humidifier",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/volcano-effect-aroma-diffuser-3.jpg?v=1749641964",
@@ -604,7 +629,7 @@
         "min_sale_price": 135000,
         "max_sale_price": 135000
       },
-      "rank": 12
+      "rank": 13
     },
     {
       "handle": "quicksand-painting-night-light",
@@ -629,7 +654,7 @@
         "min_sale_price": 195000,
         "max_sale_price": 195000
       },
-      "rank": 13
+      "rank": 14
     },
     {
       "handle": "sandsara-mini-kinetic-sand-painting-sculpture",
@@ -656,7 +681,7 @@
         "min_sale_price": 890000,
         "max_sale_price": 890000
       },
-      "rank": 14
+      "rank": 15
     },
     {
       "handle": "steamloco™-aromatherapy-train-humidifier",
@@ -682,7 +707,7 @@
         "min_sale_price": 188000,
         "max_sale_price": 188000
       },
-      "rank": 15
+      "rank": 16
     },
     {
       "handle": "magic-speaker-bulb-light-sound-combined",
@@ -711,7 +736,7 @@
         "min_sale_price": 98000,
         "max_sale_price": 98000
       },
-      "rank": 16
+      "rank": 17
     }
   ],
   "Earbuds": [
@@ -3005,6 +3030,34 @@
       "rank": 2
     },
     {
+      "handle": "dji-osmo-pocket-3-creator-combo",
+      "title": "DJI Osmo Pocket 3 Creator Combo",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_34e81e7e-0553-4851-a4bf-413e3683107f.jpg?v=1761193411",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "DJI",
+        "Gadgets",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 3250000,
+            "sale_price": 3250000,
+            "percentage_off": 0
+          }
+        ],
+        "min_regular_price": 3250000,
+        "max_regular_price": 3250000,
+        "min_sale_price": 3250000,
+        "max_sale_price": 3250000
+      },
+      "rank": 3
+    },
+    {
       "handle": "green-lion-new-york-gimbal-smart-face-tracking",
       "title": "Green Lion New York Gimbal Smart Face Tracking",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fbe6d529-a264-4f5a-85ca-6fad12eb8a71.webp?v=1754599471",
@@ -3031,7 +3084,7 @@
         "min_sale_price": 425000,
         "max_sale_price": 425000
       },
-      "rank": 3
+      "rank": 4
     },
     {
       "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
@@ -3060,7 +3113,7 @@
         "min_sale_price": 315000,
         "max_sale_price": 315000
       },
-      "rank": 4
+      "rank": 5
     },
     {
       "handle": "porodo-quadbase-gimbal-stabilizer",
@@ -3089,7 +3142,7 @@
         "min_sale_price": 175000,
         "max_sale_price": 175000
       },
-      "rank": 5
+      "rank": 6
     },
     {
       "handle": "prexolingo™-smart-voice-translator-supports-30-languages",
@@ -3116,7 +3169,7 @@
         "min_sale_price": 380000,
         "max_sale_price": 380000
       },
-      "rank": 6
+      "rank": 7
     },
     {
       "handle": "prexovision-translate™-ai-smart-glasses-with-real-time-translation",
@@ -3144,7 +3197,7 @@
         "min_sale_price": 450000,
         "max_sale_price": 450000
       },
-      "rank": 7
+      "rank": 8
     },
     {
       "handle": "samsung-galaxy-smarttag2",
@@ -3171,7 +3224,7 @@
         "min_sale_price": 137000,
         "max_sale_price": 137000
       },
-      "rank": 8
+      "rank": 9
     },
     {
       "handle": "vaultcarry-anti-theft-travel-crossbody-bag",
@@ -3196,7 +3249,7 @@
         "min_sale_price": 125000,
         "max_sale_price": 125000
       },
-      "rank": 9
+      "rank": 10
     }
   ],
   "humidifier": [
@@ -3521,6 +3574,34 @@
       "rank": 1
     },
     {
+      "handle": "dji-osmo-pocket-3-creator-combo",
+      "title": "DJI Osmo Pocket 3 Creator Combo",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_34e81e7e-0553-4851-a4bf-413e3683107f.jpg?v=1761193411",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "DJI",
+        "Gadgets",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 3250000,
+            "sale_price": 3250000,
+            "percentage_off": 0
+          }
+        ],
+        "min_regular_price": 3250000,
+        "max_regular_price": 3250000,
+        "min_sale_price": 3250000,
+        "max_sale_price": 3250000
+      },
+      "rank": 2
+    },
+    {
       "handle": "green-lion-auto-track-gimbal-stabilizer",
       "title": "Green Lion Auto Track Gimbal Stabilizer",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d3945714-bb75-418e-a3a0-a38147e828af.webp?v=1754571795",
@@ -3545,7 +3626,7 @@
         "min_sale_price": 165000,
         "max_sale_price": 165000
       },
-      "rank": 2
+      "rank": 3
     },
     {
       "handle": "green-lion-new-york-gimbal-smart-face-tracking",
@@ -3574,7 +3655,7 @@
         "min_sale_price": 425000,
         "max_sale_price": 425000
       },
-      "rank": 3
+      "rank": 4
     },
     {
       "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
@@ -3603,7 +3684,7 @@
         "min_sale_price": 315000,
         "max_sale_price": 315000
       },
-      "rank": 4
+      "rank": 5
     },
     {
       "handle": "porodo-quadbase-gimbal-stabilizer",
@@ -3632,7 +3713,7 @@
         "min_sale_price": 175000,
         "max_sale_price": 175000
       },
-      "rank": 5
+      "rank": 6
     },
     {
       "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
@@ -3658,7 +3739,7 @@
         "min_sale_price": 175000,
         "max_sale_price": 175000
       },
-      "rank": 6
+      "rank": 7
     }
   ],
   "Gimbal": [
@@ -3696,6 +3777,7 @@
       "units_sold": 0,
       "revenue": 0,
       "tags": [
+        "DJI",
         "Gimbal"
       ],
       "pricing": {
@@ -4513,6 +4595,203 @@
         "max_sale_price": 650000
       },
       "rank": 3
+    }
+  ],
+  "DJI": [
+    {
+      "handle": "dji-osmo-mobile-se-gimbal",
+      "title": "DJI Osmo Mobile SE Gimbal",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9823c958-8d37-4036-8036-f0f158f8c62c.jpg?v=1756623097",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "DJI",
+        "Gimbal"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 550000,
+            "sale_price": 495000,
+            "percentage_off": 10
+          }
+        ],
+        "min_regular_price": 550000,
+        "max_regular_price": 550000,
+        "min_sale_price": 495000,
+        "max_sale_price": 495000
+      },
+      "rank": 1
+    },
+    {
+      "handle": "dji-osmo-pocket-3-creator-combo",
+      "title": "DJI Osmo Pocket 3 Creator Combo",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_34e81e7e-0553-4851-a4bf-413e3683107f.jpg?v=1761193411",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "DJI",
+        "Gadgets",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 3250000,
+            "sale_price": 3250000,
+            "percentage_off": 0
+          }
+        ],
+        "min_regular_price": 3250000,
+        "max_regular_price": 3250000,
+        "min_sale_price": 3250000,
+        "max_sale_price": 3250000
+      },
+      "rank": 2
+    }
+  ],
+  "Gadgets": [
+    {
+      "handle": "dji-osmo-pocket-3-creator-combo",
+      "title": "DJI Osmo Pocket 3 Creator Combo",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_34e81e7e-0553-4851-a4bf-413e3683107f.jpg?v=1761193411",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "DJI",
+        "Gadgets",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 3250000,
+            "sale_price": 3250000,
+            "percentage_off": 0
+          }
+        ],
+        "min_regular_price": 3250000,
+        "max_regular_price": 3250000,
+        "min_sale_price": 3250000,
+        "max_sale_price": 3250000
+      },
+      "rank": 1
+    },
+    {
+      "handle": "looi-robot-space-black-ai-desktop-companion",
+      "title": "LOOI Robot – Space Black AI Desktop Companion",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_658990e9-8400-4ea4-98f1-56c8a5a7f821.jpg?v=1761210901",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Desk Accessories",
+        "Gadgets",
+        "Office"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 870000,
+            "sale_price": 785000,
+            "percentage_off": 10
+          }
+        ],
+        "min_regular_price": 870000,
+        "max_regular_price": 870000,
+        "min_sale_price": 785000,
+        "max_sale_price": 785000
+      },
+      "rank": 2
+    },
+    {
+      "handle": "prexolingo™-smart-voice-translator-supports-30-languages",
+      "title": "PrexoLingo™ – Smart Voice Translator (Supports 30+ Languages)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_13d6a3d7-5ddf-4b62-9e3b-b5bf5c09877e.jpg?v=1754361176",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Gadgets",
+        "Translator",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 500000,
+            "sale_price": 380000,
+            "percentage_off": 24
+          }
+        ],
+        "min_regular_price": 500000,
+        "max_regular_price": 500000,
+        "min_sale_price": 380000,
+        "max_sale_price": 380000
+      },
+      "rank": 3
+    },
+    {
+      "handle": "prexovision-translate™-ai-smart-glasses-with-real-time-translation",
+      "title": "PrexoVision Translate™ – AI Smart Glasses with Real‑Time Translation",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7f3e21c6-7ddf-4694-b085-24b0103d5bf8.jpg?v=1754375910",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Gadgets",
+        "Smart Glasses",
+        "Translator",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 630000,
+            "sale_price": 450000,
+            "percentage_off": 29
+          }
+        ],
+        "min_regular_price": 630000,
+        "max_regular_price": 630000,
+        "min_sale_price": 450000,
+        "max_sale_price": 450000
+      },
+      "rank": 4
+    },
+    {
+      "handle": "magic-speaker-bulb-light-sound-combined",
+      "title": "🪄 Magic Speaker Bulb – Light & Sound Combined",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e9c6b8dd-0570-404c-b179-4131946952a0.jpg?v=1754382211",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Gadgets",
+        "Home Decor",
+        "Lighting",
+        "Music",
+        "Speaker"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 130000,
+            "sale_price": 98000,
+            "percentage_off": 25
+          }
+        ],
+        "min_regular_price": 130000,
+        "max_regular_price": 130000,
+        "min_sale_price": 98000,
+        "max_sale_price": 98000
+      },
+      "rank": 5
     }
   ],
   "Eufy": [
@@ -5982,6 +6261,33 @@
       "rank": 2
     },
     {
+      "handle": "looi-robot-space-black-ai-desktop-companion",
+      "title": "LOOI Robot – Space Black AI Desktop Companion",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_658990e9-8400-4ea4-98f1-56c8a5a7f821.jpg?v=1761210901",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Desk Accessories",
+        "Gadgets",
+        "Office"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 870000,
+            "sale_price": 785000,
+            "percentage_off": 10
+          }
+        ],
+        "min_regular_price": 870000,
+        "max_regular_price": 870000,
+        "min_sale_price": 785000,
+        "max_sale_price": 785000
+      },
+      "rank": 3
+    },
+    {
       "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
       "title": "Portable Bluetooth Thermal Label Maker/Printer (15–58 mm)",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_be47bce4-3a24-4f13-abbf-8a4dd0a5dbc8.jpg?v=1755554007",
@@ -6005,7 +6311,7 @@
         "min_sale_price": 185000,
         "max_sale_price": 185000
       },
-      "rank": 3
+      "rank": 4
     },
     {
       "handle": "powerology-dual-screen-portable-monitor",
@@ -6032,7 +6338,7 @@
         "min_sale_price": 1250000,
         "max_sale_price": 1250000
       },
-      "rank": 4
+      "rank": 5
     },
     {
       "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
@@ -6061,7 +6367,7 @@
         "min_sale_price": 620000,
         "max_sale_price": 620000
       },
-      "rank": 5
+      "rank": 6
     },
     {
       "handle": "sandsara-mini-kinetic-sand-painting-sculpture",
@@ -6088,7 +6394,7 @@
         "min_sale_price": 890000,
         "max_sale_price": 890000
       },
-      "rank": 6
+      "rank": 7
     }
   ],
   "Wireless Chargers": [
@@ -7135,6 +7441,62 @@
         "max_sale_price": 1220000
       },
       "rank": 1
+    }
+  ],
+  "Desk Accessories": [
+    {
+      "handle": "looi-robot-space-black-ai-desktop-companion",
+      "title": "LOOI Robot – Space Black AI Desktop Companion",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_658990e9-8400-4ea4-98f1-56c8a5a7f821.jpg?v=1761210901",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Desk Accessories",
+        "Gadgets",
+        "Office"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 870000,
+            "sale_price": 785000,
+            "percentage_off": 10
+          }
+        ],
+        "min_regular_price": 870000,
+        "max_regular_price": 870000,
+        "min_sale_price": 785000,
+        "max_sale_price": 785000
+      },
+      "rank": 1
+    },
+    {
+      "handle": "sandsara-mini-kinetic-sand-painting-sculpture",
+      "title": "Sandsara Mini – Kinetic Sand Painting Sculpture",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_14869714-1c74-4fa0-b34e-6b22eb5dd26a.jpg?v=1760271446",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Desk Accessories",
+        "Home Decor",
+        "Office"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 1050000,
+            "sale_price": 890000,
+            "percentage_off": 15
+          }
+        ],
+        "min_regular_price": 1050000,
+        "max_regular_price": 1050000,
+        "min_sale_price": 890000,
+        "max_sale_price": 890000
+      },
+      "rank": 2
     }
   ],
   "Oraimo": [
@@ -8309,92 +8671,6 @@
       "rank": 1
     }
   ],
-  "Gadgets": [
-    {
-      "handle": "prexolingo™-smart-voice-translator-supports-30-languages",
-      "title": "PrexoLingo™ – Smart Voice Translator (Supports 30+ Languages)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_13d6a3d7-5ddf-4b62-9e3b-b5bf5c09877e.jpg?v=1754361176",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Gadgets",
-        "Translator",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 500000,
-            "sale_price": 380000,
-            "percentage_off": 24
-          }
-        ],
-        "min_regular_price": 500000,
-        "max_regular_price": 500000,
-        "min_sale_price": 380000,
-        "max_sale_price": 380000
-      },
-      "rank": 1
-    },
-    {
-      "handle": "prexovision-translate™-ai-smart-glasses-with-real-time-translation",
-      "title": "PrexoVision Translate™ – AI Smart Glasses with Real‑Time Translation",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7f3e21c6-7ddf-4694-b085-24b0103d5bf8.jpg?v=1754375910",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Gadgets",
-        "Smart Glasses",
-        "Translator",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 630000,
-            "sale_price": 450000,
-            "percentage_off": 29
-          }
-        ],
-        "min_regular_price": 630000,
-        "max_regular_price": 630000,
-        "min_sale_price": 450000,
-        "max_sale_price": 450000
-      },
-      "rank": 2
-    },
-    {
-      "handle": "magic-speaker-bulb-light-sound-combined",
-      "title": "🪄 Magic Speaker Bulb – Light & Sound Combined",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e9c6b8dd-0570-404c-b179-4131946952a0.jpg?v=1754382211",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Gadgets",
-        "Home Decor",
-        "Lighting",
-        "Music",
-        "Speaker"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 130000,
-            "sale_price": 98000,
-            "percentage_off": 25
-          }
-        ],
-        "min_regular_price": 130000,
-        "max_regular_price": 130000,
-        "min_sale_price": 98000,
-        "max_sale_price": 98000
-      },
-      "rank": 3
-    }
-  ],
   "Translator": [
     {
       "handle": "prexolingo™-smart-voice-translator-supports-30-languages",
@@ -8477,35 +8753,6 @@
         "max_regular_price": 137000,
         "min_sale_price": 137000,
         "max_sale_price": 137000
-      },
-      "rank": 1
-    }
-  ],
-  "Desk Accessories": [
-    {
-      "handle": "sandsara-mini-kinetic-sand-painting-sculpture",
-      "title": "Sandsara Mini – Kinetic Sand Painting Sculpture",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_14869714-1c74-4fa0-b34e-6b22eb5dd26a.jpg?v=1760271446",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Desk Accessories",
-        "Home Decor",
-        "Office"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 1050000,
-            "sale_price": 890000,
-            "percentage_off": 15
-          }
-        ],
-        "min_regular_price": 1050000,
-        "max_regular_price": 1050000,
-        "min_sale_price": 890000,
-        "max_sale_price": 890000
       },
       "rank": 1
     }
