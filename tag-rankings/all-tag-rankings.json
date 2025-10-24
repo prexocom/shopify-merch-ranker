@@ -710,6 +710,32 @@
       "rank": 16
     },
     {
+      "handle": "under-cabinet-led-motion-sensor-light-bar",
+      "title": "Under-Cabinet LED Motion Sensor Light Bar",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_278262be-3fbc-4118-87ec-09db532370de.jpg?v=1761290715",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "Lighting"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 74000,
+            "sale_price": 55000,
+            "percentage_off": 26
+          }
+        ],
+        "min_regular_price": 74000,
+        "max_regular_price": 74000,
+        "min_sale_price": 55000,
+        "max_sale_price": 55000
+      },
+      "rank": 17
+    },
+    {
       "handle": "magic-speaker-bulb-light-sound-combined",
       "title": "🪄 Magic Speaker Bulb – Light & Sound Combined",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e9c6b8dd-0570-404c-b179-4131946952a0.jpg?v=1754382211",
@@ -736,7 +762,7 @@
         "min_sale_price": 98000,
         "max_sale_price": 98000
       },
-      "rank": 17
+      "rank": 18
     }
   ],
   "Earbuds": [
@@ -3490,6 +3516,32 @@
       "rank": 2
     },
     {
+      "handle": "under-cabinet-led-motion-sensor-light-bar",
+      "title": "Under-Cabinet LED Motion Sensor Light Bar",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_278262be-3fbc-4118-87ec-09db532370de.jpg?v=1761290715",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "Lighting"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 74000,
+            "sale_price": 55000,
+            "percentage_off": 26
+          }
+        ],
+        "min_regular_price": 74000,
+        "max_regular_price": 74000,
+        "min_sale_price": 55000,
+        "max_sale_price": 55000
+      },
+      "rank": 3
+    },
+    {
       "handle": "magic-speaker-bulb-light-sound-combined",
       "title": "🪄 Magic Speaker Bulb – Light & Sound Combined",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e9c6b8dd-0570-404c-b179-4131946952a0.jpg?v=1754382211",
@@ -3516,7 +3568,7 @@
         "min_sale_price": 98000,
         "max_sale_price": 98000
       },
-      "rank": 3
+      "rank": 4
     },
     {
       "handle": "solar-lamp-for-garden-outdoor",
@@ -3542,7 +3594,7 @@
         "min_sale_price": 95000,
         "max_sale_price": 95000
       },
-      "rank": 4
+      "rank": 5
     }
   ],
   "Camera": [
