@@ -4685,7 +4685,7 @@
     {
       "handle": "looi-robot-space-black-ai-desktop-companion",
       "title": "LOOI Robot – Space Black AI Desktop Companion",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_658990e9-8400-4ea4-98f1-56c8a5a7f821.jpg?v=1761210901",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_658990e9-8400-4ea4-98f1-56c8a5a7f821.jpg?v=1761226700",
       "units_sold": 0,
       "revenue": 0,
       "tags": [
@@ -4697,15 +4697,15 @@
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 870000,
-            "sale_price": 785000,
-            "percentage_off": 10
+            "regular_price": 970000,
+            "sale_price": 855000,
+            "percentage_off": 12
           }
         ],
-        "min_regular_price": 870000,
-        "max_regular_price": 870000,
-        "min_sale_price": 785000,
-        "max_sale_price": 785000
+        "min_regular_price": 970000,
+        "max_regular_price": 970000,
+        "min_sale_price": 855000,
+        "max_sale_price": 855000
       },
       "rank": 2
     },
@@ -6263,7 +6263,7 @@
     {
       "handle": "looi-robot-space-black-ai-desktop-companion",
       "title": "LOOI Robot – Space Black AI Desktop Companion",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_658990e9-8400-4ea4-98f1-56c8a5a7f821.jpg?v=1761210901",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_658990e9-8400-4ea4-98f1-56c8a5a7f821.jpg?v=1761226700",
       "units_sold": 0,
       "revenue": 0,
       "tags": [
@@ -6275,15 +6275,15 @@
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 870000,
-            "sale_price": 785000,
-            "percentage_off": 10
+            "regular_price": 970000,
+            "sale_price": 855000,
+            "percentage_off": 12
           }
         ],
-        "min_regular_price": 870000,
-        "max_regular_price": 870000,
-        "min_sale_price": 785000,
-        "max_sale_price": 785000
+        "min_regular_price": 970000,
+        "max_regular_price": 970000,
+        "min_sale_price": 855000,
+        "max_sale_price": 855000
       },
       "rank": 3
     },
@@ -7447,7 +7447,7 @@
     {
       "handle": "looi-robot-space-black-ai-desktop-companion",
       "title": "LOOI Robot – Space Black AI Desktop Companion",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_658990e9-8400-4ea4-98f1-56c8a5a7f821.jpg?v=1761210901",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_658990e9-8400-4ea4-98f1-56c8a5a7f821.jpg?v=1761226700",
       "units_sold": 0,
       "revenue": 0,
       "tags": [
@@ -7459,15 +7459,15 @@
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 870000,
-            "sale_price": 785000,
-            "percentage_off": 10
+            "regular_price": 970000,
+            "sale_price": 855000,
+            "percentage_off": 12
           }
         ],
-        "min_regular_price": 870000,
-        "max_regular_price": 870000,
-        "min_sale_price": 785000,
-        "max_sale_price": 785000
+        "min_regular_price": 970000,
+        "max_regular_price": 970000,
+        "min_sale_price": 855000,
+        "max_sale_price": 855000
       },
       "rank": 1
     },
