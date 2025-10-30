@@ -28,6 +28,33 @@
     "rank": 1
   },
   {
+    "handle": "dji-osmo-mobile-se-gimbal",
+    "title": "DJI Osmo Mobile SE Gimbal",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9823c958-8d37-4036-8036-f0f158f8c62c.jpg?v=1756623097",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "DJI",
+      "Gimbal",
+      "Gimbals"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 550000,
+          "sale_price": 495000,
+          "percentage_off": 10
+        }
+      ],
+      "min_regular_price": 550000,
+      "max_regular_price": 550000,
+      "min_sale_price": 495000,
+      "max_sale_price": 495000
+    },
+    "rank": 2
+  },
+  {
     "handle": "dji-osmo-pocket-3-creator-combo",
     "title": "DJI Osmo Pocket 3 Creator Combo",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_34e81e7e-0553-4851-a4bf-413e3683107f.jpg?v=1761193411",
@@ -54,7 +81,7 @@
       "min_sale_price": 3250000,
       "max_sale_price": 3250000
     },
-    "rank": 2
+    "rank": 3
   },
   {
     "handle": "green-lion-auto-track-gimbal-stabilizer",
@@ -82,7 +109,7 @@
       "min_sale_price": 165000,
       "max_sale_price": 165000
     },
-    "rank": 3
+    "rank": 4
   },
   {
     "handle": "green-lion-new-york-gimbal-smart-face-tracking",
@@ -112,7 +139,7 @@
       "min_sale_price": 425000,
       "max_sale_price": 425000
     },
-    "rank": 4
+    "rank": 5
   },
   {
     "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
@@ -142,7 +169,7 @@
       "min_sale_price": 315000,
       "max_sale_price": 315000
     },
-    "rank": 5
+    "rank": 6
   },
   {
     "handle": "porodo-quadbase-gimbal-stabilizer",
@@ -169,32 +196,6 @@
       ],
       "min_regular_price": 220000,
       "max_regular_price": 220000,
-      "min_sale_price": 175000,
-      "max_sale_price": 175000
-    },
-    "rank": 6
-  },
-  {
-    "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
-    "title": "TELESIN Magnetic Funshot Camera Phone Grip Holder",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a43eadc5-3828-4b6f-9bbe-3f23de21e528.jpg?v=1754569330",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Camera",
-      "Phone Accessories"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 230000,
-          "sale_price": 175000,
-          "percentage_off": 24
-        }
-      ],
-      "min_regular_price": 230000,
-      "max_regular_price": 230000,
       "min_sale_price": 175000,
       "max_sale_price": 175000
     },
