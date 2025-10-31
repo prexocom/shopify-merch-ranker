@@ -304,7 +304,8 @@
       "units_sold": 72,
       "revenue": 10873000,
       "tags": [
-        "Home Decor"
+        "Home Decor",
+        "Lighting"
       ],
       "pricing": {
         "variants": [
@@ -330,7 +331,7 @@
       "revenue": 276000,
       "tags": [
         "Home Decor",
-        "humidifier"
+        "Humidifiers"
       ],
       "pricing": {
         "variants": [
@@ -356,7 +357,7 @@
       "revenue": 135000,
       "tags": [
         "Home Decor",
-        "humidifier"
+        "Humidifiers"
       ],
       "pricing": {
         "variants": [
@@ -433,7 +434,7 @@
       "revenue": 0,
       "tags": [
         "Home Decor",
-        "humidifier"
+        "Humidifiers"
       ],
       "pricing": {
         "variants": [
@@ -485,7 +486,7 @@
       "revenue": 0,
       "tags": [
         "Home Decor",
-        "humidifier"
+        "Humidifiers"
       ],
       "pricing": {
         "variants": [
@@ -562,7 +563,7 @@
       "revenue": 0,
       "tags": [
         "Home Decor",
-        "humidifier"
+        "Humidifiers"
       ],
       "pricing": {
         "variants": [
@@ -606,6 +607,33 @@
       "rank": 12
     },
     {
+      "handle": "modern-led-wall-art-with-built-in-planter",
+      "title": "Modern LED Wall Art with Built-in Planter",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_093cb4b5-c095-40f9-a1b6-90a6807156c5.webp?v=1761846190",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "Lighting",
+        "Wall Art"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 2200000,
+            "sale_price": 1950000,
+            "percentage_off": 11
+          }
+        ],
+        "min_regular_price": 2200000,
+        "max_regular_price": 2200000,
+        "min_sale_price": 1950000,
+        "max_sale_price": 1950000
+      },
+      "rank": 13
+    },
+    {
       "handle": "volcano-essential-oil-diffuser",
       "title": "Prexo Volcano Humidifier",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/volcano-effect-aroma-diffuser-3.jpg?v=1749641964",
@@ -613,7 +641,7 @@
       "revenue": 0,
       "tags": [
         "Home Decor",
-        "humidifier"
+        "Humidifiers"
       ],
       "pricing": {
         "variants": [
@@ -629,7 +657,7 @@
         "min_sale_price": 135000,
         "max_sale_price": 135000
       },
-      "rank": 13
+      "rank": 14
     },
     {
       "handle": "quicksand-painting-night-light",
@@ -654,7 +682,7 @@
         "min_sale_price": 195000,
         "max_sale_price": 195000
       },
-      "rank": 14
+      "rank": 15
     },
     {
       "handle": "sandsara-mini-kinetic-sand-painting-sculpture",
@@ -681,7 +709,7 @@
         "min_sale_price": 890000,
         "max_sale_price": 890000
       },
-      "rank": 15
+      "rank": 16
     },
     {
       "handle": "steamloco™-aromatherapy-train-humidifier",
@@ -691,7 +719,7 @@
       "revenue": 0,
       "tags": [
         "Home Decor",
-        "humidifier"
+        "Humidifiers"
       ],
       "pricing": {
         "variants": [
@@ -707,7 +735,7 @@
         "min_sale_price": 188000,
         "max_sale_price": 188000
       },
-      "rank": 16
+      "rank": 17
     },
     {
       "handle": "under-cabinet-led-motion-sensor-light-bar",
@@ -733,7 +761,7 @@
         "min_sale_price": 55000,
         "max_sale_price": 55000
       },
-      "rank": 17
+      "rank": 18
     },
     {
       "handle": "magic-speaker-bulb-light-sound-combined",
@@ -762,7 +790,7 @@
         "min_sale_price": 98000,
         "max_sale_price": 98000
       },
-      "rank": 18
+      "rank": 19
     }
   ],
   "Earbuds": [
@@ -1292,7 +1320,7 @@
     {
       "handle": "auto-face-tracking-tripod-gimbal",
       "title": "Auto Face Tracking Tripod Gimbal",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_27bda3ff-2809-4baf-81d8-64b89f61c49b.webp?v=1754735298",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d88a6ddd-204b-47b1-82b0-975d2f3f2ead.jpg?v=1761833359",
       "units_sold": 0,
       "revenue": 0,
       "tags": [
@@ -2451,6 +2479,33 @@
       "rank": 8
     },
     {
+      "handle": "jbl-boombox-3",
+      "title": "JBL Boombox 3",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_30d67d11-5218-4078-af16-ebddbc647b37.png?v=1761829487",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "JBL",
+        "Portable Speakers",
+        "Speaker"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 1720000,
+            "sale_price": 1590000,
+            "percentage_off": 8
+          }
+        ],
+        "min_regular_price": 1720000,
+        "max_regular_price": 1720000,
+        "min_sale_price": 1590000,
+        "max_sale_price": 1590000
+      },
+      "rank": 9
+    },
+    {
       "handle": "jbl-go-4-ultra-portable-bluetooth®-speaker",
       "title": "JBL Go 4 — Ultra-Portable Bluetooth® Speaker",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_6c34340b-afd4-41aa-bed4-a6885ea6b09b.webp?v=1754661617",
@@ -2476,7 +2531,7 @@
         "min_sale_price": 245000,
         "max_sale_price": 245000
       },
-      "rank": 9
+      "rank": 10
     },
     {
       "handle": "oraimo-soundflow-50w-wireless-speaker",
@@ -2502,7 +2557,7 @@
         "min_sale_price": 250000,
         "max_sale_price": 250000
       },
-      "rank": 10
+      "rank": 11
     },
     {
       "handle": "porodo-bluetooth-conference-speaker",
@@ -2530,7 +2585,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 11
+      "rank": 12
     },
     {
       "handle": "sony-srs-xb100-wireless-speaker",
@@ -2558,7 +2613,7 @@
         "min_sale_price": 279000,
         "max_sale_price": 279000
       },
-      "rank": 12
+      "rank": 13
     },
     {
       "handle": "vintage-mini-wireless-speaker-classic-looks-modern-sound",
@@ -2585,7 +2640,7 @@
         "min_sale_price": 139000,
         "max_sale_price": 139000
       },
-      "rank": 13
+      "rank": 14
     },
     {
       "handle": "waterproof-mini-bluetooth-speaker-big-sound-tiny-body",
@@ -2612,7 +2667,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 14
+      "rank": 15
     },
     {
       "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
@@ -2640,7 +2695,7 @@
         "min_sale_price": 155000,
         "max_sale_price": 155000
       },
-      "rank": 15
+      "rank": 16
     }
   ],
   "Speaker": [
@@ -2756,6 +2811,33 @@
       "rank": 4
     },
     {
+      "handle": "jbl-boombox-3",
+      "title": "JBL Boombox 3",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_30d67d11-5218-4078-af16-ebddbc647b37.png?v=1761829487",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "JBL",
+        "Portable Speakers",
+        "Speaker"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 1720000,
+            "sale_price": 1590000,
+            "percentage_off": 8
+          }
+        ],
+        "min_regular_price": 1720000,
+        "max_regular_price": 1720000,
+        "min_sale_price": 1590000,
+        "max_sale_price": 1590000
+      },
+      "rank": 5
+    },
+    {
       "handle": "jbl-go-4-ultra-portable-bluetooth®-speaker",
       "title": "JBL Go 4 — Ultra-Portable Bluetooth® Speaker",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_6c34340b-afd4-41aa-bed4-a6885ea6b09b.webp?v=1754661617",
@@ -2781,7 +2863,7 @@
         "min_sale_price": 245000,
         "max_sale_price": 245000
       },
-      "rank": 5
+      "rank": 6
     },
     {
       "handle": "porodo-bluetooth-conference-speaker",
@@ -2809,7 +2891,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 6
+      "rank": 7
     },
     {
       "handle": "sony-srs-xb100-wireless-speaker",
@@ -2837,7 +2919,7 @@
         "min_sale_price": 279000,
         "max_sale_price": 279000
       },
-      "rank": 7
+      "rank": 8
     },
     {
       "handle": "vintage-mini-wireless-speaker-classic-looks-modern-sound",
@@ -2864,7 +2946,7 @@
         "min_sale_price": 139000,
         "max_sale_price": 139000
       },
-      "rank": 8
+      "rank": 9
     },
     {
       "handle": "vsonic-mars-levitating-magnetic-speaker",
@@ -2890,7 +2972,7 @@
         "min_sale_price": 1850000,
         "max_sale_price": 1850000
       },
-      "rank": 9
+      "rank": 10
     },
     {
       "handle": "waterproof-mini-bluetooth-speaker-big-sound-tiny-body",
@@ -2917,7 +2999,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 10
+      "rank": 11
     },
     {
       "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
@@ -2945,7 +3027,7 @@
         "min_sale_price": 155000,
         "max_sale_price": 155000
       },
-      "rank": 11
+      "rank": 12
     },
     {
       "handle": "magic-speaker-bulb-light-sound-combined",
@@ -2974,7 +3056,7 @@
         "min_sale_price": 98000,
         "max_sale_price": 98000
       },
-      "rank": 12
+      "rank": 13
     }
   ],
   "Apple": [
@@ -3287,7 +3369,7 @@
       "rank": 10
     }
   ],
-  "humidifier": [
+  "Humidifiers": [
     {
       "handle": "ufo-raindrop-humidifier",
       "title": "Aquamist Raindrop Humidifier",
@@ -3296,7 +3378,7 @@
       "revenue": 276000,
       "tags": [
         "Home Decor",
-        "humidifier"
+        "Humidifiers"
       ],
       "pricing": {
         "variants": [
@@ -3322,7 +3404,7 @@
       "revenue": 135000,
       "tags": [
         "Home Decor",
-        "humidifier"
+        "Humidifiers"
       ],
       "pricing": {
         "variants": [
@@ -3348,7 +3430,7 @@
       "revenue": 0,
       "tags": [
         "Home Decor",
-        "humidifier"
+        "Humidifiers"
       ],
       "pricing": {
         "variants": [
@@ -3374,7 +3456,7 @@
       "revenue": 0,
       "tags": [
         "Home Decor",
-        "humidifier"
+        "Humidifiers"
       ],
       "pricing": {
         "variants": [
@@ -3393,6 +3475,58 @@
       "rank": 4
     },
     {
+      "handle": "green-lion-grenade-humidifier",
+      "title": "Green Lion Grenade Humidifier",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e78ffa89-2e0f-47f0-a971-f36a8089a4cc.webp?v=1761849576",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Humidifiers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 140000,
+            "sale_price": 115000,
+            "percentage_off": 18
+          }
+        ],
+        "min_regular_price": 140000,
+        "max_regular_price": 140000,
+        "min_sale_price": 115000,
+        "max_sale_price": 115000
+      },
+      "rank": 5
+    },
+    {
+      "handle": "green-lion-veloura-fragrance-diffuser",
+      "title": "Green Lion Veloura Fragrance Diffuser",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_4c7344a4-6b68-4fbd-9d41-8a032f4ac4b7.webp?v=1761850661",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Humidifiers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 150000,
+            "sale_price": 125000,
+            "percentage_off": 17
+          }
+        ],
+        "min_regular_price": 150000,
+        "max_regular_price": 150000,
+        "min_sale_price": 125000,
+        "max_sale_price": 125000
+      },
+      "rank": 6
+    },
+    {
       "handle": "jellyfish-humidifier",
       "title": "Jellyfish Humidifier",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d095ee78-7e1b-4f49-9af5-2ef8be3797c0.jpg?v=1760191137",
@@ -3400,7 +3534,7 @@
       "revenue": 0,
       "tags": [
         "Home Decor",
-        "humidifier"
+        "Humidifiers"
       ],
       "pricing": {
         "variants": [
@@ -3416,7 +3550,7 @@
         "min_sale_price": 155000,
         "max_sale_price": 155000
       },
-      "rank": 5
+      "rank": 7
     },
     {
       "handle": "volcano-essential-oil-diffuser",
@@ -3426,7 +3560,7 @@
       "revenue": 0,
       "tags": [
         "Home Decor",
-        "humidifier"
+        "Humidifiers"
       ],
       "pricing": {
         "variants": [
@@ -3442,7 +3576,7 @@
         "min_sale_price": 135000,
         "max_sale_price": 135000
       },
-      "rank": 6
+      "rank": 8
     },
     {
       "handle": "steamloco™-aromatherapy-train-humidifier",
@@ -3452,7 +3586,7 @@
       "revenue": 0,
       "tags": [
         "Home Decor",
-        "humidifier"
+        "Humidifiers"
       ],
       "pricing": {
         "variants": [
@@ -3468,10 +3602,36 @@
         "min_sale_price": 188000,
         "max_sale_price": 188000
       },
-      "rank": 7
+      "rank": 9
     }
   ],
   "Lighting": [
+    {
+      "handle": "lumifan-360-light-fan",
+      "title": "LumiFan™ – Transform Your Room in Minutes",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3309b47252b00d69970a66cfd5863891_1_1.png?v=1757943596",
+      "units_sold": 72,
+      "revenue": 10873000,
+      "tags": [
+        "Home Decor",
+        "Lighting"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 280000,
+            "sale_price": 175000,
+            "percentage_off": 38
+          }
+        ],
+        "min_regular_price": 280000,
+        "max_regular_price": 280000,
+        "min_sale_price": 175000,
+        "max_sale_price": 175000
+      },
+      "rank": 1
+    },
     {
       "handle": "astronaut-galaxy-projector-your-cosmic-escape",
       "title": "Astronaut Galaxy Projector – Your Cosmic Escape",
@@ -3496,7 +3656,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 1
+      "rank": 2
     },
     {
       "handle": "hexagon-modular-touch-lights-shape-your-glow",
@@ -3522,7 +3682,34 @@
         "min_sale_price": 195000,
         "max_sale_price": 195000
       },
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "handle": "modern-led-wall-art-with-built-in-planter",
+      "title": "Modern LED Wall Art with Built-in Planter",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_093cb4b5-c095-40f9-a1b6-90a6807156c5.webp?v=1761846190",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "Lighting",
+        "Wall Art"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 2200000,
+            "sale_price": 1950000,
+            "percentage_off": 11
+          }
+        ],
+        "min_regular_price": 2200000,
+        "max_regular_price": 2200000,
+        "min_sale_price": 1950000,
+        "max_sale_price": 1950000
+      },
+      "rank": 4
     },
     {
       "handle": "under-cabinet-led-motion-sensor-light-bar",
@@ -3548,7 +3735,7 @@
         "min_sale_price": 55000,
         "max_sale_price": 55000
       },
-      "rank": 3
+      "rank": 5
     },
     {
       "handle": "magic-speaker-bulb-light-sound-combined",
@@ -3577,7 +3764,7 @@
         "min_sale_price": 98000,
         "max_sale_price": 98000
       },
-      "rank": 4
+      "rank": 6
     },
     {
       "handle": "solar-lamp-for-garden-outdoor",
@@ -3603,14 +3790,14 @@
         "min_sale_price": 95000,
         "max_sale_price": 95000
       },
-      "rank": 5
+      "rank": 7
     }
   ],
   "Camera": [
     {
       "handle": "auto-face-tracking-tripod-gimbal",
       "title": "Auto Face Tracking Tripod Gimbal",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_27bda3ff-2809-4baf-81d8-64b89f61c49b.webp?v=1754735298",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d88a6ddd-204b-47b1-82b0-975d2f3f2ead.jpg?v=1761833359",
       "units_sold": 0,
       "revenue": 0,
       "tags": [
@@ -3813,7 +4000,7 @@
     {
       "handle": "auto-face-tracking-tripod-gimbal",
       "title": "Auto Face Tracking Tripod Gimbal",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_27bda3ff-2809-4baf-81d8-64b89f61c49b.webp?v=1754735298",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d88a6ddd-204b-47b1-82b0-975d2f3f2ead.jpg?v=1761833359",
       "units_sold": 0,
       "revenue": 0,
       "tags": [
@@ -3988,7 +4175,7 @@
     {
       "handle": "auto-face-tracking-tripod-gimbal",
       "title": "Auto Face Tracking Tripod Gimbal",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_27bda3ff-2809-4baf-81d8-64b89f61c49b.webp?v=1754735298",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d88a6ddd-204b-47b1-82b0-975d2f3f2ead.jpg?v=1761833359",
       "units_sold": 0,
       "revenue": 0,
       "tags": [
@@ -5473,6 +5660,32 @@
       "rank": 12
     },
     {
+      "handle": "green-lion-grenade-humidifier",
+      "title": "Green Lion Grenade Humidifier",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e78ffa89-2e0f-47f0-a971-f36a8089a4cc.webp?v=1761849576",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Humidifiers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 140000,
+            "sale_price": 115000,
+            "percentage_off": 18
+          }
+        ],
+        "min_regular_price": 140000,
+        "max_regular_price": 140000,
+        "min_sale_price": 115000,
+        "max_sale_price": 115000
+      },
+      "rank": 13
+    },
+    {
       "handle": "green-lion-mouse-pad-with-wireless-charger",
       "title": "Green Lion Mouse Pad with Wireless Charger",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1e3bd37e-62d8-4170-a8ed-e20eceeefdf3.jpg?v=1755549275",
@@ -5498,7 +5711,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 13
+      "rank": 14
     },
     {
       "handle": "green-lion-new-york-gimbal-smart-face-tracking",
@@ -5528,7 +5741,7 @@
         "min_sale_price": 425000,
         "max_sale_price": 425000
       },
-      "rank": 14
+      "rank": 15
     },
     {
       "handle": "green-lion-ocean-open-ear-headphones",
@@ -5554,7 +5767,7 @@
         "min_sale_price": 135000,
         "max_sale_price": 135000
       },
-      "rank": 15
+      "rank": 16
     },
     {
       "handle": "green-lion-palma-pro-wireless-speaker",
@@ -5580,7 +5793,7 @@
         "min_sale_price": 185000,
         "max_sale_price": 185000
       },
-      "rank": 16
+      "rank": 17
     },
     {
       "handle": "green-lion-portable-oral-irrigator-300-ml",
@@ -5606,7 +5819,7 @@
         "min_sale_price": 175000,
         "max_sale_price": 175000
       },
-      "rank": 17
+      "rank": 18
     },
     {
       "handle": "green-lion-porto-wireless-speaker",
@@ -5632,7 +5845,7 @@
         "min_sale_price": 140000,
         "max_sale_price": 140000
       },
-      "rank": 18
+      "rank": 19
     },
     {
       "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
@@ -5659,7 +5872,7 @@
         "min_sale_price": 185000,
         "max_sale_price": 185000
       },
-      "rank": 19
+      "rank": 20
     },
     {
       "handle": "green-lion-prisma-4k-portable-projector",
@@ -5686,7 +5899,7 @@
         "min_sale_price": 650000,
         "max_sale_price": 650000
       },
-      "rank": 20
+      "rank": 21
     },
     {
       "handle": "green-lion-sao-paulo-portable-touch-display-speaker",
@@ -5712,7 +5925,7 @@
         "min_sale_price": 1420000,
         "max_sale_price": 1420000
       },
-      "rank": 21
+      "rank": 22
     },
     {
       "handle": "green-lion-smart-body-scale-8-electrode-advanced-analysis",
@@ -5738,7 +5951,7 @@
         "min_sale_price": 245000,
         "max_sale_price": 245000
       },
-      "rank": 22
+      "rank": 23
     },
     {
       "handle": "green-lion-smart-brush-60-ultrawide",
@@ -5765,7 +5978,7 @@
         "min_sale_price": 185000,
         "max_sale_price": 185000
       },
-      "rank": 23
+      "rank": 24
     },
     {
       "handle": "green-lion-smart-health-tracker-ring",
@@ -5792,7 +6005,7 @@
         "min_sale_price": 155000,
         "max_sale_price": 155000
       },
-      "rank": 24
+      "rank": 25
     },
     {
       "handle": "green-lion-smart-oled-vertical-mouse",
@@ -5818,7 +6031,7 @@
         "min_sale_price": 150000,
         "max_sale_price": 150000
       },
-      "rank": 25
+      "rank": 26
     },
     {
       "handle": "green-lion-smart-toothbrush-sanitizer",
@@ -5845,7 +6058,7 @@
         "min_sale_price": 160000,
         "max_sale_price": 160000
       },
-      "rank": 26
+      "rank": 27
     },
     {
       "handle": "green-lion-stockholm-smart-glasses-black",
@@ -5871,7 +6084,7 @@
         "min_sale_price": 155000,
         "max_sale_price": 155000
       },
-      "rank": 27
+      "rank": 28
     },
     {
       "handle": "green-lion-thermal-portable-printer",
@@ -5897,7 +6110,7 @@
         "min_sale_price": 245000,
         "max_sale_price": 245000
       },
-      "rank": 28
+      "rank": 29
     },
     {
       "handle": "green-lion-urbanic-smart-eyewear",
@@ -5923,7 +6136,33 @@
         "min_sale_price": 165000,
         "max_sale_price": 165000
       },
-      "rank": 29
+      "rank": 30
+    },
+    {
+      "handle": "green-lion-veloura-fragrance-diffuser",
+      "title": "Green Lion Veloura Fragrance Diffuser",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_4c7344a4-6b68-4fbd-9d41-8a032f4ac4b7.webp?v=1761850661",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Humidifiers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 150000,
+            "sale_price": 125000,
+            "percentage_off": 17
+          }
+        ],
+        "min_regular_price": 150000,
+        "max_regular_price": 150000,
+        "min_sale_price": 125000,
+        "max_sale_price": 125000
+      },
+      "rank": 31
     }
   ],
   "Laptop Stands": [
@@ -7122,6 +7361,33 @@
   ],
   "JBL": [
     {
+      "handle": "jbl-boombox-3",
+      "title": "JBL Boombox 3",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_30d67d11-5218-4078-af16-ebddbc647b37.png?v=1761829487",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "JBL",
+        "Portable Speakers",
+        "Speaker"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 1720000,
+            "sale_price": 1590000,
+            "percentage_off": 8
+          }
+        ],
+        "min_regular_price": 1720000,
+        "max_regular_price": 1720000,
+        "min_sale_price": 1590000,
+        "max_sale_price": 1590000
+      },
+      "rank": 1
+    },
+    {
       "handle": "jbl-endurance-peak-3",
       "title": "JBL Endurance Peak 3",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_081200a4-f62a-4e8e-92d9-4810856a2ed6.jpg?v=1755332898",
@@ -7145,7 +7411,7 @@
         "min_sale_price": 445000,
         "max_sale_price": 445000
       },
-      "rank": 1
+      "rank": 2
     },
     {
       "handle": "jbl-go-4-ultra-portable-bluetooth®-speaker",
@@ -7173,7 +7439,7 @@
         "min_sale_price": 245000,
         "max_sale_price": 245000
       },
-      "rank": 2
+      "rank": 3
     },
     {
       "handle": "jbl-live-770nc-over-ear-headphones-black",
@@ -7199,7 +7465,7 @@
         "min_sale_price": 550000,
         "max_sale_price": 550000
       },
-      "rank": 3
+      "rank": 4
     },
     {
       "handle": "jbl-live-770nc-over-ear-headphones",
@@ -7225,7 +7491,7 @@
         "min_sale_price": 550000,
         "max_sale_price": 550000
       },
-      "rank": 4
+      "rank": 5
     },
     {
       "handle": "jbl-live-770nc-over-ear-headphones-sandstone",
@@ -7251,7 +7517,7 @@
         "min_sale_price": 550000,
         "max_sale_price": 550000
       },
-      "rank": 5
+      "rank": 6
     },
     {
       "handle": "jbl-live-770nc-over-ear-headphones-white",
@@ -7277,7 +7543,7 @@
         "min_sale_price": 550000,
         "max_sale_price": 550000
       },
-      "rank": 6
+      "rank": 7
     },
     {
       "handle": "jbl-tune-520bt-wireless-on-ear-headphones-black",
@@ -7303,7 +7569,7 @@
         "min_sale_price": 220000,
         "max_sale_price": 220000
       },
-      "rank": 7
+      "rank": 8
     },
     {
       "handle": "jbl-tune-520bt-wireless-on-ear-headphones-blue",
@@ -7329,7 +7595,7 @@
         "min_sale_price": 190000,
         "max_sale_price": 190000
       },
-      "rank": 8
+      "rank": 9
     },
     {
       "handle": "jbl-tune-520bt-wireless-on-ear-headphones-purple",
@@ -7355,7 +7621,7 @@
         "min_sale_price": 227000,
         "max_sale_price": 227000
       },
-      "rank": 9
+      "rank": 10
     },
     {
       "handle": "jbl-tune-520bt-wireless-on-ear-headphones-white",
@@ -7381,7 +7647,7 @@
         "min_sale_price": 195000,
         "max_sale_price": 195000
       },
-      "rank": 10
+      "rank": 11
     },
     {
       "handle": "copy-jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones-black",
@@ -7407,7 +7673,7 @@
         "min_sale_price": 375000,
         "max_sale_price": 375000
       },
-      "rank": 11
+      "rank": 12
     },
     {
       "handle": "jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones",
@@ -7433,7 +7699,7 @@
         "min_sale_price": 375000,
         "max_sale_price": 375000
       },
-      "rank": 12
+      "rank": 13
     },
     {
       "handle": "jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones-white",
@@ -7459,7 +7725,7 @@
         "min_sale_price": 375000,
         "max_sale_price": 375000
       },
-      "rank": 13
+      "rank": 14
     },
     {
       "handle": "jbl-tune-buds-true-wireless-anc-earbuds",
@@ -7485,7 +7751,7 @@
         "min_sale_price": 369000,
         "max_sale_price": 369000
       },
-      "rank": 14
+      "rank": 15
     },
     {
       "handle": "jbl-tune-buds-true-wireless-anc-earbuds-blue",
@@ -7511,7 +7777,7 @@
         "min_sale_price": 369000,
         "max_sale_price": 369000
       },
-      "rank": 15
+      "rank": 16
     },
     {
       "handle": "jbl-tune-buds-true-wireless-anc-earbuds-purple",
@@ -7537,7 +7803,7 @@
         "min_sale_price": 369000,
         "max_sale_price": 369000
       },
-      "rank": 16
+      "rank": 17
     },
     {
       "handle": "jbl-tune-buds-true-wireless-anc-earbuds-white",
@@ -7563,7 +7829,7 @@
         "min_sale_price": 369000,
         "max_sale_price": 369000
       },
-      "rank": 17
+      "rank": 18
     },
     {
       "handle": "jbl-vibe-flex-true-wireless-earbuds",
@@ -7589,7 +7855,7 @@
         "min_sale_price": 285000,
         "max_sale_price": 285000
       },
-      "rank": 18
+      "rank": 19
     },
     {
       "handle": "jbl-wave-flex-2",
@@ -7615,7 +7881,7 @@
         "min_sale_price": 375000,
         "max_sale_price": 375000
       },
-      "rank": 19
+      "rank": 20
     },
     {
       "handle": "jbl-wave-flex-2-blue",
@@ -7641,7 +7907,7 @@
         "min_sale_price": 375000,
         "max_sale_price": 375000
       },
-      "rank": 20
+      "rank": 21
     },
     {
       "handle": "jbl-wave-flex-2-pink",
@@ -7667,7 +7933,7 @@
         "min_sale_price": 375000,
         "max_sale_price": 375000
       },
-      "rank": 21
+      "rank": 22
     },
     {
       "handle": "jbl-wave-flex-2-white",
@@ -7693,7 +7959,7 @@
         "min_sale_price": 375000,
         "max_sale_price": 375000
       },
-      "rank": 22
+      "rank": 23
     }
   ],
   "Gaming": [
@@ -7778,6 +8044,35 @@
         "max_sale_price": 890000
       },
       "rank": 2
+    }
+  ],
+  "Wall Art": [
+    {
+      "handle": "modern-led-wall-art-with-built-in-planter",
+      "title": "Modern LED Wall Art with Built-in Planter",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_093cb4b5-c095-40f9-a1b6-90a6807156c5.webp?v=1761846190",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "Lighting",
+        "Wall Art"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 2200000,
+            "sale_price": 1950000,
+            "percentage_off": 11
+          }
+        ],
+        "min_regular_price": 2200000,
+        "max_regular_price": 2200000,
+        "min_sale_price": 1950000,
+        "max_sale_price": 1950000
+      },
+      "rank": 1
     }
   ],
   "Oraimo": [

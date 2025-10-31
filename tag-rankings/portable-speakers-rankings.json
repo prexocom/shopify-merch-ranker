@@ -215,6 +215,33 @@
     "rank": 8
   },
   {
+    "handle": "jbl-boombox-3",
+    "title": "JBL Boombox 3",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_30d67d11-5218-4078-af16-ebddbc647b37.png?v=1761829487",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "JBL",
+      "Portable Speakers",
+      "Speaker"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 1720000,
+          "sale_price": 1590000,
+          "percentage_off": 8
+        }
+      ],
+      "min_regular_price": 1720000,
+      "max_regular_price": 1720000,
+      "min_sale_price": 1590000,
+      "max_sale_price": 1590000
+    },
+    "rank": 9
+  },
+  {
     "handle": "jbl-go-4-ultra-portable-bluetooth®-speaker",
     "title": "JBL Go 4 — Ultra-Portable Bluetooth® Speaker",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_6c34340b-afd4-41aa-bed4-a6885ea6b09b.webp?v=1754661617",
@@ -240,7 +267,7 @@
       "min_sale_price": 245000,
       "max_sale_price": 245000
     },
-    "rank": 9
+    "rank": 10
   },
   {
     "handle": "oraimo-soundflow-50w-wireless-speaker",
@@ -266,7 +293,7 @@
       "min_sale_price": 250000,
       "max_sale_price": 250000
     },
-    "rank": 10
+    "rank": 11
   },
   {
     "handle": "porodo-bluetooth-conference-speaker",
@@ -294,7 +321,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 11
+    "rank": 12
   },
   {
     "handle": "sony-srs-xb100-wireless-speaker",
@@ -322,7 +349,7 @@
       "min_sale_price": 279000,
       "max_sale_price": 279000
     },
-    "rank": 12
+    "rank": 13
   },
   {
     "handle": "vintage-mini-wireless-speaker-classic-looks-modern-sound",
@@ -349,7 +376,7 @@
       "min_sale_price": 139000,
       "max_sale_price": 139000
     },
-    "rank": 13
+    "rank": 14
   },
   {
     "handle": "waterproof-mini-bluetooth-speaker-big-sound-tiny-body",
@@ -376,7 +403,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 14
+    "rank": 15
   },
   {
     "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
@@ -404,6 +431,6 @@
       "min_sale_price": 155000,
       "max_sale_price": 155000
     },
-    "rank": 15
+    "rank": 16
   }
 ]

@@ -316,6 +316,32 @@
     "rank": 12
   },
   {
+    "handle": "green-lion-grenade-humidifier",
+    "title": "Green Lion Grenade Humidifier",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e78ffa89-2e0f-47f0-a971-f36a8089a4cc.webp?v=1761849576",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Green Lion",
+      "Humidifiers"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 140000,
+          "sale_price": 115000,
+          "percentage_off": 18
+        }
+      ],
+      "min_regular_price": 140000,
+      "max_regular_price": 140000,
+      "min_sale_price": 115000,
+      "max_sale_price": 115000
+    },
+    "rank": 13
+  },
+  {
     "handle": "green-lion-mouse-pad-with-wireless-charger",
     "title": "Green Lion Mouse Pad with Wireless Charger",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1e3bd37e-62d8-4170-a8ed-e20eceeefdf3.jpg?v=1755549275",
@@ -341,7 +367,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 13
+    "rank": 14
   },
   {
     "handle": "green-lion-new-york-gimbal-smart-face-tracking",
@@ -371,7 +397,7 @@
       "min_sale_price": 425000,
       "max_sale_price": 425000
     },
-    "rank": 14
+    "rank": 15
   },
   {
     "handle": "green-lion-ocean-open-ear-headphones",
@@ -397,7 +423,7 @@
       "min_sale_price": 135000,
       "max_sale_price": 135000
     },
-    "rank": 15
+    "rank": 16
   },
   {
     "handle": "green-lion-palma-pro-wireless-speaker",
@@ -423,7 +449,7 @@
       "min_sale_price": 185000,
       "max_sale_price": 185000
     },
-    "rank": 16
+    "rank": 17
   },
   {
     "handle": "green-lion-portable-oral-irrigator-300-ml",
@@ -449,7 +475,7 @@
       "min_sale_price": 175000,
       "max_sale_price": 175000
     },
-    "rank": 17
+    "rank": 18
   },
   {
     "handle": "green-lion-porto-wireless-speaker",
@@ -475,7 +501,7 @@
       "min_sale_price": 140000,
       "max_sale_price": 140000
     },
-    "rank": 18
+    "rank": 19
   },
   {
     "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
@@ -502,7 +528,7 @@
       "min_sale_price": 185000,
       "max_sale_price": 185000
     },
-    "rank": 19
+    "rank": 20
   },
   {
     "handle": "green-lion-prisma-4k-portable-projector",
@@ -529,7 +555,7 @@
       "min_sale_price": 650000,
       "max_sale_price": 650000
     },
-    "rank": 20
+    "rank": 21
   },
   {
     "handle": "green-lion-sao-paulo-portable-touch-display-speaker",
@@ -555,7 +581,7 @@
       "min_sale_price": 1420000,
       "max_sale_price": 1420000
     },
-    "rank": 21
+    "rank": 22
   },
   {
     "handle": "green-lion-smart-body-scale-8-electrode-advanced-analysis",
@@ -581,7 +607,7 @@
       "min_sale_price": 245000,
       "max_sale_price": 245000
     },
-    "rank": 22
+    "rank": 23
   },
   {
     "handle": "green-lion-smart-brush-60-ultrawide",
@@ -608,7 +634,7 @@
       "min_sale_price": 185000,
       "max_sale_price": 185000
     },
-    "rank": 23
+    "rank": 24
   },
   {
     "handle": "green-lion-smart-health-tracker-ring",
@@ -635,7 +661,7 @@
       "min_sale_price": 155000,
       "max_sale_price": 155000
     },
-    "rank": 24
+    "rank": 25
   },
   {
     "handle": "green-lion-smart-oled-vertical-mouse",
@@ -661,7 +687,7 @@
       "min_sale_price": 150000,
       "max_sale_price": 150000
     },
-    "rank": 25
+    "rank": 26
   },
   {
     "handle": "green-lion-smart-toothbrush-sanitizer",
@@ -688,7 +714,7 @@
       "min_sale_price": 160000,
       "max_sale_price": 160000
     },
-    "rank": 26
+    "rank": 27
   },
   {
     "handle": "green-lion-stockholm-smart-glasses-black",
@@ -714,7 +740,7 @@
       "min_sale_price": 155000,
       "max_sale_price": 155000
     },
-    "rank": 27
+    "rank": 28
   },
   {
     "handle": "green-lion-thermal-portable-printer",
@@ -740,7 +766,7 @@
       "min_sale_price": 245000,
       "max_sale_price": 245000
     },
-    "rank": 28
+    "rank": 29
   },
   {
     "handle": "green-lion-urbanic-smart-eyewear",
@@ -766,6 +792,32 @@
       "min_sale_price": 165000,
       "max_sale_price": 165000
     },
-    "rank": 29
+    "rank": 30
+  },
+  {
+    "handle": "green-lion-veloura-fragrance-diffuser",
+    "title": "Green Lion Veloura Fragrance Diffuser",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_4c7344a4-6b68-4fbd-9d41-8a032f4ac4b7.webp?v=1761850661",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Green Lion",
+      "Humidifiers"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 150000,
+          "sale_price": 125000,
+          "percentage_off": 17
+        }
+      ],
+      "min_regular_price": 150000,
+      "max_regular_price": 150000,
+      "min_sale_price": 125000,
+      "max_sale_price": 125000
+    },
+    "rank": 31
   }
 ]

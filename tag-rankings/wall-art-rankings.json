@@ -1,0 +1,29 @@
+[
+  {
+    "handle": "modern-led-wall-art-with-built-in-planter",
+    "title": "Modern LED Wall Art with Built-in Planter",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_093cb4b5-c095-40f9-a1b6-90a6807156c5.webp?v=1761846190",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Home Decor",
+      "Lighting",
+      "Wall Art"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 2200000,
+          "sale_price": 1950000,
+          "percentage_off": 11
+        }
+      ],
+      "min_regular_price": 2200000,
+      "max_regular_price": 2200000,
+      "min_sale_price": 1950000,
+      "max_sale_price": 1950000
+    },
+    "rank": 1
+  }
+]
