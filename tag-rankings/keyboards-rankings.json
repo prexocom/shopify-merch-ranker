@@ -1,0 +1,56 @@
+[
+  {
+    "handle": "keyfold-pro-foldable-bluetooth-keyboard",
+    "title": "Keyfold Pro - Foldable Bluetooth Keyboard",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_03e0123a-e5b8-4d65-a9b0-e76114fc9eb2.jpg?v=1755880560",
+    "units_sold": 1,
+    "revenue": 155000,
+    "tags": [
+      "Computer Accessories",
+      "Keyboards",
+      "Phone Accessories"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 220000,
+          "sale_price": 155000,
+          "percentage_off": 30
+        }
+      ],
+      "min_regular_price": 220000,
+      "max_regular_price": 220000,
+      "min_sale_price": 155000,
+      "max_sale_price": 155000
+    },
+    "rank": 1
+  },
+  {
+    "handle": "keyfold-pro-2-foldable-bluetooth-keyboard",
+    "title": "Keyfold Pro 2 - Foldable Bluetooth Keyboard",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f14edf69-1add-47c3-bd91-4eae73628f34.jpg?v=1755880560",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Computer Accessories",
+      "Keyboards",
+      "Phone Accessories"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 220000,
+          "sale_price": 155000,
+          "percentage_off": 30
+        }
+      ],
+      "min_regular_price": 220000,
+      "max_regular_price": 220000,
+      "min_sale_price": 155000,
+      "max_sale_price": 155000
+    },
+    "rank": 2
+  }
+]

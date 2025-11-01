@@ -8,6 +8,7 @@
       "revenue": 155000,
       "tags": [
         "Computer Accessories",
+        "Keyboards",
         "Phone Accessories"
       ],
       "pricing": {
@@ -63,6 +64,7 @@
         "Green Lion",
         "Office",
         "Phone Accessories",
+        "Phone Chargers",
         "Wireless Chargers"
       ],
       "pricing": {
@@ -91,6 +93,7 @@
         "Computer Accessories",
         "Green Lion",
         "Phone Accessories",
+        "Phone Chargers",
         "Wireless Chargers"
       ],
       "pricing": {
@@ -169,6 +172,7 @@
       "revenue": 0,
       "tags": [
         "Computer Accessories",
+        "Keyboards",
         "Phone Accessories"
       ],
       "pricing": {
@@ -1246,6 +1250,7 @@
       "revenue": 155000,
       "tags": [
         "Computer Accessories",
+        "Keyboards",
         "Phone Accessories"
       ],
       "pricing": {
@@ -1299,6 +1304,7 @@
       "tags": [
         "Apple",
         "Phone Accessories",
+        "Smart Tags",
         "Travel"
       ],
       "pricing": {
@@ -1411,6 +1417,7 @@
         "Green Lion",
         "Office",
         "Phone Accessories",
+        "Phone Chargers",
         "Wireless Chargers"
       ],
       "pricing": {
@@ -1439,6 +1446,7 @@
         "Computer Accessories",
         "Green Lion",
         "Phone Accessories",
+        "Phone Chargers",
         "Wireless Chargers"
       ],
       "pricing": {
@@ -1496,6 +1504,7 @@
       "tags": [
         "Green Lion",
         "Phone Accessories",
+        "Phone Chargers",
         "Wireless Chargers"
       ],
       "pricing": {
@@ -1522,6 +1531,7 @@
       "revenue": 0,
       "tags": [
         "Computer Accessories",
+        "Keyboards",
         "Phone Accessories"
       ],
       "pricing": {
@@ -1665,6 +1675,7 @@
       "tags": [
         "Phone Accessories",
         "Samsung",
+        "Smart Tags",
         "Travel"
       ],
       "pricing": {
@@ -3069,6 +3080,7 @@
       "tags": [
         "Apple",
         "Phone Accessories",
+        "Smart Tags",
         "Travel"
       ],
       "pricing": {
@@ -3086,6 +3098,64 @@
         "max_sale_price": 185000
       },
       "rank": 1
+    }
+  ],
+  "Smart Tags": [
+    {
+      "handle": "apple-air-tag",
+      "title": "Apple Air Tag",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bb51b04a-a8e6-4c95-a2b9-271f93c5a509.jpg?v=1754578643",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Apple",
+        "Phone Accessories",
+        "Smart Tags",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 185000,
+            "sale_price": 185000,
+            "percentage_off": 0
+          }
+        ],
+        "min_regular_price": 185000,
+        "max_regular_price": 185000,
+        "min_sale_price": 185000,
+        "max_sale_price": 185000
+      },
+      "rank": 1
+    },
+    {
+      "handle": "samsung-galaxy-smarttag2",
+      "title": "Samsung Galaxy SmartTag2",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0a458098-4ac0-40b2-a12e-63696b8e963e.jpg?v=1754579664",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Phone Accessories",
+        "Samsung",
+        "Smart Tags",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 137000,
+            "sale_price": 137000,
+            "percentage_off": 0
+          }
+        ],
+        "min_regular_price": 137000,
+        "max_regular_price": 137000,
+        "min_sale_price": 137000,
+        "max_sale_price": 137000
+      },
+      "rank": 2
     }
   ],
   "Travel": [
@@ -3124,6 +3194,7 @@
       "tags": [
         "Apple",
         "Phone Accessories",
+        "Smart Tags",
         "Travel"
       ],
       "pricing": {
@@ -3325,6 +3396,7 @@
       "tags": [
         "Phone Accessories",
         "Samsung",
+        "Smart Tags",
         "Travel"
       ],
       "pricing": {
@@ -5641,6 +5713,7 @@
         "Green Lion",
         "Office",
         "Phone Accessories",
+        "Phone Chargers",
         "Wireless Chargers"
       ],
       "pricing": {
@@ -5695,6 +5768,7 @@
         "Computer Accessories",
         "Green Lion",
         "Phone Accessories",
+        "Phone Chargers",
         "Wireless Chargers"
       ],
       "pricing": {
@@ -5856,6 +5930,7 @@
       "tags": [
         "Green Lion",
         "Phone Accessories",
+        "Phone Chargers",
         "Wireless Chargers"
       ],
       "pricing": {
@@ -6704,6 +6779,7 @@
         "Green Lion",
         "Office",
         "Phone Accessories",
+        "Phone Chargers",
         "Wireless Chargers"
       ],
       "pricing": {
@@ -6736,6 +6812,7 @@
         "Green Lion",
         "Office",
         "Phone Accessories",
+        "Phone Chargers",
         "Wireless Chargers"
       ],
       "pricing": {
@@ -6917,7 +6994,7 @@
       "rank": 7
     }
   ],
-  "Wireless Chargers": [
+  "Phone Chargers": [
     {
       "handle": "green-lion-gan-65w-multi-port-travel-adapter",
       "title": "Green Lion GaN 65W Multi-Port Travel Adapter",
@@ -6930,6 +7007,7 @@
         "Green Lion",
         "Office",
         "Phone Accessories",
+        "Phone Chargers",
         "Wireless Chargers"
       ],
       "pricing": {
@@ -6958,6 +7036,7 @@
         "Computer Accessories",
         "Green Lion",
         "Phone Accessories",
+        "Phone Chargers",
         "Wireless Chargers"
       ],
       "pricing": {
@@ -6985,6 +7064,97 @@
       "tags": [
         "Green Lion",
         "Phone Accessories",
+        "Phone Chargers",
+        "Wireless Chargers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 220000,
+            "sale_price": 185000,
+            "percentage_off": 16
+          }
+        ],
+        "min_regular_price": 220000,
+        "max_regular_price": 220000,
+        "min_sale_price": 185000,
+        "max_sale_price": 185000
+      },
+      "rank": 3
+    }
+  ],
+  "Wireless Chargers": [
+    {
+      "handle": "green-lion-gan-65w-multi-port-travel-adapter",
+      "title": "Green Lion GaN 65W Multi-Port Travel Adapter",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3813bdf2-ef52-46b9-8aa4-c293c0734f0c.jpg?v=1754754721",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Adapters & Chargers",
+        "Computer Accessories",
+        "Green Lion",
+        "Office",
+        "Phone Accessories",
+        "Phone Chargers",
+        "Wireless Chargers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 350000,
+            "sale_price": 290000,
+            "percentage_off": 17
+          }
+        ],
+        "min_regular_price": 350000,
+        "max_regular_price": 350000,
+        "min_sale_price": 290000,
+        "max_sale_price": 290000
+      },
+      "rank": 1
+    },
+    {
+      "handle": "green-lion-mouse-pad-with-wireless-charger",
+      "title": "Green Lion Mouse Pad with Wireless Charger",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1e3bd37e-62d8-4170-a8ed-e20eceeefdf3.jpg?v=1755549275",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Phone Accessories",
+        "Phone Chargers",
+        "Wireless Chargers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 180000,
+            "sale_price": 145000,
+            "percentage_off": 19
+          }
+        ],
+        "min_regular_price": 180000,
+        "max_regular_price": 180000,
+        "min_sale_price": 145000,
+        "max_sale_price": 145000
+      },
+      "rank": 2
+    },
+    {
+      "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
+      "title": "Green Lion Power Trio™ – 3-in-1 Magnetic Wireless Charger",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ee366daa-24a3-46b9-9846-910d007df480.jpg?v=1749641860",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Phone Accessories",
+        "Phone Chargers",
         "Wireless Chargers"
       ],
       "pricing": {
@@ -7960,6 +8130,62 @@
         "max_sale_price": 375000
       },
       "rank": 23
+    }
+  ],
+  "Keyboards": [
+    {
+      "handle": "keyfold-pro-foldable-bluetooth-keyboard",
+      "title": "Keyfold Pro - Foldable Bluetooth Keyboard",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_03e0123a-e5b8-4d65-a9b0-e76114fc9eb2.jpg?v=1755880560",
+      "units_sold": 1,
+      "revenue": 155000,
+      "tags": [
+        "Computer Accessories",
+        "Keyboards",
+        "Phone Accessories"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 220000,
+            "sale_price": 155000,
+            "percentage_off": 30
+          }
+        ],
+        "min_regular_price": 220000,
+        "max_regular_price": 220000,
+        "min_sale_price": 155000,
+        "max_sale_price": 155000
+      },
+      "rank": 1
+    },
+    {
+      "handle": "keyfold-pro-2-foldable-bluetooth-keyboard",
+      "title": "Keyfold Pro 2 - Foldable Bluetooth Keyboard",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f14edf69-1add-47c3-bd91-4eae73628f34.jpg?v=1755880560",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Keyboards",
+        "Phone Accessories"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 220000,
+            "sale_price": 155000,
+            "percentage_off": 30
+          }
+        ],
+        "min_regular_price": 220000,
+        "max_regular_price": 220000,
+        "min_sale_price": 155000,
+        "max_sale_price": 155000
+      },
+      "rank": 2
     }
   ],
   "Gaming": [
@@ -9316,6 +9542,7 @@
       "tags": [
         "Phone Accessories",
         "Samsung",
+        "Smart Tags",
         "Travel"
       ],
       "pricing": {
