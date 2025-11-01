@@ -28,6 +28,58 @@
     "rank": 1
   },
   {
+    "handle": "dji-osmo-mobile-7-3-axis-smartphone-gimbal",
+    "title": "DJI Osmo Mobile 7 – 3-Axis Smartphone Gimbal",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0fc5b7e0-8030-4d7a-82f8-8b00ad2ddc83.jpg?v=1761979094",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "DJI",
+      "Gimbals"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 630000,
+          "sale_price": 560000,
+          "percentage_off": 11
+        }
+      ],
+      "min_regular_price": 630000,
+      "max_regular_price": 630000,
+      "min_sale_price": 560000,
+      "max_sale_price": 560000
+    },
+    "rank": 2
+  },
+  {
+    "handle": "dji-osmo-mobile-7p-foldable-3-axis-smartphone-gimbal",
+    "title": "DJI Osmo Mobile 7P – Foldable 3-Axis Smartphone Gimbal",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ef4e00e6-ae54-4d0c-bd49-a29040c9476c.jpg?v=1761978126",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "DJI",
+      "Gimbals"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 670000,
+          "sale_price": 590000,
+          "percentage_off": 12
+        }
+      ],
+      "min_regular_price": 670000,
+      "max_regular_price": 670000,
+      "min_sale_price": 590000,
+      "max_sale_price": 590000
+    },
+    "rank": 3
+  },
+  {
     "handle": "dji-osmo-mobile-se-gimbal",
     "title": "DJI Osmo Mobile SE Gimbal",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9823c958-8d37-4036-8036-f0f158f8c62c.jpg?v=1756623097",
@@ -52,7 +104,7 @@
       "min_sale_price": 495000,
       "max_sale_price": 495000
     },
-    "rank": 2
+    "rank": 4
   },
   {
     "handle": "dji-osmo-pocket-3-creator-combo",
@@ -81,7 +133,7 @@
       "min_sale_price": 3250000,
       "max_sale_price": 3250000
     },
-    "rank": 3
+    "rank": 5
   },
   {
     "handle": "green-lion-auto-track-gimbal-stabilizer",
@@ -109,7 +161,7 @@
       "min_sale_price": 165000,
       "max_sale_price": 165000
     },
-    "rank": 4
+    "rank": 6
   },
   {
     "handle": "green-lion-new-york-gimbal-smart-face-tracking",
@@ -139,7 +191,33 @@
       "min_sale_price": 425000,
       "max_sale_price": 425000
     },
-    "rank": 5
+    "rank": 7
+  },
+  {
+    "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light-1",
+    "title": "Porodo 3-Axis Gimbal Stabilizer with Magnetic Fill Light",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_24328fea-0ca7-42c9-8709-2929809a61c5.jpg?v=1761977575",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Gimbals",
+      "Porodo"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 330000,
+          "sale_price": 295000,
+          "percentage_off": 11
+        }
+      ],
+      "min_regular_price": 330000,
+      "max_regular_price": 330000,
+      "min_sale_price": 295000,
+      "max_sale_price": 295000
+    },
+    "rank": 8
   },
   {
     "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
@@ -169,7 +247,7 @@
       "min_sale_price": 315000,
       "max_sale_price": 315000
     },
-    "rank": 6
+    "rank": 9
   },
   {
     "handle": "porodo-quadbase-gimbal-stabilizer",
@@ -199,6 +277,6 @@
       "min_sale_price": 175000,
       "max_sale_price": 175000
     },
-    "rank": 7
+    "rank": 10
   }
 ]
