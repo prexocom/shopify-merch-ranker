@@ -161,6 +161,20 @@
     "score": 0.1
   },
   {
+    "handle": "dji-osmo-mobile-7-3-axis-smartphone-gimbal",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "dji-osmo-mobile-7p-foldable-3-axis-smartphone-gimbal",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
     "handle": "dji-osmo-mobile-se-gimbal",
     "in_stock": true,
     "units_sold": 0,
@@ -701,6 +715,13 @@
   },
   {
     "handle": "oraimo-soundflow-50w-wireless-speaker",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light-1",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
