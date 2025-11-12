@@ -7212,6 +7212,32 @@
         "max_sale_price": 185000
       },
       "rank": 3
+    },
+    {
+      "handle": "luminocore-4-in-1-wireless-charging-station",
+      "title": "LuminoCore 4-in-1 Wireless Charging Station",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0686973e-725d-45da-bcb9-e81fe2b3376a.jpg?v=1762886136",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Phone Chargers",
+        "Wireless Chargers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 390000,
+            "sale_price": 325000,
+            "percentage_off": 17
+          }
+        ],
+        "min_regular_price": 390000,
+        "max_regular_price": 390000,
+        "min_sale_price": 325000,
+        "max_sale_price": 325000
+      },
+      "rank": 4
     }
   ],
   "Wireless Chargers": [
@@ -7302,6 +7328,32 @@
         "max_sale_price": 185000
       },
       "rank": 3
+    },
+    {
+      "handle": "luminocore-4-in-1-wireless-charging-station",
+      "title": "LuminoCore 4-in-1 Wireless Charging Station",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0686973e-725d-45da-bcb9-e81fe2b3376a.jpg?v=1762886136",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Phone Chargers",
+        "Wireless Chargers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 390000,
+            "sale_price": 325000,
+            "percentage_off": 17
+          }
+        ],
+        "min_regular_price": 390000,
+        "max_regular_price": 390000,
+        "min_sale_price": 325000,
+        "max_sale_price": 325000
+      },
+      "rank": 4
     }
   ],
   "Oral Care": [
