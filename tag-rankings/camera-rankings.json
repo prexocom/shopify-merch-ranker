@@ -177,7 +177,7 @@
   {
     "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
     "title": "TELESIN Magnetic Funshot Camera Phone Grip Holder",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a43eadc5-3828-4b6f-9bbe-3f23de21e528.jpg?v=1754569330",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f58f32b3-feec-4dd2-a490-9c1e63ce346d.jpg?v=1762981511",
     "units_sold": 0,
     "revenue": 0,
     "tags": [
@@ -188,15 +188,15 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 230000,
-          "sale_price": 175000,
-          "percentage_off": 24
+          "regular_price": 250000,
+          "sale_price": 185000,
+          "percentage_off": 26
         }
       ],
-      "min_regular_price": 230000,
-      "max_regular_price": 230000,
-      "min_sale_price": 175000,
-      "max_sale_price": 175000
+      "min_regular_price": 250000,
+      "max_regular_price": 250000,
+      "min_sale_price": 185000,
+      "max_sale_price": 185000
     },
     "rank": 7
   }
