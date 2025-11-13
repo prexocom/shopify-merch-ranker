@@ -143,6 +143,60 @@
     "rank": 5
   },
   {
+    "handle": "porodo-frostwave-portable-cooling-fan",
+    "title": "Porodo Frostwave Portable Cooling Fan",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d0923c2f-5b10-46ba-9ea2-1c9a6c13887e.jpg?v=1763020563",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Porodo",
+      "Portable Fans",
+      "Travel"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 110000,
+          "sale_price": 85000,
+          "percentage_off": 23
+        }
+      ],
+      "min_regular_price": 110000,
+      "max_regular_price": 110000,
+      "min_sale_price": 85000,
+      "max_sale_price": 85000
+    },
+    "rank": 6
+  },
+  {
+    "handle": "porodo-lifestyle-air-boost-turbo-fan",
+    "title": "Porodo Lifestyle Air Boost Turbo Fan",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1118c021-784d-4111-85c5-d7beeaf38ee7.jpg?v=1763021178",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Porodo",
+      "Portable Fans",
+      "Travel"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 130000,
+          "sale_price": 95000,
+          "percentage_off": 27
+        }
+      ],
+      "min_regular_price": 130000,
+      "max_regular_price": 130000,
+      "min_sale_price": 95000,
+      "max_sale_price": 95000
+    },
+    "rank": 7
+  },
+  {
     "handle": "porodo-quadbase-gimbal-stabilizer",
     "title": "Porodo QuadBase Gimbal Stabilizer",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_8184ec40-15b5-4dda-8826-2552adb552bb.webp?v=1754598461",
@@ -170,7 +224,7 @@
       "min_sale_price": 175000,
       "max_sale_price": 175000
     },
-    "rank": 6
+    "rank": 8
   },
   {
     "handle": "prexolingo™-smart-voice-translator-supports-30-languages",
@@ -197,7 +251,7 @@
       "min_sale_price": 380000,
       "max_sale_price": 380000
     },
-    "rank": 7
+    "rank": 9
   },
   {
     "handle": "prexovision-translate™-ai-smart-glasses-with-real-time-translation",
@@ -225,7 +279,7 @@
       "min_sale_price": 450000,
       "max_sale_price": 450000
     },
-    "rank": 8
+    "rank": 10
   },
   {
     "handle": "samsung-galaxy-smarttag2",
@@ -253,7 +307,7 @@
       "min_sale_price": 137000,
       "max_sale_price": 137000
     },
-    "rank": 9
+    "rank": 11
   },
   {
     "handle": "vaultcarry-anti-theft-travel-crossbody-bag",
@@ -278,6 +332,6 @@
       "min_sale_price": 125000,
       "max_sale_price": 125000
     },
-    "rank": 10
+    "rank": 12
   }
 ]
