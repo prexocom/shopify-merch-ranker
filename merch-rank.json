@@ -7,6 +7,13 @@
     "score": 1
   },
   {
+    "handle": "flexstride™-portable-walking-running-treadmill",
+    "in_stock": true,
+    "units_sold": 1,
+    "revenue": 1290000,
+    "score": 0.1754
+  },
+  {
     "handle": "prexobeam-mini-portable-smart-projector",
     "in_stock": true,
     "units_sold": 2,
@@ -21,6 +28,13 @@
     "score": 0.1287
   },
   {
+    "handle": "keyfold-pro-foldable-bluetooth-keyboard",
+    "in_stock": true,
+    "units_sold": 2,
+    "revenue": 310000,
+    "score": 0.1254
+  },
+  {
     "handle": "ufo-raindrop-humidifier",
     "in_stock": true,
     "units_sold": 2,
@@ -33,13 +47,6 @@
     "units_sold": 1,
     "revenue": 180000,
     "score": 0.1141
-  },
-  {
-    "handle": "keyfold-pro-foldable-bluetooth-keyboard",
-    "in_stock": true,
-    "units_sold": 1,
-    "revenue": 155000,
-    "score": 0.1127
   },
   {
     "handle": "bonfire-humidifier-1",
@@ -211,13 +218,6 @@
   },
   {
     "handle": "portable-camping-stove",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "flexstride™-portable-walking-running-treadmill",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
