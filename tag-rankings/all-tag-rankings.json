@@ -4,8 +4,8 @@
       "handle": "keyfold-pro-foldable-bluetooth-keyboard",
       "title": "Keyfold Pro - Foldable Bluetooth Keyboard",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_03e0123a-e5b8-4d65-a9b0-e76114fc9eb2.jpg?v=1755880560",
-      "units_sold": 1,
-      "revenue": 155000,
+      "units_sold": 2,
+      "revenue": 310000,
       "tags": [
         "Computer Accessories",
         "Keyboards",
@@ -1246,8 +1246,8 @@
       "handle": "keyfold-pro-foldable-bluetooth-keyboard",
       "title": "Keyfold Pro - Foldable Bluetooth Keyboard",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_03e0123a-e5b8-4d65-a9b0-e76114fc9eb2.jpg?v=1755880560",
-      "units_sold": 1,
-      "revenue": 155000,
+      "units_sold": 2,
+      "revenue": 310000,
       "tags": [
         "Computer Accessories",
         "Keyboards",
@@ -4687,6 +4687,31 @@
   ],
   "Health & Fitness": [
     {
+      "handle": "flexstride™-portable-walking-running-treadmill",
+      "title": "FlexStride™ – Portable Walking & Running Treadmill",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9c0f7981-3e75-4e27-ba0a-3837398f5408.jpg?v=1754336069",
+      "units_sold": 1,
+      "revenue": 1290000,
+      "tags": [
+        "Health & Fitness"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 1700000,
+            "sale_price": 1290000,
+            "percentage_off": 24
+          }
+        ],
+        "min_regular_price": 1700000,
+        "max_regular_price": 1700000,
+        "min_sale_price": 1290000,
+        "max_sale_price": 1290000
+      },
+      "rank": 1
+    },
+    {
       "handle": "beatbox-pro™-smart-music-boxing-trainer",
       "title": "BeatBox Pro™ – Smart Music Boxing Trainer",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_93dad83f-07a9-4d86-90bb-e32cf8f6e5fd.webp?v=1751911224",
@@ -4709,7 +4734,7 @@
         "min_sale_price": 285000,
         "max_sale_price": 285000
       },
-      "rank": 1
+      "rank": 2
     },
     {
       "handle": "prexo-dunkmaster-outdoor-adjustable-basketball-hoop-system",
@@ -4734,7 +4759,7 @@
         "min_sale_price": 1430000,
         "max_sale_price": 1430000
       },
-      "rank": 2
+      "rank": 3
     },
     {
       "handle": "eufy-by-anker-smart-scale-p3",
@@ -4759,31 +4784,6 @@
         "max_regular_price": 390000,
         "min_sale_price": 340000,
         "max_sale_price": 340000
-      },
-      "rank": 3
-    },
-    {
-      "handle": "flexstride™-portable-walking-running-treadmill",
-      "title": "FlexStride™ – Portable Walking & Running Treadmill",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9c0f7981-3e75-4e27-ba0a-3837398f5408.jpg?v=1754336069",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Health & Fitness"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 1700000,
-            "sale_price": 1450000,
-            "percentage_off": 15
-          }
-        ],
-        "min_regular_price": 1700000,
-        "max_regular_price": 1700000,
-        "min_sale_price": 1450000,
-        "max_sale_price": 1450000
       },
       "rank": 4
     },
@@ -8373,8 +8373,8 @@
       "handle": "keyfold-pro-foldable-bluetooth-keyboard",
       "title": "Keyfold Pro - Foldable Bluetooth Keyboard",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_03e0123a-e5b8-4d65-a9b0-e76114fc9eb2.jpg?v=1755880560",
-      "units_sold": 1,
-      "revenue": 155000,
+      "units_sold": 2,
+      "revenue": 310000,
       "tags": [
         "Computer Accessories",
         "Keyboards",
