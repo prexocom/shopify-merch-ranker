@@ -25,6 +25,31 @@
     "rank": 1
   },
   {
+    "handle": "⭐-galaxy-plus-113pcs-stainless-steel-cookware-set",
+    "title": "⭐ Galaxy Plus 113pcs Stainless Steel Cookware Set",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b4fe2b58-b039-487d-88ad-06c7e958a771.webp?v=1763181157",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Kitchen"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 880000,
+          "sale_price": 695000,
+          "percentage_off": 21
+        }
+      ],
+      "min_regular_price": 880000,
+      "max_regular_price": 880000,
+      "min_sale_price": 695000,
+      "max_sale_price": 695000
+    },
+    "rank": 2
+  },
+  {
     "handle": "120-can-mini-beverage-refrigerator",
     "title": "🧊 120-Can Mini Beverage Refrigerator",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_502b238c-7a86-401e-8c52-c079908a7ff3.jpg?v=1754433862",
@@ -48,6 +73,6 @@
       "min_sale_price": 1740000,
       "max_sale_price": 1740000
     },
-    "rank": 2
+    "rank": 3
   }
 ]
