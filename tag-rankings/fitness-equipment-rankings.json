@@ -1,0 +1,28 @@
+[
+  {
+    "handle": "flexstride™-portable-walking-running-treadmill",
+    "title": "FlexStride™ – Portable Walking & Running Treadmill",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/ErgonomistWalkingPad_0004_WalkingPadHeroImage.webp?v=1763245491",
+    "units_sold": 9,
+    "revenue": 10710000,
+    "tags": [
+      "Fitness Equipment",
+      "Health & Fitness"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 1700000,
+          "sale_price": 990000,
+          "percentage_off": 42
+        }
+      ],
+      "min_regular_price": 1700000,
+      "max_regular_price": 1700000,
+      "min_sale_price": 990000,
+      "max_sale_price": 990000
+    },
+    "rank": 1
+  }
+]
