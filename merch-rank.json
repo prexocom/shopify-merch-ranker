@@ -9,9 +9,9 @@
   {
     "handle": "flexstride™-portable-walking-running-treadmill",
     "in_stock": true,
-    "units_sold": 4,
-    "revenue": 5160000,
-    "score": 0.4014
+    "units_sold": 6,
+    "revenue": 7740000,
+    "score": 0.5521
   },
   {
     "handle": "prexobeam-mini-portable-smart-projector",
@@ -1072,6 +1072,13 @@
   },
   {
     "handle": "zero-gravity-full-body-massage-chair",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "⭐-galaxy-plus-113pcs-stainless-steel-cookware-set",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
