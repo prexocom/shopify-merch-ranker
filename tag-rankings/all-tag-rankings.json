@@ -4701,14 +4701,14 @@
           {
             "title": "Default Title",
             "regular_price": 1700000,
-            "sale_price": 990000,
-            "percentage_off": 42
+            "sale_price": 1290000,
+            "percentage_off": 24
           }
         ],
         "min_regular_price": 1700000,
         "max_regular_price": 1700000,
-        "min_sale_price": 990000,
-        "max_sale_price": 990000
+        "min_sale_price": 1290000,
+        "max_sale_price": 1290000
       },
       "rank": 1
     },
@@ -4716,8 +4716,8 @@
       "handle": "beatbox-pro™-smart-music-boxing-trainer",
       "title": "BeatBox Pro™ – Smart Music Boxing Trainer",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_93dad83f-07a9-4d86-90bb-e32cf8f6e5fd.webp?v=1751911224",
-      "units_sold": 16,
-      "revenue": 4560000,
+      "units_sold": 21,
+      "revenue": 5985000,
       "tags": [
         "Fitness Equipment",
         "Health & Fitness"
@@ -4755,14 +4755,14 @@
           {
             "title": "Default Title",
             "regular_price": 1700000,
-            "sale_price": 990000,
-            "percentage_off": 42
+            "sale_price": 1290000,
+            "percentage_off": 24
           }
         ],
         "min_regular_price": 1700000,
         "max_regular_price": 1700000,
-        "min_sale_price": 990000,
-        "max_sale_price": 990000
+        "min_sale_price": 1290000,
+        "max_sale_price": 1290000
       },
       "rank": 1
     },
@@ -4770,8 +4770,8 @@
       "handle": "beatbox-pro™-smart-music-boxing-trainer",
       "title": "BeatBox Pro™ – Smart Music Boxing Trainer",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_93dad83f-07a9-4d86-90bb-e32cf8f6e5fd.webp?v=1751911224",
-      "units_sold": 16,
-      "revenue": 4560000,
+      "units_sold": 21,
+      "revenue": 5985000,
       "tags": [
         "Fitness Equipment",
         "Health & Fitness"
