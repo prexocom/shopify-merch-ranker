@@ -2,58 +2,58 @@
   {
     "handle": "flexstride™-portable-walking-running-treadmill",
     "in_stock": true,
-    "units_sold": 27,
-    "revenue": 29135000,
-    "score": 0.8125
+    "units_sold": 28,
+    "revenue": 30130000,
+    "score": 0.8167
   },
   {
     "handle": "lumifan-360-light-fan",
     "in_stock": true,
     "units_sold": 72,
     "revenue": 10873000,
-    "score": 0.6239
+    "score": 0.6165
   },
   {
     "handle": "beatbox-pro™-smart-music-boxing-trainer",
     "in_stock": true,
-    "units_sold": 33,
-    "revenue": 9405000,
-    "score": 0.4312
+    "units_sold": 38,
+    "revenue": 10830000,
+    "score": 0.474
   },
   {
     "handle": "prexobeam-mini-portable-smart-projector",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 620000,
-    "score": 0.1211
+    "score": 0.1207
   },
   {
     "handle": "keyfold-pro-foldable-bluetooth-keyboard",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 310000,
-    "score": 0.1147
+    "score": 0.1145
   },
   {
     "handle": "ufo-raindrop-humidifier",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 276000,
-    "score": 0.114
+    "score": 0.1138
   },
   {
     "handle": "solarsecure-360-full-color-night-vision-security-camera",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 445000,
-    "score": 0.1133
+    "score": 0.113
   },
   {
     "handle": "anker-soundcore-pyro-mini",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 180000,
-    "score": 0.1079
+    "score": 0.1078
   },
   {
     "handle": "bonfire-humidifier-1",
@@ -63,17 +63,17 @@
     "score": 0.1069
   },
   {
-    "handle": "swiftmop™-effortless-spray-cleaning-in-seconds",
-    "in_stock": true,
-    "units_sold": 1,
-    "revenue": 98000,
-    "score": 0.1062
-  },
-  {
     "handle": "green-lion-digital-luggage-scale-50-kg-max",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 95000,
+    "score": 0.1061
+  },
+  {
+    "handle": "swiftmop™-effortless-spray-cleaning-in-seconds",
+    "in_stock": true,
+    "units_sold": 1,
+    "revenue": 98000,
     "score": 0.1061
   },
   {
