@@ -3,8 +3,8 @@
     "handle": "beatbox-pro™-smart-music-boxing-trainer",
     "title": "BeatBox Pro™ – Smart Music Boxing Trainer",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_93dad83f-07a9-4d86-90bb-e32cf8f6e5fd.webp?v=1751911224",
-    "units_sold": 38,
-    "revenue": 10830000,
+    "units_sold": 41,
+    "revenue": 11685000,
     "tags": [
       "Fitness Equipment",
       "Health & Fitness"
@@ -29,8 +29,8 @@
     "handle": "flexstride™-portable-walking-running-treadmill",
     "title": "FlexStride™ – Portable Walking & Running Treadmill",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/ErgonomistWalkingPad_0004_WalkingPadHeroImage.webp?v=1763245491",
-    "units_sold": 28,
-    "revenue": 30130000,
+    "units_sold": 32,
+    "revenue": 35290000,
     "tags": [
       "Fitness Equipment",
       "Health & Fitness"
@@ -40,14 +40,14 @@
         {
           "title": "Default Title",
           "regular_price": 1700000,
-          "sale_price": 995000,
-          "percentage_off": 41
+          "sale_price": 1290000,
+          "percentage_off": 24
         }
       ],
       "min_regular_price": 1700000,
       "max_regular_price": 1700000,
-      "min_sale_price": 995000,
-      "max_sale_price": 995000
+      "min_sale_price": 1290000,
+      "max_sale_price": 1290000
     },
     "rank": 2
   },
@@ -182,31 +182,6 @@
     "rank": 7
   },
   {
-    "handle": "mini-exercise-stepper-pro",
-    "title": "Mini Exercise Stepper Pro",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a666cc7a-1981-4af9-b279-8bb026c050df.jpg?v=1758208131",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Health & Fitness"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 350000,
-          "sale_price": 215000,
-          "percentage_off": 39
-        }
-      ],
-      "min_regular_price": 350000,
-      "max_regular_price": 350000,
-      "min_sale_price": 215000,
-      "max_sale_price": 215000
-    },
-    "rank": 8
-  },
-  {
     "handle": "mini-exercise-stepper-with-resistance-bands",
     "title": "Mini Exercise Stepper with Resistance Bands",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9f981628-877f-499f-88b0-3dce21df58d4.jpg?v=1754743681",
@@ -220,14 +195,39 @@
         {
           "title": "Default Title",
           "regular_price": 350000,
-          "sale_price": 215000,
-          "percentage_off": 39
+          "sale_price": 245000,
+          "percentage_off": 30
         }
       ],
       "min_regular_price": 350000,
       "max_regular_price": 350000,
-      "min_sale_price": 215000,
-      "max_sale_price": 215000
+      "min_sale_price": 245000,
+      "max_sale_price": 245000
+    },
+    "rank": 8
+  },
+  {
+    "handle": "mini-exercise-stepper-pro",
+    "title": "Portable Exercise Stepper Pro",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a666cc7a-1981-4af9-b279-8bb026c050df.jpg?v=1758208131",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Health & Fitness"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 350000,
+          "sale_price": 245000,
+          "percentage_off": 30
+        }
+      ],
+      "min_regular_price": 350000,
+      "max_regular_price": 350000,
+      "min_sale_price": 245000,
+      "max_sale_price": 245000
     },
     "rank": 9
   },
@@ -295,14 +295,14 @@
         {
           "title": "Default Title",
           "regular_price": 5500000,
-          "sale_price": 4350000,
-          "percentage_off": 21
+          "sale_price": 4850000,
+          "percentage_off": 12
         }
       ],
       "min_regular_price": 5500000,
       "max_regular_price": 5500000,
-      "min_sale_price": 4350000,
-      "max_sale_price": 4350000
+      "min_sale_price": 4850000,
+      "max_sale_price": 4850000
     },
     "rank": 12
   }
