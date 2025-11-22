@@ -305,8 +305,8 @@
       "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
       "title": "3-in-1 Deluxe Baby Bassinet – Sleep, Soothe & Grow",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3.png?v=1763770477",
-      "units_sold": 0,
-      "revenue": 0,
+      "units_sold": 9,
+      "revenue": 3465000,
       "tags": [
         "Babies",
         "Home Decor"
@@ -356,6 +356,32 @@
       "rank": 1
     },
     {
+      "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
+      "title": "3-in-1 Deluxe Baby Bassinet – Sleep, Soothe & Grow",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3.png?v=1763770477",
+      "units_sold": 9,
+      "revenue": 3465000,
+      "tags": [
+        "Babies",
+        "Home Decor"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 440000,
+            "sale_price": 385000,
+            "percentage_off": 13
+          }
+        ],
+        "min_regular_price": 440000,
+        "max_regular_price": 440000,
+        "min_sale_price": 385000,
+        "max_sale_price": 385000
+      },
+      "rank": 2
+    },
+    {
       "handle": "ufo-raindrop-humidifier",
       "title": "Aquamist Raindrop Humidifier",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/S9cd93e459b7c4e9e939ad6a6cd748d6av.jpg?v=1749642028",
@@ -379,7 +405,7 @@
         "min_sale_price": 138000,
         "max_sale_price": 138000
       },
-      "rank": 2
+      "rank": 3
     },
     {
       "handle": "bonfire-humidifier-1",
@@ -404,32 +430,6 @@
         "max_regular_price": 180000,
         "min_sale_price": 135000,
         "max_sale_price": 135000
-      },
-      "rank": 3
-    },
-    {
-      "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
-      "title": "3-in-1 Deluxe Baby Bassinet – Sleep, Soothe & Grow",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3.png?v=1763770477",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Babies",
-        "Home Decor"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 440000,
-            "sale_price": 385000,
-            "percentage_off": 13
-          }
-        ],
-        "min_regular_price": 440000,
-        "max_regular_price": 440000,
-        "min_sale_price": 385000,
-        "max_sale_price": 385000
       },
       "rank": 4
     },
@@ -4744,8 +4744,8 @@
       "handle": "beatbox-pro™-smart-music-boxing-trainer",
       "title": "BeatBox Pro™ – Smart Music Boxing Trainer",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_93dad83f-07a9-4d86-90bb-e32cf8f6e5fd.webp?v=1751911224",
-      "units_sold": 50,
-      "revenue": 14250000,
+      "units_sold": 55,
+      "revenue": 15675000,
       "tags": [
         "Fitness Equipment",
         "Health & Fitness"
@@ -4770,8 +4770,8 @@
       "handle": "flexstride™-portable-walking-running-treadmill",
       "title": "FlexStride™ – Portable Walking & Running Treadmill",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/ErgonomistWalkingPad_0004_WalkingPadHeroImage.webp?v=1763245491",
-      "units_sold": 36,
-      "revenue": 40450000,
+      "units_sold": 37,
+      "revenue": 41740000,
       "tags": [
         "Fitness Equipment",
         "Health & Fitness"
@@ -4798,8 +4798,8 @@
       "handle": "beatbox-pro™-smart-music-boxing-trainer",
       "title": "BeatBox Pro™ – Smart Music Boxing Trainer",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_93dad83f-07a9-4d86-90bb-e32cf8f6e5fd.webp?v=1751911224",
-      "units_sold": 50,
-      "revenue": 14250000,
+      "units_sold": 55,
+      "revenue": 15675000,
       "tags": [
         "Fitness Equipment",
         "Health & Fitness"
@@ -4824,8 +4824,8 @@
       "handle": "flexstride™-portable-walking-running-treadmill",
       "title": "FlexStride™ – Portable Walking & Running Treadmill",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/ErgonomistWalkingPad_0004_WalkingPadHeroImage.webp?v=1763245491",
-      "units_sold": 36,
-      "revenue": 40450000,
+      "units_sold": 37,
+      "revenue": 41740000,
       "tags": [
         "Fitness Equipment",
         "Health & Fitness"
@@ -4845,6 +4845,31 @@
         "max_sale_price": 1290000
       },
       "rank": 2
+    },
+    {
+      "handle": "mini-exercise-stepper-pro",
+      "title": "Portable Exercise Stepper Pro",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a666cc7a-1981-4af9-b279-8bb026c050df.jpg?v=1758208131",
+      "units_sold": 1,
+      "revenue": 245000,
+      "tags": [
+        "Health & Fitness"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 350000,
+            "sale_price": 245000,
+            "percentage_off": 30
+          }
+        ],
+        "min_regular_price": 350000,
+        "max_regular_price": 350000,
+        "min_sale_price": 245000,
+        "max_sale_price": 245000
+      },
+      "rank": 3
     },
     {
       "handle": "prexo-dunkmaster-outdoor-adjustable-basketball-hoop-system",
@@ -4869,7 +4894,7 @@
         "min_sale_price": 1430000,
         "max_sale_price": 1430000
       },
-      "rank": 3
+      "rank": 4
     },
     {
       "handle": "eufy-by-anker-smart-scale-p3",
@@ -4895,7 +4920,7 @@
         "min_sale_price": 340000,
         "max_sale_price": 340000
       },
-      "rank": 4
+      "rank": 5
     },
     {
       "handle": "green-lion-digital-weight-scale",
@@ -4921,7 +4946,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 5
+      "rank": 6
     },
     {
       "handle": "green-lion-smart-body-scale-8-electrode-advanced-analysis",
@@ -4947,7 +4972,7 @@
         "min_sale_price": 245000,
         "max_sale_price": 245000
       },
-      "rank": 6
+      "rank": 7
     },
     {
       "handle": "green-lion-smart-health-tracker-ring",
@@ -4974,37 +4999,12 @@
         "min_sale_price": 155000,
         "max_sale_price": 155000
       },
-      "rank": 7
+      "rank": 8
     },
     {
       "handle": "mini-exercise-stepper-with-resistance-bands",
       "title": "Mini Exercise Stepper with Resistance Bands",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9f981628-877f-499f-88b0-3dce21df58d4.jpg?v=1754743681",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Health & Fitness"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 350000,
-            "sale_price": 245000,
-            "percentage_off": 30
-          }
-        ],
-        "min_regular_price": 350000,
-        "max_regular_price": 350000,
-        "min_sale_price": 245000,
-        "max_sale_price": 245000
-      },
-      "rank": 8
-    },
-    {
-      "handle": "mini-exercise-stepper-pro",
-      "title": "Portable Exercise Stepper Pro",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a666cc7a-1981-4af9-b279-8bb026c050df.jpg?v=1758208131",
       "units_sold": 0,
       "revenue": 0,
       "tags": [
