@@ -16,9 +16,9 @@
   {
     "handle": "beatbox-pro™-smart-music-boxing-trainer",
     "in_stock": true,
-    "units_sold": 47,
-    "revenue": 13395000,
-    "score": 0.4945
+    "units_sold": 50,
+    "revenue": 14250000,
+    "score": 0.5197
   },
   {
     "handle": "prexobeam-mini-portable-smart-projector",
@@ -70,6 +70,13 @@
     "score": 0.1056
   },
   {
+    "handle": "porodo-lifestyle-air-boost-turbo-fan",
+    "in_stock": true,
+    "units_sold": 1,
+    "revenue": 95000,
+    "score": 0.1056
+  },
+  {
     "handle": "swiftmop™-effortless-spray-cleaning-in-seconds",
     "in_stock": true,
     "units_sold": 1,
@@ -78,6 +85,13 @@
   },
   {
     "handle": "14-quad-monitor-laptop-screen-extender",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
@@ -743,13 +757,6 @@
   },
   {
     "handle": "porodo-frostwave-portable-cooling-fan",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "porodo-lifestyle-air-boost-turbo-fan",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
