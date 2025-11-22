@@ -2,51 +2,65 @@
   {
     "handle": "flexstride™-portable-walking-running-treadmill",
     "in_stock": true,
-    "units_sold": 36,
-    "revenue": 40450000,
-    "score": 0.85
+    "units_sold": 37,
+    "revenue": 41740000,
+    "score": 0.8542
   },
   {
     "handle": "lumifan-360-light-fan",
     "in_stock": true,
     "units_sold": 72,
     "revenue": 10873000,
-    "score": 0.5613
+    "score": 0.5563
   },
   {
     "handle": "beatbox-pro™-smart-music-boxing-trainer",
     "in_stock": true,
-    "units_sold": 50,
-    "revenue": 14250000,
-    "score": 0.5197
+    "units_sold": 55,
+    "revenue": 15675000,
+    "score": 0.5545
+  },
+  {
+    "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
+    "in_stock": true,
+    "units_sold": 9,
+    "revenue": 3465000,
+    "score": 0.1873
   },
   {
     "handle": "prexobeam-mini-portable-smart-projector",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 620000,
-    "score": 0.1175
+    "score": 0.1172
   },
   {
     "handle": "keyfold-pro-foldable-bluetooth-keyboard",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 310000,
-    "score": 0.1129
+    "score": 0.1128
   },
   {
     "handle": "ufo-raindrop-humidifier",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 276000,
-    "score": 0.1124
+    "score": 0.1123
   },
   {
     "handle": "solarsecure-360-full-color-night-vision-security-camera",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 445000,
-    "score": 0.1108
+    "score": 0.1106
+  },
+  {
+    "handle": "mini-exercise-stepper-pro",
+    "in_stock": true,
+    "units_sold": 1,
+    "revenue": 245000,
+    "score": 0.1077
   },
   {
     "handle": "anker-soundcore-pyro-mini",
@@ -60,21 +74,7 @@
     "in_stock": true,
     "units_sold": 1,
     "revenue": 135000,
-    "score": 0.1062
-  },
-  {
-    "handle": "green-lion-digital-luggage-scale-50-kg-max",
-    "in_stock": true,
-    "units_sold": 1,
-    "revenue": 95000,
-    "score": 0.1056
-  },
-  {
-    "handle": "porodo-lifestyle-air-boost-turbo-fan",
-    "in_stock": true,
-    "units_sold": 1,
-    "revenue": 95000,
-    "score": 0.1056
+    "score": 0.1061
   },
   {
     "handle": "swiftmop™-effortless-spray-cleaning-in-seconds",
@@ -84,14 +84,21 @@
     "score": 0.1056
   },
   {
-    "handle": "14-quad-monitor-laptop-screen-extender",
+    "handle": "green-lion-digital-luggage-scale-50-kg-max",
     "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
+    "units_sold": 1,
+    "revenue": 95000,
+    "score": 0.1055
   },
   {
-    "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
+    "handle": "porodo-lifestyle-air-boost-turbo-fan",
+    "in_stock": true,
+    "units_sold": 1,
+    "revenue": 95000,
+    "score": 0.1055
+  },
+  {
+    "handle": "14-quad-monitor-laptop-screen-extender",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
@@ -771,13 +778,6 @@
   },
   {
     "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "mini-exercise-stepper-pro",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
