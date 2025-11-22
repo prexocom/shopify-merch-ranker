@@ -26,6 +26,33 @@
     "rank": 1
   },
   {
+    "handle": "porodo-lifestyle-air-boost-turbo-fan",
+    "title": "Porodo Lifestyle Air Boost Turbo Fan",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1118c021-784d-4111-85c5-d7beeaf38ee7.jpg?v=1763021178",
+    "units_sold": 1,
+    "revenue": 95000,
+    "tags": [
+      "Porodo",
+      "Portable Fans",
+      "Travel"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 130000,
+          "sale_price": 95000,
+          "percentage_off": 27
+        }
+      ],
+      "min_regular_price": 130000,
+      "max_regular_price": 130000,
+      "min_sale_price": 95000,
+      "max_sale_price": 95000
+    },
+    "rank": 2
+  },
+  {
     "handle": "apple-air-tag",
     "title": "Apple Air Tag",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bb51b04a-a8e6-4c95-a2b9-271f93c5a509.jpg?v=1754578643",
@@ -51,7 +78,7 @@
       "min_sale_price": 185000,
       "max_sale_price": 185000
     },
-    "rank": 2
+    "rank": 3
   },
   {
     "handle": "dji-osmo-pocket-3-creator-combo",
@@ -80,7 +107,7 @@
       "min_sale_price": 3250000,
       "max_sale_price": 3250000
     },
-    "rank": 3
+    "rank": 4
   },
   {
     "handle": "green-lion-new-york-gimbal-smart-face-tracking",
@@ -110,7 +137,7 @@
       "min_sale_price": 425000,
       "max_sale_price": 425000
     },
-    "rank": 4
+    "rank": 5
   },
   {
     "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
@@ -140,7 +167,7 @@
       "min_sale_price": 315000,
       "max_sale_price": 315000
     },
-    "rank": 5
+    "rank": 6
   },
   {
     "handle": "porodo-frostwave-portable-cooling-fan",
@@ -166,33 +193,6 @@
       "max_regular_price": 110000,
       "min_sale_price": 85000,
       "max_sale_price": 85000
-    },
-    "rank": 6
-  },
-  {
-    "handle": "porodo-lifestyle-air-boost-turbo-fan",
-    "title": "Porodo Lifestyle Air Boost Turbo Fan",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1118c021-784d-4111-85c5-d7beeaf38ee7.jpg?v=1763021178",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Porodo",
-      "Portable Fans",
-      "Travel"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 130000,
-          "sale_price": 95000,
-          "percentage_off": 27
-        }
-      ],
-      "min_regular_price": 130000,
-      "max_regular_price": 130000,
-      "min_sale_price": 95000,
-      "max_sale_price": 95000
     },
     "rank": 7
   },

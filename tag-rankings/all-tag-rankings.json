@@ -300,6 +300,34 @@
       "rank": 11
     }
   ],
+  "Babies": [
+    {
+      "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
+      "title": "3-in-1 Deluxe Baby Bassinet – Sleep, Soothe & Grow",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3.png?v=1763770477",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Babies",
+        "Home Decor"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 440000,
+            "sale_price": 385000,
+            "percentage_off": 13
+          }
+        ],
+        "min_regular_price": 440000,
+        "max_regular_price": 440000,
+        "min_sale_price": 385000,
+        "max_sale_price": 385000
+      },
+      "rank": 1
+    }
+  ],
   "Home Decor": [
     {
       "handle": "lumifan-360-light-fan",
@@ -380,6 +408,32 @@
       "rank": 3
     },
     {
+      "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
+      "title": "3-in-1 Deluxe Baby Bassinet – Sleep, Soothe & Grow",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3.png?v=1763770477",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Babies",
+        "Home Decor"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 440000,
+            "sale_price": 385000,
+            "percentage_off": 13
+          }
+        ],
+        "min_regular_price": 440000,
+        "max_regular_price": 440000,
+        "min_sale_price": 385000,
+        "max_sale_price": 385000
+      },
+      "rank": 4
+    },
+    {
       "handle": "absorbent-quick-dry-bath-mat",
       "title": "Absorbent Quick Dry Door Bath Mat",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_97dc856a-8e8e-4653-984b-2554684e96a6.jpg?v=1760417135",
@@ -402,7 +456,7 @@
         "min_sale_price": 65000,
         "max_sale_price": 65000
       },
-      "rank": 4
+      "rank": 5
     },
     {
       "handle": "astronaut-galaxy-projector-your-cosmic-escape",
@@ -428,7 +482,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 5
+      "rank": 6
     },
     {
       "handle": "fireplace-flame-air-humidifier",
@@ -454,7 +508,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 6
+      "rank": 7
     },
     {
       "handle": "galaxy-star-nebula-projector-with-bluetooth-speaker",
@@ -480,7 +534,7 @@
         "min_sale_price": 150000,
         "max_sale_price": 150000
       },
-      "rank": 7
+      "rank": 8
     },
     {
       "handle": "glowmist™-fireplace-humidifier",
@@ -506,7 +560,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 8
+      "rank": 9
     },
     {
       "handle": "hexagon-modular-touch-lights-shape-your-glow",
@@ -532,7 +586,7 @@
         "min_sale_price": 195000,
         "max_sale_price": 195000
       },
-      "rank": 9
+      "rank": 10
     },
     {
       "handle": "inflatable-air-sofa-air-lounger",
@@ -557,7 +611,7 @@
         "min_sale_price": 165000,
         "max_sale_price": 165000
       },
-      "rank": 10
+      "rank": 11
     },
     {
       "handle": "jellyfish-humidifier",
@@ -583,7 +637,7 @@
         "min_sale_price": 155000,
         "max_sale_price": 155000
       },
-      "rank": 11
+      "rank": 12
     },
     {
       "handle": "livtab-smart-coffee-table-built-in-fridge-wireless-charging-speakers",
@@ -608,7 +662,7 @@
         "min_sale_price": 3500000,
         "max_sale_price": 3500000
       },
-      "rank": 12
+      "rank": 13
     },
     {
       "handle": "modern-led-wall-art-with-built-in-planter",
@@ -635,7 +689,7 @@
         "min_sale_price": 1950000,
         "max_sale_price": 1950000
       },
-      "rank": 13
+      "rank": 14
     },
     {
       "handle": "volcano-essential-oil-diffuser",
@@ -661,7 +715,7 @@
         "min_sale_price": 135000,
         "max_sale_price": 135000
       },
-      "rank": 14
+      "rank": 15
     },
     {
       "handle": "quicksand-painting-night-light",
@@ -686,7 +740,7 @@
         "min_sale_price": 195000,
         "max_sale_price": 195000
       },
-      "rank": 15
+      "rank": 16
     },
     {
       "handle": "sandsara-mini-kinetic-sand-painting-sculpture",
@@ -713,7 +767,7 @@
         "min_sale_price": 890000,
         "max_sale_price": 890000
       },
-      "rank": 16
+      "rank": 17
     },
     {
       "handle": "steamloco™-aromatherapy-train-humidifier",
@@ -739,7 +793,7 @@
         "min_sale_price": 188000,
         "max_sale_price": 188000
       },
-      "rank": 17
+      "rank": 18
     },
     {
       "handle": "under-cabinet-led-motion-sensor-light-bar",
@@ -765,7 +819,7 @@
         "min_sale_price": 55000,
         "max_sale_price": 55000
       },
-      "rank": 18
+      "rank": 19
     },
     {
       "handle": "magic-speaker-bulb-light-sound-combined",
@@ -794,7 +848,7 @@
         "min_sale_price": 98000,
         "max_sale_price": 98000
       },
-      "rank": 19
+      "rank": 20
     }
   ],
   "Earbuds": [
@@ -3186,6 +3240,33 @@
       "rank": 1
     },
     {
+      "handle": "porodo-lifestyle-air-boost-turbo-fan",
+      "title": "Porodo Lifestyle Air Boost Turbo Fan",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1118c021-784d-4111-85c5-d7beeaf38ee7.jpg?v=1763021178",
+      "units_sold": 1,
+      "revenue": 95000,
+      "tags": [
+        "Porodo",
+        "Portable Fans",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 130000,
+            "sale_price": 95000,
+            "percentage_off": 27
+          }
+        ],
+        "min_regular_price": 130000,
+        "max_regular_price": 130000,
+        "min_sale_price": 95000,
+        "max_sale_price": 95000
+      },
+      "rank": 2
+    },
+    {
       "handle": "apple-air-tag",
       "title": "Apple Air Tag",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bb51b04a-a8e6-4c95-a2b9-271f93c5a509.jpg?v=1754578643",
@@ -3211,7 +3292,7 @@
         "min_sale_price": 185000,
         "max_sale_price": 185000
       },
-      "rank": 2
+      "rank": 3
     },
     {
       "handle": "dji-osmo-pocket-3-creator-combo",
@@ -3240,7 +3321,7 @@
         "min_sale_price": 3250000,
         "max_sale_price": 3250000
       },
-      "rank": 3
+      "rank": 4
     },
     {
       "handle": "green-lion-new-york-gimbal-smart-face-tracking",
@@ -3270,7 +3351,7 @@
         "min_sale_price": 425000,
         "max_sale_price": 425000
       },
-      "rank": 4
+      "rank": 5
     },
     {
       "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
@@ -3300,7 +3381,7 @@
         "min_sale_price": 315000,
         "max_sale_price": 315000
       },
-      "rank": 5
+      "rank": 6
     },
     {
       "handle": "porodo-frostwave-portable-cooling-fan",
@@ -3326,33 +3407,6 @@
         "max_regular_price": 110000,
         "min_sale_price": 85000,
         "max_sale_price": 85000
-      },
-      "rank": 6
-    },
-    {
-      "handle": "porodo-lifestyle-air-boost-turbo-fan",
-      "title": "Porodo Lifestyle Air Boost Turbo Fan",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1118c021-784d-4111-85c5-d7beeaf38ee7.jpg?v=1763021178",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Porodo",
-        "Portable Fans",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 130000,
-            "sale_price": 95000,
-            "percentage_off": 27
-          }
-        ],
-        "min_regular_price": 130000,
-        "max_regular_price": 130000,
-        "min_sale_price": 95000,
-        "max_sale_price": 95000
       },
       "rank": 7
     },
@@ -4690,8 +4744,8 @@
       "handle": "beatbox-pro™-smart-music-boxing-trainer",
       "title": "BeatBox Pro™ – Smart Music Boxing Trainer",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_93dad83f-07a9-4d86-90bb-e32cf8f6e5fd.webp?v=1751911224",
-      "units_sold": 47,
-      "revenue": 13395000,
+      "units_sold": 50,
+      "revenue": 14250000,
       "tags": [
         "Fitness Equipment",
         "Health & Fitness"
@@ -4744,8 +4798,8 @@
       "handle": "beatbox-pro™-smart-music-boxing-trainer",
       "title": "BeatBox Pro™ – Smart Music Boxing Trainer",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_93dad83f-07a9-4d86-90bb-e32cf8f6e5fd.webp?v=1751911224",
-      "units_sold": 47,
-      "revenue": 13395000,
+      "units_sold": 50,
+      "revenue": 14250000,
       "tags": [
         "Fitness Equipment",
         "Health & Fitness"
@@ -8674,6 +8728,33 @@
   ],
   "Porodo": [
     {
+      "handle": "porodo-lifestyle-air-boost-turbo-fan",
+      "title": "Porodo Lifestyle Air Boost Turbo Fan",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1118c021-784d-4111-85c5-d7beeaf38ee7.jpg?v=1763021178",
+      "units_sold": 1,
+      "revenue": 95000,
+      "tags": [
+        "Porodo",
+        "Portable Fans",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 130000,
+            "sale_price": 95000,
+            "percentage_off": 27
+          }
+        ],
+        "min_regular_price": 130000,
+        "max_regular_price": 130000,
+        "min_sale_price": 95000,
+        "max_sale_price": 95000
+      },
+      "rank": 1
+    },
+    {
       "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light-1",
       "title": "Porodo 3-Axis Gimbal Stabilizer with Magnetic Fill Light",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_24328fea-0ca7-42c9-8709-2929809a61c5.jpg?v=1761977575",
@@ -8697,7 +8778,7 @@
         "min_sale_price": 295000,
         "max_sale_price": 295000
       },
-      "rank": 1
+      "rank": 2
     },
     {
       "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
@@ -8727,7 +8808,7 @@
         "min_sale_price": 315000,
         "max_sale_price": 315000
       },
-      "rank": 2
+      "rank": 3
     },
     {
       "handle": "porodo-bluetooth-conference-speaker",
@@ -8755,7 +8836,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 3
+      "rank": 4
     },
     {
       "handle": "porodo-frostwave-portable-cooling-fan",
@@ -8781,33 +8862,6 @@
         "max_regular_price": 110000,
         "min_sale_price": 85000,
         "max_sale_price": 85000
-      },
-      "rank": 4
-    },
-    {
-      "handle": "porodo-lifestyle-air-boost-turbo-fan",
-      "title": "Porodo Lifestyle Air Boost Turbo Fan",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1118c021-784d-4111-85c5-d7beeaf38ee7.jpg?v=1763021178",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Porodo",
-        "Portable Fans",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 130000,
-            "sale_price": 95000,
-            "percentage_off": 27
-          }
-        ],
-        "min_regular_price": 130000,
-        "max_regular_price": 130000,
-        "min_sale_price": 95000,
-        "max_sale_price": 95000
       },
       "rank": 5
     },
@@ -8844,6 +8898,33 @@
   ],
   "Portable Fans": [
     {
+      "handle": "porodo-lifestyle-air-boost-turbo-fan",
+      "title": "Porodo Lifestyle Air Boost Turbo Fan",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1118c021-784d-4111-85c5-d7beeaf38ee7.jpg?v=1763021178",
+      "units_sold": 1,
+      "revenue": 95000,
+      "tags": [
+        "Porodo",
+        "Portable Fans",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 130000,
+            "sale_price": 95000,
+            "percentage_off": 27
+          }
+        ],
+        "min_regular_price": 130000,
+        "max_regular_price": 130000,
+        "min_sale_price": 95000,
+        "max_sale_price": 95000
+      },
+      "rank": 1
+    },
+    {
       "handle": "porodo-frostwave-portable-cooling-fan",
       "title": "Porodo Frostwave Portable Cooling Fan",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d0923c2f-5b10-46ba-9ea2-1c9a6c13887e.jpg?v=1763020563",
@@ -8867,33 +8948,6 @@
         "max_regular_price": 110000,
         "min_sale_price": 85000,
         "max_sale_price": 85000
-      },
-      "rank": 1
-    },
-    {
-      "handle": "porodo-lifestyle-air-boost-turbo-fan",
-      "title": "Porodo Lifestyle Air Boost Turbo Fan",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1118c021-784d-4111-85c5-d7beeaf38ee7.jpg?v=1763021178",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Porodo",
-        "Portable Fans",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 130000,
-            "sale_price": 95000,
-            "percentage_off": 27
-          }
-        ],
-        "min_regular_price": 130000,
-        "max_regular_price": 130000,
-        "min_sale_price": 95000,
-        "max_sale_price": 95000
       },
       "rank": 2
     }

@@ -78,6 +78,32 @@
     "rank": 3
   },
   {
+    "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
+    "title": "3-in-1 Deluxe Baby Bassinet – Sleep, Soothe & Grow",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3.png?v=1763770477",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Babies",
+      "Home Decor"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 440000,
+          "sale_price": 385000,
+          "percentage_off": 13
+        }
+      ],
+      "min_regular_price": 440000,
+      "max_regular_price": 440000,
+      "min_sale_price": 385000,
+      "max_sale_price": 385000
+    },
+    "rank": 4
+  },
+  {
     "handle": "absorbent-quick-dry-bath-mat",
     "title": "Absorbent Quick Dry Door Bath Mat",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_97dc856a-8e8e-4653-984b-2554684e96a6.jpg?v=1760417135",
@@ -100,7 +126,7 @@
       "min_sale_price": 65000,
       "max_sale_price": 65000
     },
-    "rank": 4
+    "rank": 5
   },
   {
     "handle": "astronaut-galaxy-projector-your-cosmic-escape",
@@ -126,7 +152,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 5
+    "rank": 6
   },
   {
     "handle": "fireplace-flame-air-humidifier",
@@ -152,7 +178,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 6
+    "rank": 7
   },
   {
     "handle": "galaxy-star-nebula-projector-with-bluetooth-speaker",
@@ -178,7 +204,7 @@
       "min_sale_price": 150000,
       "max_sale_price": 150000
     },
-    "rank": 7
+    "rank": 8
   },
   {
     "handle": "glowmist™-fireplace-humidifier",
@@ -204,7 +230,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 8
+    "rank": 9
   },
   {
     "handle": "hexagon-modular-touch-lights-shape-your-glow",
@@ -230,7 +256,7 @@
       "min_sale_price": 195000,
       "max_sale_price": 195000
     },
-    "rank": 9
+    "rank": 10
   },
   {
     "handle": "inflatable-air-sofa-air-lounger",
@@ -255,7 +281,7 @@
       "min_sale_price": 165000,
       "max_sale_price": 165000
     },
-    "rank": 10
+    "rank": 11
   },
   {
     "handle": "jellyfish-humidifier",
@@ -281,7 +307,7 @@
       "min_sale_price": 155000,
       "max_sale_price": 155000
     },
-    "rank": 11
+    "rank": 12
   },
   {
     "handle": "livtab-smart-coffee-table-built-in-fridge-wireless-charging-speakers",
@@ -306,7 +332,7 @@
       "min_sale_price": 3500000,
       "max_sale_price": 3500000
     },
-    "rank": 12
+    "rank": 13
   },
   {
     "handle": "modern-led-wall-art-with-built-in-planter",
@@ -333,7 +359,7 @@
       "min_sale_price": 1950000,
       "max_sale_price": 1950000
     },
-    "rank": 13
+    "rank": 14
   },
   {
     "handle": "volcano-essential-oil-diffuser",
@@ -359,7 +385,7 @@
       "min_sale_price": 135000,
       "max_sale_price": 135000
     },
-    "rank": 14
+    "rank": 15
   },
   {
     "handle": "quicksand-painting-night-light",
@@ -384,7 +410,7 @@
       "min_sale_price": 195000,
       "max_sale_price": 195000
     },
-    "rank": 15
+    "rank": 16
   },
   {
     "handle": "sandsara-mini-kinetic-sand-painting-sculpture",
@@ -411,7 +437,7 @@
       "min_sale_price": 890000,
       "max_sale_price": 890000
     },
-    "rank": 16
+    "rank": 17
   },
   {
     "handle": "steamloco™-aromatherapy-train-humidifier",
@@ -437,7 +463,7 @@
       "min_sale_price": 188000,
       "max_sale_price": 188000
     },
-    "rank": 17
+    "rank": 18
   },
   {
     "handle": "under-cabinet-led-motion-sensor-light-bar",
@@ -463,7 +489,7 @@
       "min_sale_price": 55000,
       "max_sale_price": 55000
     },
-    "rank": 18
+    "rank": 19
   },
   {
     "handle": "magic-speaker-bulb-light-sound-combined",
@@ -492,6 +518,6 @@
       "min_sale_price": 98000,
       "max_sale_price": 98000
     },
-    "rank": 19
+    "rank": 20
   }
 ]
