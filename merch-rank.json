@@ -2,93 +2,79 @@
   {
     "handle": "flexstride™-portable-walking-running-treadmill",
     "in_stock": true,
-    "units_sold": 41,
-    "revenue": 46900000,
-    "score": 0.8708
+    "units_sold": 43,
+    "revenue": 49480000,
+    "score": 0.8792
   },
   {
     "handle": "beatbox-pro™-smart-music-boxing-trainer",
     "in_stock": true,
-    "units_sold": 67,
-    "revenue": 19095000,
-    "score": 0.6235
+    "units_sold": 69,
+    "revenue": 19665000,
+    "score": 0.626
   },
   {
     "handle": "lumifan-360-light-fan",
     "in_stock": true,
     "units_sold": 72,
     "revenue": 10873000,
-    "score": 0.5391
+    "score": 0.5318
   },
   {
     "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
     "in_stock": true,
-    "units_sold": 16,
-    "revenue": 6160000,
-    "score": 0.2455
+    "units_sold": 19,
+    "revenue": 7315000,
+    "score": 0.2679
   },
   {
     "handle": "prexobeam-mini-portable-smart-projector",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 620000,
-    "score": 0.1163
+    "score": 0.1159
   },
   {
     "handle": "keyfold-pro-foldable-bluetooth-keyboard",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 310000,
-    "score": 0.1123
+    "score": 0.1121
   },
   {
     "handle": "ufo-raindrop-humidifier",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 276000,
-    "score": 0.1119
+    "score": 0.1117
   },
   {
     "handle": "solarsecure-360-full-color-night-vision-security-camera",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 445000,
-    "score": 0.1099
+    "score": 0.1096
   },
   {
     "handle": "mini-exercise-stepper-pro",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 245000,
-    "score": 0.1073
+    "score": 0.1071
   },
   {
     "handle": "anker-soundcore-pyro-mini",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 180000,
-    "score": 0.1065
+    "score": 0.1063
   },
   {
     "handle": "bonfire-humidifier-1",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 135000,
-    "score": 0.1059
-  },
-  {
-    "handle": "green-lion-digital-luggage-scale-50-kg-max",
-    "in_stock": true,
-    "units_sold": 1,
-    "revenue": 95000,
-    "score": 0.1054
-  },
-  {
-    "handle": "porodo-lifestyle-air-boost-turbo-fan",
-    "in_stock": true,
-    "units_sold": 1,
-    "revenue": 95000,
-    "score": 0.1054
+    "score": 0.1058
   },
   {
     "handle": "swiftmop™-effortless-spray-cleaning-in-seconds",
@@ -96,6 +82,20 @@
     "units_sold": 1,
     "revenue": 98000,
     "score": 0.1054
+  },
+  {
+    "handle": "green-lion-digital-luggage-scale-50-kg-max",
+    "in_stock": true,
+    "units_sold": 1,
+    "revenue": 95000,
+    "score": 0.1053
+  },
+  {
+    "handle": "porodo-lifestyle-air-boost-turbo-fan",
+    "in_stock": true,
+    "units_sold": 1,
+    "revenue": 95000,
+    "score": 0.1053
   },
   {
     "handle": "14-quad-monitor-laptop-screen-extender",
