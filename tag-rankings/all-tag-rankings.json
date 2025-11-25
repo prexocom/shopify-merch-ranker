@@ -305,8 +305,8 @@
       "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
       "title": "3-in-1 Deluxe Baby Bassinet – Sleep, Soothe & Grow",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3.png?v=1763770477",
-      "units_sold": 19,
-      "revenue": 7315000,
+      "units_sold": 20,
+      "revenue": 7700000,
       "tags": [
         "Babies",
         "Home Decor"
@@ -359,8 +359,8 @@
       "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
       "title": "3-in-1 Deluxe Baby Bassinet – Sleep, Soothe & Grow",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3.png?v=1763770477",
-      "units_sold": 19,
-      "revenue": 7315000,
+      "units_sold": 20,
+      "revenue": 7700000,
       "tags": [
         "Babies",
         "Home Decor"
@@ -4744,8 +4744,8 @@
       "handle": "beatbox-pro™-smart-music-boxing-trainer",
       "title": "BeatBox Pro™ – Smart Music Boxing Trainer",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_93dad83f-07a9-4d86-90bb-e32cf8f6e5fd.webp?v=1751911224",
-      "units_sold": 69,
-      "revenue": 19665000,
+      "units_sold": 77,
+      "revenue": 21945000,
       "tags": [
         "Fitness Equipment",
         "Health & Fitness"
@@ -4770,8 +4770,8 @@
       "handle": "flexstride™-portable-walking-running-treadmill",
       "title": "FlexStride™ – Portable Walking & Running Treadmill",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/ErgonomistWalkingPad_0004_WalkingPadHeroImage.webp?v=1763245491",
-      "units_sold": 44,
-      "revenue": 50770000,
+      "units_sold": 46,
+      "revenue": 52680000,
       "tags": [
         "Fitness Equipment",
         "Health & Fitness"
@@ -4780,15 +4780,15 @@
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 1700000,
-            "sale_price": 1290000,
-            "percentage_off": 24
+            "regular_price": 1500000,
+            "sale_price": 955000,
+            "percentage_off": 36
           }
         ],
-        "min_regular_price": 1700000,
-        "max_regular_price": 1700000,
-        "min_sale_price": 1290000,
-        "max_sale_price": 1290000
+        "min_regular_price": 1500000,
+        "max_regular_price": 1500000,
+        "min_sale_price": 955000,
+        "max_sale_price": 955000
       },
       "rank": 2
     }
@@ -4798,8 +4798,8 @@
       "handle": "beatbox-pro™-smart-music-boxing-trainer",
       "title": "BeatBox Pro™ – Smart Music Boxing Trainer",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_93dad83f-07a9-4d86-90bb-e32cf8f6e5fd.webp?v=1751911224",
-      "units_sold": 69,
-      "revenue": 19665000,
+      "units_sold": 77,
+      "revenue": 21945000,
       "tags": [
         "Fitness Equipment",
         "Health & Fitness"
@@ -4824,8 +4824,8 @@
       "handle": "flexstride™-portable-walking-running-treadmill",
       "title": "FlexStride™ – Portable Walking & Running Treadmill",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/ErgonomistWalkingPad_0004_WalkingPadHeroImage.webp?v=1763245491",
-      "units_sold": 44,
-      "revenue": 50770000,
+      "units_sold": 46,
+      "revenue": 52680000,
       "tags": [
         "Fitness Equipment",
         "Health & Fitness"
@@ -4834,15 +4834,15 @@
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 1700000,
-            "sale_price": 1290000,
-            "percentage_off": 24
+            "regular_price": 1500000,
+            "sale_price": 955000,
+            "percentage_off": 36
           }
         ],
-        "min_regular_price": 1700000,
-        "max_regular_price": 1700000,
-        "min_sale_price": 1290000,
-        "max_sale_price": 1290000
+        "min_regular_price": 1500000,
+        "max_regular_price": 1500000,
+        "min_sale_price": 955000,
+        "max_sale_price": 955000
       },
       "rank": 2
     },
