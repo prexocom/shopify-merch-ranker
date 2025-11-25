@@ -2,85 +2,78 @@
   {
     "handle": "flexstride™-portable-walking-running-treadmill",
     "in_stock": true,
-    "units_sold": 43,
-    "revenue": 49480000,
+    "units_sold": 46,
+    "revenue": 52680000,
     "score": 0.8792
   },
   {
     "handle": "beatbox-pro™-smart-music-boxing-trainer",
     "in_stock": true,
-    "units_sold": 69,
-    "revenue": 19665000,
-    "score": 0.626
+    "units_sold": 77,
+    "revenue": 21945000,
+    "score": 0.6499
   },
   {
     "handle": "lumifan-360-light-fan",
     "in_stock": true,
     "units_sold": 72,
     "revenue": 10873000,
-    "score": 0.5318
+    "score": 0.5044
   },
   {
     "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
     "in_stock": true,
-    "units_sold": 19,
-    "revenue": 7315000,
-    "score": 0.2679
+    "units_sold": 20,
+    "revenue": 7700000,
+    "score": 0.2656
   },
   {
     "handle": "prexobeam-mini-portable-smart-projector",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 620000,
-    "score": 0.1159
+    "score": 0.1149
   },
   {
     "handle": "keyfold-pro-foldable-bluetooth-keyboard",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 310000,
-    "score": 0.1121
+    "score": 0.1113
   },
   {
     "handle": "ufo-raindrop-humidifier",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 276000,
-    "score": 0.1117
+    "score": 0.1109
   },
   {
     "handle": "solarsecure-360-full-color-night-vision-security-camera",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 445000,
-    "score": 0.1096
+    "score": 0.109
   },
   {
     "handle": "mini-exercise-stepper-pro",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 245000,
-    "score": 0.1071
+    "score": 0.1067
   },
   {
     "handle": "anker-soundcore-pyro-mini",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 180000,
-    "score": 0.1063
+    "score": 0.1059
   },
   {
     "handle": "bonfire-humidifier-1",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 135000,
-    "score": 0.1058
-  },
-  {
-    "handle": "swiftmop™-effortless-spray-cleaning-in-seconds",
-    "in_stock": true,
-    "units_sold": 1,
-    "revenue": 98000,
     "score": 0.1054
   },
   {
@@ -88,14 +81,21 @@
     "in_stock": true,
     "units_sold": 1,
     "revenue": 95000,
-    "score": 0.1053
+    "score": 0.105
   },
   {
     "handle": "porodo-lifestyle-air-boost-turbo-fan",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 95000,
-    "score": 0.1053
+    "score": 0.105
+  },
+  {
+    "handle": "swiftmop™-effortless-spray-cleaning-in-seconds",
+    "in_stock": true,
+    "units_sold": 1,
+    "revenue": 98000,
+    "score": 0.105
   },
   {
     "handle": "14-quad-monitor-laptop-screen-extender",
