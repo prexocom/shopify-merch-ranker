@@ -1,5 +1,31 @@
 [
   {
+    "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
+    "title": "TriFoldView Pro - Portable Screen Extender",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bf492e8c-0a5f-41fe-b666-3ddf7ce8cb0b.jpg?v=1749641740",
+    "units_sold": 4,
+    "revenue": 4100000,
+    "tags": [
+      "Computer Accessories",
+      "Laptop Accessories"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 1500000,
+          "sale_price": 1100000,
+          "percentage_off": 27
+        }
+      ],
+      "min_regular_price": 1500000,
+      "max_regular_price": 1500000,
+      "min_sale_price": 1100000,
+      "max_sale_price": 1100000
+    },
+    "rank": 1
+  },
+  {
     "handle": "keyfold-pro-foldable-bluetooth-keyboard",
     "title": "Keyfold Pro - Foldable Bluetooth Keyboard",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_03e0123a-e5b8-4d65-a9b0-e76114fc9eb2.jpg?v=1755880560",
@@ -24,7 +50,7 @@
       "min_sale_price": 155000,
       "max_sale_price": 155000
     },
-    "rank": 1
+    "rank": 2
   },
   {
     "handle": "14-quad-monitor-laptop-screen-extender",
@@ -49,7 +75,7 @@
       "min_sale_price": 2550000,
       "max_sale_price": 2550000
     },
-    "rank": 2
+    "rank": 3
   },
   {
     "handle": "green-lion-gan-65w-multi-port-travel-adapter",
@@ -80,7 +106,7 @@
       "min_sale_price": 290000,
       "max_sale_price": 290000
     },
-    "rank": 3
+    "rank": 4
   },
   {
     "handle": "green-lion-mouse-pad-with-wireless-charger",
@@ -109,7 +135,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 4
+    "rank": 5
   },
   {
     "handle": "green-lion-smart-oled-vertical-mouse",
@@ -135,7 +161,7 @@
       "min_sale_price": 150000,
       "max_sale_price": 150000
     },
-    "rank": 5
+    "rank": 6
   },
   {
     "handle": "green-lion-wireless-presenter-with-retractable-pointer",
@@ -161,7 +187,7 @@
       "min_sale_price": 95000,
       "max_sale_price": 95000
     },
-    "rank": 6
+    "rank": 7
   },
   {
     "handle": "keyfold-pro-2-foldable-bluetooth-keyboard",
@@ -188,7 +214,7 @@
       "min_sale_price": 155000,
       "max_sale_price": 155000
     },
-    "rank": 7
+    "rank": 8
   },
   {
     "handle": "powerology-dual-screen-portable-monitor",
@@ -215,7 +241,7 @@
       "min_sale_price": 1250000,
       "max_sale_price": 1250000
     },
-    "rank": 8
+    "rank": 9
   },
   {
     "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
@@ -244,7 +270,7 @@
       "min_sale_price": 620000,
       "max_sale_price": 620000
     },
-    "rank": 9
+    "rank": 10
   },
   {
     "handle": "prexoplay-wireless-bluetooth-game-controller",
@@ -270,32 +296,6 @@
       "max_regular_price": 129000,
       "min_sale_price": 75000,
       "max_sale_price": 75000
-    },
-    "rank": 10
-  },
-  {
-    "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
-    "title": "TriFoldView Pro - Portable Screen Extender",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bf492e8c-0a5f-41fe-b666-3ddf7ce8cb0b.jpg?v=1749641740",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Computer Accessories",
-      "Laptop Accessories"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 1500000,
-          "sale_price": 1350000,
-          "percentage_off": 10
-        }
-      ],
-      "min_regular_price": 1500000,
-      "max_regular_price": 1500000,
-      "min_sale_price": 1350000,
-      "max_sale_price": 1350000
     },
     "rank": 11
   }
