@@ -23,9 +23,16 @@
   {
     "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
     "in_stock": true,
-    "units_sold": 24,
-    "revenue": 9240000,
-    "score": 0.2934
+    "units_sold": 29,
+    "revenue": 11057000,
+    "score": 0.3324
+  },
+  {
+    "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
+    "in_stock": true,
+    "units_sold": 4,
+    "revenue": 4100000,
+    "score": 0.1609
   },
   {
     "handle": "prexobeam-mini-portable-smart-projector",
@@ -988,13 +995,6 @@
   },
   {
     "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
