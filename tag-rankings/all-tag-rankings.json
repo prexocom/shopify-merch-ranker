@@ -4,8 +4,8 @@
       "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
       "title": "TriFoldView Pro - Portable Screen Extender",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bf492e8c-0a5f-41fe-b666-3ddf7ce8cb0b.jpg?v=1749641740",
-      "units_sold": 6,
-      "revenue": 6300000,
+      "units_sold": 7,
+      "revenue": 7400000,
       "tags": [
         "Computer Accessories",
         "Laptop Accessories"
@@ -306,8 +306,8 @@
       "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
       "title": "3-in-1 Deluxe Baby Bassinet – Sleep, Soothe & Grow",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3.png?v=1763770477",
-      "units_sold": 30,
-      "revenue": 11442000,
+      "units_sold": 32,
+      "revenue": 12212000,
       "tags": [
         "Babies",
         "Baby Essentials",
@@ -335,8 +335,8 @@
       "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
       "title": "3-in-1 Deluxe Baby Bassinet – Sleep, Soothe & Grow",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3.png?v=1763770477",
-      "units_sold": 30,
-      "revenue": 11442000,
+      "units_sold": 32,
+      "revenue": 12212000,
       "tags": [
         "Babies",
         "Baby Essentials",
@@ -390,8 +390,8 @@
       "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
       "title": "3-in-1 Deluxe Baby Bassinet – Sleep, Soothe & Grow",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3.png?v=1763770477",
-      "units_sold": 30,
-      "revenue": 11442000,
+      "units_sold": 32,
+      "revenue": 12212000,
       "tags": [
         "Babies",
         "Baby Essentials",
@@ -881,6 +881,83 @@
         "max_sale_price": 98000
       },
       "rank": 20
+    }
+  ],
+  "Treadmills": [
+    {
+      "handle": "flexstride™-portable-walking-running-treadmill",
+      "title": "FlexStride™ – Portable Walking & Running Treadmill",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/ErgonomistWalkingPad_0004_WalkingPadHeroImage.webp?v=1763245491",
+      "units_sold": 48,
+      "revenue": 54590000,
+      "tags": [
+        "Treadmills"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 1500000,
+            "sale_price": 995000,
+            "percentage_off": 34
+          }
+        ],
+        "min_regular_price": 1500000,
+        "max_regular_price": 1500000,
+        "min_sale_price": 995000,
+        "max_sale_price": 995000
+      },
+      "rank": 1
+    },
+    {
+      "handle": "3-in-1-foldable-treadmill",
+      "title": "3-in-1 Foldable Treadmill",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c1f50d9b-a6f8-4b70-9b73-4c19ca9d33d9.jpg?v=1764210107",
+      "units_sold": 1,
+      "revenue": 1290000,
+      "tags": [
+        "Treadmills"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 1500000,
+            "sale_price": 1290000,
+            "percentage_off": 14
+          }
+        ],
+        "min_regular_price": 1500000,
+        "max_regular_price": 1500000,
+        "min_sale_price": 1290000,
+        "max_sale_price": 1290000
+      },
+      "rank": 2
+    },
+    {
+      "handle": "kemilng-m7-pro-treadmill",
+      "title": "KEMILNG M7 Pro Treadmill",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9ef0aea7-fdd6-4f3b-b65c-39fce843a2b0.png?v=1764209690",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Treadmills"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 2200000,
+            "sale_price": 1790000,
+            "percentage_off": 19
+          }
+        ],
+        "min_regular_price": 2200000,
+        "max_regular_price": 2200000,
+        "min_sale_price": 1790000,
+        "max_sale_price": 1790000
+      },
+      "rank": 3
     }
   ],
   "Earbuds": [
@@ -4776,8 +4853,8 @@
       "handle": "beatbox-pro™-smart-music-boxing-trainer",
       "title": "BeatBox Pro™ – Smart Music Boxing Trainer",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_93dad83f-07a9-4d86-90bb-e32cf8f6e5fd.webp?v=1751911224",
-      "units_sold": 82,
-      "revenue": 23370000,
+      "units_sold": 88,
+      "revenue": 25080000,
       "tags": [
         "Fitness Equipment",
         "Health & Fitness"
@@ -4797,32 +4874,6 @@
         "max_sale_price": 285000
       },
       "rank": 1
-    },
-    {
-      "handle": "flexstride™-portable-walking-running-treadmill",
-      "title": "FlexStride™ – Portable Walking & Running Treadmill",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/ErgonomistWalkingPad_0004_WalkingPadHeroImage.webp?v=1763245491",
-      "units_sold": 48,
-      "revenue": 54590000,
-      "tags": [
-        "Fitness Equipment",
-        "Health & Fitness"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 1500000,
-            "sale_price": 955000,
-            "percentage_off": 36
-          }
-        ],
-        "min_regular_price": 1500000,
-        "max_regular_price": 1500000,
-        "min_sale_price": 955000,
-        "max_sale_price": 955000
-      },
-      "rank": 2
     }
   ],
   "Health & Fitness": [
@@ -4830,8 +4881,8 @@
       "handle": "beatbox-pro™-smart-music-boxing-trainer",
       "title": "BeatBox Pro™ – Smart Music Boxing Trainer",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_93dad83f-07a9-4d86-90bb-e32cf8f6e5fd.webp?v=1751911224",
-      "units_sold": 82,
-      "revenue": 23370000,
+      "units_sold": 88,
+      "revenue": 25080000,
       "tags": [
         "Fitness Equipment",
         "Health & Fitness"
@@ -4851,32 +4902,6 @@
         "max_sale_price": 285000
       },
       "rank": 1
-    },
-    {
-      "handle": "flexstride™-portable-walking-running-treadmill",
-      "title": "FlexStride™ – Portable Walking & Running Treadmill",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/ErgonomistWalkingPad_0004_WalkingPadHeroImage.webp?v=1763245491",
-      "units_sold": 48,
-      "revenue": 54590000,
-      "tags": [
-        "Fitness Equipment",
-        "Health & Fitness"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 1500000,
-            "sale_price": 955000,
-            "percentage_off": 36
-          }
-        ],
-        "min_regular_price": 1500000,
-        "max_regular_price": 1500000,
-        "min_sale_price": 955000,
-        "max_sale_price": 955000
-      },
-      "rank": 2
     },
     {
       "handle": "mini-exercise-stepper-pro",
@@ -4901,7 +4926,7 @@
         "min_sale_price": 245000,
         "max_sale_price": 245000
       },
-      "rank": 3
+      "rank": 2
     },
     {
       "handle": "prexo-dunkmaster-outdoor-adjustable-basketball-hoop-system",
@@ -4926,7 +4951,7 @@
         "min_sale_price": 1430000,
         "max_sale_price": 1430000
       },
-      "rank": 4
+      "rank": 3
     },
     {
       "handle": "eufy-by-anker-smart-scale-p3",
@@ -4952,7 +4977,7 @@
         "min_sale_price": 340000,
         "max_sale_price": 340000
       },
-      "rank": 5
+      "rank": 4
     },
     {
       "handle": "green-lion-digital-weight-scale",
@@ -4978,7 +5003,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 6
+      "rank": 5
     },
     {
       "handle": "green-lion-smart-body-scale-8-electrode-advanced-analysis",
@@ -5004,7 +5029,7 @@
         "min_sale_price": 245000,
         "max_sale_price": 245000
       },
-      "rank": 7
+      "rank": 6
     },
     {
       "handle": "green-lion-smart-health-tracker-ring",
@@ -5031,7 +5056,7 @@
         "min_sale_price": 155000,
         "max_sale_price": 155000
       },
-      "rank": 8
+      "rank": 7
     },
     {
       "handle": "mini-exercise-stepper-with-resistance-bands",
@@ -5056,7 +5081,7 @@
         "min_sale_price": 245000,
         "max_sale_price": 245000
       },
-      "rank": 9
+      "rank": 8
     },
     {
       "handle": "rotator-arm-shoulder-strength-trainer",
@@ -5081,7 +5106,7 @@
         "min_sale_price": 345000,
         "max_sale_price": 345000
       },
-      "rank": 10
+      "rank": 9
     },
     {
       "handle": "solerenew-electric-callus-remover",
@@ -5106,7 +5131,7 @@
         "min_sale_price": 99000,
         "max_sale_price": 99000
       },
-      "rank": 11
+      "rank": 10
     },
     {
       "handle": "zero-gravity-full-body-massage-chair",
@@ -5131,7 +5156,7 @@
         "min_sale_price": 4850000,
         "max_sale_price": 4850000
       },
-      "rank": 12
+      "rank": 11
     }
   ],
   "Beats": [
@@ -10163,8 +10188,8 @@
       "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
       "title": "TriFoldView Pro - Portable Screen Extender",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bf492e8c-0a5f-41fe-b666-3ddf7ce8cb0b.jpg?v=1749641740",
-      "units_sold": 6,
-      "revenue": 6300000,
+      "units_sold": 7,
+      "revenue": 7400000,
       "tags": [
         "Computer Accessories",
         "Laptop Accessories"

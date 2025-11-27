@@ -3,8 +3,8 @@
     "handle": "beatbox-pro™-smart-music-boxing-trainer",
     "title": "BeatBox Pro™ – Smart Music Boxing Trainer",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_93dad83f-07a9-4d86-90bb-e32cf8f6e5fd.webp?v=1751911224",
-    "units_sold": 82,
-    "revenue": 23370000,
+    "units_sold": 88,
+    "revenue": 25080000,
     "tags": [
       "Fitness Equipment",
       "Health & Fitness"
@@ -24,32 +24,6 @@
       "max_sale_price": 285000
     },
     "rank": 1
-  },
-  {
-    "handle": "flexstride™-portable-walking-running-treadmill",
-    "title": "FlexStride™ – Portable Walking & Running Treadmill",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/ErgonomistWalkingPad_0004_WalkingPadHeroImage.webp?v=1763245491",
-    "units_sold": 48,
-    "revenue": 54590000,
-    "tags": [
-      "Fitness Equipment",
-      "Health & Fitness"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 1500000,
-          "sale_price": 955000,
-          "percentage_off": 36
-        }
-      ],
-      "min_regular_price": 1500000,
-      "max_regular_price": 1500000,
-      "min_sale_price": 955000,
-      "max_sale_price": 955000
-    },
-    "rank": 2
   },
   {
     "handle": "mini-exercise-stepper-pro",
@@ -74,7 +48,7 @@
       "min_sale_price": 245000,
       "max_sale_price": 245000
     },
-    "rank": 3
+    "rank": 2
   },
   {
     "handle": "prexo-dunkmaster-outdoor-adjustable-basketball-hoop-system",
@@ -99,7 +73,7 @@
       "min_sale_price": 1430000,
       "max_sale_price": 1430000
     },
-    "rank": 4
+    "rank": 3
   },
   {
     "handle": "eufy-by-anker-smart-scale-p3",
@@ -125,7 +99,7 @@
       "min_sale_price": 340000,
       "max_sale_price": 340000
     },
-    "rank": 5
+    "rank": 4
   },
   {
     "handle": "green-lion-digital-weight-scale",
@@ -151,7 +125,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 6
+    "rank": 5
   },
   {
     "handle": "green-lion-smart-body-scale-8-electrode-advanced-analysis",
@@ -177,7 +151,7 @@
       "min_sale_price": 245000,
       "max_sale_price": 245000
     },
-    "rank": 7
+    "rank": 6
   },
   {
     "handle": "green-lion-smart-health-tracker-ring",
@@ -204,7 +178,7 @@
       "min_sale_price": 155000,
       "max_sale_price": 155000
     },
-    "rank": 8
+    "rank": 7
   },
   {
     "handle": "mini-exercise-stepper-with-resistance-bands",
@@ -229,7 +203,7 @@
       "min_sale_price": 245000,
       "max_sale_price": 245000
     },
-    "rank": 9
+    "rank": 8
   },
   {
     "handle": "rotator-arm-shoulder-strength-trainer",
@@ -254,7 +228,7 @@
       "min_sale_price": 345000,
       "max_sale_price": 345000
     },
-    "rank": 10
+    "rank": 9
   },
   {
     "handle": "solerenew-electric-callus-remover",
@@ -279,7 +253,7 @@
       "min_sale_price": 99000,
       "max_sale_price": 99000
     },
-    "rank": 11
+    "rank": 10
   },
   {
     "handle": "zero-gravity-full-body-massage-chair",
@@ -304,6 +278,6 @@
       "min_sale_price": 4850000,
       "max_sale_price": 4850000
     },
-    "rank": 12
+    "rank": 11
   }
 ]
