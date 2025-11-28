@@ -3,8 +3,8 @@
     "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
     "title": "TriFoldView Pro - Portable Screen Extender",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bf492e8c-0a5f-41fe-b666-3ddf7ce8cb0b.jpg?v=1749641740",
-    "units_sold": 7,
-    "revenue": 7400000,
+    "units_sold": 8,
+    "revenue": 8500000,
     "tags": [
       "Computer Accessories",
       "Laptop Accessories"
@@ -14,14 +14,14 @@
         {
           "title": "Default Title",
           "regular_price": 1500000,
-          "sale_price": 1100000,
-          "percentage_off": 27
+          "sale_price": 1350000,
+          "percentage_off": 10
         }
       ],
       "min_regular_price": 1500000,
       "max_regular_price": 1500000,
-      "min_sale_price": 1100000,
-      "max_sale_price": 1100000
+      "min_sale_price": 1350000,
+      "max_sale_price": 1350000
     },
     "rank": 1
   },
@@ -231,15 +231,15 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 1400000,
-          "sale_price": 1250000,
-          "percentage_off": 11
+          "regular_price": 1600000,
+          "sale_price": 1350000,
+          "percentage_off": 16
         }
       ],
-      "min_regular_price": 1400000,
-      "max_regular_price": 1400000,
-      "min_sale_price": 1250000,
-      "max_sale_price": 1250000
+      "min_regular_price": 1600000,
+      "max_regular_price": 1600000,
+      "min_sale_price": 1350000,
+      "max_sale_price": 1350000
     },
     "rank": 9
   },
