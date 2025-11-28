@@ -375,14 +375,14 @@
           {
             "title": "Default Title",
             "regular_price": 280000,
-            "sale_price": 175000,
-            "percentage_off": 38
+            "sale_price": 155000,
+            "percentage_off": 45
           }
         ],
         "min_regular_price": 280000,
         "max_regular_price": 280000,
-        "min_sale_price": 175000,
-        "max_sale_price": 175000
+        "min_sale_price": 155000,
+        "max_sale_price": 155000
       },
       "rank": 1
     },
@@ -898,14 +898,14 @@
           {
             "title": "Default Title",
             "regular_price": 1500000,
-            "sale_price": 995000,
-            "percentage_off": 34
+            "sale_price": 1150000,
+            "percentage_off": 23
           }
         ],
         "min_regular_price": 1500000,
         "max_regular_price": 1500000,
-        "min_sale_price": 995000,
-        "max_sale_price": 995000
+        "min_sale_price": 1150000,
+        "max_sale_price": 1150000
       },
       "rank": 1
     },
@@ -937,7 +937,7 @@
     {
       "handle": "kemilng-m7-pro-treadmill",
       "title": "KEMILNG M7 Pro Treadmill",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9ef0aea7-fdd6-4f3b-b65c-39fce843a2b0.png?v=1764209690",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9ef0aea7-fdd6-4f3b-b65c-39fce843a2b0.png?v=1764321793",
       "units_sold": 0,
       "revenue": 0,
       "tags": [
@@ -2313,15 +2313,15 @@
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 170000,
-            "sale_price": 139000,
-            "percentage_off": 18
+            "regular_price": 270000,
+            "sale_price": 229000,
+            "percentage_off": 15
           }
         ],
-        "min_regular_price": 170000,
-        "max_regular_price": 170000,
-        "min_sale_price": 139000,
-        "max_sale_price": 139000
+        "min_regular_price": 270000,
+        "max_regular_price": 270000,
+        "min_sale_price": 229000,
+        "max_sale_price": 229000
       },
       "rank": 9
     },
@@ -2804,15 +2804,15 @@
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 170000,
-            "sale_price": 139000,
-            "percentage_off": 18
+            "regular_price": 270000,
+            "sale_price": 229000,
+            "percentage_off": 15
           }
         ],
-        "min_regular_price": 170000,
-        "max_regular_price": 170000,
-        "min_sale_price": 139000,
-        "max_sale_price": 139000
+        "min_regular_price": 270000,
+        "max_regular_price": 270000,
+        "min_sale_price": 229000,
+        "max_sale_price": 229000
       },
       "rank": 14
     },
@@ -3110,15 +3110,15 @@
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 170000,
-            "sale_price": 139000,
-            "percentage_off": 18
+            "regular_price": 270000,
+            "sale_price": 229000,
+            "percentage_off": 15
           }
         ],
-        "min_regular_price": 170000,
-        "max_regular_price": 170000,
-        "min_sale_price": 139000,
-        "max_sale_price": 139000
+        "min_regular_price": 270000,
+        "max_regular_price": 270000,
+        "min_sale_price": 229000,
+        "max_sale_price": 229000
       },
       "rank": 9
     },
@@ -3910,14 +3910,14 @@
           {
             "title": "Default Title",
             "regular_price": 280000,
-            "sale_price": 175000,
-            "percentage_off": 38
+            "sale_price": 155000,
+            "percentage_off": 45
           }
         ],
         "min_regular_price": 280000,
         "max_regular_price": 280000,
-        "min_sale_price": 175000,
-        "max_sale_price": 175000
+        "min_sale_price": 155000,
+        "max_sale_price": 155000
       },
       "rank": 1
     },
@@ -4853,8 +4853,8 @@
       "handle": "beatbox-pro™-smart-music-boxing-trainer",
       "title": "BeatBox Pro™ – Smart Music Boxing Trainer",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_93dad83f-07a9-4d86-90bb-e32cf8f6e5fd.webp?v=1751911224",
-      "units_sold": 92,
-      "revenue": 26220000,
+      "units_sold": 93,
+      "revenue": 26505000,
       "tags": [
         "Fitness Equipment",
         "Health & Fitness"
@@ -4881,8 +4881,8 @@
       "handle": "beatbox-pro™-smart-music-boxing-trainer",
       "title": "BeatBox Pro™ – Smart Music Boxing Trainer",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_93dad83f-07a9-4d86-90bb-e32cf8f6e5fd.webp?v=1751911224",
-      "units_sold": 92,
-      "revenue": 26220000,
+      "units_sold": 93,
+      "revenue": 26505000,
       "tags": [
         "Fitness Equipment",
         "Health & Fitness"
@@ -4942,14 +4942,14 @@
           {
             "title": "Default Title",
             "regular_price": 1600000,
-            "sale_price": 1430000,
-            "percentage_off": 11
+            "sale_price": 1300000,
+            "percentage_off": 19
           }
         ],
         "min_regular_price": 1600000,
         "max_regular_price": 1600000,
-        "min_sale_price": 1430000,
-        "max_sale_price": 1430000
+        "min_sale_price": 1300000,
+        "max_sale_price": 1300000
       },
       "rank": 3
     },

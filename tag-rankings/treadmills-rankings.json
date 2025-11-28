@@ -13,14 +13,14 @@
         {
           "title": "Default Title",
           "regular_price": 1500000,
-          "sale_price": 995000,
-          "percentage_off": 34
+          "sale_price": 1150000,
+          "percentage_off": 23
         }
       ],
       "min_regular_price": 1500000,
       "max_regular_price": 1500000,
-      "min_sale_price": 995000,
-      "max_sale_price": 995000
+      "min_sale_price": 1150000,
+      "max_sale_price": 1150000
     },
     "rank": 1
   },
@@ -52,7 +52,7 @@
   {
     "handle": "kemilng-m7-pro-treadmill",
     "title": "KEMILNG M7 Pro Treadmill",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9ef0aea7-fdd6-4f3b-b65c-39fce843a2b0.png?v=1764209690",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9ef0aea7-fdd6-4f3b-b65c-39fce843a2b0.png?v=1764321793",
     "units_sold": 0,
     "revenue": 0,
     "tags": [

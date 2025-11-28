@@ -236,15 +236,15 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 170000,
-          "sale_price": 139000,
-          "percentage_off": 18
+          "regular_price": 270000,
+          "sale_price": 229000,
+          "percentage_off": 15
         }
       ],
-      "min_regular_price": 170000,
-      "max_regular_price": 170000,
-      "min_sale_price": 139000,
-      "max_sale_price": 139000
+      "min_regular_price": 270000,
+      "max_regular_price": 270000,
+      "min_sale_price": 229000,
+      "max_sale_price": 229000
     },
     "rank": 9
   },
