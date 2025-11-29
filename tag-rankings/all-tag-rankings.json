@@ -4,8 +4,8 @@
       "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
       "title": "TriFoldView Pro - Portable Screen Extender",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bf492e8c-0a5f-41fe-b666-3ddf7ce8cb0b.jpg?v=1749641740",
-      "units_sold": 8,
-      "revenue": 8500000,
+      "units_sold": 9,
+      "revenue": 9600000,
       "tags": [
         "Computer Accessories",
         "Laptop Accessories"
@@ -15,14 +15,14 @@
           {
             "title": "Default Title",
             "regular_price": 1500000,
-            "sale_price": 1350000,
-            "percentage_off": 10
+            "sale_price": 1100000,
+            "percentage_off": 27
           }
         ],
         "min_regular_price": 1500000,
         "max_regular_price": 1500000,
-        "min_sale_price": 1350000,
-        "max_sale_price": 1350000
+        "min_sale_price": 1100000,
+        "max_sale_price": 1100000
       },
       "rank": 1
     },
@@ -306,8 +306,8 @@
       "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
       "title": "3-in-1 Deluxe Baby Bassinet – Sleep, Soothe & Grow",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3.png?v=1763770477",
-      "units_sold": 38,
-      "revenue": 14522000,
+      "units_sold": 42,
+      "revenue": 16062000,
       "tags": [
         "Babies",
         "Baby Essentials",
@@ -335,8 +335,8 @@
       "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
       "title": "3-in-1 Deluxe Baby Bassinet – Sleep, Soothe & Grow",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3.png?v=1763770477",
-      "units_sold": 38,
-      "revenue": 14522000,
+      "units_sold": 42,
+      "revenue": 16062000,
       "tags": [
         "Babies",
         "Baby Essentials",
@@ -375,14 +375,14 @@
           {
             "title": "Default Title",
             "regular_price": 280000,
-            "sale_price": 155000,
-            "percentage_off": 45
+            "sale_price": 135000,
+            "percentage_off": 52
           }
         ],
         "min_regular_price": 280000,
         "max_regular_price": 280000,
-        "min_sale_price": 155000,
-        "max_sale_price": 155000
+        "min_sale_price": 135000,
+        "max_sale_price": 135000
       },
       "rank": 1
     },
@@ -390,8 +390,8 @@
       "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
       "title": "3-in-1 Deluxe Baby Bassinet – Sleep, Soothe & Grow",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3.png?v=1763770477",
-      "units_sold": 38,
-      "revenue": 14522000,
+      "units_sold": 42,
+      "revenue": 16062000,
       "tags": [
         "Babies",
         "Baby Essentials",
@@ -3910,14 +3910,14 @@
           {
             "title": "Default Title",
             "regular_price": 280000,
-            "sale_price": 155000,
-            "percentage_off": 45
+            "sale_price": 135000,
+            "percentage_off": 52
           }
         ],
         "min_regular_price": 280000,
         "max_regular_price": 280000,
-        "min_sale_price": 155000,
-        "max_sale_price": 155000
+        "min_sale_price": 135000,
+        "max_sale_price": 135000
       },
       "rank": 1
     },
@@ -10188,8 +10188,8 @@
       "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
       "title": "TriFoldView Pro - Portable Screen Extender",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bf492e8c-0a5f-41fe-b666-3ddf7ce8cb0b.jpg?v=1749641740",
-      "units_sold": 8,
-      "revenue": 8500000,
+      "units_sold": 9,
+      "revenue": 9600000,
       "tags": [
         "Computer Accessories",
         "Laptop Accessories"
@@ -10199,14 +10199,14 @@
           {
             "title": "Default Title",
             "regular_price": 1500000,
-            "sale_price": 1350000,
-            "percentage_off": 10
+            "sale_price": 1100000,
+            "percentage_off": 27
           }
         ],
         "min_regular_price": 1500000,
         "max_regular_price": 1500000,
-        "min_sale_price": 1350000,
-        "max_sale_price": 1350000
+        "min_sale_price": 1100000,
+        "max_sale_price": 1100000
       },
       "rank": 1
     }
