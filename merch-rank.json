@@ -4,115 +4,122 @@
     "in_stock": true,
     "units_sold": 48,
     "revenue": 54590000,
-    "score": 0.8263
+    "score": 0.8134
   },
   {
     "handle": "beatbox-pro™-smart-music-boxing-trainer",
     "in_stock": true,
     "units_sold": 96,
     "revenue": 27360000,
-    "score": 0.6533
+    "score": 0.6275
   },
   {
     "handle": "lumifan-360-light-fan",
     "in_stock": true,
-    "units_sold": 114,
-    "revenue": 16543000,
-    "score": 0.5818
-  },
-  {
-    "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
-    "in_stock": true,
-    "units_sold": 55,
-    "revenue": 21067000,
-    "score": 0.4763
+    "units_sold": 127,
+    "revenue": 18298000,
+    "score": 0.6011
   },
   {
     "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
     "in_stock": true,
-    "units_sold": 24,
-    "revenue": 26100000,
-    "score": 0.45
+    "units_sold": 30,
+    "revenue": 32700000,
+    "score": 0.5303
+  },
+  {
+    "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
+    "in_stock": true,
+    "units_sold": 58,
+    "revenue": 22312000,
+    "score": 0.4822
   },
   {
     "handle": "3-in-1-foldable-treadmill",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 1290000,
-    "score": 0.1168
+    "score": 0.1165
   },
   {
     "handle": "prexobeam-mini-portable-smart-projector",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 620000,
-    "score": 0.1121
+    "score": 0.1115
   },
   {
     "handle": "keyfold-pro-foldable-bluetooth-keyboard",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 310000,
-    "score": 0.1087
+    "score": 0.1081
   },
   {
     "handle": "ufo-raindrop-humidifier",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 276000,
-    "score": 0.1083
+    "score": 0.1078
   },
   {
     "handle": "solarsecure-360-full-color-night-vision-security-camera",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 445000,
-    "score": 0.1075
+    "score": 0.1073
   },
   {
     "handle": "mini-exercise-stepper-pro",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 245000,
-    "score": 0.1053
+    "score": 0.1051
   },
   {
     "handle": "anker-soundcore-pyro-mini",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 180000,
-    "score": 0.1046
+    "score": 0.1043
   },
   {
     "handle": "bonfire-humidifier-1",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 135000,
-    "score": 0.1041
+    "score": 0.1038
   },
   {
     "handle": "green-lion-digital-luggage-scale-50-kg-max",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 95000,
-    "score": 0.1037
+    "score": 0.1034
   },
   {
     "handle": "porodo-lifestyle-air-boost-turbo-fan",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 95000,
-    "score": 0.1037
+    "score": 0.1034
   },
   {
     "handle": "swiftmop™-effortless-spray-cleaning-in-seconds",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 98000,
-    "score": 0.1037
+    "score": 0.1034
   },
   {
     "handle": "14-quad-monitor-laptop-screen-extender",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "4k-triple-lens-solar-security-light-camera-360-smart-protection",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
@@ -126,35 +133,7 @@
     "score": 0.1
   },
   {
-    "handle": "amaya-tk04-earbuds",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "amazon-echo-dot-smart-speaker-alexa-5th-gen",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "amazon-echo-pop-compact-smart-speaker",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
     "handle": "anker-soundcore-glow",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "apple-air-tag",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
@@ -518,167 +497,6 @@
     "score": 0.1
   },
   {
-    "handle": "jbl-boombox-3",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "jbl-endurance-peak-3",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "jbl-go-4-ultra-portable-bluetooth®-speaker",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "jbl-live-770nc-over-ear-headphones-black",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "jbl-live-770nc-over-ear-headphones",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "jbl-live-770nc-over-ear-headphones-sandstone",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "jbl-live-770nc-over-ear-headphones-white",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "jbl-tune-520bt-wireless-on-ear-headphones-black",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "jbl-tune-520bt-wireless-on-ear-headphones-blue",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "jbl-tune-520bt-wireless-on-ear-headphones-purple",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "jbl-tune-520bt-wireless-on-ear-headphones-white",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "copy-jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones-black",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones-white",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "jbl-tune-buds-true-wireless-anc-earbuds",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "jbl-tune-buds-true-wireless-anc-earbuds-blue",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "jbl-tune-buds-true-wireless-anc-earbuds-purple",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "jbl-tune-buds-true-wireless-anc-earbuds-white",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "jbl-vibe-flex-true-wireless-earbuds",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "jbl-wave-flex-2",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "jbl-wave-flex-2-blue",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "jbl-wave-flex-2-pink",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "jbl-wave-flex-2-white",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
     "handle": "jellyfish-humidifier",
     "in_stock": true,
     "units_sold": 0,
@@ -967,13 +785,6 @@
   },
   {
     "handle": "rotator-arm-shoulder-strength-trainer",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "samsung-galaxy-smarttag2",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
