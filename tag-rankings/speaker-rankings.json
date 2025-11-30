@@ -111,61 +111,6 @@
     "rank": 4
   },
   {
-    "handle": "jbl-boombox-3",
-    "title": "JBL Boombox 3",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_30d67d11-5218-4078-af16-ebddbc647b37.png?v=1761829487",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "JBL",
-      "Portable Speakers",
-      "Speaker"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 1720000,
-          "sale_price": 1590000,
-          "percentage_off": 8
-        }
-      ],
-      "min_regular_price": 1720000,
-      "max_regular_price": 1720000,
-      "min_sale_price": 1590000,
-      "max_sale_price": 1590000
-    },
-    "rank": 5
-  },
-  {
-    "handle": "jbl-go-4-ultra-portable-bluetooth®-speaker",
-    "title": "JBL Go 4 — Ultra-Portable Bluetooth® Speaker",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_6c34340b-afd4-41aa-bed4-a6885ea6b09b.webp?v=1754661617",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "JBL",
-      "Music",
-      "Portable Speakers",
-      "Speaker"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 290000,
-          "sale_price": 245000,
-          "percentage_off": 16
-        }
-      ],
-      "min_regular_price": 290000,
-      "max_regular_price": 290000,
-      "min_sale_price": 245000,
-      "max_sale_price": 245000
-    },
-    "rank": 6
-  },
-  {
     "handle": "porodo-bluetooth-conference-speaker",
     "title": "Porodo Bluetooth Conference Speaker",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_91341ad2-6c6d-4b06-b59d-00198e3269d9.webp?v=1754651692",
@@ -191,7 +136,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 7
+    "rank": 5
   },
   {
     "handle": "sony-srs-xb100-wireless-speaker",
@@ -219,7 +164,7 @@
       "min_sale_price": 279000,
       "max_sale_price": 279000
     },
-    "rank": 8
+    "rank": 6
   },
   {
     "handle": "vintage-mini-wireless-speaker-classic-looks-modern-sound",
@@ -246,7 +191,7 @@
       "min_sale_price": 229000,
       "max_sale_price": 229000
     },
-    "rank": 9
+    "rank": 7
   },
   {
     "handle": "vsonic-mars-levitating-magnetic-speaker",
@@ -272,7 +217,7 @@
       "min_sale_price": 1850000,
       "max_sale_price": 1850000
     },
-    "rank": 10
+    "rank": 8
   },
   {
     "handle": "waterproof-mini-bluetooth-speaker-big-sound-tiny-body",
@@ -299,7 +244,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 11
+    "rank": 9
   },
   {
     "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
@@ -327,7 +272,7 @@
       "min_sale_price": 155000,
       "max_sale_price": 155000
     },
-    "rank": 12
+    "rank": 10
   },
   {
     "handle": "magic-speaker-bulb-light-sound-combined",
@@ -356,6 +301,6 @@
       "min_sale_price": 98000,
       "max_sale_price": 98000
     },
-    "rank": 13
+    "rank": 11
   }
 ]

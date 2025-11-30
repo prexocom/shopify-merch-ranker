@@ -2,9 +2,9 @@
   {
     "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
     "title": "3-in-1 Deluxe Baby Bassinet – Sleep, Soothe & Grow",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_6481890b-5d03-4c78-be85-60487eaa3378.jpg?v=1764387611",
-    "units_sold": 55,
-    "revenue": 21067000,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c57dc771-408f-4175-8cdc-a9a4dbd8af8c.jpg?v=1764490865",
+    "units_sold": 58,
+    "revenue": 22312000,
     "tags": [
       "Babies",
       "Baby Essentials",
@@ -14,15 +14,15 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 440000,
-          "sale_price": 385000,
-          "percentage_off": 13
+          "regular_price": 490000,
+          "sale_price": 415000,
+          "percentage_off": 15
         }
       ],
-      "min_regular_price": 440000,
-      "max_regular_price": 440000,
-      "min_sale_price": 385000,
-      "max_sale_price": 385000
+      "min_regular_price": 490000,
+      "max_regular_price": 490000,
+      "min_sale_price": 415000,
+      "max_sale_price": 415000
     },
     "rank": 1
   }

@@ -4,8 +4,8 @@
       "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
       "title": "TriFoldView Pro - Portable Screen Extender",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bf492e8c-0a5f-41fe-b666-3ddf7ce8cb0b.jpg?v=1749641740",
-      "units_sold": 24,
-      "revenue": 26100000,
+      "units_sold": 30,
+      "revenue": 32700000,
       "tags": [
         "Computer Accessories",
         "Laptop Accessories"
@@ -305,9 +305,9 @@
     {
       "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
       "title": "3-in-1 Deluxe Baby Bassinet – Sleep, Soothe & Grow",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_6481890b-5d03-4c78-be85-60487eaa3378.jpg?v=1764387611",
-      "units_sold": 55,
-      "revenue": 21067000,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c57dc771-408f-4175-8cdc-a9a4dbd8af8c.jpg?v=1764490865",
+      "units_sold": 58,
+      "revenue": 22312000,
       "tags": [
         "Babies",
         "Baby Essentials",
@@ -317,15 +317,15 @@
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 440000,
-            "sale_price": 385000,
-            "percentage_off": 13
+            "regular_price": 490000,
+            "sale_price": 415000,
+            "percentage_off": 15
           }
         ],
-        "min_regular_price": 440000,
-        "max_regular_price": 440000,
-        "min_sale_price": 385000,
-        "max_sale_price": 385000
+        "min_regular_price": 490000,
+        "max_regular_price": 490000,
+        "min_sale_price": 415000,
+        "max_sale_price": 415000
       },
       "rank": 1
     }
@@ -334,9 +334,9 @@
     {
       "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
       "title": "3-in-1 Deluxe Baby Bassinet – Sleep, Soothe & Grow",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_6481890b-5d03-4c78-be85-60487eaa3378.jpg?v=1764387611",
-      "units_sold": 55,
-      "revenue": 21067000,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c57dc771-408f-4175-8cdc-a9a4dbd8af8c.jpg?v=1764490865",
+      "units_sold": 58,
+      "revenue": 22312000,
       "tags": [
         "Babies",
         "Baby Essentials",
@@ -346,15 +346,15 @@
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 440000,
-            "sale_price": 385000,
-            "percentage_off": 13
+            "regular_price": 490000,
+            "sale_price": 415000,
+            "percentage_off": 15
           }
         ],
-        "min_regular_price": 440000,
-        "max_regular_price": 440000,
-        "min_sale_price": 385000,
-        "max_sale_price": 385000
+        "min_regular_price": 490000,
+        "max_regular_price": 490000,
+        "min_sale_price": 415000,
+        "max_sale_price": 415000
       },
       "rank": 1
     }
@@ -364,8 +364,8 @@
       "handle": "lumifan-360-light-fan",
       "title": "LumiFan™ – Transform Your Room in Minutes",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3309b47252b00d69970a66cfd5863891_1_1.png?v=1757943596",
-      "units_sold": 114,
-      "revenue": 16543000,
+      "units_sold": 128,
+      "revenue": 18433000,
       "tags": [
         "Home Decor",
         "Lighting"
@@ -389,9 +389,9 @@
     {
       "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
       "title": "3-in-1 Deluxe Baby Bassinet – Sleep, Soothe & Grow",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_6481890b-5d03-4c78-be85-60487eaa3378.jpg?v=1764387611",
-      "units_sold": 55,
-      "revenue": 21067000,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c57dc771-408f-4175-8cdc-a9a4dbd8af8c.jpg?v=1764490865",
+      "units_sold": 58,
+      "revenue": 22312000,
       "tags": [
         "Babies",
         "Baby Essentials",
@@ -401,15 +401,15 @@
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 440000,
-            "sale_price": 385000,
-            "percentage_off": 13
+            "regular_price": 490000,
+            "sale_price": 415000,
+            "percentage_off": 15
           }
         ],
-        "min_regular_price": 440000,
-        "max_regular_price": 440000,
-        "min_sale_price": 385000,
-        "max_sale_price": 385000
+        "min_regular_price": 490000,
+        "max_regular_price": 490000,
+        "min_sale_price": 415000,
+        "max_sale_price": 415000
       },
       "rank": 2
     },
@@ -960,1062 +960,243 @@
       "rank": 3
     }
   ],
-  "Earbuds": [
+  "Security Cameras": [
     {
-      "handle": "amaya-tk04-earbuds",
-      "title": "Amaya TK04 Earbuds",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_67ad79eb-079b-4c86-8962-b1eb035e6d4c.jpg?v=1754387060",
-      "units_sold": 0,
-      "revenue": 0,
+      "handle": "solarsecure-360-full-color-night-vision-security-camera",
+      "title": "SolarSecure 360 – Full-Color Night Vision Security Camera",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_df6ee820-3071-4a55-88de-4472b6b10155.webp?v=1749641793",
+      "units_sold": 1,
+      "revenue": 445000,
       "tags": [
-        "Earbuds",
-        "Phone Accessories"
+        "Security Cameras"
       ],
       "pricing": {
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 130000,
-            "sale_price": 98000,
-            "percentage_off": 25
+            "regular_price": 650000,
+            "sale_price": 495000,
+            "percentage_off": 24
           }
         ],
-        "min_regular_price": 130000,
-        "max_regular_price": 130000,
-        "min_sale_price": 98000,
-        "max_sale_price": 98000
+        "min_regular_price": 650000,
+        "max_regular_price": 650000,
+        "min_sale_price": 495000,
+        "max_sale_price": 495000
       },
       "rank": 1
     },
     {
-      "handle": "green-lion-classic-true-wireless-earbuds",
-      "title": "Green Lion Classic True Wireless Earbuds",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c19842d3-0588-430a-85e1-964e413d1d6a.jpg?v=1755628979",
+      "handle": "4k-triple-lens-solar-security-light-camera-360-smart-protection",
+      "title": "4K Triple-Lens Solar Security Light Camera",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_89ef438a-e4ec-428e-92dd-bbcd01f55a64.jpg?v=1764480074",
       "units_sold": 0,
       "revenue": 0,
       "tags": [
-        "Earbuds",
-        "Green Lion"
+        "Security Cameras"
       ],
       "pricing": {
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 150000,
-            "sale_price": 125000,
-            "percentage_off": 17
+            "regular_price": 800000,
+            "sale_price": 650000,
+            "percentage_off": 19
           }
         ],
-        "min_regular_price": 150000,
-        "max_regular_price": 150000,
-        "min_sale_price": 125000,
-        "max_sale_price": 125000
+        "min_regular_price": 800000,
+        "max_regular_price": 800000,
+        "min_sale_price": 650000,
+        "max_sale_price": 650000
       },
       "rank": 2
     },
     {
-      "handle": "green-lion-ocean-open-ear-headphones",
-      "title": "Green Lion Ocean Open-Ear Headphones",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b05825b3-5030-4366-a8a5-e1e5978b508f.jpg?v=1755898196",
+      "handle": "powerology-360-security-camera-dual-lens",
+      "title": "Powerology 360° Security Camera (Dual-Lens)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d35489d0-2abf-49a8-8df0-775493b8c426.webp?v=1760504093",
       "units_sold": 0,
       "revenue": 0,
       "tags": [
-        "Earbuds",
-        "Green Lion"
+        "Powerology",
+        "Security Cameras"
       ],
       "pricing": {
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 170000,
-            "sale_price": 135000,
-            "percentage_off": 21
+            "regular_price": 730000,
+            "sale_price": 650000,
+            "percentage_off": 11
           }
         ],
-        "min_regular_price": 170000,
-        "max_regular_price": 170000,
-        "min_sale_price": 135000,
-        "max_sale_price": 135000
+        "min_regular_price": 730000,
+        "max_regular_price": 730000,
+        "min_sale_price": 650000,
+        "max_sale_price": 650000
       },
       "rank": 3
     },
     {
-      "handle": "jbl-endurance-peak-3",
-      "title": "JBL Endurance Peak 3",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_081200a4-f62a-4e8e-92d9-4810856a2ed6.jpg?v=1755332898",
+      "handle": "powerology-built-in-solar-outdoor-camera",
+      "title": "Powerology Built-in Solar Outdoor Camera",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f6cb4452-0bd6-4c0c-843f-8d888ebdcf24.webp?v=1754595537",
       "units_sold": 0,
       "revenue": 0,
       "tags": [
-        "Earbuds",
-        "JBL"
+        "Powerology",
+        "Security Cameras",
+        "Smart Home"
       ],
       "pricing": {
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 480000,
-            "sale_price": 445000,
-            "percentage_off": 7
+            "regular_price": 400000,
+            "sale_price": 320000,
+            "percentage_off": 20
           }
         ],
-        "min_regular_price": 480000,
-        "max_regular_price": 480000,
-        "min_sale_price": 445000,
-        "max_sale_price": 445000
+        "min_regular_price": 400000,
+        "max_regular_price": 400000,
+        "min_sale_price": 320000,
+        "max_sale_price": 320000
       },
       "rank": 4
     },
     {
-      "handle": "jbl-tune-buds-true-wireless-anc-earbuds",
-      "title": "JBL Tune Buds – True Wireless ANC Earbuds",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a8797835-9b51-4bc6-8839-2f3b090a7fdf.webp?v=1755330412",
+      "handle": "powerology-built-in-solar-pan-tilt-outdoor-camera-2k",
+      "title": "Powerology Built-In Solar Pan & Tilt Outdoor Camera – 2K",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_43165118-1a19-43de-aa7d-128871d5ad1d.webp?v=1754595959",
       "units_sold": 0,
       "revenue": 0,
       "tags": [
-        "Earbuds",
-        "JBL"
+        "Powerology",
+        "Security Cameras",
+        "Smart Home"
       ],
       "pricing": {
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 420000,
-            "sale_price": 369000,
+            "regular_price": 450000,
+            "sale_price": 395000,
             "percentage_off": 12
           }
         ],
-        "min_regular_price": 420000,
-        "max_regular_price": 420000,
-        "min_sale_price": 369000,
-        "max_sale_price": 369000
+        "min_regular_price": 450000,
+        "max_regular_price": 450000,
+        "min_sale_price": 395000,
+        "max_sale_price": 395000
       },
       "rank": 5
     },
     {
-      "handle": "jbl-tune-buds-true-wireless-anc-earbuds-blue",
-      "title": "JBL Tune Buds – True Wireless ANC Earbuds (Blue)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f9561e1c-f0fe-4f32-9b4f-5b2d580e606f.webp?v=1755331221",
+      "handle": "powerology-indoor-ptz-smart-camera",
+      "title": "Powerology Indoor PTZ Smart Camera",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_497a22c1-5f22-4fda-8d17-18152078d3a8.webp?v=1760507882",
       "units_sold": 0,
       "revenue": 0,
       "tags": [
-        "Earbuds",
-        "JBL"
+        "Powerology",
+        "Security Cameras"
       ],
       "pricing": {
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 420000,
-            "sale_price": 369000,
-            "percentage_off": 12
-          }
-        ],
-        "min_regular_price": 420000,
-        "max_regular_price": 420000,
-        "min_sale_price": 369000,
-        "max_sale_price": 369000
-      },
-      "rank": 6
-    },
-    {
-      "handle": "jbl-tune-buds-true-wireless-anc-earbuds-purple",
-      "title": "JBL Tune Buds – True Wireless ANC Earbuds (Purple)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_00a6ee5a-10eb-404d-be6b-2e6ab08878aa.webp?v=1755331396",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 420000,
-            "sale_price": 369000,
-            "percentage_off": 12
-          }
-        ],
-        "min_regular_price": 420000,
-        "max_regular_price": 420000,
-        "min_sale_price": 369000,
-        "max_sale_price": 369000
-      },
-      "rank": 7
-    },
-    {
-      "handle": "jbl-tune-buds-true-wireless-anc-earbuds-white",
-      "title": "JBL Tune Buds – True Wireless ANC Earbuds (White)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_02ee04a6-c461-45f7-9a4a-49ff7cc91b14.webp?v=1755331476",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 420000,
-            "sale_price": 369000,
-            "percentage_off": 12
-          }
-        ],
-        "min_regular_price": 420000,
-        "max_regular_price": 420000,
-        "min_sale_price": 369000,
-        "max_sale_price": 369000
-      },
-      "rank": 8
-    },
-    {
-      "handle": "jbl-vibe-flex-true-wireless-earbuds",
-      "title": "JBL Vibe Flex – True Wireless Earbuds",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_32d3fe0d-042d-4ef1-af72-7eda77002c4f.webp?v=1755332261",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 300000,
-            "sale_price": 285000,
-            "percentage_off": 5
-          }
-        ],
-        "min_regular_price": 300000,
-        "max_regular_price": 300000,
-        "min_sale_price": 285000,
-        "max_sale_price": 285000
-      },
-      "rank": 9
-    },
-    {
-      "handle": "jbl-wave-flex-2",
-      "title": "JBL Wave Flex 2 (Black)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_782d8386-f774-48ed-b6fd-28b5cdd5fd68.webp?v=1755333900",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 420000,
-            "sale_price": 375000,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 420000,
-        "max_regular_price": 420000,
-        "min_sale_price": 375000,
-        "max_sale_price": 375000
-      },
-      "rank": 10
-    },
-    {
-      "handle": "jbl-wave-flex-2-blue",
-      "title": "JBL Wave Flex 2 (Blue)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b596dd78-398b-460f-bf8a-8baab02ce32e.webp?v=1755334402",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 420000,
-            "sale_price": 375000,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 420000,
-        "max_regular_price": 420000,
-        "min_sale_price": 375000,
-        "max_sale_price": 375000
-      },
-      "rank": 11
-    },
-    {
-      "handle": "jbl-wave-flex-2-pink",
-      "title": "JBL Wave Flex 2 (Pink)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b2b28ce5-2ef8-4dd6-8ac4-20e932d395e2.webp?v=1755334498",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 420000,
-            "sale_price": 375000,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 420000,
-        "max_regular_price": 420000,
-        "min_sale_price": 375000,
-        "max_sale_price": 375000
-      },
-      "rank": 12
-    },
-    {
-      "handle": "jbl-wave-flex-2-white",
-      "title": "JBL Wave Flex 2 (White)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d12a8b61-9c4c-4d92-b7f5-68e6f985da49.webp?v=1755334270",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 420000,
-            "sale_price": 375000,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 420000,
-        "max_regular_price": 420000,
-        "min_sale_price": 375000,
-        "max_sale_price": 375000
-      },
-      "rank": 13
-    },
-    {
-      "handle": "oraimo-freepods-4-anc-true-wireless-earbuds",
-      "title": "Oraimo FreePods 4 – ANC True Wireless Earbuds",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9ccf712e-29e1-4ee9-8cf6-379d0dc97f94.webp?v=1755275949",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "Oraimo"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 225000,
-            "sale_price": 180000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 225000,
-        "max_regular_price": 225000,
-        "min_sale_price": 180000,
-        "max_sale_price": 180000
-      },
-      "rank": 14
-    },
-    {
-      "handle": "powerology-6-mic-hybrid-anc-enc-tws-earbuds",
-      "title": "Powerology 6-Mic Hybrid ANC + ENC TWS Earbuds",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fd9f7ff8-e7dd-4cb8-8c66-3904ea4577f7.jpg?v=1755273381",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "Powerology"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 150000,
-            "sale_price": 120000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 150000,
-        "max_regular_price": 150000,
-        "min_sale_price": 120000,
-        "max_sale_price": 120000
-      },
-      "rank": 15
-    },
-    {
-      "handle": "powerology-air-conduction-enc-tws-earbuds-with-display",
-      "title": "Powerology Air Conduction ENC TWS Earbuds (with Display)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_4ad2a8f9-aa10-471c-8072-562d79c0492a.jpg?v=1755271565",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "Powerology"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 195000,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 195000,
-        "max_sale_price": 195000
-      },
-      "rank": 16
-    },
-    {
-      "handle": "powerology-quad-mic-enc-tws-earbuds",
-      "title": "Powerology Quad Mic ENC TWS Earbuds",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_39b8e672-6735-480f-95a9-6bb30d7ad171.jpg?v=1755272608",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "Powerology"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 95000,
-            "sale_price": 95000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 95000,
-        "max_regular_price": 95000,
-        "min_sale_price": 95000,
-        "max_sale_price": 95000
-      },
-      "rank": 17
-    }
-  ],
-  "Phone Accessories": [
-    {
-      "handle": "keyfold-pro-foldable-bluetooth-keyboard",
-      "title": "Keyfold Pro - Foldable Bluetooth Keyboard",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_03e0123a-e5b8-4d65-a9b0-e76114fc9eb2.jpg?v=1755880560",
-      "units_sold": 2,
-      "revenue": 310000,
-      "tags": [
-        "Computer Accessories",
-        "Keyboards",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 155000,
-            "percentage_off": 30
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 155000,
-        "max_sale_price": 155000
-      },
-      "rank": 1
-    },
-    {
-      "handle": "amaya-tk04-earbuds",
-      "title": "Amaya TK04 Earbuds",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_67ad79eb-079b-4c86-8962-b1eb035e6d4c.jpg?v=1754387060",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 130000,
-            "sale_price": 98000,
-            "percentage_off": 25
-          }
-        ],
-        "min_regular_price": 130000,
-        "max_regular_price": 130000,
-        "min_sale_price": 98000,
-        "max_sale_price": 98000
-      },
-      "rank": 2
-    },
-    {
-      "handle": "apple-air-tag",
-      "title": "Apple Air Tag",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bb51b04a-a8e6-4c95-a2b9-271f93c5a509.jpg?v=1754578643",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Apple",
-        "Phone Accessories",
-        "Smart Tags",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 185000,
-            "sale_price": 185000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 185000,
-        "max_regular_price": 185000,
-        "min_sale_price": 185000,
-        "max_sale_price": 185000
-      },
-      "rank": 3
-    },
-    {
-      "handle": "auto-face-tracking-tripod-gimbal",
-      "title": "Auto Face Tracking Tripod Gimbal",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d88a6ddd-204b-47b1-82b0-975d2f3f2ead.jpg?v=1761833359",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Camera",
-        "Gimbal",
-        "Gimbals",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 250000,
-            "sale_price": 199000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 250000,
-        "max_regular_price": 250000,
-        "min_sale_price": 199000,
-        "max_sale_price": 199000
-      },
-      "rank": 4
-    },
-    {
-      "handle": "automatic-clamping-car-phone-holder",
-      "title": "Automatic Clamping Car Phone Holder",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b9689fc7-e574-4954-b13d-5c86d933069a.jpg?v=1754601184",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Car Gadgets",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 240000,
-            "sale_price": 185000,
-            "percentage_off": 23
-          }
-        ],
-        "min_regular_price": 240000,
-        "max_regular_price": 240000,
-        "min_sale_price": 185000,
-        "max_sale_price": 185000
-      },
-      "rank": 5
-    },
-    {
-      "handle": "green-lion-auto-track-gimbal-stabilizer",
-      "title": "Green Lion Auto Track Gimbal Stabilizer",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d3945714-bb75-418e-a3a0-a38147e828af.webp?v=1754571795",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Camera",
-        "Gimbal",
-        "Gimbals",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 200000,
+            "regular_price": 165000,
             "sale_price": 165000,
-            "percentage_off": 18
+            "percentage_off": 0
           }
         ],
-        "min_regular_price": 200000,
-        "max_regular_price": 200000,
+        "min_regular_price": 165000,
+        "max_regular_price": 165000,
         "min_sale_price": 165000,
         "max_sale_price": 165000
       },
       "rank": 6
     },
     {
-      "handle": "green-lion-gan-65w-multi-port-travel-adapter",
-      "title": "Green Lion GaN 65W Multi-Port Travel Adapter",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3813bdf2-ef52-46b9-8aa4-c293c0734f0c.jpg?v=1754754721",
+      "handle": "xiaomi-outdoor-camera-cw300",
+      "title": "Xiaomi Outdoor Camera CW300",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_583c5985-4fcb-422f-97f9-e77f0ef4dbfe.webp?v=1754597009",
       "units_sold": 0,
       "revenue": 0,
       "tags": [
-        "Adapters & Chargers",
-        "Computer Accessories",
-        "Green Lion",
-        "Office",
-        "Phone Accessories",
-        "Phone Chargers",
-        "Wireless Chargers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 350000,
-            "sale_price": 290000,
-            "percentage_off": 17
-          }
-        ],
-        "min_regular_price": 350000,
-        "max_regular_price": 350000,
-        "min_sale_price": 290000,
-        "max_sale_price": 290000
-      },
-      "rank": 7
-    },
-    {
-      "handle": "green-lion-mouse-pad-with-wireless-charger",
-      "title": "Green Lion Mouse Pad with Wireless Charger",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1e3bd37e-62d8-4170-a8ed-e20eceeefdf3.jpg?v=1755549275",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Green Lion",
-        "Phone Accessories",
-        "Phone Chargers",
-        "Wireless Chargers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 180000,
-            "sale_price": 145000,
-            "percentage_off": 19
-          }
-        ],
-        "min_regular_price": 180000,
-        "max_regular_price": 180000,
-        "min_sale_price": 145000,
-        "max_sale_price": 145000
-      },
-      "rank": 8
-    },
-    {
-      "handle": "green-lion-new-york-gimbal-smart-face-tracking",
-      "title": "Green Lion New York Gimbal Smart Face Tracking",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fbe6d529-a264-4f5a-85ca-6fad12eb8a71.webp?v=1754599471",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Camera",
-        "Gimbal",
-        "Gimbals",
-        "Green Lion",
-        "Phone Accessories",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 460000,
-            "sale_price": 425000,
-            "percentage_off": 8
-          }
-        ],
-        "min_regular_price": 460000,
-        "max_regular_price": 460000,
-        "min_sale_price": 425000,
-        "max_sale_price": 425000
-      },
-      "rank": 9
-    },
-    {
-      "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
-      "title": "Green Lion Power Trio™ – 3-in-1 Magnetic Wireless Charger",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ee366daa-24a3-46b9-9846-910d007df480.jpg?v=1749641860",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Phone Accessories",
-        "Phone Chargers",
-        "Wireless Chargers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 185000,
-            "percentage_off": 16
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 185000,
-        "max_sale_price": 185000
-      },
-      "rank": 10
-    },
-    {
-      "handle": "keyfold-pro-2-foldable-bluetooth-keyboard",
-      "title": "Keyfold Pro 2 - Foldable Bluetooth Keyboard",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f14edf69-1add-47c3-bd91-4eae73628f34.jpg?v=1755880560",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Keyboards",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 155000,
-            "percentage_off": 30
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 155000,
-        "max_sale_price": 155000
-      },
-      "rank": 11
-    },
-    {
-      "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
-      "title": "Porodo 3‑Axis Gimbal Stabilizer with Magnetic Fill Light",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2087b3da-f4f0-42f3-b9bc-ea20e7af57d7.jpg?v=1754597732",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Camera",
-        "Gimbal",
-        "Gimbals",
-        "Phone Accessories",
-        "Porodo",
-        "Travel"
+        "Security Cameras",
+        "Smart Home",
+        "Xiaomi"
       ],
       "pricing": {
         "variants": [
           {
             "title": "Default Title",
             "regular_price": 370000,
-            "sale_price": 315000,
-            "percentage_off": 15
+            "sale_price": 320000,
+            "percentage_off": 14
           }
         ],
         "min_regular_price": 370000,
         "max_regular_price": 370000,
-        "min_sale_price": 315000,
-        "max_sale_price": 315000
+        "min_sale_price": 320000,
+        "max_sale_price": 320000
       },
-      "rank": 12
+      "rank": 7
     },
     {
-      "handle": "porodo-quadbase-gimbal-stabilizer",
-      "title": "Porodo QuadBase Gimbal Stabilizer",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_8184ec40-15b5-4dda-8826-2552adb552bb.webp?v=1754598461",
+      "handle": "xiaomi-smart-camera-c300",
+      "title": "Xiaomi Smart Camera C300",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5afa0b0f-21a2-400b-bfcc-3b1f0cc1d874.jpg?v=1754577759",
       "units_sold": 0,
       "revenue": 0,
       "tags": [
-        "Camera",
-        "Gimbal",
-        "Gimbals",
-        "Phone Accessories",
-        "Porodo",
-        "Travel"
+        "Security Cameras",
+        "Smart Home",
+        "Xiaomi"
       ],
       "pricing": {
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 175000,
-            "percentage_off": 20
+            "regular_price": 270000,
+            "sale_price": 225000,
+            "percentage_off": 17
           }
         ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 175000,
-        "max_sale_price": 175000
+        "min_regular_price": 270000,
+        "max_regular_price": 270000,
+        "min_sale_price": 225000,
+        "max_sale_price": 225000
       },
-      "rank": 13
+      "rank": 8
     },
     {
-      "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
-      "title": "Powerology Ultra-Slim Full HD Portable Monitor 15.6\"",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d0e7a5a3-ea2b-4aa6-a746-213a3d4df581.webp?v=1754755760",
+      "handle": "xiaomi-smart-camera-c300-dual-lens-2k-wi-fi-6",
+      "title": "Xiaomi Smart Camera C300 Dual-Lens (2K, Wi-Fi 6)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_8e76fce9-4228-486a-b610-dd6bbc6932f6.webp?v=1754596460",
       "units_sold": 0,
       "revenue": 0,
       "tags": [
-        "Computer Accessories",
-        "Office",
-        "Phone Accessories",
-        "Portable Monitor",
-        "Powerology"
+        "Security Cameras",
+        "Smart Home",
+        "Xiaomi"
       ],
       "pricing": {
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 700000,
-            "sale_price": 620000,
-            "percentage_off": 11
+            "regular_price": 420000,
+            "sale_price": 345000,
+            "percentage_off": 18
           }
         ],
-        "min_regular_price": 700000,
-        "max_regular_price": 700000,
-        "min_sale_price": 620000,
-        "max_sale_price": 620000
+        "min_regular_price": 420000,
+        "max_regular_price": 420000,
+        "min_sale_price": 345000,
+        "max_sale_price": 345000
       },
-      "rank": 14
-    },
-    {
-      "handle": "prexoplay-wireless-bluetooth-game-controller",
-      "title": "PrexoPlay – Wireless Bluetooth Game Controller",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_287bda09-5cdd-48bc-88af-7144f01050ef.png?v=1749641692",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Entertainment",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 129000,
-            "sale_price": 75000,
-            "percentage_off": 42
-          }
-        ],
-        "min_regular_price": 129000,
-        "max_regular_price": 129000,
-        "min_sale_price": 75000,
-        "max_sale_price": 75000
-      },
-      "rank": 15
-    },
-    {
-      "handle": "samsung-galaxy-smarttag2",
-      "title": "Samsung Galaxy SmartTag2",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0a458098-4ac0-40b2-a12e-63696b8e963e.jpg?v=1754579664",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Phone Accessories",
-        "Samsung",
-        "Smart Tags",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 137000,
-            "sale_price": 137000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 137000,
-        "max_regular_price": 137000,
-        "min_sale_price": 137000,
-        "max_sale_price": 137000
-      },
-      "rank": 16
-    },
-    {
-      "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
-      "title": "TELESIN Magnetic Funshot Camera Phone Grip Holder",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f58f32b3-feec-4dd2-a490-9c1e63ce346d.jpg?v=1762981511",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Camera",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 250000,
-            "sale_price": 185000,
-            "percentage_off": 26
-          }
-        ],
-        "min_regular_price": 250000,
-        "max_regular_price": 250000,
-        "min_sale_price": 185000,
-        "max_sale_price": 185000
-      },
-      "rank": 17
-    }
-  ],
-  "Amazon": [
-    {
-      "handle": "amazon-echo-dot-smart-speaker-alexa-5th-gen",
-      "title": "Amazon Echo Dot Smart Speaker & Alexa 5th Gen",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_4fb9f0c8-9879-4fa2-a45c-9aeb794e650e.jpg?v=1749641584",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Amazon",
-        "Smart Speakers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 470000,
-            "sale_price": 380000,
-            "percentage_off": 19
-          }
-        ],
-        "min_regular_price": 470000,
-        "max_regular_price": 470000,
-        "min_sale_price": 380000,
-        "max_sale_price": 380000
-      },
-      "rank": 1
-    },
-    {
-      "handle": "amazon-echo-pop-compact-smart-speaker",
-      "title": "Amazon Echo Pop Compact Smart Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_63f21a50-7db3-40a0-b380-03dc3659090f.jpg?v=1749641564",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Amazon",
-        "Smart Speakers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 480000,
-            "sale_price": 390000,
-            "percentage_off": 19
-          }
-        ],
-        "min_regular_price": 480000,
-        "max_regular_price": 480000,
-        "min_sale_price": 390000,
-        "max_sale_price": 390000
-      },
-      "rank": 2
-    }
-  ],
-  "Smart Speakers": [
-    {
-      "handle": "amazon-echo-dot-smart-speaker-alexa-5th-gen",
-      "title": "Amazon Echo Dot Smart Speaker & Alexa 5th Gen",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_4fb9f0c8-9879-4fa2-a45c-9aeb794e650e.jpg?v=1749641584",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Amazon",
-        "Smart Speakers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 470000,
-            "sale_price": 380000,
-            "percentage_off": 19
-          }
-        ],
-        "min_regular_price": 470000,
-        "max_regular_price": 470000,
-        "min_sale_price": 380000,
-        "max_sale_price": 380000
-      },
-      "rank": 1
-    },
-    {
-      "handle": "amazon-echo-pop-compact-smart-speaker",
-      "title": "Amazon Echo Pop Compact Smart Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_63f21a50-7db3-40a0-b380-03dc3659090f.jpg?v=1749641564",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Amazon",
-        "Smart Speakers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 480000,
-            "sale_price": 390000,
-            "percentage_off": 19
-          }
-        ],
-        "min_regular_price": 480000,
-        "max_regular_price": 480000,
-        "min_sale_price": 390000,
-        "max_sale_price": 390000
-      },
-      "rank": 2
-    },
-    {
-      "handle": "vsonic-mars-levitating-magnetic-speaker",
-      "title": "Vsonic Mars Levitating Magnetic Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_10aff36a-f874-4ee8-b163-cd5ca1f64954.jpg?v=1760502930",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Smart Speakers",
-        "Speaker"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 2100000,
-            "sale_price": 1850000,
-            "percentage_off": 12
-          }
-        ],
-        "min_regular_price": 2100000,
-        "max_regular_price": 2100000,
-        "min_sale_price": 1850000,
-        "max_sale_price": 1850000
-      },
-      "rank": 3
+      "rank": 9
     }
   ],
   "Anker": [
@@ -2215,34 +1396,6 @@
       "rank": 5
     },
     {
-      "handle": "jbl-go-4-ultra-portable-bluetooth®-speaker",
-      "title": "JBL Go 4 — Ultra-Portable Bluetooth® Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_6c34340b-afd4-41aa-bed4-a6885ea6b09b.webp?v=1754661617",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "JBL",
-        "Music",
-        "Portable Speakers",
-        "Speaker"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 290000,
-            "sale_price": 245000,
-            "percentage_off": 16
-          }
-        ],
-        "min_regular_price": 290000,
-        "max_regular_price": 290000,
-        "min_sale_price": 245000,
-        "max_sale_price": 245000
-      },
-      "rank": 6
-    },
-    {
       "handle": "porodo-bluetooth-conference-speaker",
       "title": "Porodo Bluetooth Conference Speaker",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_91341ad2-6c6d-4b06-b59d-00198e3269d9.webp?v=1754651692",
@@ -2268,7 +1421,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 7
+      "rank": 6
     },
     {
       "handle": "sony-srs-xb100-wireless-speaker",
@@ -2296,7 +1449,7 @@
         "min_sale_price": 279000,
         "max_sale_price": 279000
       },
-      "rank": 8
+      "rank": 7
     },
     {
       "handle": "vintage-mini-wireless-speaker-classic-looks-modern-sound",
@@ -2323,7 +1476,7 @@
         "min_sale_price": 229000,
         "max_sale_price": 229000
       },
-      "rank": 9
+      "rank": 8
     },
     {
       "handle": "waterproof-mini-bluetooth-speaker-big-sound-tiny-body",
@@ -2350,7 +1503,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 10
+      "rank": 9
     },
     {
       "handle": "wireless-bluetooth-headband-comfort-meets-sound",
@@ -2376,7 +1529,7 @@
         "min_sale_price": 115000,
         "max_sale_price": 115000
       },
-      "rank": 11
+      "rank": 10
     },
     {
       "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
@@ -2404,7 +1557,7 @@
         "min_sale_price": 155000,
         "max_sale_price": 155000
       },
-      "rank": 12
+      "rank": 11
     },
     {
       "handle": "magic-speaker-bulb-light-sound-combined",
@@ -2433,7 +1586,7 @@
         "min_sale_price": 98000,
         "max_sale_price": 98000
       },
-      "rank": 13
+      "rank": 12
     }
   ],
   "Portable Speakers": [
@@ -2653,61 +1806,6 @@
       "rank": 8
     },
     {
-      "handle": "jbl-boombox-3",
-      "title": "JBL Boombox 3",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_30d67d11-5218-4078-af16-ebddbc647b37.png?v=1761829487",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "JBL",
-        "Portable Speakers",
-        "Speaker"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 1720000,
-            "sale_price": 1590000,
-            "percentage_off": 8
-          }
-        ],
-        "min_regular_price": 1720000,
-        "max_regular_price": 1720000,
-        "min_sale_price": 1590000,
-        "max_sale_price": 1590000
-      },
-      "rank": 9
-    },
-    {
-      "handle": "jbl-go-4-ultra-portable-bluetooth®-speaker",
-      "title": "JBL Go 4 — Ultra-Portable Bluetooth® Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_6c34340b-afd4-41aa-bed4-a6885ea6b09b.webp?v=1754661617",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "JBL",
-        "Music",
-        "Portable Speakers",
-        "Speaker"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 290000,
-            "sale_price": 245000,
-            "percentage_off": 16
-          }
-        ],
-        "min_regular_price": 290000,
-        "max_regular_price": 290000,
-        "min_sale_price": 245000,
-        "max_sale_price": 245000
-      },
-      "rank": 10
-    },
-    {
       "handle": "oraimo-soundflow-50w-wireless-speaker",
       "title": "Oraimo SoundFlow 50W Wireless Speaker",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_97178671-4d50-4567-a345-533b1a149aa2.jpg?v=1755278186",
@@ -2731,7 +1829,7 @@
         "min_sale_price": 250000,
         "max_sale_price": 250000
       },
-      "rank": 11
+      "rank": 9
     },
     {
       "handle": "porodo-bluetooth-conference-speaker",
@@ -2759,7 +1857,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 12
+      "rank": 10
     },
     {
       "handle": "sony-srs-xb100-wireless-speaker",
@@ -2787,7 +1885,7 @@
         "min_sale_price": 279000,
         "max_sale_price": 279000
       },
-      "rank": 13
+      "rank": 11
     },
     {
       "handle": "vintage-mini-wireless-speaker-classic-looks-modern-sound",
@@ -2814,7 +1912,7 @@
         "min_sale_price": 229000,
         "max_sale_price": 229000
       },
-      "rank": 14
+      "rank": 12
     },
     {
       "handle": "waterproof-mini-bluetooth-speaker-big-sound-tiny-body",
@@ -2841,7 +1939,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 15
+      "rank": 13
     },
     {
       "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
@@ -2869,7 +1967,7 @@
         "min_sale_price": 155000,
         "max_sale_price": 155000
       },
-      "rank": 16
+      "rank": 14
     }
   ],
   "Speaker": [
@@ -2985,61 +2083,6 @@
       "rank": 4
     },
     {
-      "handle": "jbl-boombox-3",
-      "title": "JBL Boombox 3",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_30d67d11-5218-4078-af16-ebddbc647b37.png?v=1761829487",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "JBL",
-        "Portable Speakers",
-        "Speaker"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 1720000,
-            "sale_price": 1590000,
-            "percentage_off": 8
-          }
-        ],
-        "min_regular_price": 1720000,
-        "max_regular_price": 1720000,
-        "min_sale_price": 1590000,
-        "max_sale_price": 1590000
-      },
-      "rank": 5
-    },
-    {
-      "handle": "jbl-go-4-ultra-portable-bluetooth®-speaker",
-      "title": "JBL Go 4 — Ultra-Portable Bluetooth® Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_6c34340b-afd4-41aa-bed4-a6885ea6b09b.webp?v=1754661617",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "JBL",
-        "Music",
-        "Portable Speakers",
-        "Speaker"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 290000,
-            "sale_price": 245000,
-            "percentage_off": 16
-          }
-        ],
-        "min_regular_price": 290000,
-        "max_regular_price": 290000,
-        "min_sale_price": 245000,
-        "max_sale_price": 245000
-      },
-      "rank": 6
-    },
-    {
       "handle": "porodo-bluetooth-conference-speaker",
       "title": "Porodo Bluetooth Conference Speaker",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_91341ad2-6c6d-4b06-b59d-00198e3269d9.webp?v=1754651692",
@@ -3065,7 +2108,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 7
+      "rank": 5
     },
     {
       "handle": "sony-srs-xb100-wireless-speaker",
@@ -3093,7 +2136,7 @@
         "min_sale_price": 279000,
         "max_sale_price": 279000
       },
-      "rank": 8
+      "rank": 6
     },
     {
       "handle": "vintage-mini-wireless-speaker-classic-looks-modern-sound",
@@ -3120,7 +2163,7 @@
         "min_sale_price": 229000,
         "max_sale_price": 229000
       },
-      "rank": 9
+      "rank": 7
     },
     {
       "handle": "vsonic-mars-levitating-magnetic-speaker",
@@ -3146,7 +2189,7 @@
         "min_sale_price": 1850000,
         "max_sale_price": 1850000
       },
-      "rank": 10
+      "rank": 8
     },
     {
       "handle": "waterproof-mini-bluetooth-speaker-big-sound-tiny-body",
@@ -3173,7 +2216,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 11
+      "rank": 9
     },
     {
       "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
@@ -3201,7 +2244,7 @@
         "min_sale_price": 155000,
         "max_sale_price": 155000
       },
-      "rank": 12
+      "rank": 10
     },
     {
       "handle": "magic-speaker-bulb-light-sound-combined",
@@ -3230,432 +2273,7 @@
         "min_sale_price": 98000,
         "max_sale_price": 98000
       },
-      "rank": 13
-    }
-  ],
-  "Apple": [
-    {
-      "handle": "apple-air-tag",
-      "title": "Apple Air Tag",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bb51b04a-a8e6-4c95-a2b9-271f93c5a509.jpg?v=1754578643",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Apple",
-        "Phone Accessories",
-        "Smart Tags",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 185000,
-            "sale_price": 185000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 185000,
-        "max_regular_price": 185000,
-        "min_sale_price": 185000,
-        "max_sale_price": 185000
-      },
-      "rank": 1
-    }
-  ],
-  "Smart Tags": [
-    {
-      "handle": "apple-air-tag",
-      "title": "Apple Air Tag",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bb51b04a-a8e6-4c95-a2b9-271f93c5a509.jpg?v=1754578643",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Apple",
-        "Phone Accessories",
-        "Smart Tags",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 185000,
-            "sale_price": 185000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 185000,
-        "max_regular_price": 185000,
-        "min_sale_price": 185000,
-        "max_sale_price": 185000
-      },
-      "rank": 1
-    },
-    {
-      "handle": "samsung-galaxy-smarttag2",
-      "title": "Samsung Galaxy SmartTag2",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0a458098-4ac0-40b2-a12e-63696b8e963e.jpg?v=1754579664",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Phone Accessories",
-        "Samsung",
-        "Smart Tags",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 137000,
-            "sale_price": 137000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 137000,
-        "max_regular_price": 137000,
-        "min_sale_price": 137000,
-        "max_sale_price": 137000
-      },
-      "rank": 2
-    }
-  ],
-  "Travel": [
-    {
-      "handle": "green-lion-digital-luggage-scale-50-kg-max",
-      "title": "Green Lion Digital Luggage Scale (50 kg Max)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_010671a0-2256-4d4d-bb91-961ff766fed2.webp?v=1754724471",
-      "units_sold": 1,
-      "revenue": 95000,
-      "tags": [
-        "Green Lion",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 120000,
-            "sale_price": 95000,
-            "percentage_off": 21
-          }
-        ],
-        "min_regular_price": 120000,
-        "max_regular_price": 120000,
-        "min_sale_price": 95000,
-        "max_sale_price": 95000
-      },
-      "rank": 1
-    },
-    {
-      "handle": "porodo-lifestyle-air-boost-turbo-fan",
-      "title": "Porodo Lifestyle Air Boost Turbo Fan",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1118c021-784d-4111-85c5-d7beeaf38ee7.jpg?v=1763021178",
-      "units_sold": 1,
-      "revenue": 95000,
-      "tags": [
-        "Porodo",
-        "Portable Fans",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 130000,
-            "sale_price": 95000,
-            "percentage_off": 27
-          }
-        ],
-        "min_regular_price": 130000,
-        "max_regular_price": 130000,
-        "min_sale_price": 95000,
-        "max_sale_price": 95000
-      },
-      "rank": 2
-    },
-    {
-      "handle": "apple-air-tag",
-      "title": "Apple Air Tag",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bb51b04a-a8e6-4c95-a2b9-271f93c5a509.jpg?v=1754578643",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Apple",
-        "Phone Accessories",
-        "Smart Tags",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 185000,
-            "sale_price": 185000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 185000,
-        "max_regular_price": 185000,
-        "min_sale_price": 185000,
-        "max_sale_price": 185000
-      },
-      "rank": 3
-    },
-    {
-      "handle": "dji-osmo-pocket-3-creator-combo",
-      "title": "DJI Osmo Pocket 3 Creator Combo",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_34e81e7e-0553-4851-a4bf-413e3683107f.jpg?v=1761193411",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Camera",
-        "DJI",
-        "Gadgets",
-        "Gimbals",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 3250000,
-            "sale_price": 3250000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 3250000,
-        "max_regular_price": 3250000,
-        "min_sale_price": 3250000,
-        "max_sale_price": 3250000
-      },
-      "rank": 4
-    },
-    {
-      "handle": "green-lion-new-york-gimbal-smart-face-tracking",
-      "title": "Green Lion New York Gimbal Smart Face Tracking",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fbe6d529-a264-4f5a-85ca-6fad12eb8a71.webp?v=1754599471",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Camera",
-        "Gimbal",
-        "Gimbals",
-        "Green Lion",
-        "Phone Accessories",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 460000,
-            "sale_price": 425000,
-            "percentage_off": 8
-          }
-        ],
-        "min_regular_price": 460000,
-        "max_regular_price": 460000,
-        "min_sale_price": 425000,
-        "max_sale_price": 425000
-      },
-      "rank": 5
-    },
-    {
-      "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
-      "title": "Porodo 3‑Axis Gimbal Stabilizer with Magnetic Fill Light",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2087b3da-f4f0-42f3-b9bc-ea20e7af57d7.jpg?v=1754597732",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Camera",
-        "Gimbal",
-        "Gimbals",
-        "Phone Accessories",
-        "Porodo",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 370000,
-            "sale_price": 315000,
-            "percentage_off": 15
-          }
-        ],
-        "min_regular_price": 370000,
-        "max_regular_price": 370000,
-        "min_sale_price": 315000,
-        "max_sale_price": 315000
-      },
-      "rank": 6
-    },
-    {
-      "handle": "porodo-frostwave-portable-cooling-fan",
-      "title": "Porodo Frostwave Portable Cooling Fan",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d0923c2f-5b10-46ba-9ea2-1c9a6c13887e.jpg?v=1763020563",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Porodo",
-        "Portable Fans",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 110000,
-            "sale_price": 85000,
-            "percentage_off": 23
-          }
-        ],
-        "min_regular_price": 110000,
-        "max_regular_price": 110000,
-        "min_sale_price": 85000,
-        "max_sale_price": 85000
-      },
-      "rank": 7
-    },
-    {
-      "handle": "porodo-quadbase-gimbal-stabilizer",
-      "title": "Porodo QuadBase Gimbal Stabilizer",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_8184ec40-15b5-4dda-8826-2552adb552bb.webp?v=1754598461",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Camera",
-        "Gimbal",
-        "Gimbals",
-        "Phone Accessories",
-        "Porodo",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 175000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 175000,
-        "max_sale_price": 175000
-      },
-      "rank": 8
-    },
-    {
-      "handle": "prexolingo™-smart-voice-translator-supports-30-languages",
-      "title": "PrexoLingo™ – Smart Voice Translator (Supports 30+ Languages)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_13d6a3d7-5ddf-4b62-9e3b-b5bf5c09877e.jpg?v=1754361176",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Gadgets",
-        "Translator",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 500000,
-            "sale_price": 380000,
-            "percentage_off": 24
-          }
-        ],
-        "min_regular_price": 500000,
-        "max_regular_price": 500000,
-        "min_sale_price": 380000,
-        "max_sale_price": 380000
-      },
-      "rank": 9
-    },
-    {
-      "handle": "prexovision-translate™-ai-smart-glasses-with-real-time-translation",
-      "title": "PrexoVision Translate™ – AI Smart Glasses with Real‑Time Translation",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7f3e21c6-7ddf-4694-b085-24b0103d5bf8.jpg?v=1754375910",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Gadgets",
-        "Smart Glasses",
-        "Translator",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 630000,
-            "sale_price": 450000,
-            "percentage_off": 29
-          }
-        ],
-        "min_regular_price": 630000,
-        "max_regular_price": 630000,
-        "min_sale_price": 450000,
-        "max_sale_price": 450000
-      },
-      "rank": 10
-    },
-    {
-      "handle": "samsung-galaxy-smarttag2",
-      "title": "Samsung Galaxy SmartTag2",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0a458098-4ac0-40b2-a12e-63696b8e963e.jpg?v=1754579664",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Phone Accessories",
-        "Samsung",
-        "Smart Tags",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 137000,
-            "sale_price": 137000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 137000,
-        "max_regular_price": 137000,
-        "min_sale_price": 137000,
-        "max_sale_price": 137000
-      },
       "rank": 11
-    },
-    {
-      "handle": "vaultcarry-anti-theft-travel-crossbody-bag",
-      "title": "VaultCarry – Anti-Theft Travel Crossbody Bag",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/He375039303ed4417975bacc31d9a70fea.jpg?v=1752482895",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 180000,
-            "sale_price": 125000,
-            "percentage_off": 31
-          }
-        ],
-        "min_regular_price": 180000,
-        "max_regular_price": 180000,
-        "min_sale_price": 125000,
-        "max_sale_price": 125000
-      },
-      "rank": 12
     }
   ],
   "Humidifiers": [
@@ -3899,8 +2517,8 @@
       "handle": "lumifan-360-light-fan",
       "title": "LumiFan™ – Transform Your Room in Minutes",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3309b47252b00d69970a66cfd5863891_1_1.png?v=1757943596",
-      "units_sold": 114,
-      "revenue": 16543000,
+      "units_sold": 128,
+      "revenue": 18433000,
       "tags": [
         "Home Decor",
         "Lighting"
@@ -4740,6 +3358,404 @@
         "max_sale_price": 175000
       },
       "rank": 10
+    }
+  ],
+  "Phone Accessories": [
+    {
+      "handle": "keyfold-pro-foldable-bluetooth-keyboard",
+      "title": "Keyfold Pro - Foldable Bluetooth Keyboard",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_03e0123a-e5b8-4d65-a9b0-e76114fc9eb2.jpg?v=1755880560",
+      "units_sold": 2,
+      "revenue": 310000,
+      "tags": [
+        "Computer Accessories",
+        "Keyboards",
+        "Phone Accessories"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 220000,
+            "sale_price": 155000,
+            "percentage_off": 30
+          }
+        ],
+        "min_regular_price": 220000,
+        "max_regular_price": 220000,
+        "min_sale_price": 155000,
+        "max_sale_price": 155000
+      },
+      "rank": 1
+    },
+    {
+      "handle": "auto-face-tracking-tripod-gimbal",
+      "title": "Auto Face Tracking Tripod Gimbal",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d88a6ddd-204b-47b1-82b0-975d2f3f2ead.jpg?v=1761833359",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Gimbals",
+        "Phone Accessories"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 250000,
+            "sale_price": 199000,
+            "percentage_off": 20
+          }
+        ],
+        "min_regular_price": 250000,
+        "max_regular_price": 250000,
+        "min_sale_price": 199000,
+        "max_sale_price": 199000
+      },
+      "rank": 2
+    },
+    {
+      "handle": "automatic-clamping-car-phone-holder",
+      "title": "Automatic Clamping Car Phone Holder",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b9689fc7-e574-4954-b13d-5c86d933069a.jpg?v=1754601184",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Car Gadgets",
+        "Phone Accessories"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 240000,
+            "sale_price": 185000,
+            "percentage_off": 23
+          }
+        ],
+        "min_regular_price": 240000,
+        "max_regular_price": 240000,
+        "min_sale_price": 185000,
+        "max_sale_price": 185000
+      },
+      "rank": 3
+    },
+    {
+      "handle": "green-lion-auto-track-gimbal-stabilizer",
+      "title": "Green Lion Auto Track Gimbal Stabilizer",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d3945714-bb75-418e-a3a0-a38147e828af.webp?v=1754571795",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Gimbals",
+        "Phone Accessories"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 200000,
+            "sale_price": 165000,
+            "percentage_off": 18
+          }
+        ],
+        "min_regular_price": 200000,
+        "max_regular_price": 200000,
+        "min_sale_price": 165000,
+        "max_sale_price": 165000
+      },
+      "rank": 4
+    },
+    {
+      "handle": "green-lion-gan-65w-multi-port-travel-adapter",
+      "title": "Green Lion GaN 65W Multi-Port Travel Adapter",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3813bdf2-ef52-46b9-8aa4-c293c0734f0c.jpg?v=1754754721",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Adapters & Chargers",
+        "Computer Accessories",
+        "Green Lion",
+        "Office",
+        "Phone Accessories",
+        "Phone Chargers",
+        "Wireless Chargers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 350000,
+            "sale_price": 290000,
+            "percentage_off": 17
+          }
+        ],
+        "min_regular_price": 350000,
+        "max_regular_price": 350000,
+        "min_sale_price": 290000,
+        "max_sale_price": 290000
+      },
+      "rank": 5
+    },
+    {
+      "handle": "green-lion-mouse-pad-with-wireless-charger",
+      "title": "Green Lion Mouse Pad with Wireless Charger",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1e3bd37e-62d8-4170-a8ed-e20eceeefdf3.jpg?v=1755549275",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Green Lion",
+        "Phone Accessories",
+        "Phone Chargers",
+        "Wireless Chargers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 180000,
+            "sale_price": 145000,
+            "percentage_off": 19
+          }
+        ],
+        "min_regular_price": 180000,
+        "max_regular_price": 180000,
+        "min_sale_price": 145000,
+        "max_sale_price": 145000
+      },
+      "rank": 6
+    },
+    {
+      "handle": "green-lion-new-york-gimbal-smart-face-tracking",
+      "title": "Green Lion New York Gimbal Smart Face Tracking",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fbe6d529-a264-4f5a-85ca-6fad12eb8a71.webp?v=1754599471",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Gimbals",
+        "Green Lion",
+        "Phone Accessories",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 460000,
+            "sale_price": 425000,
+            "percentage_off": 8
+          }
+        ],
+        "min_regular_price": 460000,
+        "max_regular_price": 460000,
+        "min_sale_price": 425000,
+        "max_sale_price": 425000
+      },
+      "rank": 7
+    },
+    {
+      "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
+      "title": "Green Lion Power Trio™ – 3-in-1 Magnetic Wireless Charger",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ee366daa-24a3-46b9-9846-910d007df480.jpg?v=1749641860",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Green Lion",
+        "Phone Accessories",
+        "Phone Chargers",
+        "Wireless Chargers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 220000,
+            "sale_price": 185000,
+            "percentage_off": 16
+          }
+        ],
+        "min_regular_price": 220000,
+        "max_regular_price": 220000,
+        "min_sale_price": 185000,
+        "max_sale_price": 185000
+      },
+      "rank": 8
+    },
+    {
+      "handle": "keyfold-pro-2-foldable-bluetooth-keyboard",
+      "title": "Keyfold Pro 2 - Foldable Bluetooth Keyboard",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f14edf69-1add-47c3-bd91-4eae73628f34.jpg?v=1755880560",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Keyboards",
+        "Phone Accessories"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 220000,
+            "sale_price": 155000,
+            "percentage_off": 30
+          }
+        ],
+        "min_regular_price": 220000,
+        "max_regular_price": 220000,
+        "min_sale_price": 155000,
+        "max_sale_price": 155000
+      },
+      "rank": 9
+    },
+    {
+      "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
+      "title": "Porodo 3‑Axis Gimbal Stabilizer with Magnetic Fill Light",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2087b3da-f4f0-42f3-b9bc-ea20e7af57d7.jpg?v=1754597732",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Gimbals",
+        "Phone Accessories",
+        "Porodo",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 370000,
+            "sale_price": 315000,
+            "percentage_off": 15
+          }
+        ],
+        "min_regular_price": 370000,
+        "max_regular_price": 370000,
+        "min_sale_price": 315000,
+        "max_sale_price": 315000
+      },
+      "rank": 10
+    },
+    {
+      "handle": "porodo-quadbase-gimbal-stabilizer",
+      "title": "Porodo QuadBase Gimbal Stabilizer",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_8184ec40-15b5-4dda-8826-2552adb552bb.webp?v=1754598461",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Gimbals",
+        "Phone Accessories",
+        "Porodo",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 220000,
+            "sale_price": 175000,
+            "percentage_off": 20
+          }
+        ],
+        "min_regular_price": 220000,
+        "max_regular_price": 220000,
+        "min_sale_price": 175000,
+        "max_sale_price": 175000
+      },
+      "rank": 11
+    },
+    {
+      "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
+      "title": "Powerology Ultra-Slim Full HD Portable Monitor 15.6\"",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d0e7a5a3-ea2b-4aa6-a746-213a3d4df581.webp?v=1754755760",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Office",
+        "Phone Accessories",
+        "Portable Monitor",
+        "Powerology"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 700000,
+            "sale_price": 620000,
+            "percentage_off": 11
+          }
+        ],
+        "min_regular_price": 700000,
+        "max_regular_price": 700000,
+        "min_sale_price": 620000,
+        "max_sale_price": 620000
+      },
+      "rank": 12
+    },
+    {
+      "handle": "prexoplay-wireless-bluetooth-game-controller",
+      "title": "PrexoPlay – Wireless Bluetooth Game Controller",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_287bda09-5cdd-48bc-88af-7144f01050ef.png?v=1749641692",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Computer Accessories",
+        "Entertainment",
+        "Phone Accessories"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 129000,
+            "sale_price": 75000,
+            "percentage_off": 42
+          }
+        ],
+        "min_regular_price": 129000,
+        "max_regular_price": 129000,
+        "min_sale_price": 75000,
+        "max_sale_price": 75000
+      },
+      "rank": 13
+    },
+    {
+      "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
+      "title": "TELESIN Magnetic Funshot Camera Phone Grip Holder",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f58f32b3-feec-4dd2-a490-9c1e63ce346d.jpg?v=1762981511",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Phone Accessories"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 250000,
+            "sale_price": 185000,
+            "percentage_off": 26
+          }
+        ],
+        "min_regular_price": 250000,
+        "max_regular_price": 250000,
+        "min_sale_price": 185000,
+        "max_sale_price": 185000
+      },
+      "rank": 14
     }
   ],
   "Car Gadgets": [
@@ -5682,6 +4698,287 @@
         "max_sale_price": 98000
       },
       "rank": 5
+    }
+  ],
+  "Travel": [
+    {
+      "handle": "green-lion-digital-luggage-scale-50-kg-max",
+      "title": "Green Lion Digital Luggage Scale (50 kg Max)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_010671a0-2256-4d4d-bb91-961ff766fed2.webp?v=1754724471",
+      "units_sold": 1,
+      "revenue": 95000,
+      "tags": [
+        "Green Lion",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 120000,
+            "sale_price": 95000,
+            "percentage_off": 21
+          }
+        ],
+        "min_regular_price": 120000,
+        "max_regular_price": 120000,
+        "min_sale_price": 95000,
+        "max_sale_price": 95000
+      },
+      "rank": 1
+    },
+    {
+      "handle": "porodo-lifestyle-air-boost-turbo-fan",
+      "title": "Porodo Lifestyle Air Boost Turbo Fan",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1118c021-784d-4111-85c5-d7beeaf38ee7.jpg?v=1763021178",
+      "units_sold": 1,
+      "revenue": 95000,
+      "tags": [
+        "Porodo",
+        "Portable Fans",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 130000,
+            "sale_price": 95000,
+            "percentage_off": 27
+          }
+        ],
+        "min_regular_price": 130000,
+        "max_regular_price": 130000,
+        "min_sale_price": 95000,
+        "max_sale_price": 95000
+      },
+      "rank": 2
+    },
+    {
+      "handle": "dji-osmo-pocket-3-creator-combo",
+      "title": "DJI Osmo Pocket 3 Creator Combo",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_34e81e7e-0553-4851-a4bf-413e3683107f.jpg?v=1761193411",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "DJI",
+        "Gadgets",
+        "Gimbals",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 3250000,
+            "sale_price": 3250000,
+            "percentage_off": 0
+          }
+        ],
+        "min_regular_price": 3250000,
+        "max_regular_price": 3250000,
+        "min_sale_price": 3250000,
+        "max_sale_price": 3250000
+      },
+      "rank": 3
+    },
+    {
+      "handle": "green-lion-new-york-gimbal-smart-face-tracking",
+      "title": "Green Lion New York Gimbal Smart Face Tracking",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fbe6d529-a264-4f5a-85ca-6fad12eb8a71.webp?v=1754599471",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Gimbals",
+        "Green Lion",
+        "Phone Accessories",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 460000,
+            "sale_price": 425000,
+            "percentage_off": 8
+          }
+        ],
+        "min_regular_price": 460000,
+        "max_regular_price": 460000,
+        "min_sale_price": 425000,
+        "max_sale_price": 425000
+      },
+      "rank": 4
+    },
+    {
+      "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
+      "title": "Porodo 3‑Axis Gimbal Stabilizer with Magnetic Fill Light",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2087b3da-f4f0-42f3-b9bc-ea20e7af57d7.jpg?v=1754597732",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Gimbals",
+        "Phone Accessories",
+        "Porodo",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 370000,
+            "sale_price": 315000,
+            "percentage_off": 15
+          }
+        ],
+        "min_regular_price": 370000,
+        "max_regular_price": 370000,
+        "min_sale_price": 315000,
+        "max_sale_price": 315000
+      },
+      "rank": 5
+    },
+    {
+      "handle": "porodo-frostwave-portable-cooling-fan",
+      "title": "Porodo Frostwave Portable Cooling Fan",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d0923c2f-5b10-46ba-9ea2-1c9a6c13887e.jpg?v=1763020563",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Porodo",
+        "Portable Fans",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 110000,
+            "sale_price": 85000,
+            "percentage_off": 23
+          }
+        ],
+        "min_regular_price": 110000,
+        "max_regular_price": 110000,
+        "min_sale_price": 85000,
+        "max_sale_price": 85000
+      },
+      "rank": 6
+    },
+    {
+      "handle": "porodo-quadbase-gimbal-stabilizer",
+      "title": "Porodo QuadBase Gimbal Stabilizer",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_8184ec40-15b5-4dda-8826-2552adb552bb.webp?v=1754598461",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Camera",
+        "Gimbal",
+        "Gimbals",
+        "Phone Accessories",
+        "Porodo",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 220000,
+            "sale_price": 175000,
+            "percentage_off": 20
+          }
+        ],
+        "min_regular_price": 220000,
+        "max_regular_price": 220000,
+        "min_sale_price": 175000,
+        "max_sale_price": 175000
+      },
+      "rank": 7
+    },
+    {
+      "handle": "prexolingo™-smart-voice-translator-supports-30-languages",
+      "title": "PrexoLingo™ – Smart Voice Translator (Supports 30+ Languages)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_13d6a3d7-5ddf-4b62-9e3b-b5bf5c09877e.jpg?v=1754361176",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Gadgets",
+        "Translator",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 500000,
+            "sale_price": 380000,
+            "percentage_off": 24
+          }
+        ],
+        "min_regular_price": 500000,
+        "max_regular_price": 500000,
+        "min_sale_price": 380000,
+        "max_sale_price": 380000
+      },
+      "rank": 8
+    },
+    {
+      "handle": "prexovision-translate™-ai-smart-glasses-with-real-time-translation",
+      "title": "PrexoVision Translate™ – AI Smart Glasses with Real‑Time Translation",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7f3e21c6-7ddf-4694-b085-24b0103d5bf8.jpg?v=1754375910",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Gadgets",
+        "Smart Glasses",
+        "Translator",
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 630000,
+            "sale_price": 450000,
+            "percentage_off": 29
+          }
+        ],
+        "min_regular_price": 630000,
+        "max_regular_price": 630000,
+        "min_sale_price": 450000,
+        "max_sale_price": 450000
+      },
+      "rank": 9
+    },
+    {
+      "handle": "vaultcarry-anti-theft-travel-crossbody-bag",
+      "title": "VaultCarry – Anti-Theft Travel Crossbody Bag",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/He375039303ed4417975bacc31d9a70fea.jpg?v=1752482895",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Travel"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 180000,
+            "sale_price": 125000,
+            "percentage_off": 31
+          }
+        ],
+        "min_regular_price": 180000,
+        "max_regular_price": 180000,
+        "min_sale_price": 125000,
+        "max_sale_price": 125000
+      },
+      "rank": 10
     }
   ],
   "Eufy": [
@@ -6698,6 +5995,164 @@
       "rank": 1
     }
   ],
+  "Earbuds": [
+    {
+      "handle": "green-lion-classic-true-wireless-earbuds",
+      "title": "Green Lion Classic True Wireless Earbuds",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c19842d3-0588-430a-85e1-964e413d1d6a.jpg?v=1755628979",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Earbuds",
+        "Green Lion"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 150000,
+            "sale_price": 125000,
+            "percentage_off": 17
+          }
+        ],
+        "min_regular_price": 150000,
+        "max_regular_price": 150000,
+        "min_sale_price": 125000,
+        "max_sale_price": 125000
+      },
+      "rank": 1
+    },
+    {
+      "handle": "green-lion-ocean-open-ear-headphones",
+      "title": "Green Lion Ocean Open-Ear Headphones",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b05825b3-5030-4366-a8a5-e1e5978b508f.jpg?v=1755898196",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Earbuds",
+        "Green Lion"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 170000,
+            "sale_price": 135000,
+            "percentage_off": 21
+          }
+        ],
+        "min_regular_price": 170000,
+        "max_regular_price": 170000,
+        "min_sale_price": 135000,
+        "max_sale_price": 135000
+      },
+      "rank": 2
+    },
+    {
+      "handle": "oraimo-freepods-4-anc-true-wireless-earbuds",
+      "title": "Oraimo FreePods 4 – ANC True Wireless Earbuds",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9ccf712e-29e1-4ee9-8cf6-379d0dc97f94.webp?v=1755275949",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Earbuds",
+        "Oraimo"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 225000,
+            "sale_price": 180000,
+            "percentage_off": 20
+          }
+        ],
+        "min_regular_price": 225000,
+        "max_regular_price": 225000,
+        "min_sale_price": 180000,
+        "max_sale_price": 180000
+      },
+      "rank": 3
+    },
+    {
+      "handle": "powerology-6-mic-hybrid-anc-enc-tws-earbuds",
+      "title": "Powerology 6-Mic Hybrid ANC + ENC TWS Earbuds",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fd9f7ff8-e7dd-4cb8-8c66-3904ea4577f7.jpg?v=1755273381",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Earbuds",
+        "Powerology"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 150000,
+            "sale_price": 120000,
+            "percentage_off": 20
+          }
+        ],
+        "min_regular_price": 150000,
+        "max_regular_price": 150000,
+        "min_sale_price": 120000,
+        "max_sale_price": 120000
+      },
+      "rank": 4
+    },
+    {
+      "handle": "powerology-air-conduction-enc-tws-earbuds-with-display",
+      "title": "Powerology Air Conduction ENC TWS Earbuds (with Display)",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_4ad2a8f9-aa10-471c-8072-562d79c0492a.jpg?v=1755271565",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Earbuds",
+        "Powerology"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 220000,
+            "sale_price": 195000,
+            "percentage_off": 11
+          }
+        ],
+        "min_regular_price": 220000,
+        "max_regular_price": 220000,
+        "min_sale_price": 195000,
+        "max_sale_price": 195000
+      },
+      "rank": 5
+    },
+    {
+      "handle": "powerology-quad-mic-enc-tws-earbuds",
+      "title": "Powerology Quad Mic ENC TWS Earbuds",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_39b8e672-6735-480f-95a9-6bb30d7ad171.jpg?v=1755272608",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Earbuds",
+        "Powerology"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 95000,
+            "sale_price": 95000,
+            "percentage_off": 0
+          }
+        ],
+        "min_regular_price": 95000,
+        "max_regular_price": 95000,
+        "min_sale_price": 95000,
+        "max_sale_price": 95000
+      },
+      "rank": 6
+    }
+  ],
   "Headphones": [
     {
       "handle": "green-lion-echo-max-headphones",
@@ -6778,292 +6233,6 @@
       "rank": 3
     },
     {
-      "handle": "jbl-live-770nc-over-ear-headphones-black",
-      "title": "JBL Live 770NC Over-Ear Headphones (Black)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3471d615-cb65-4806-b561-483ef9663899.jpg?v=1755544378",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 620000,
-            "sale_price": 550000,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 620000,
-        "max_regular_price": 620000,
-        "min_sale_price": 550000,
-        "max_sale_price": 550000
-      },
-      "rank": 4
-    },
-    {
-      "handle": "jbl-live-770nc-over-ear-headphones",
-      "title": "JBL Live 770NC Over-Ear Headphones (Blue)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1a31ed41-c912-4252-b0d9-18d081539545.webp?v=1755542657",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 620000,
-            "sale_price": 550000,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 620000,
-        "max_regular_price": 620000,
-        "min_sale_price": 550000,
-        "max_sale_price": 550000
-      },
-      "rank": 5
-    },
-    {
-      "handle": "jbl-live-770nc-over-ear-headphones-sandstone",
-      "title": "JBL Live 770NC Over-Ear Headphones (Sandstone)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2210a7b8-d5ef-4d57-89d4-995fcd4df6e1.webp?v=1755544499",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 620000,
-            "sale_price": 550000,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 620000,
-        "max_regular_price": 620000,
-        "min_sale_price": 550000,
-        "max_sale_price": 550000
-      },
-      "rank": 6
-    },
-    {
-      "handle": "jbl-live-770nc-over-ear-headphones-white",
-      "title": "JBL Live 770NC Over-Ear Headphones (White)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_87a148fd-303a-4ba6-a98b-36b261e08d3d.jpg?v=1755544441",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 620000,
-            "sale_price": 550000,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 620000,
-        "max_regular_price": 620000,
-        "min_sale_price": 550000,
-        "max_sale_price": 550000
-      },
-      "rank": 7
-    },
-    {
-      "handle": "jbl-tune-520bt-wireless-on-ear-headphones-black",
-      "title": "JBL Tune 520BT – Wireless On-Ear Headphones (Black)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_384cef21-b62e-4442-8885-f0c8fc6ace27.jpg?v=1755546180",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 250000,
-            "sale_price": 220000,
-            "percentage_off": 12
-          }
-        ],
-        "min_regular_price": 250000,
-        "max_regular_price": 250000,
-        "min_sale_price": 220000,
-        "max_sale_price": 220000
-      },
-      "rank": 8
-    },
-    {
-      "handle": "jbl-tune-520bt-wireless-on-ear-headphones-blue",
-      "title": "JBL Tune 520BT – Wireless On-Ear Headphones (Blue)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_87369e5c-dd3c-4458-a11c-df2d7341d254.webp?v=1755545439",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 230000,
-            "sale_price": 190000,
-            "percentage_off": 17
-          }
-        ],
-        "min_regular_price": 230000,
-        "max_regular_price": 230000,
-        "min_sale_price": 190000,
-        "max_sale_price": 190000
-      },
-      "rank": 9
-    },
-    {
-      "handle": "jbl-tune-520bt-wireless-on-ear-headphones-purple",
-      "title": "JBL Tune 520BT – Wireless On-Ear Headphones (Purple)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ef10b952-d8ec-4a74-8d7a-4d262b785d22.jpg?v=1755546389",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 255000,
-            "sale_price": 227000,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 255000,
-        "max_regular_price": 255000,
-        "min_sale_price": 227000,
-        "max_sale_price": 227000
-      },
-      "rank": 10
-    },
-    {
-      "handle": "jbl-tune-520bt-wireless-on-ear-headphones-white",
-      "title": "JBL Tune 520BT – Wireless On-Ear Headphones (White)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d127a324-c26a-4677-9521-8494f0350a6c.webp?v=1755546450",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 230000,
-            "sale_price": 195000,
-            "percentage_off": 15
-          }
-        ],
-        "min_regular_price": 230000,
-        "max_regular_price": 230000,
-        "min_sale_price": 195000,
-        "max_sale_price": 195000
-      },
-      "rank": 11
-    },
-    {
-      "handle": "copy-jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones-black",
-      "title": "JBL TUNE 770NC – Adaptive Noise-Cancelling Over-Ear Headphones (Black)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_95ab9637-ba51-4b93-8d05-22acf6a632f6.jpg?v=1755283096",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 400000,
-            "sale_price": 375000,
-            "percentage_off": 6
-          }
-        ],
-        "min_regular_price": 400000,
-        "max_regular_price": 400000,
-        "min_sale_price": 375000,
-        "max_sale_price": 375000
-      },
-      "rank": 12
-    },
-    {
-      "handle": "jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones",
-      "title": "JBL TUNE 770NC – Adaptive Noise-Cancelling Over-Ear Headphones (Blue)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a1ae2789-ce10-46fe-8e8b-2abc5c9672a3.jpg?v=1755281918",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 400000,
-            "sale_price": 375000,
-            "percentage_off": 6
-          }
-        ],
-        "min_regular_price": 400000,
-        "max_regular_price": 400000,
-        "min_sale_price": 375000,
-        "max_sale_price": 375000
-      },
-      "rank": 13
-    },
-    {
-      "handle": "jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones-white",
-      "title": "JBL TUNE 770NC – Adaptive Noise-Cancelling Over-Ear Headphones (White)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fe0d865e-4582-4679-9483-5b5dcb80a978.webp?v=1755283218",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 400000,
-            "sale_price": 375000,
-            "percentage_off": 6
-          }
-        ],
-        "min_regular_price": 400000,
-        "max_regular_price": 400000,
-        "min_sale_price": 375000,
-        "max_sale_price": 375000
-      },
-      "rank": 14
-    },
-    {
       "handle": "powerology-hybrid-anc-headphone",
       "title": "Powerology Hybrid ANC Headphone",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_339dd619-d4a9-44ee-91f8-f088916e7b07.jpg?v=1755273990",
@@ -7087,7 +6256,7 @@
         "min_sale_price": 195000,
         "max_sale_price": 195000
       },
-      "rank": 15
+      "rank": 4
     },
     {
       "handle": "powerology-hybrid-anc-headphone-cream",
@@ -7113,7 +6282,7 @@
         "min_sale_price": 195000,
         "max_sale_price": 195000
       },
-      "rank": 16
+      "rank": 5
     },
     {
       "handle": "wireless-bluetooth-headband-comfort-meets-sound",
@@ -7139,7 +6308,7 @@
         "min_sale_price": 115000,
         "max_sale_price": 115000
       },
-      "rank": 17
+      "rank": 6
     }
   ],
   "Adapters & Chargers": [
@@ -7955,609 +7124,6 @@
         "max_sale_price": 2200000
       },
       "rank": 2
-    }
-  ],
-  "JBL": [
-    {
-      "handle": "jbl-boombox-3",
-      "title": "JBL Boombox 3",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_30d67d11-5218-4078-af16-ebddbc647b37.png?v=1761829487",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "JBL",
-        "Portable Speakers",
-        "Speaker"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 1720000,
-            "sale_price": 1590000,
-            "percentage_off": 8
-          }
-        ],
-        "min_regular_price": 1720000,
-        "max_regular_price": 1720000,
-        "min_sale_price": 1590000,
-        "max_sale_price": 1590000
-      },
-      "rank": 1
-    },
-    {
-      "handle": "jbl-endurance-peak-3",
-      "title": "JBL Endurance Peak 3",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_081200a4-f62a-4e8e-92d9-4810856a2ed6.jpg?v=1755332898",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 480000,
-            "sale_price": 445000,
-            "percentage_off": 7
-          }
-        ],
-        "min_regular_price": 480000,
-        "max_regular_price": 480000,
-        "min_sale_price": 445000,
-        "max_sale_price": 445000
-      },
-      "rank": 2
-    },
-    {
-      "handle": "jbl-go-4-ultra-portable-bluetooth®-speaker",
-      "title": "JBL Go 4 — Ultra-Portable Bluetooth® Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_6c34340b-afd4-41aa-bed4-a6885ea6b09b.webp?v=1754661617",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "JBL",
-        "Music",
-        "Portable Speakers",
-        "Speaker"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 290000,
-            "sale_price": 245000,
-            "percentage_off": 16
-          }
-        ],
-        "min_regular_price": 290000,
-        "max_regular_price": 290000,
-        "min_sale_price": 245000,
-        "max_sale_price": 245000
-      },
-      "rank": 3
-    },
-    {
-      "handle": "jbl-live-770nc-over-ear-headphones-black",
-      "title": "JBL Live 770NC Over-Ear Headphones (Black)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3471d615-cb65-4806-b561-483ef9663899.jpg?v=1755544378",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 620000,
-            "sale_price": 550000,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 620000,
-        "max_regular_price": 620000,
-        "min_sale_price": 550000,
-        "max_sale_price": 550000
-      },
-      "rank": 4
-    },
-    {
-      "handle": "jbl-live-770nc-over-ear-headphones",
-      "title": "JBL Live 770NC Over-Ear Headphones (Blue)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1a31ed41-c912-4252-b0d9-18d081539545.webp?v=1755542657",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 620000,
-            "sale_price": 550000,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 620000,
-        "max_regular_price": 620000,
-        "min_sale_price": 550000,
-        "max_sale_price": 550000
-      },
-      "rank": 5
-    },
-    {
-      "handle": "jbl-live-770nc-over-ear-headphones-sandstone",
-      "title": "JBL Live 770NC Over-Ear Headphones (Sandstone)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2210a7b8-d5ef-4d57-89d4-995fcd4df6e1.webp?v=1755544499",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 620000,
-            "sale_price": 550000,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 620000,
-        "max_regular_price": 620000,
-        "min_sale_price": 550000,
-        "max_sale_price": 550000
-      },
-      "rank": 6
-    },
-    {
-      "handle": "jbl-live-770nc-over-ear-headphones-white",
-      "title": "JBL Live 770NC Over-Ear Headphones (White)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_87a148fd-303a-4ba6-a98b-36b261e08d3d.jpg?v=1755544441",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 620000,
-            "sale_price": 550000,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 620000,
-        "max_regular_price": 620000,
-        "min_sale_price": 550000,
-        "max_sale_price": 550000
-      },
-      "rank": 7
-    },
-    {
-      "handle": "jbl-tune-520bt-wireless-on-ear-headphones-black",
-      "title": "JBL Tune 520BT – Wireless On-Ear Headphones (Black)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_384cef21-b62e-4442-8885-f0c8fc6ace27.jpg?v=1755546180",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 250000,
-            "sale_price": 220000,
-            "percentage_off": 12
-          }
-        ],
-        "min_regular_price": 250000,
-        "max_regular_price": 250000,
-        "min_sale_price": 220000,
-        "max_sale_price": 220000
-      },
-      "rank": 8
-    },
-    {
-      "handle": "jbl-tune-520bt-wireless-on-ear-headphones-blue",
-      "title": "JBL Tune 520BT – Wireless On-Ear Headphones (Blue)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_87369e5c-dd3c-4458-a11c-df2d7341d254.webp?v=1755545439",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 230000,
-            "sale_price": 190000,
-            "percentage_off": 17
-          }
-        ],
-        "min_regular_price": 230000,
-        "max_regular_price": 230000,
-        "min_sale_price": 190000,
-        "max_sale_price": 190000
-      },
-      "rank": 9
-    },
-    {
-      "handle": "jbl-tune-520bt-wireless-on-ear-headphones-purple",
-      "title": "JBL Tune 520BT – Wireless On-Ear Headphones (Purple)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ef10b952-d8ec-4a74-8d7a-4d262b785d22.jpg?v=1755546389",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 255000,
-            "sale_price": 227000,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 255000,
-        "max_regular_price": 255000,
-        "min_sale_price": 227000,
-        "max_sale_price": 227000
-      },
-      "rank": 10
-    },
-    {
-      "handle": "jbl-tune-520bt-wireless-on-ear-headphones-white",
-      "title": "JBL Tune 520BT – Wireless On-Ear Headphones (White)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d127a324-c26a-4677-9521-8494f0350a6c.webp?v=1755546450",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 230000,
-            "sale_price": 195000,
-            "percentage_off": 15
-          }
-        ],
-        "min_regular_price": 230000,
-        "max_regular_price": 230000,
-        "min_sale_price": 195000,
-        "max_sale_price": 195000
-      },
-      "rank": 11
-    },
-    {
-      "handle": "copy-jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones-black",
-      "title": "JBL TUNE 770NC – Adaptive Noise-Cancelling Over-Ear Headphones (Black)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_95ab9637-ba51-4b93-8d05-22acf6a632f6.jpg?v=1755283096",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 400000,
-            "sale_price": 375000,
-            "percentage_off": 6
-          }
-        ],
-        "min_regular_price": 400000,
-        "max_regular_price": 400000,
-        "min_sale_price": 375000,
-        "max_sale_price": 375000
-      },
-      "rank": 12
-    },
-    {
-      "handle": "jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones",
-      "title": "JBL TUNE 770NC – Adaptive Noise-Cancelling Over-Ear Headphones (Blue)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a1ae2789-ce10-46fe-8e8b-2abc5c9672a3.jpg?v=1755281918",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 400000,
-            "sale_price": 375000,
-            "percentage_off": 6
-          }
-        ],
-        "min_regular_price": 400000,
-        "max_regular_price": 400000,
-        "min_sale_price": 375000,
-        "max_sale_price": 375000
-      },
-      "rank": 13
-    },
-    {
-      "handle": "jbl-tune-770nc-adaptive-noise-cancelling-over-ear-headphones-white",
-      "title": "JBL TUNE 770NC – Adaptive Noise-Cancelling Over-Ear Headphones (White)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fe0d865e-4582-4679-9483-5b5dcb80a978.webp?v=1755283218",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 400000,
-            "sale_price": 375000,
-            "percentage_off": 6
-          }
-        ],
-        "min_regular_price": 400000,
-        "max_regular_price": 400000,
-        "min_sale_price": 375000,
-        "max_sale_price": 375000
-      },
-      "rank": 14
-    },
-    {
-      "handle": "jbl-tune-buds-true-wireless-anc-earbuds",
-      "title": "JBL Tune Buds – True Wireless ANC Earbuds",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a8797835-9b51-4bc6-8839-2f3b090a7fdf.webp?v=1755330412",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 420000,
-            "sale_price": 369000,
-            "percentage_off": 12
-          }
-        ],
-        "min_regular_price": 420000,
-        "max_regular_price": 420000,
-        "min_sale_price": 369000,
-        "max_sale_price": 369000
-      },
-      "rank": 15
-    },
-    {
-      "handle": "jbl-tune-buds-true-wireless-anc-earbuds-blue",
-      "title": "JBL Tune Buds – True Wireless ANC Earbuds (Blue)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f9561e1c-f0fe-4f32-9b4f-5b2d580e606f.webp?v=1755331221",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 420000,
-            "sale_price": 369000,
-            "percentage_off": 12
-          }
-        ],
-        "min_regular_price": 420000,
-        "max_regular_price": 420000,
-        "min_sale_price": 369000,
-        "max_sale_price": 369000
-      },
-      "rank": 16
-    },
-    {
-      "handle": "jbl-tune-buds-true-wireless-anc-earbuds-purple",
-      "title": "JBL Tune Buds – True Wireless ANC Earbuds (Purple)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_00a6ee5a-10eb-404d-be6b-2e6ab08878aa.webp?v=1755331396",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 420000,
-            "sale_price": 369000,
-            "percentage_off": 12
-          }
-        ],
-        "min_regular_price": 420000,
-        "max_regular_price": 420000,
-        "min_sale_price": 369000,
-        "max_sale_price": 369000
-      },
-      "rank": 17
-    },
-    {
-      "handle": "jbl-tune-buds-true-wireless-anc-earbuds-white",
-      "title": "JBL Tune Buds – True Wireless ANC Earbuds (White)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_02ee04a6-c461-45f7-9a4a-49ff7cc91b14.webp?v=1755331476",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 420000,
-            "sale_price": 369000,
-            "percentage_off": 12
-          }
-        ],
-        "min_regular_price": 420000,
-        "max_regular_price": 420000,
-        "min_sale_price": 369000,
-        "max_sale_price": 369000
-      },
-      "rank": 18
-    },
-    {
-      "handle": "jbl-vibe-flex-true-wireless-earbuds",
-      "title": "JBL Vibe Flex – True Wireless Earbuds",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_32d3fe0d-042d-4ef1-af72-7eda77002c4f.webp?v=1755332261",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 300000,
-            "sale_price": 285000,
-            "percentage_off": 5
-          }
-        ],
-        "min_regular_price": 300000,
-        "max_regular_price": 300000,
-        "min_sale_price": 285000,
-        "max_sale_price": 285000
-      },
-      "rank": 19
-    },
-    {
-      "handle": "jbl-wave-flex-2",
-      "title": "JBL Wave Flex 2 (Black)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_782d8386-f774-48ed-b6fd-28b5cdd5fd68.webp?v=1755333900",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 420000,
-            "sale_price": 375000,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 420000,
-        "max_regular_price": 420000,
-        "min_sale_price": 375000,
-        "max_sale_price": 375000
-      },
-      "rank": 20
-    },
-    {
-      "handle": "jbl-wave-flex-2-blue",
-      "title": "JBL Wave Flex 2 (Blue)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b596dd78-398b-460f-bf8a-8baab02ce32e.webp?v=1755334402",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 420000,
-            "sale_price": 375000,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 420000,
-        "max_regular_price": 420000,
-        "min_sale_price": 375000,
-        "max_sale_price": 375000
-      },
-      "rank": 21
-    },
-    {
-      "handle": "jbl-wave-flex-2-pink",
-      "title": "JBL Wave Flex 2 (Pink)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b2b28ce5-2ef8-4dd6-8ac4-20e932d395e2.webp?v=1755334498",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 420000,
-            "sale_price": 375000,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 420000,
-        "max_regular_price": 420000,
-        "min_sale_price": 375000,
-        "max_sale_price": 375000
-      },
-      "rank": 22
-    },
-    {
-      "handle": "jbl-wave-flex-2-white",
-      "title": "JBL Wave Flex 2 (White)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d12a8b61-9c4c-4d92-b7f5-68e6f985da49.webp?v=1755334270",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "JBL"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 420000,
-            "sale_price": 375000,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 420000,
-        "max_regular_price": 420000,
-        "min_sale_price": 375000,
-        "max_sale_price": 375000
-      },
-      "rank": 23
     }
   ],
   "Keyboards": [
@@ -9629,220 +8195,6 @@
       "rank": 1
     }
   ],
-  "Security Cameras": [
-    {
-      "handle": "solarsecure-360-full-color-night-vision-security-camera",
-      "title": "SolarSecure 360 – Full-Color Night Vision Security Camera",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_df6ee820-3071-4a55-88de-4472b6b10155.webp?v=1749641793",
-      "units_sold": 1,
-      "revenue": 445000,
-      "tags": [
-        "Security Cameras"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 550000,
-            "sale_price": 445000,
-            "percentage_off": 19
-          }
-        ],
-        "min_regular_price": 550000,
-        "max_regular_price": 550000,
-        "min_sale_price": 445000,
-        "max_sale_price": 445000
-      },
-      "rank": 1
-    },
-    {
-      "handle": "powerology-360-security-camera-dual-lens",
-      "title": "Powerology 360° Security Camera (Dual-Lens)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d35489d0-2abf-49a8-8df0-775493b8c426.webp?v=1760504093",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Powerology",
-        "Security Cameras"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 730000,
-            "sale_price": 650000,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 730000,
-        "max_regular_price": 730000,
-        "min_sale_price": 650000,
-        "max_sale_price": 650000
-      },
-      "rank": 2
-    },
-    {
-      "handle": "powerology-built-in-solar-outdoor-camera",
-      "title": "Powerology Built-in Solar Outdoor Camera",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f6cb4452-0bd6-4c0c-843f-8d888ebdcf24.webp?v=1754595537",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Powerology",
-        "Security Cameras",
-        "Smart Home"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 400000,
-            "sale_price": 320000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 400000,
-        "max_regular_price": 400000,
-        "min_sale_price": 320000,
-        "max_sale_price": 320000
-      },
-      "rank": 3
-    },
-    {
-      "handle": "powerology-built-in-solar-pan-tilt-outdoor-camera-2k",
-      "title": "Powerology Built-In Solar Pan & Tilt Outdoor Camera – 2K",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_43165118-1a19-43de-aa7d-128871d5ad1d.webp?v=1754595959",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Powerology",
-        "Security Cameras",
-        "Smart Home"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 450000,
-            "sale_price": 395000,
-            "percentage_off": 12
-          }
-        ],
-        "min_regular_price": 450000,
-        "max_regular_price": 450000,
-        "min_sale_price": 395000,
-        "max_sale_price": 395000
-      },
-      "rank": 4
-    },
-    {
-      "handle": "powerology-indoor-ptz-smart-camera",
-      "title": "Powerology Indoor PTZ Smart Camera",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_497a22c1-5f22-4fda-8d17-18152078d3a8.webp?v=1760507882",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Powerology",
-        "Security Cameras"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 165000,
-            "sale_price": 165000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 165000,
-        "max_regular_price": 165000,
-        "min_sale_price": 165000,
-        "max_sale_price": 165000
-      },
-      "rank": 5
-    },
-    {
-      "handle": "xiaomi-outdoor-camera-cw300",
-      "title": "Xiaomi Outdoor Camera CW300",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_583c5985-4fcb-422f-97f9-e77f0ef4dbfe.webp?v=1754597009",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Security Cameras",
-        "Smart Home",
-        "Xiaomi"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 370000,
-            "sale_price": 320000,
-            "percentage_off": 14
-          }
-        ],
-        "min_regular_price": 370000,
-        "max_regular_price": 370000,
-        "min_sale_price": 320000,
-        "max_sale_price": 320000
-      },
-      "rank": 6
-    },
-    {
-      "handle": "xiaomi-smart-camera-c300",
-      "title": "Xiaomi Smart Camera C300",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5afa0b0f-21a2-400b-bfcc-3b1f0cc1d874.jpg?v=1754577759",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Security Cameras",
-        "Smart Home",
-        "Xiaomi"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 270000,
-            "sale_price": 225000,
-            "percentage_off": 17
-          }
-        ],
-        "min_regular_price": 270000,
-        "max_regular_price": 270000,
-        "min_sale_price": 225000,
-        "max_sale_price": 225000
-      },
-      "rank": 7
-    },
-    {
-      "handle": "xiaomi-smart-camera-c300-dual-lens-2k-wi-fi-6",
-      "title": "Xiaomi Smart Camera C300 Dual-Lens (2K, Wi-Fi 6)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_8e76fce9-4228-486a-b610-dd6bbc6932f6.webp?v=1754596460",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Security Cameras",
-        "Smart Home",
-        "Xiaomi"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 420000,
-            "sale_price": 345000,
-            "percentage_off": 18
-          }
-        ],
-        "min_regular_price": 420000,
-        "max_regular_price": 420000,
-        "min_sale_price": 345000,
-        "max_sale_price": 345000
-      },
-      "rank": 8
-    }
-  ],
   "Smart Home": [
     {
       "handle": "powerology-built-in-solar-outdoor-camera",
@@ -10096,36 +8448,6 @@
       "rank": 2
     }
   ],
-  "Samsung": [
-    {
-      "handle": "samsung-galaxy-smarttag2",
-      "title": "Samsung Galaxy SmartTag2",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0a458098-4ac0-40b2-a12e-63696b8e963e.jpg?v=1754579664",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Phone Accessories",
-        "Samsung",
-        "Smart Tags",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 137000,
-            "sale_price": 137000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 137000,
-        "max_regular_price": 137000,
-        "min_sale_price": 137000,
-        "max_sale_price": 137000
-      },
-      "rank": 1
-    }
-  ],
   "Sony": [
     {
       "handle": "sony-srs-xb100-wireless-speaker",
@@ -10188,8 +8510,8 @@
       "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
       "title": "TriFoldView Pro - Portable Screen Extender",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bf492e8c-0a5f-41fe-b666-3ddf7ce8cb0b.jpg?v=1749641740",
-      "units_sold": 24,
-      "revenue": 26100000,
+      "units_sold": 30,
+      "revenue": 32700000,
       "tags": [
         "Computer Accessories",
         "Laptop Accessories"
@@ -10207,6 +8529,34 @@
         "max_regular_price": 1500000,
         "min_sale_price": 1100000,
         "max_sale_price": 1100000
+      },
+      "rank": 1
+    }
+  ],
+  "Smart Speakers": [
+    {
+      "handle": "vsonic-mars-levitating-magnetic-speaker",
+      "title": "Vsonic Mars Levitating Magnetic Speaker",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_10aff36a-f874-4ee8-b163-cd5ca1f64954.jpg?v=1760502930",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Smart Speakers",
+        "Speaker"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 2100000,
+            "sale_price": 1850000,
+            "percentage_off": 12
+          }
+        ],
+        "min_regular_price": 2100000,
+        "max_regular_price": 2100000,
+        "min_sale_price": 1850000,
+        "max_sale_price": 1850000
       },
       "rank": 1
     }

@@ -1,31 +1,5 @@
 [
   {
-    "handle": "amaya-tk04-earbuds",
-    "title": "Amaya TK04 Earbuds",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_67ad79eb-079b-4c86-8962-b1eb035e6d4c.jpg?v=1754387060",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Earbuds",
-      "Phone Accessories"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 130000,
-          "sale_price": 98000,
-          "percentage_off": 25
-        }
-      ],
-      "min_regular_price": 130000,
-      "max_regular_price": 130000,
-      "min_sale_price": 98000,
-      "max_sale_price": 98000
-    },
-    "rank": 1
-  },
-  {
     "handle": "green-lion-classic-true-wireless-earbuds",
     "title": "Green Lion Classic True Wireless Earbuds",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c19842d3-0588-430a-85e1-964e413d1d6a.jpg?v=1755628979",
@@ -49,7 +23,7 @@
       "min_sale_price": 125000,
       "max_sale_price": 125000
     },
-    "rank": 2
+    "rank": 1
   },
   {
     "handle": "green-lion-ocean-open-ear-headphones",
@@ -75,267 +49,7 @@
       "min_sale_price": 135000,
       "max_sale_price": 135000
     },
-    "rank": 3
-  },
-  {
-    "handle": "jbl-endurance-peak-3",
-    "title": "JBL Endurance Peak 3",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_081200a4-f62a-4e8e-92d9-4810856a2ed6.jpg?v=1755332898",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Earbuds",
-      "JBL"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 480000,
-          "sale_price": 445000,
-          "percentage_off": 7
-        }
-      ],
-      "min_regular_price": 480000,
-      "max_regular_price": 480000,
-      "min_sale_price": 445000,
-      "max_sale_price": 445000
-    },
-    "rank": 4
-  },
-  {
-    "handle": "jbl-tune-buds-true-wireless-anc-earbuds",
-    "title": "JBL Tune Buds – True Wireless ANC Earbuds",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a8797835-9b51-4bc6-8839-2f3b090a7fdf.webp?v=1755330412",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Earbuds",
-      "JBL"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 420000,
-          "sale_price": 369000,
-          "percentage_off": 12
-        }
-      ],
-      "min_regular_price": 420000,
-      "max_regular_price": 420000,
-      "min_sale_price": 369000,
-      "max_sale_price": 369000
-    },
-    "rank": 5
-  },
-  {
-    "handle": "jbl-tune-buds-true-wireless-anc-earbuds-blue",
-    "title": "JBL Tune Buds – True Wireless ANC Earbuds (Blue)",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f9561e1c-f0fe-4f32-9b4f-5b2d580e606f.webp?v=1755331221",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Earbuds",
-      "JBL"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 420000,
-          "sale_price": 369000,
-          "percentage_off": 12
-        }
-      ],
-      "min_regular_price": 420000,
-      "max_regular_price": 420000,
-      "min_sale_price": 369000,
-      "max_sale_price": 369000
-    },
-    "rank": 6
-  },
-  {
-    "handle": "jbl-tune-buds-true-wireless-anc-earbuds-purple",
-    "title": "JBL Tune Buds – True Wireless ANC Earbuds (Purple)",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_00a6ee5a-10eb-404d-be6b-2e6ab08878aa.webp?v=1755331396",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Earbuds",
-      "JBL"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 420000,
-          "sale_price": 369000,
-          "percentage_off": 12
-        }
-      ],
-      "min_regular_price": 420000,
-      "max_regular_price": 420000,
-      "min_sale_price": 369000,
-      "max_sale_price": 369000
-    },
-    "rank": 7
-  },
-  {
-    "handle": "jbl-tune-buds-true-wireless-anc-earbuds-white",
-    "title": "JBL Tune Buds – True Wireless ANC Earbuds (White)",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_02ee04a6-c461-45f7-9a4a-49ff7cc91b14.webp?v=1755331476",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Earbuds",
-      "JBL"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 420000,
-          "sale_price": 369000,
-          "percentage_off": 12
-        }
-      ],
-      "min_regular_price": 420000,
-      "max_regular_price": 420000,
-      "min_sale_price": 369000,
-      "max_sale_price": 369000
-    },
-    "rank": 8
-  },
-  {
-    "handle": "jbl-vibe-flex-true-wireless-earbuds",
-    "title": "JBL Vibe Flex – True Wireless Earbuds",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_32d3fe0d-042d-4ef1-af72-7eda77002c4f.webp?v=1755332261",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Earbuds",
-      "JBL"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 300000,
-          "sale_price": 285000,
-          "percentage_off": 5
-        }
-      ],
-      "min_regular_price": 300000,
-      "max_regular_price": 300000,
-      "min_sale_price": 285000,
-      "max_sale_price": 285000
-    },
-    "rank": 9
-  },
-  {
-    "handle": "jbl-wave-flex-2",
-    "title": "JBL Wave Flex 2 (Black)",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_782d8386-f774-48ed-b6fd-28b5cdd5fd68.webp?v=1755333900",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Earbuds",
-      "JBL"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 420000,
-          "sale_price": 375000,
-          "percentage_off": 11
-        }
-      ],
-      "min_regular_price": 420000,
-      "max_regular_price": 420000,
-      "min_sale_price": 375000,
-      "max_sale_price": 375000
-    },
-    "rank": 10
-  },
-  {
-    "handle": "jbl-wave-flex-2-blue",
-    "title": "JBL Wave Flex 2 (Blue)",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b596dd78-398b-460f-bf8a-8baab02ce32e.webp?v=1755334402",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Earbuds",
-      "JBL"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 420000,
-          "sale_price": 375000,
-          "percentage_off": 11
-        }
-      ],
-      "min_regular_price": 420000,
-      "max_regular_price": 420000,
-      "min_sale_price": 375000,
-      "max_sale_price": 375000
-    },
-    "rank": 11
-  },
-  {
-    "handle": "jbl-wave-flex-2-pink",
-    "title": "JBL Wave Flex 2 (Pink)",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b2b28ce5-2ef8-4dd6-8ac4-20e932d395e2.webp?v=1755334498",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Earbuds",
-      "JBL"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 420000,
-          "sale_price": 375000,
-          "percentage_off": 11
-        }
-      ],
-      "min_regular_price": 420000,
-      "max_regular_price": 420000,
-      "min_sale_price": 375000,
-      "max_sale_price": 375000
-    },
-    "rank": 12
-  },
-  {
-    "handle": "jbl-wave-flex-2-white",
-    "title": "JBL Wave Flex 2 (White)",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d12a8b61-9c4c-4d92-b7f5-68e6f985da49.webp?v=1755334270",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Earbuds",
-      "JBL"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 420000,
-          "sale_price": 375000,
-          "percentage_off": 11
-        }
-      ],
-      "min_regular_price": 420000,
-      "max_regular_price": 420000,
-      "min_sale_price": 375000,
-      "max_sale_price": 375000
-    },
-    "rank": 13
+    "rank": 2
   },
   {
     "handle": "oraimo-freepods-4-anc-true-wireless-earbuds",
@@ -361,7 +75,7 @@
       "min_sale_price": 180000,
       "max_sale_price": 180000
     },
-    "rank": 14
+    "rank": 3
   },
   {
     "handle": "powerology-6-mic-hybrid-anc-enc-tws-earbuds",
@@ -387,7 +101,7 @@
       "min_sale_price": 120000,
       "max_sale_price": 120000
     },
-    "rank": 15
+    "rank": 4
   },
   {
     "handle": "powerology-air-conduction-enc-tws-earbuds-with-display",
@@ -413,7 +127,7 @@
       "min_sale_price": 195000,
       "max_sale_price": 195000
     },
-    "rank": 16
+    "rank": 5
   },
   {
     "handle": "powerology-quad-mic-enc-tws-earbuds",
@@ -439,6 +153,6 @@
       "min_sale_price": 95000,
       "max_sale_price": 95000
     },
-    "rank": 17
+    "rank": 6
   }
 ]

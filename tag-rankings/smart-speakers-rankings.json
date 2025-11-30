@@ -1,57 +1,5 @@
 [
   {
-    "handle": "amazon-echo-dot-smart-speaker-alexa-5th-gen",
-    "title": "Amazon Echo Dot Smart Speaker & Alexa 5th Gen",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_4fb9f0c8-9879-4fa2-a45c-9aeb794e650e.jpg?v=1749641584",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Amazon",
-      "Smart Speakers"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 470000,
-          "sale_price": 380000,
-          "percentage_off": 19
-        }
-      ],
-      "min_regular_price": 470000,
-      "max_regular_price": 470000,
-      "min_sale_price": 380000,
-      "max_sale_price": 380000
-    },
-    "rank": 1
-  },
-  {
-    "handle": "amazon-echo-pop-compact-smart-speaker",
-    "title": "Amazon Echo Pop Compact Smart Speaker",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_63f21a50-7db3-40a0-b380-03dc3659090f.jpg?v=1749641564",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Amazon",
-      "Smart Speakers"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 480000,
-          "sale_price": 390000,
-          "percentage_off": 19
-        }
-      ],
-      "min_regular_price": 480000,
-      "max_regular_price": 480000,
-      "min_sale_price": 390000,
-      "max_sale_price": 390000
-    },
-    "rank": 2
-  },
-  {
     "handle": "vsonic-mars-levitating-magnetic-speaker",
     "title": "Vsonic Mars Levitating Magnetic Speaker",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_10aff36a-f874-4ee8-b163-cd5ca1f64954.jpg?v=1760502930",
@@ -75,6 +23,6 @@
       "min_sale_price": 1850000,
       "max_sale_price": 1850000
     },
-    "rank": 3
+    "rank": 1
   }
 ]
