@@ -25,6 +25,31 @@
     "rank": 1
   },
   {
+    "handle": "kemilng-m7-pro-treadmill",
+    "title": "KEMILNG M7 Pro Foldable Multi-functional Treadmill",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ac0fbf9c-c605-4efe-9dab-167a1a537341.png?v=1764536342",
+    "units_sold": 2,
+    "revenue": 3580000,
+    "tags": [
+      "Treadmills"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 2200000,
+          "sale_price": 1790000,
+          "percentage_off": 19
+        }
+      ],
+      "min_regular_price": 2200000,
+      "max_regular_price": 2200000,
+      "min_sale_price": 1790000,
+      "max_sale_price": 1790000
+    },
+    "rank": 2
+  },
+  {
     "handle": "3-in-1-foldable-treadmill",
     "title": "3-in-1 Foldable Treadmill",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c1f50d9b-a6f8-4b70-9b73-4c19ca9d33d9.jpg?v=1764210107",
@@ -46,31 +71,6 @@
       "max_regular_price": 1500000,
       "min_sale_price": 1290000,
       "max_sale_price": 1290000
-    },
-    "rank": 2
-  },
-  {
-    "handle": "kemilng-m7-pro-treadmill",
-    "title": "KEMILNG M7 Pro Foldable Multi-functional Treadmill",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ac0fbf9c-c605-4efe-9dab-167a1a537341.png?v=1764536342",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Treadmills"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 2200000,
-          "sale_price": 1790000,
-          "percentage_off": 19
-        }
-      ],
-      "min_regular_price": 2200000,
-      "max_regular_price": 2200000,
-      "min_sale_price": 1790000,
-      "max_sale_price": 1790000
     },
     "rank": 3
   }
