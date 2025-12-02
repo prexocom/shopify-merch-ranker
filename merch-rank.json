@@ -4,126 +4,126 @@
     "in_stock": true,
     "units_sold": 48,
     "revenue": 54590000,
-    "score": 0.7947
+    "score": 0.79
   },
   {
     "handle": "lumifan-360-light-fan",
     "in_stock": true,
-    "units_sold": 152,
-    "revenue": 21673000,
-    "score": 0.6382
+    "units_sold": 160,
+    "revenue": 22753000,
+    "score": 0.6501
+  },
+  {
+    "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
+    "in_stock": true,
+    "units_sold": 36,
+    "revenue": 39300000,
+    "score": 0.5994
   },
   {
     "handle": "beatbox-pro™-smart-music-boxing-trainer",
     "in_stock": true,
     "units_sold": 96,
     "revenue": 27360000,
-    "score": 0.5902
-  },
-  {
-    "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
-    "in_stock": true,
-    "units_sold": 34,
-    "revenue": 37100000,
-    "score": 0.5749
+    "score": 0.5807
   },
   {
     "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
     "in_stock": true,
-    "units_sold": 66,
-    "revenue": 25632000,
-    "score": 0.512
+    "units_sold": 73,
+    "revenue": 28537000,
+    "score": 0.5505
   },
   {
     "handle": "kemilng-m7-pro-treadmill",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 3580000,
-    "score": 0.1433
+    "score": 0.1431
   },
   {
     "handle": "4k-triple-lens-solar-security-light-camera-360-smart-protection",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 1300000,
-    "score": 0.1182
+    "score": 0.118
   },
   {
     "handle": "3-in-1-foldable-treadmill",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 1290000,
-    "score": 0.1162
+    "score": 0.1161
   },
   {
     "handle": "prexobeam-mini-portable-smart-projector",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 620000,
-    "score": 0.1108
+    "score": 0.1106
   },
   {
     "handle": "keyfold-pro-foldable-bluetooth-keyboard",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 310000,
-    "score": 0.1074
+    "score": 0.1072
   },
   {
     "handle": "ufo-raindrop-humidifier",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 276000,
-    "score": 0.107
+    "score": 0.1068
   },
   {
     "handle": "solarsecure-360-full-color-night-vision-security-camera",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 445000,
-    "score": 0.1069
+    "score": 0.1068
   },
   {
     "handle": "mini-exercise-stepper-pro",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 245000,
-    "score": 0.1047
+    "score": 0.1046
   },
   {
     "handle": "anker-soundcore-pyro-mini",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 180000,
-    "score": 0.104
+    "score": 0.1039
   },
   {
     "handle": "bonfire-humidifier-1",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 135000,
-    "score": 0.1035
+    "score": 0.1034
   },
   {
     "handle": "swiftmop™-effortless-spray-cleaning-in-seconds",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 98000,
-    "score": 0.1031
+    "score": 0.103
   },
   {
     "handle": "green-lion-digital-luggage-scale-50-kg-max",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 95000,
-    "score": 0.103
+    "score": 0.1029
   },
   {
     "handle": "porodo-lifestyle-air-boost-turbo-fan",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 95000,
-    "score": 0.103
+    "score": 0.1029
   },
   {
     "handle": "14-quad-monitor-laptop-screen-extender",
