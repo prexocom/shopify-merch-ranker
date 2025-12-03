@@ -78,6 +78,32 @@
     "rank": 3
   },
   {
+    "handle": "lumifan™-pro",
+    "title": "LumiFan™ Pro - Ceiling Light & Fan Combo",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_39dcd00a-17de-4476-b6a5-c41f28ab66da.jpg?v=1764684247",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Home Decor",
+      "Lighting"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 280000,
+          "sale_price": 225000,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 280000,
+      "max_regular_price": 280000,
+      "min_sale_price": 225000,
+      "max_sale_price": 225000
+    },
+    "rank": 4
+  },
+  {
     "handle": "modern-led-wall-art-with-built-in-planter",
     "title": "Modern LED Wall Art with Built-in Planter",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_093cb4b5-c095-40f9-a1b6-90a6807156c5.webp?v=1761846190",
@@ -102,7 +128,7 @@
       "min_sale_price": 1950000,
       "max_sale_price": 1950000
     },
-    "rank": 4
+    "rank": 5
   },
   {
     "handle": "under-cabinet-led-motion-sensor-light-bar",
@@ -128,7 +154,7 @@
       "min_sale_price": 55000,
       "max_sale_price": 55000
     },
-    "rank": 5
+    "rank": 6
   },
   {
     "handle": "magic-speaker-bulb-light-sound-combined",
@@ -157,7 +183,7 @@
       "min_sale_price": 98000,
       "max_sale_price": 98000
     },
-    "rank": 6
+    "rank": 7
   },
   {
     "handle": "solar-lamp-for-garden-outdoor",
@@ -183,6 +209,6 @@
       "min_sale_price": 95000,
       "max_sale_price": 95000
     },
-    "rank": 7
+    "rank": 8
   }
 ]

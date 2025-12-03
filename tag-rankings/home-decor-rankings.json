@@ -336,6 +336,32 @@
     "rank": 13
   },
   {
+    "handle": "lumifan™-pro",
+    "title": "LumiFan™ Pro - Ceiling Light & Fan Combo",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_39dcd00a-17de-4476-b6a5-c41f28ab66da.jpg?v=1764684247",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Home Decor",
+      "Lighting"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 280000,
+          "sale_price": 225000,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 280000,
+      "max_regular_price": 280000,
+      "min_sale_price": 225000,
+      "max_sale_price": 225000
+    },
+    "rank": 14
+  },
+  {
     "handle": "modern-led-wall-art-with-built-in-planter",
     "title": "Modern LED Wall Art with Built-in Planter",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_093cb4b5-c095-40f9-a1b6-90a6807156c5.webp?v=1761846190",
@@ -360,7 +386,7 @@
       "min_sale_price": 1950000,
       "max_sale_price": 1950000
     },
-    "rank": 14
+    "rank": 15
   },
   {
     "handle": "volcano-essential-oil-diffuser",
@@ -386,7 +412,7 @@
       "min_sale_price": 135000,
       "max_sale_price": 135000
     },
-    "rank": 15
+    "rank": 16
   },
   {
     "handle": "quicksand-painting-night-light",
@@ -411,7 +437,7 @@
       "min_sale_price": 195000,
       "max_sale_price": 195000
     },
-    "rank": 16
+    "rank": 17
   },
   {
     "handle": "sandsara-mini-kinetic-sand-painting-sculpture",
@@ -438,7 +464,7 @@
       "min_sale_price": 890000,
       "max_sale_price": 890000
     },
-    "rank": 17
+    "rank": 18
   },
   {
     "handle": "steamloco™-aromatherapy-train-humidifier",
@@ -464,7 +490,7 @@
       "min_sale_price": 188000,
       "max_sale_price": 188000
     },
-    "rank": 18
+    "rank": 19
   },
   {
     "handle": "under-cabinet-led-motion-sensor-light-bar",
@@ -490,7 +516,7 @@
       "min_sale_price": 55000,
       "max_sale_price": 55000
     },
-    "rank": 19
+    "rank": 20
   },
   {
     "handle": "magic-speaker-bulb-light-sound-combined",
@@ -519,6 +545,6 @@
       "min_sale_price": 98000,
       "max_sale_price": 98000
     },
-    "rank": 20
+    "rank": 21
   }
 ]
