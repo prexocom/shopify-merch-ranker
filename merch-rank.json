@@ -7,18 +7,18 @@
     "score": 0.7889
   },
   {
+    "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
+    "in_stock": true,
+    "units_sold": 41,
+    "revenue": 44800000,
+    "score": 0.6683
+  },
+  {
     "handle": "lumifan-360-light-fan",
     "in_stock": true,
     "units_sold": 162,
     "revenue": 23023000,
     "score": 0.653
-  },
-  {
-    "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
-    "in_stock": true,
-    "units_sold": 38,
-    "revenue": 41500000,
-    "score": 0.6265
   },
   {
     "handle": "beatbox-pro™-smart-music-boxing-trainer",
@@ -533,6 +533,13 @@
   },
   {
     "handle": "looi-robot-space-black-ai-desktop-companion",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "lumifan™-pro",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
