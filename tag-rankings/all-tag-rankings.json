@@ -374,15 +374,15 @@
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 280000,
-            "sale_price": 135000,
-            "percentage_off": 52
+            "regular_price": 220000,
+            "sale_price": 145000,
+            "percentage_off": 34
           }
         ],
-        "min_regular_price": 280000,
-        "max_regular_price": 280000,
-        "min_sale_price": 135000,
-        "max_sale_price": 135000
+        "min_regular_price": 220000,
+        "max_regular_price": 220000,
+        "min_sale_price": 145000,
+        "max_sale_price": 145000
       },
       "rank": 1
     },
@@ -711,14 +711,14 @@
           {
             "title": "Default Title",
             "regular_price": 280000,
-            "sale_price": 225000,
-            "percentage_off": 20
+            "sale_price": 185000,
+            "percentage_off": 34
           }
         ],
         "min_regular_price": 280000,
         "max_regular_price": 280000,
-        "min_sale_price": 225000,
-        "max_sale_price": 225000
+        "min_sale_price": 185000,
+        "max_sale_price": 185000
       },
       "rank": 14
     },
@@ -984,6 +984,31 @@
         "max_sale_price": 1290000
       },
       "rank": 3
+    },
+    {
+      "handle": "kemilng-m7-pro-foldable-multi-functional-treadmill",
+      "title": "KEMILNG M7 Pro Foldable Multi-functional Treadmill",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ac0fbf9c-c605-4efe-9dab-167a1a537341.png?v=1764536342",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Treadmills"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 2700000,
+            "sale_price": 2490000,
+            "percentage_off": 8
+          }
+        ],
+        "min_regular_price": 2700000,
+        "max_regular_price": 2700000,
+        "min_sale_price": 2490000,
+        "max_sale_price": 2490000
+      },
+      "rank": 4
     }
   ],
   "Security Cameras": [
@@ -1001,14 +1026,14 @@
           {
             "title": "Default Title",
             "regular_price": 800000,
-            "sale_price": 650000,
-            "percentage_off": 19
+            "sale_price": 695000,
+            "percentage_off": 13
           }
         ],
         "min_regular_price": 800000,
         "max_regular_price": 800000,
-        "min_sale_price": 650000,
-        "max_sale_price": 650000
+        "min_sale_price": 695000,
+        "max_sale_price": 695000
       },
       "rank": 1
     },
@@ -2553,15 +2578,15 @@
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 280000,
-            "sale_price": 135000,
-            "percentage_off": 52
+            "regular_price": 220000,
+            "sale_price": 145000,
+            "percentage_off": 34
           }
         ],
-        "min_regular_price": 280000,
-        "max_regular_price": 280000,
-        "min_sale_price": 135000,
-        "max_sale_price": 135000
+        "min_regular_price": 220000,
+        "max_regular_price": 220000,
+        "min_sale_price": 145000,
+        "max_sale_price": 145000
       },
       "rank": 1
     },
@@ -2632,14 +2657,14 @@
           {
             "title": "Default Title",
             "regular_price": 280000,
-            "sale_price": 225000,
-            "percentage_off": 20
+            "sale_price": 185000,
+            "percentage_off": 34
           }
         ],
         "min_regular_price": 280000,
         "max_regular_price": 280000,
-        "min_sale_price": 225000,
-        "max_sale_price": 225000
+        "min_sale_price": 185000,
+        "max_sale_price": 185000
       },
       "rank": 4
     },

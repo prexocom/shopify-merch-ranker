@@ -13,15 +13,15 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 280000,
-          "sale_price": 135000,
-          "percentage_off": 52
+          "regular_price": 220000,
+          "sale_price": 145000,
+          "percentage_off": 34
         }
       ],
-      "min_regular_price": 280000,
-      "max_regular_price": 280000,
-      "min_sale_price": 135000,
-      "max_sale_price": 135000
+      "min_regular_price": 220000,
+      "max_regular_price": 220000,
+      "min_sale_price": 145000,
+      "max_sale_price": 145000
     },
     "rank": 1
   },
@@ -350,14 +350,14 @@
         {
           "title": "Default Title",
           "regular_price": 280000,
-          "sale_price": 225000,
-          "percentage_off": 20
+          "sale_price": 185000,
+          "percentage_off": 34
         }
       ],
       "min_regular_price": 280000,
       "max_regular_price": 280000,
-      "min_sale_price": 225000,
-      "max_sale_price": 225000
+      "min_sale_price": 185000,
+      "max_sale_price": 185000
     },
     "rank": 14
   },
