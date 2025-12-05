@@ -26,6 +26,32 @@
     "rank": 1
   },
   {
+    "handle": "lumifan™-pro",
+    "title": "LumiFan™ Pro - Ceiling Light & Fan Combo",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_39dcd00a-17de-4476-b6a5-c41f28ab66da.jpg?v=1764684247",
+    "units_sold": 2,
+    "revenue": 370000,
+    "tags": [
+      "Home Decor",
+      "Lighting"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 280000,
+          "sale_price": 185000,
+          "percentage_off": 34
+        }
+      ],
+      "min_regular_price": 280000,
+      "max_regular_price": 280000,
+      "min_sale_price": 185000,
+      "max_sale_price": 185000
+    },
+    "rank": 2
+  },
+  {
     "handle": "astronaut-galaxy-projector-your-cosmic-escape",
     "title": "Astronaut Galaxy Projector – Your Cosmic Escape",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5c9aa43b-e802-4398-9ef3-7b81ee6d7907.jpg?v=1754570916",
@@ -49,7 +75,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 2
+    "rank": 3
   },
   {
     "handle": "hexagon-modular-touch-lights-shape-your-glow",
@@ -74,32 +100,6 @@
       "max_regular_price": 230000,
       "min_sale_price": 195000,
       "max_sale_price": 195000
-    },
-    "rank": 3
-  },
-  {
-    "handle": "lumifan™-pro",
-    "title": "LumiFan™ Pro - Ceiling Light & Fan Combo",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_39dcd00a-17de-4476-b6a5-c41f28ab66da.jpg?v=1764684247",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Home Decor",
-      "Lighting"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 280000,
-          "sale_price": 185000,
-          "percentage_off": 34
-        }
-      ],
-      "min_regular_price": 280000,
-      "max_regular_price": 280000,
-      "min_sale_price": 185000,
-      "max_sale_price": 185000
     },
     "rank": 4
   },

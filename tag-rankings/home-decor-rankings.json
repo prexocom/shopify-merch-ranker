@@ -79,6 +79,32 @@
     "rank": 3
   },
   {
+    "handle": "lumifan™-pro",
+    "title": "LumiFan™ Pro - Ceiling Light & Fan Combo",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_39dcd00a-17de-4476-b6a5-c41f28ab66da.jpg?v=1764684247",
+    "units_sold": 2,
+    "revenue": 370000,
+    "tags": [
+      "Home Decor",
+      "Lighting"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 280000,
+          "sale_price": 185000,
+          "percentage_off": 34
+        }
+      ],
+      "min_regular_price": 280000,
+      "max_regular_price": 280000,
+      "min_sale_price": 185000,
+      "max_sale_price": 185000
+    },
+    "rank": 4
+  },
+  {
     "handle": "bonfire-humidifier-1",
     "title": "Bonfire Flame Effect Humidifier",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/Pinnangare5.jpg?v=1749642009",
@@ -102,7 +128,7 @@
       "min_sale_price": 135000,
       "max_sale_price": 135000
     },
-    "rank": 4
+    "rank": 5
   },
   {
     "handle": "absorbent-quick-dry-bath-mat",
@@ -127,7 +153,7 @@
       "min_sale_price": 65000,
       "max_sale_price": 65000
     },
-    "rank": 5
+    "rank": 6
   },
   {
     "handle": "astronaut-galaxy-projector-your-cosmic-escape",
@@ -153,7 +179,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 6
+    "rank": 7
   },
   {
     "handle": "fireplace-flame-air-humidifier",
@@ -179,7 +205,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 7
+    "rank": 8
   },
   {
     "handle": "galaxy-star-nebula-projector-with-bluetooth-speaker",
@@ -205,7 +231,7 @@
       "min_sale_price": 150000,
       "max_sale_price": 150000
     },
-    "rank": 8
+    "rank": 9
   },
   {
     "handle": "glowmist™-fireplace-humidifier",
@@ -231,7 +257,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 9
+    "rank": 10
   },
   {
     "handle": "hexagon-modular-touch-lights-shape-your-glow",
@@ -257,7 +283,7 @@
       "min_sale_price": 195000,
       "max_sale_price": 195000
     },
-    "rank": 10
+    "rank": 11
   },
   {
     "handle": "inflatable-air-sofa-air-lounger",
@@ -282,7 +308,7 @@
       "min_sale_price": 165000,
       "max_sale_price": 165000
     },
-    "rank": 11
+    "rank": 12
   },
   {
     "handle": "jellyfish-humidifier",
@@ -308,7 +334,7 @@
       "min_sale_price": 155000,
       "max_sale_price": 155000
     },
-    "rank": 12
+    "rank": 13
   },
   {
     "handle": "livtab-smart-coffee-table-built-in-fridge-wireless-charging-speakers",
@@ -332,32 +358,6 @@
       "max_regular_price": 4250000,
       "min_sale_price": 3500000,
       "max_sale_price": 3500000
-    },
-    "rank": 13
-  },
-  {
-    "handle": "lumifan™-pro",
-    "title": "LumiFan™ Pro - Ceiling Light & Fan Combo",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_39dcd00a-17de-4476-b6a5-c41f28ab66da.jpg?v=1764684247",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Home Decor",
-      "Lighting"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 280000,
-          "sale_price": 185000,
-          "percentage_off": 34
-        }
-      ],
-      "min_regular_price": 280000,
-      "max_regular_price": 280000,
-      "min_sale_price": 185000,
-      "max_sale_price": 185000
     },
     "rank": 14
   },
