@@ -3,8 +3,8 @@
     "handle": "lumifan-360-light-fan",
     "title": "LumiFan™ – Transform Your Room in Minutes",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3309b47252b00d69970a66cfd5863891_1_1.png?v=1757943596",
-    "units_sold": 162,
-    "revenue": 23023000,
+    "units_sold": 163,
+    "revenue": 23168000,
     "tags": [
       "Home Decor",
       "Lighting"
@@ -53,6 +53,32 @@
     "rank": 2
   },
   {
+    "handle": "lumifan™-pro",
+    "title": "LumiFan™ Pro - Ceiling Light & Fan Combo",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_39dcd00a-17de-4476-b6a5-c41f28ab66da.jpg?v=1764684247",
+    "units_sold": 19,
+    "revenue": 3515000,
+    "tags": [
+      "Home Decor",
+      "Lighting"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 280000,
+          "sale_price": 185000,
+          "percentage_off": 34
+        }
+      ],
+      "min_regular_price": 280000,
+      "max_regular_price": 280000,
+      "min_sale_price": 185000,
+      "max_sale_price": 185000
+    },
+    "rank": 3
+  },
+  {
     "handle": "ufo-raindrop-humidifier",
     "title": "Aquamist Raindrop Humidifier",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/S9cd93e459b7c4e9e939ad6a6cd748d6av.jpg?v=1749642028",
@@ -75,32 +101,6 @@
       "max_regular_price": 185000,
       "min_sale_price": 138000,
       "max_sale_price": 138000
-    },
-    "rank": 3
-  },
-  {
-    "handle": "lumifan™-pro",
-    "title": "LumiFan™ Pro - Ceiling Light & Fan Combo",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_39dcd00a-17de-4476-b6a5-c41f28ab66da.jpg?v=1764684247",
-    "units_sold": 2,
-    "revenue": 370000,
-    "tags": [
-      "Home Decor",
-      "Lighting"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 280000,
-          "sale_price": 185000,
-          "percentage_off": 34
-        }
-      ],
-      "min_regular_price": 280000,
-      "max_regular_price": 280000,
-      "min_sale_price": 185000,
-      "max_sale_price": 185000
     },
     "rank": 4
   },
