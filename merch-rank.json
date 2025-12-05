@@ -4,42 +4,56 @@
     "in_stock": true,
     "units_sold": 48,
     "revenue": 54590000,
-    "score": 0.7889
+    "score": 0.7883
   },
   {
     "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
     "in_stock": true,
     "units_sold": 41,
     "revenue": 44800000,
-    "score": 0.6683
+    "score": 0.6679
   },
   {
     "handle": "lumifan-360-light-fan",
     "in_stock": true,
-    "units_sold": 162,
-    "revenue": 23023000,
-    "score": 0.653
+    "units_sold": 163,
+    "revenue": 23168000,
+    "score": 0.6546
   },
   {
     "handle": "beatbox-pro™-smart-music-boxing-trainer",
     "in_stock": true,
     "units_sold": 96,
     "revenue": 27360000,
-    "score": 0.5785
+    "score": 0.5774
   },
   {
     "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
     "in_stock": true,
     "units_sold": 73,
     "revenue": 28537000,
-    "score": 0.5488
+    "score": 0.548
   },
   {
     "handle": "kemilng-m7-pro-treadmill",
     "in_stock": true,
-    "units_sold": 3,
-    "revenue": 5370000,
-    "score": 0.1646
+    "units_sold": 4,
+    "revenue": 7260000,
+    "score": 0.1872
+  },
+  {
+    "handle": "lumifan™-pro",
+    "in_stock": true,
+    "units_sold": 19,
+    "revenue": 3515000,
+    "score": 0.1736
+  },
+  {
+    "handle": "kemilng-m7-pro-foldable-multi-functional-treadmill",
+    "in_stock": true,
+    "units_sold": 1,
+    "revenue": 2490000,
+    "score": 0.1292
   },
   {
     "handle": "4k-triple-lens-solar-security-light-camera-360-smart-protection",
@@ -61,13 +75,6 @@
     "units_sold": 2,
     "revenue": 620000,
     "score": 0.1105
-  },
-  {
-    "handle": "lumifan™-pro",
-    "in_stock": true,
-    "units_sold": 2,
-    "revenue": 370000,
-    "score": 0.1078
   },
   {
     "handle": "keyfold-pro-foldable-bluetooth-keyboard",
@@ -512,13 +519,6 @@
   },
   {
     "handle": "jellyfish-humidifier",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "kemilng-m7-pro-foldable-multi-functional-treadmill",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
