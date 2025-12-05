@@ -63,6 +63,13 @@
     "score": 0.1105
   },
   {
+    "handle": "lumifan™-pro",
+    "in_stock": true,
+    "units_sold": 2,
+    "revenue": 370000,
+    "score": 0.1078
+  },
+  {
     "handle": "keyfold-pro-foldable-bluetooth-keyboard",
     "in_stock": true,
     "units_sold": 2,
@@ -540,13 +547,6 @@
   },
   {
     "handle": "looi-robot-space-black-ai-desktop-companion",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "lumifan™-pro",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
