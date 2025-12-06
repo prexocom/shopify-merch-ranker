@@ -111,136 +111,6 @@
     "rank": 4
   },
   {
-    "handle": "green-lion-buenos-aires-display-speaker",
-    "title": "Green Lion Buenos Aires Display Speaker",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_4f69b87a-2971-4cc9-8b19-2d1e57c5214c.webp?v=1755674071",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Green Lion",
-      "Portable Speakers"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 1550000,
-          "sale_price": 1550000,
-          "percentage_off": 0
-        }
-      ],
-      "min_regular_price": 1550000,
-      "max_regular_price": 1550000,
-      "min_sale_price": 1550000,
-      "max_sale_price": 1550000
-    },
-    "rank": 5
-  },
-  {
-    "handle": "green-lion-palma-pro-wireless-speaker",
-    "title": "Green Lion Palma Pro Wireless Speaker",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_db223ea9-2ba6-451a-a69d-5718165323bf.jpg?v=1755673216",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Green Lion",
-      "Portable Speakers"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 185000,
-          "sale_price": 185000,
-          "percentage_off": 0
-        }
-      ],
-      "min_regular_price": 185000,
-      "max_regular_price": 185000,
-      "min_sale_price": 185000,
-      "max_sale_price": 185000
-    },
-    "rank": 6
-  },
-  {
-    "handle": "green-lion-porto-wireless-speaker",
-    "title": "Green Lion Porto Wireless Speaker",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f09cd42e-6f0f-4c4a-a3a5-351f95deef79.webp?v=1755672358",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Green Lion",
-      "Portable Speakers"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 155000,
-          "sale_price": 140000,
-          "percentage_off": 10
-        }
-      ],
-      "min_regular_price": 155000,
-      "max_regular_price": 155000,
-      "min_sale_price": 140000,
-      "max_sale_price": 140000
-    },
-    "rank": 7
-  },
-  {
-    "handle": "green-lion-sao-paulo-portable-touch-display-speaker",
-    "title": "Green Lion São Paulo Portable Touch Display Speaker",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9266bee7-7057-4c43-86c3-c7ad13ed4879.webp?v=1755674788",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Green Lion",
-      "Portable Speakers"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 1420000,
-          "sale_price": 1420000,
-          "percentage_off": 0
-        }
-      ],
-      "min_regular_price": 1420000,
-      "max_regular_price": 1420000,
-      "min_sale_price": 1420000,
-      "max_sale_price": 1420000
-    },
-    "rank": 8
-  },
-  {
-    "handle": "oraimo-soundflow-50w-wireless-speaker",
-    "title": "Oraimo SoundFlow 50W Wireless Speaker",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_97178671-4d50-4567-a345-533b1a149aa2.jpg?v=1755278186",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Oraimo",
-      "Portable Speakers"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 295000,
-          "sale_price": 250000,
-          "percentage_off": 15
-        }
-      ],
-      "min_regular_price": 295000,
-      "max_regular_price": 295000,
-      "min_sale_price": 250000,
-      "max_sale_price": 250000
-    },
-    "rank": 9
-  },
-  {
     "handle": "porodo-bluetooth-conference-speaker",
     "title": "Porodo Bluetooth Conference Speaker",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_91341ad2-6c6d-4b06-b59d-00198e3269d9.webp?v=1754651692",
@@ -266,7 +136,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 10
+    "rank": 5
   },
   {
     "handle": "sony-srs-xb100-wireless-speaker",
@@ -294,7 +164,7 @@
       "min_sale_price": 279000,
       "max_sale_price": 279000
     },
-    "rank": 11
+    "rank": 6
   },
   {
     "handle": "vintage-mini-wireless-speaker-classic-looks-modern-sound",
@@ -321,7 +191,7 @@
       "min_sale_price": 229000,
       "max_sale_price": 229000
     },
-    "rank": 12
+    "rank": 7
   },
   {
     "handle": "waterproof-mini-bluetooth-speaker-big-sound-tiny-body",
@@ -348,7 +218,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 13
+    "rank": 8
   },
   {
     "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
@@ -376,6 +246,6 @@
       "min_sale_price": 155000,
       "max_sale_price": 155000
     },
-    "rank": 14
+    "rank": 9
   }
 ]

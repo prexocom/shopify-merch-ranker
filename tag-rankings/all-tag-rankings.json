@@ -14,15 +14,15 @@
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 1500000,
-            "sale_price": 1100000,
-            "percentage_off": 27
+            "regular_price": 1700000,
+            "sale_price": 1395000,
+            "percentage_off": 18
           }
         ],
-        "min_regular_price": 1500000,
-        "max_regular_price": 1500000,
-        "min_sale_price": 1100000,
-        "max_sale_price": 1100000
+        "min_regular_price": 1700000,
+        "max_regular_price": 1700000,
+        "min_sale_price": 1395000,
+        "max_sale_price": 1395000
       },
       "rank": 1
     },
@@ -139,32 +139,6 @@
       "rank": 5
     },
     {
-      "handle": "green-lion-smart-oled-vertical-mouse",
-      "title": "Green Lion Smart OLED Vertical Mouse",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e44757ff-f4f6-426c-80b3-752a9a413f2d.jpg?v=1755669554",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Green Lion"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 150000,
-            "sale_price": 150000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 150000,
-        "max_regular_price": 150000,
-        "min_sale_price": 150000,
-        "max_sale_price": 150000
-      },
-      "rank": 6
-    },
-    {
       "handle": "green-lion-wireless-presenter-with-retractable-pointer",
       "title": "Green Lion Wireless Presenter with Retractable Pointer",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3b90ddbf-6c12-49b3-bf18-3d61398e824a.webp?v=1754756879",
@@ -188,7 +162,7 @@
         "min_sale_price": 95000,
         "max_sale_price": 95000
       },
-      "rank": 7
+      "rank": 6
     },
     {
       "handle": "keyfold-pro-2-foldable-bluetooth-keyboard",
@@ -215,7 +189,7 @@
         "min_sale_price": 155000,
         "max_sale_price": 155000
       },
-      "rank": 8
+      "rank": 7
     },
     {
       "handle": "powerology-dual-screen-portable-monitor",
@@ -242,7 +216,7 @@
         "min_sale_price": 1350000,
         "max_sale_price": 1350000
       },
-      "rank": 9
+      "rank": 8
     },
     {
       "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
@@ -271,7 +245,7 @@
         "min_sale_price": 620000,
         "max_sale_price": 620000
       },
-      "rank": 10
+      "rank": 9
     },
     {
       "handle": "prexoplay-wireless-bluetooth-game-controller",
@@ -298,7 +272,7 @@
         "min_sale_price": 75000,
         "max_sale_price": 75000
       },
-      "rank": 11
+      "rank": 10
     }
   ],
   "Babies": [
@@ -417,8 +391,8 @@
       "handle": "lumifan™-pro",
       "title": "LumiFan™ Pro - Ceiling Light & Fan Combo",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_39dcd00a-17de-4476-b6a5-c41f28ab66da.jpg?v=1764684247",
-      "units_sold": 19,
-      "revenue": 3515000,
+      "units_sold": 20,
+      "revenue": 3700000,
       "tags": [
         "Home Decor",
         "Lighting"
@@ -1753,136 +1727,6 @@
       "rank": 4
     },
     {
-      "handle": "green-lion-buenos-aires-display-speaker",
-      "title": "Green Lion Buenos Aires Display Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_4f69b87a-2971-4cc9-8b19-2d1e57c5214c.webp?v=1755674071",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Portable Speakers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 1550000,
-            "sale_price": 1550000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 1550000,
-        "max_regular_price": 1550000,
-        "min_sale_price": 1550000,
-        "max_sale_price": 1550000
-      },
-      "rank": 5
-    },
-    {
-      "handle": "green-lion-palma-pro-wireless-speaker",
-      "title": "Green Lion Palma Pro Wireless Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_db223ea9-2ba6-451a-a69d-5718165323bf.jpg?v=1755673216",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Portable Speakers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 185000,
-            "sale_price": 185000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 185000,
-        "max_regular_price": 185000,
-        "min_sale_price": 185000,
-        "max_sale_price": 185000
-      },
-      "rank": 6
-    },
-    {
-      "handle": "green-lion-porto-wireless-speaker",
-      "title": "Green Lion Porto Wireless Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f09cd42e-6f0f-4c4a-a3a5-351f95deef79.webp?v=1755672358",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Portable Speakers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 155000,
-            "sale_price": 140000,
-            "percentage_off": 10
-          }
-        ],
-        "min_regular_price": 155000,
-        "max_regular_price": 155000,
-        "min_sale_price": 140000,
-        "max_sale_price": 140000
-      },
-      "rank": 7
-    },
-    {
-      "handle": "green-lion-sao-paulo-portable-touch-display-speaker",
-      "title": "Green Lion São Paulo Portable Touch Display Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9266bee7-7057-4c43-86c3-c7ad13ed4879.webp?v=1755674788",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Portable Speakers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 1420000,
-            "sale_price": 1420000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 1420000,
-        "max_regular_price": 1420000,
-        "min_sale_price": 1420000,
-        "max_sale_price": 1420000
-      },
-      "rank": 8
-    },
-    {
-      "handle": "oraimo-soundflow-50w-wireless-speaker",
-      "title": "Oraimo SoundFlow 50W Wireless Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_97178671-4d50-4567-a345-533b1a149aa2.jpg?v=1755278186",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Oraimo",
-        "Portable Speakers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 295000,
-            "sale_price": 250000,
-            "percentage_off": 15
-          }
-        ],
-        "min_regular_price": 295000,
-        "max_regular_price": 295000,
-        "min_sale_price": 250000,
-        "max_sale_price": 250000
-      },
-      "rank": 9
-    },
-    {
       "handle": "porodo-bluetooth-conference-speaker",
       "title": "Porodo Bluetooth Conference Speaker",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_91341ad2-6c6d-4b06-b59d-00198e3269d9.webp?v=1754651692",
@@ -1908,7 +1752,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 10
+      "rank": 5
     },
     {
       "handle": "sony-srs-xb100-wireless-speaker",
@@ -1936,7 +1780,7 @@
         "min_sale_price": 279000,
         "max_sale_price": 279000
       },
-      "rank": 11
+      "rank": 6
     },
     {
       "handle": "vintage-mini-wireless-speaker-classic-looks-modern-sound",
@@ -1963,7 +1807,7 @@
         "min_sale_price": 229000,
         "max_sale_price": 229000
       },
-      "rank": 12
+      "rank": 7
     },
     {
       "handle": "waterproof-mini-bluetooth-speaker-big-sound-tiny-body",
@@ -1990,7 +1834,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 13
+      "rank": 8
     },
     {
       "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
@@ -2018,7 +1862,7 @@
         "min_sale_price": 155000,
         "max_sale_price": 155000
       },
-      "rank": 14
+      "rank": 9
     }
   ],
   "Speaker": [
@@ -2433,58 +2277,6 @@
       "rank": 4
     },
     {
-      "handle": "green-lion-grenade-humidifier",
-      "title": "Green Lion Grenade Humidifier",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e78ffa89-2e0f-47f0-a971-f36a8089a4cc.webp?v=1761849576",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Humidifiers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 140000,
-            "sale_price": 115000,
-            "percentage_off": 18
-          }
-        ],
-        "min_regular_price": 140000,
-        "max_regular_price": 140000,
-        "min_sale_price": 115000,
-        "max_sale_price": 115000
-      },
-      "rank": 5
-    },
-    {
-      "handle": "green-lion-veloura-fragrance-diffuser",
-      "title": "Green Lion Veloura Fragrance Diffuser",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_4c7344a4-6b68-4fbd-9d41-8a032f4ac4b7.webp?v=1761850661",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Humidifiers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 150000,
-            "sale_price": 125000,
-            "percentage_off": 17
-          }
-        ],
-        "min_regular_price": 150000,
-        "max_regular_price": 150000,
-        "min_sale_price": 125000,
-        "max_sale_price": 125000
-      },
-      "rank": 6
-    },
-    {
       "handle": "jellyfish-humidifier",
       "title": "Jellyfish Humidifier",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d095ee78-7e1b-4f49-9af5-2ef8be3797c0.jpg?v=1760191137",
@@ -2508,7 +2300,7 @@
         "min_sale_price": 155000,
         "max_sale_price": 155000
       },
-      "rank": 7
+      "rank": 5
     },
     {
       "handle": "volcano-essential-oil-diffuser",
@@ -2534,7 +2326,7 @@
         "min_sale_price": 135000,
         "max_sale_price": 135000
       },
-      "rank": 8
+      "rank": 6
     },
     {
       "handle": "steamloco™-aromatherapy-train-humidifier",
@@ -2560,7 +2352,7 @@
         "min_sale_price": 188000,
         "max_sale_price": 188000
       },
-      "rank": 9
+      "rank": 7
     }
   ],
   "Lighting": [
@@ -2594,8 +2386,8 @@
       "handle": "lumifan™-pro",
       "title": "LumiFan™ Pro - Ceiling Light & Fan Combo",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_39dcd00a-17de-4476-b6a5-c41f28ab66da.jpg?v=1764684247",
-      "units_sold": 19,
-      "revenue": 3515000,
+      "units_sold": 20,
+      "revenue": 3700000,
       "tags": [
         "Home Decor",
         "Lighting"
@@ -4099,32 +3891,6 @@
       "rank": 5
     },
     {
-      "handle": "green-lion-smart-body-scale-8-electrode-advanced-analysis",
-      "title": "Green Lion Smart Body Scale (8-Electrode Advanced Analysis)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_30dbf50a-5c91-4bf0-9492-4249c1678a66.jpg?v=1754725076",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Health & Fitness"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 300000,
-            "sale_price": 245000,
-            "percentage_off": 18
-          }
-        ],
-        "min_regular_price": 300000,
-        "max_regular_price": 300000,
-        "min_sale_price": 245000,
-        "max_sale_price": 245000
-      },
-      "rank": 6
-    },
-    {
       "handle": "green-lion-smart-health-tracker-ring",
       "title": "Green Lion Smart Health Tracker Ring",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_44987bce-7027-4c0b-9e1c-09eaaf394848.jpg?v=1755583055",
@@ -4149,7 +3915,7 @@
         "min_sale_price": 155000,
         "max_sale_price": 155000
       },
-      "rank": 7
+      "rank": 6
     },
     {
       "handle": "mini-exercise-stepper-with-resistance-bands",
@@ -4174,7 +3940,7 @@
         "min_sale_price": 245000,
         "max_sale_price": 245000
       },
-      "rank": 8
+      "rank": 7
     },
     {
       "handle": "rotator-arm-shoulder-strength-trainer",
@@ -4199,7 +3965,7 @@
         "min_sale_price": 345000,
         "max_sale_price": 345000
       },
-      "rank": 9
+      "rank": 8
     },
     {
       "handle": "solerenew-electric-callus-remover",
@@ -4224,7 +3990,7 @@
         "min_sale_price": 99000,
         "max_sale_price": 99000
       },
-      "rank": 10
+      "rank": 9
     },
     {
       "handle": "zero-gravity-full-body-massage-chair",
@@ -4249,7 +4015,7 @@
         "min_sale_price": 4850000,
         "max_sale_price": 4850000
       },
-      "rank": 11
+      "rank": 10
     }
   ],
   "Beats": [
@@ -5192,58 +4958,6 @@
       "rank": 1
     },
     {
-      "handle": "green-lion-360-rotatable-laptop-stand",
-      "title": "Green Lion 360 Rotatable Laptop Stand",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_27be5940-6fd1-4fa1-b189-317c157f3dc4.jpg?v=1755552283",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Laptop Stands"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 195000,
-            "sale_price": 195000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 195000,
-        "max_regular_price": 195000,
-        "min_sale_price": 195000,
-        "max_sale_price": 195000
-      },
-      "rank": 2
-    },
-    {
-      "handle": "green-lion-adjustable-laptop-stand-with-cooling-fan",
-      "title": "Green Lion Adjustable Laptop Stand with Cooling Fan",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_def6fc92-090a-43f7-96c4-ac8fcf16d538.webp?v=1755550569",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Laptop Stands"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 270000,
-            "sale_price": 230000,
-            "percentage_off": 15
-          }
-        ],
-        "min_regular_price": 270000,
-        "max_regular_price": 270000,
-        "min_sale_price": 230000,
-        "max_sale_price": 230000
-      },
-      "rank": 3
-    },
-    {
       "handle": "green-lion-auto-pop-tripod",
       "title": "Green Lion Auto Pop Tripod",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_934d663d-6802-4a2d-bb80-d64ce39a5c37.jpg?v=1755666587",
@@ -5267,59 +4981,7 @@
         "min_sale_price": 135000,
         "max_sale_price": 135000
       },
-      "rank": 4
-    },
-    {
-      "handle": "green-lion-buenos-aires-display-speaker",
-      "title": "Green Lion Buenos Aires Display Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_4f69b87a-2971-4cc9-8b19-2d1e57c5214c.webp?v=1755674071",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Portable Speakers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 1550000,
-            "sale_price": 1550000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 1550000,
-        "max_regular_price": 1550000,
-        "min_sale_price": 1550000,
-        "max_sale_price": 1550000
-      },
-      "rank": 5
-    },
-    {
-      "handle": "green-lion-classic-true-wireless-earbuds",
-      "title": "Green Lion Classic True Wireless Earbuds",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c19842d3-0588-430a-85e1-964e413d1d6a.jpg?v=1755628979",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "Green Lion"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 150000,
-            "sale_price": 125000,
-            "percentage_off": 17
-          }
-        ],
-        "min_regular_price": 150000,
-        "max_regular_price": 150000,
-        "min_sale_price": 125000,
-        "max_sale_price": 125000
-      },
-      "rank": 6
+      "rank": 2
     },
     {
       "handle": "green-lion-cx240-cordless-pressure-wash-gun",
@@ -5345,7 +5007,7 @@
         "min_sale_price": 285000,
         "max_sale_price": 285000
       },
-      "rank": 7
+      "rank": 3
     },
     {
       "handle": "green-lion-digital-weight-scale",
@@ -5371,85 +5033,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 8
-    },
-    {
-      "handle": "green-lion-echo-max-headphones",
-      "title": "Green Lion Echo Max Headphones",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0d89593e-1173-49fe-8eb4-699785dcd7f4.jpg?v=1754944773",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Headphones"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 175000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 175000,
-        "max_sale_price": 175000
-      },
-      "rank": 9
-    },
-    {
-      "handle": "green-lion-echo-max-headphones-black",
-      "title": "Green Lion Echo Max Headphones - Black",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_447f91eb-6fb7-4e3a-bf58-228c1dce5af4.jpg?v=1754945095",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Headphones"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 175000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 175000,
-        "max_sale_price": 175000
-      },
-      "rank": 10
-    },
-    {
-      "handle": "copy-green-lion-echo-max-headphones-orange",
-      "title": "Green Lion Echo Max Headphones - Orange",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_87fc8554-b91c-4656-8a18-ab1de65b12bb.webp?v=1754945345",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Headphones"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 175000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 175000,
-        "max_sale_price": 175000
-      },
-      "rank": 11
+      "rank": 4
     },
     {
       "handle": "green-lion-gan-65w-multi-port-travel-adapter",
@@ -5480,33 +5064,7 @@
         "min_sale_price": 290000,
         "max_sale_price": 290000
       },
-      "rank": 12
-    },
-    {
-      "handle": "green-lion-grenade-humidifier",
-      "title": "Green Lion Grenade Humidifier",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e78ffa89-2e0f-47f0-a971-f36a8089a4cc.webp?v=1761849576",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Humidifiers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 140000,
-            "sale_price": 115000,
-            "percentage_off": 18
-          }
-        ],
-        "min_regular_price": 140000,
-        "max_regular_price": 140000,
-        "min_sale_price": 115000,
-        "max_sale_price": 115000
-      },
-      "rank": 13
+      "rank": 5
     },
     {
       "handle": "green-lion-mouse-pad-with-wireless-charger",
@@ -5535,7 +5093,7 @@
         "min_sale_price": 145000,
         "max_sale_price": 145000
       },
-      "rank": 14
+      "rank": 6
     },
     {
       "handle": "green-lion-new-york-gimbal-smart-face-tracking",
@@ -5565,111 +5123,7 @@
         "min_sale_price": 425000,
         "max_sale_price": 425000
       },
-      "rank": 15
-    },
-    {
-      "handle": "green-lion-ocean-open-ear-headphones",
-      "title": "Green Lion Ocean Open-Ear Headphones",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b05825b3-5030-4366-a8a5-e1e5978b508f.jpg?v=1755898196",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "Green Lion"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 170000,
-            "sale_price": 135000,
-            "percentage_off": 21
-          }
-        ],
-        "min_regular_price": 170000,
-        "max_regular_price": 170000,
-        "min_sale_price": 135000,
-        "max_sale_price": 135000
-      },
-      "rank": 16
-    },
-    {
-      "handle": "green-lion-palma-pro-wireless-speaker",
-      "title": "Green Lion Palma Pro Wireless Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_db223ea9-2ba6-451a-a69d-5718165323bf.jpg?v=1755673216",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Portable Speakers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 185000,
-            "sale_price": 185000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 185000,
-        "max_regular_price": 185000,
-        "min_sale_price": 185000,
-        "max_sale_price": 185000
-      },
-      "rank": 17
-    },
-    {
-      "handle": "green-lion-portable-oral-irrigator-300-ml",
-      "title": "Green Lion Portable Oral Irrigator (300 mL)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ddb11d8a-ebe5-4eac-b0f3-77326e327518.jpg?v=1754727405",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Oral Care"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 200000,
-            "sale_price": 175000,
-            "percentage_off": 13
-          }
-        ],
-        "min_regular_price": 200000,
-        "max_regular_price": 200000,
-        "min_sale_price": 175000,
-        "max_sale_price": 175000
-      },
-      "rank": 18
-    },
-    {
-      "handle": "green-lion-porto-wireless-speaker",
-      "title": "Green Lion Porto Wireless Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f09cd42e-6f0f-4c4a-a3a5-351f95deef79.webp?v=1755672358",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Portable Speakers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 155000,
-            "sale_price": 140000,
-            "percentage_off": 10
-          }
-        ],
-        "min_regular_price": 155000,
-        "max_regular_price": 155000,
-        "min_sale_price": 140000,
-        "max_sale_price": 140000
-      },
-      "rank": 19
+      "rank": 7
     },
     {
       "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
@@ -5697,7 +5151,7 @@
         "min_sale_price": 185000,
         "max_sale_price": 185000
       },
-      "rank": 20
+      "rank": 8
     },
     {
       "handle": "green-lion-prisma-4k-portable-projector",
@@ -5724,86 +5178,7 @@
         "min_sale_price": 650000,
         "max_sale_price": 650000
       },
-      "rank": 21
-    },
-    {
-      "handle": "green-lion-sao-paulo-portable-touch-display-speaker",
-      "title": "Green Lion São Paulo Portable Touch Display Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9266bee7-7057-4c43-86c3-c7ad13ed4879.webp?v=1755674788",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Portable Speakers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 1420000,
-            "sale_price": 1420000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 1420000,
-        "max_regular_price": 1420000,
-        "min_sale_price": 1420000,
-        "max_sale_price": 1420000
-      },
-      "rank": 22
-    },
-    {
-      "handle": "green-lion-smart-body-scale-8-electrode-advanced-analysis",
-      "title": "Green Lion Smart Body Scale (8-Electrode Advanced Analysis)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_30dbf50a-5c91-4bf0-9492-4249c1678a66.jpg?v=1754725076",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Health & Fitness"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 300000,
-            "sale_price": 245000,
-            "percentage_off": 18
-          }
-        ],
-        "min_regular_price": 300000,
-        "max_regular_price": 300000,
-        "min_sale_price": 245000,
-        "max_sale_price": 245000
-      },
-      "rank": 23
-    },
-    {
-      "handle": "green-lion-smart-brush-60-ultrawide",
-      "title": "Green Lion Smart Brush 60° Ultrawide",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ed9a1e74-a28c-41c0-a40e-ae9eee18a24e.jpg?v=1754728194",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Electric Toothbrush",
-        "Green Lion",
-        "Oral Care"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 230000,
-            "sale_price": 185000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 230000,
-        "max_regular_price": 230000,
-        "min_sale_price": 185000,
-        "max_sale_price": 185000
-      },
-      "rank": 24
+      "rank": 9
     },
     {
       "handle": "green-lion-smart-health-tracker-ring",
@@ -5830,33 +5205,7 @@
         "min_sale_price": 155000,
         "max_sale_price": 155000
       },
-      "rank": 25
-    },
-    {
-      "handle": "green-lion-smart-oled-vertical-mouse",
-      "title": "Green Lion Smart OLED Vertical Mouse",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e44757ff-f4f6-426c-80b3-752a9a413f2d.jpg?v=1755669554",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Green Lion"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 150000,
-            "sale_price": 150000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 150000,
-        "max_regular_price": 150000,
-        "min_sale_price": 150000,
-        "max_sale_price": 150000
-      },
-      "rank": 26
+      "rank": 10
     },
     {
       "handle": "green-lion-smart-toothbrush-sanitizer",
@@ -5883,7 +5232,7 @@
         "min_sale_price": 160000,
         "max_sale_price": 160000
       },
-      "rank": 27
+      "rank": 11
     },
     {
       "handle": "green-lion-stockholm-smart-glasses-black",
@@ -5909,7 +5258,7 @@
         "min_sale_price": 155000,
         "max_sale_price": 155000
       },
-      "rank": 28
+      "rank": 12
     },
     {
       "handle": "green-lion-thermal-portable-printer",
@@ -5935,7 +5284,7 @@
         "min_sale_price": 245000,
         "max_sale_price": 245000
       },
-      "rank": 29
+      "rank": 13
     },
     {
       "handle": "green-lion-urbanic-smart-eyewear",
@@ -5961,87 +5310,7 @@
         "min_sale_price": 165000,
         "max_sale_price": 165000
       },
-      "rank": 30
-    },
-    {
-      "handle": "green-lion-veloura-fragrance-diffuser",
-      "title": "Green Lion Veloura Fragrance Diffuser",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_4c7344a4-6b68-4fbd-9d41-8a032f4ac4b7.webp?v=1761850661",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Humidifiers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 150000,
-            "sale_price": 125000,
-            "percentage_off": 17
-          }
-        ],
-        "min_regular_price": 150000,
-        "max_regular_price": 150000,
-        "min_sale_price": 125000,
-        "max_sale_price": 125000
-      },
-      "rank": 31
-    }
-  ],
-  "Laptop Stands": [
-    {
-      "handle": "green-lion-360-rotatable-laptop-stand",
-      "title": "Green Lion 360 Rotatable Laptop Stand",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_27be5940-6fd1-4fa1-b189-317c157f3dc4.jpg?v=1755552283",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Laptop Stands"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 195000,
-            "sale_price": 195000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 195000,
-        "max_regular_price": 195000,
-        "min_sale_price": 195000,
-        "max_sale_price": 195000
-      },
-      "rank": 1
-    },
-    {
-      "handle": "green-lion-adjustable-laptop-stand-with-cooling-fan",
-      "title": "Green Lion Adjustable Laptop Stand with Cooling Fan",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_def6fc92-090a-43f7-96c4-ac8fcf16d538.webp?v=1755550569",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Laptop Stands"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 270000,
-            "sale_price": 230000,
-            "percentage_off": 15
-          }
-        ],
-        "min_regular_price": 270000,
-        "max_regular_price": 270000,
-        "min_sale_price": 230000,
-        "max_sale_price": 230000
-      },
-      "rank": 2
+      "rank": 14
     }
   ],
   "Tripods": [
@@ -6070,322 +5339,6 @@
         "max_sale_price": 135000
       },
       "rank": 1
-    }
-  ],
-  "Earbuds": [
-    {
-      "handle": "green-lion-classic-true-wireless-earbuds",
-      "title": "Green Lion Classic True Wireless Earbuds",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c19842d3-0588-430a-85e1-964e413d1d6a.jpg?v=1755628979",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "Green Lion"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 150000,
-            "sale_price": 125000,
-            "percentage_off": 17
-          }
-        ],
-        "min_regular_price": 150000,
-        "max_regular_price": 150000,
-        "min_sale_price": 125000,
-        "max_sale_price": 125000
-      },
-      "rank": 1
-    },
-    {
-      "handle": "green-lion-ocean-open-ear-headphones",
-      "title": "Green Lion Ocean Open-Ear Headphones",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b05825b3-5030-4366-a8a5-e1e5978b508f.jpg?v=1755898196",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "Green Lion"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 170000,
-            "sale_price": 135000,
-            "percentage_off": 21
-          }
-        ],
-        "min_regular_price": 170000,
-        "max_regular_price": 170000,
-        "min_sale_price": 135000,
-        "max_sale_price": 135000
-      },
-      "rank": 2
-    },
-    {
-      "handle": "oraimo-freepods-4-anc-true-wireless-earbuds",
-      "title": "Oraimo FreePods 4 – ANC True Wireless Earbuds",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9ccf712e-29e1-4ee9-8cf6-379d0dc97f94.webp?v=1755275949",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "Oraimo"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 225000,
-            "sale_price": 180000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 225000,
-        "max_regular_price": 225000,
-        "min_sale_price": 180000,
-        "max_sale_price": 180000
-      },
-      "rank": 3
-    },
-    {
-      "handle": "powerology-6-mic-hybrid-anc-enc-tws-earbuds",
-      "title": "Powerology 6-Mic Hybrid ANC + ENC TWS Earbuds",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fd9f7ff8-e7dd-4cb8-8c66-3904ea4577f7.jpg?v=1755273381",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "Powerology"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 150000,
-            "sale_price": 120000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 150000,
-        "max_regular_price": 150000,
-        "min_sale_price": 120000,
-        "max_sale_price": 120000
-      },
-      "rank": 4
-    },
-    {
-      "handle": "powerology-air-conduction-enc-tws-earbuds-with-display",
-      "title": "Powerology Air Conduction ENC TWS Earbuds (with Display)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_4ad2a8f9-aa10-471c-8072-562d79c0492a.jpg?v=1755271565",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "Powerology"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 195000,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 195000,
-        "max_sale_price": 195000
-      },
-      "rank": 5
-    },
-    {
-      "handle": "powerology-quad-mic-enc-tws-earbuds",
-      "title": "Powerology Quad Mic ENC TWS Earbuds",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_39b8e672-6735-480f-95a9-6bb30d7ad171.jpg?v=1755272608",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "Powerology"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 95000,
-            "sale_price": 95000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 95000,
-        "max_regular_price": 95000,
-        "min_sale_price": 95000,
-        "max_sale_price": 95000
-      },
-      "rank": 6
-    }
-  ],
-  "Headphones": [
-    {
-      "handle": "green-lion-echo-max-headphones",
-      "title": "Green Lion Echo Max Headphones",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0d89593e-1173-49fe-8eb4-699785dcd7f4.jpg?v=1754944773",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Headphones"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 175000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 175000,
-        "max_sale_price": 175000
-      },
-      "rank": 1
-    },
-    {
-      "handle": "green-lion-echo-max-headphones-black",
-      "title": "Green Lion Echo Max Headphones - Black",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_447f91eb-6fb7-4e3a-bf58-228c1dce5af4.jpg?v=1754945095",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Headphones"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 175000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 175000,
-        "max_sale_price": 175000
-      },
-      "rank": 2
-    },
-    {
-      "handle": "copy-green-lion-echo-max-headphones-orange",
-      "title": "Green Lion Echo Max Headphones - Orange",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_87fc8554-b91c-4656-8a18-ab1de65b12bb.webp?v=1754945345",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Headphones"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 175000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 175000,
-        "max_sale_price": 175000
-      },
-      "rank": 3
-    },
-    {
-      "handle": "powerology-hybrid-anc-headphone",
-      "title": "Powerology Hybrid ANC Headphone",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_339dd619-d4a9-44ee-91f8-f088916e7b07.jpg?v=1755273990",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "Powerology"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 230000,
-            "sale_price": 195000,
-            "percentage_off": 15
-          }
-        ],
-        "min_regular_price": 230000,
-        "max_regular_price": 230000,
-        "min_sale_price": 195000,
-        "max_sale_price": 195000
-      },
-      "rank": 4
-    },
-    {
-      "handle": "powerology-hybrid-anc-headphone-cream",
-      "title": "Powerology Hybrid ANC Headphone - Cream",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5e1e2716-6595-4505-9863-2dcfb44145e9.jpg?v=1755275083",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "Powerology"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 230000,
-            "sale_price": 195000,
-            "percentage_off": 15
-          }
-        ],
-        "min_regular_price": 230000,
-        "max_regular_price": 230000,
-        "min_sale_price": 195000,
-        "max_sale_price": 195000
-      },
-      "rank": 5
-    },
-    {
-      "handle": "wireless-bluetooth-headband-comfort-meets-sound",
-      "title": "Wireless Bluetooth Headband – Comfort Meets Sound",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c448ca12-57c3-428a-b0db-20af9bfc081e.jpg?v=1754385444",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "Music"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 150000,
-            "sale_price": 115000,
-            "percentage_off": 23
-          }
-        ],
-        "min_regular_price": 150000,
-        "max_regular_price": 150000,
-        "min_sale_price": 115000,
-        "max_sale_price": 115000
-      },
-      "rank": 6
     }
   ],
   "Adapters & Chargers": [
@@ -6848,144 +5801,6 @@
       "rank": 4
     }
   ],
-  "Oral Care": [
-    {
-      "handle": "green-lion-portable-oral-irrigator-300-ml",
-      "title": "Green Lion Portable Oral Irrigator (300 mL)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ddb11d8a-ebe5-4eac-b0f3-77326e327518.jpg?v=1754727405",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Green Lion",
-        "Oral Care"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 200000,
-            "sale_price": 175000,
-            "percentage_off": 13
-          }
-        ],
-        "min_regular_price": 200000,
-        "max_regular_price": 200000,
-        "min_sale_price": 175000,
-        "max_sale_price": 175000
-      },
-      "rank": 1
-    },
-    {
-      "handle": "green-lion-smart-brush-60-ultrawide",
-      "title": "Green Lion Smart Brush 60° Ultrawide",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ed9a1e74-a28c-41c0-a40e-ae9eee18a24e.jpg?v=1754728194",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Electric Toothbrush",
-        "Green Lion",
-        "Oral Care"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 230000,
-            "sale_price": 185000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 230000,
-        "max_regular_price": 230000,
-        "min_sale_price": 185000,
-        "max_sale_price": 185000
-      },
-      "rank": 2
-    },
-    {
-      "handle": "green-lion-smart-toothbrush-sanitizer",
-      "title": "Green Lion Smart Toothbrush Sanitizer",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5544c8fe-3f75-4134-bc6d-1808feaef585.jpg?v=1754726691",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Electric Toothbrush",
-        "Green Lion",
-        "Oral Care"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 200000,
-            "sale_price": 160000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 200000,
-        "max_regular_price": 200000,
-        "min_sale_price": 160000,
-        "max_sale_price": 160000
-      },
-      "rank": 3
-    }
-  ],
-  "Electric Toothbrush": [
-    {
-      "handle": "green-lion-smart-brush-60-ultrawide",
-      "title": "Green Lion Smart Brush 60° Ultrawide",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ed9a1e74-a28c-41c0-a40e-ae9eee18a24e.jpg?v=1754728194",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Electric Toothbrush",
-        "Green Lion",
-        "Oral Care"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 230000,
-            "sale_price": 185000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 230000,
-        "max_regular_price": 230000,
-        "min_sale_price": 185000,
-        "max_sale_price": 185000
-      },
-      "rank": 1
-    },
-    {
-      "handle": "green-lion-smart-toothbrush-sanitizer",
-      "title": "Green Lion Smart Toothbrush Sanitizer",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5544c8fe-3f75-4134-bc6d-1808feaef585.jpg?v=1754726691",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Electric Toothbrush",
-        "Green Lion",
-        "Oral Care"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 200000,
-            "sale_price": 160000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 200000,
-        "max_regular_price": 200000,
-        "min_sale_price": 160000,
-        "max_sale_price": 160000
-      },
-      "rank": 2
-    }
-  ],
   "Smart Rings": [
     {
       "handle": "green-lion-smart-health-tracker-ring",
@@ -7011,6 +5826,64 @@
         "max_regular_price": 180000,
         "min_sale_price": 155000,
         "max_sale_price": 155000
+      },
+      "rank": 1
+    }
+  ],
+  "Electric Toothbrush": [
+    {
+      "handle": "green-lion-smart-toothbrush-sanitizer",
+      "title": "Green Lion Smart Toothbrush Sanitizer",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5544c8fe-3f75-4134-bc6d-1808feaef585.jpg?v=1754726691",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Electric Toothbrush",
+        "Green Lion",
+        "Oral Care"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 200000,
+            "sale_price": 160000,
+            "percentage_off": 20
+          }
+        ],
+        "min_regular_price": 200000,
+        "max_regular_price": 200000,
+        "min_sale_price": 160000,
+        "max_sale_price": 160000
+      },
+      "rank": 1
+    }
+  ],
+  "Oral Care": [
+    {
+      "handle": "green-lion-smart-toothbrush-sanitizer",
+      "title": "Green Lion Smart Toothbrush Sanitizer",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5544c8fe-3f75-4134-bc6d-1808feaef585.jpg?v=1754726691",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Electric Toothbrush",
+        "Green Lion",
+        "Oral Care"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 200000,
+            "sale_price": 160000,
+            "percentage_off": 20
+          }
+        ],
+        "min_regular_price": 200000,
+        "max_regular_price": 200000,
+        "min_sale_price": 160000,
+        "max_sale_price": 160000
       },
       "rank": 1
     }
@@ -7370,60 +6243,6 @@
         "max_sale_price": 1950000
       },
       "rank": 1
-    }
-  ],
-  "Oraimo": [
-    {
-      "handle": "oraimo-freepods-4-anc-true-wireless-earbuds",
-      "title": "Oraimo FreePods 4 – ANC True Wireless Earbuds",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9ccf712e-29e1-4ee9-8cf6-379d0dc97f94.webp?v=1755275949",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "Oraimo"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 225000,
-            "sale_price": 180000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 225000,
-        "max_regular_price": 225000,
-        "min_sale_price": 180000,
-        "max_sale_price": 180000
-      },
-      "rank": 1
-    },
-    {
-      "handle": "oraimo-soundflow-50w-wireless-speaker",
-      "title": "Oraimo SoundFlow 50W Wireless Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_97178671-4d50-4567-a345-533b1a149aa2.jpg?v=1755278186",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Oraimo",
-        "Portable Speakers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 295000,
-            "sale_price": 250000,
-            "percentage_off": 15
-          }
-        ],
-        "min_regular_price": 295000,
-        "max_regular_price": 295000,
-        "min_sale_price": 250000,
-        "max_sale_price": 250000
-      },
-      "rank": 2
     }
   ],
   "Porodo": [
@@ -7867,58 +6686,6 @@
       "rank": 4
     },
     {
-      "handle": "powerology-6-mic-hybrid-anc-enc-tws-earbuds",
-      "title": "Powerology 6-Mic Hybrid ANC + ENC TWS Earbuds",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fd9f7ff8-e7dd-4cb8-8c66-3904ea4577f7.jpg?v=1755273381",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "Powerology"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 150000,
-            "sale_price": 120000,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 150000,
-        "max_regular_price": 150000,
-        "min_sale_price": 120000,
-        "max_sale_price": 120000
-      },
-      "rank": 5
-    },
-    {
-      "handle": "powerology-air-conduction-enc-tws-earbuds-with-display",
-      "title": "Powerology Air Conduction ENC TWS Earbuds (with Display)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_4ad2a8f9-aa10-471c-8072-562d79c0492a.jpg?v=1755271565",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "Powerology"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 220000,
-            "sale_price": 195000,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 220000,
-        "max_regular_price": 220000,
-        "min_sale_price": 195000,
-        "max_sale_price": 195000
-      },
-      "rank": 6
-    },
-    {
       "handle": "powerology-built-in-solar-outdoor-camera",
       "title": "Powerology Built-in Solar Outdoor Camera",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f6cb4452-0bd6-4c0c-843f-8d888ebdcf24.webp?v=1754595537",
@@ -7943,7 +6710,7 @@
         "min_sale_price": 320000,
         "max_sale_price": 320000
       },
-      "rank": 7
+      "rank": 5
     },
     {
       "handle": "powerology-built-in-solar-pan-tilt-outdoor-camera-2k",
@@ -7970,7 +6737,7 @@
         "min_sale_price": 395000,
         "max_sale_price": 395000
       },
-      "rank": 8
+      "rank": 6
     },
     {
       "handle": "powerology-dual-screen-portable-monitor",
@@ -7997,7 +6764,7 @@
         "min_sale_price": 1350000,
         "max_sale_price": 1350000
       },
-      "rank": 9
+      "rank": 7
     },
     {
       "handle": "powerology-dynamic800-portable-power-station-800w-black",
@@ -8023,59 +6790,7 @@
         "min_sale_price": 1950000,
         "max_sale_price": 1950000
       },
-      "rank": 10
-    },
-    {
-      "handle": "powerology-hybrid-anc-headphone",
-      "title": "Powerology Hybrid ANC Headphone",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_339dd619-d4a9-44ee-91f8-f088916e7b07.jpg?v=1755273990",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "Powerology"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 230000,
-            "sale_price": 195000,
-            "percentage_off": 15
-          }
-        ],
-        "min_regular_price": 230000,
-        "max_regular_price": 230000,
-        "min_sale_price": 195000,
-        "max_sale_price": 195000
-      },
-      "rank": 11
-    },
-    {
-      "handle": "powerology-hybrid-anc-headphone-cream",
-      "title": "Powerology Hybrid ANC Headphone - Cream",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5e1e2716-6595-4505-9863-2dcfb44145e9.jpg?v=1755275083",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Headphones",
-        "Powerology"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 230000,
-            "sale_price": 195000,
-            "percentage_off": 15
-          }
-        ],
-        "min_regular_price": 230000,
-        "max_regular_price": 230000,
-        "min_sale_price": 195000,
-        "max_sale_price": 195000
-      },
-      "rank": 12
+      "rank": 8
     },
     {
       "handle": "powerology-indoor-ptz-smart-camera",
@@ -8101,7 +6816,7 @@
         "min_sale_price": 165000,
         "max_sale_price": 165000
       },
-      "rank": 13
+      "rank": 9
     },
     {
       "handle": "powerology-onyx-30000mah-dual-usb-c-power-bank",
@@ -8127,33 +6842,7 @@
         "min_sale_price": 270000,
         "max_sale_price": 270000
       },
-      "rank": 14
-    },
-    {
-      "handle": "powerology-quad-mic-enc-tws-earbuds",
-      "title": "Powerology Quad Mic ENC TWS Earbuds",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_39b8e672-6735-480f-95a9-6bb30d7ad171.jpg?v=1755272608",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Earbuds",
-        "Powerology"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 95000,
-            "sale_price": 95000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 95000,
-        "max_regular_price": 95000,
-        "min_sale_price": 95000,
-        "max_sale_price": 95000
-      },
-      "rank": 15
+      "rank": 10
     },
     {
       "handle": "powerology-ultra-portable-air-compressor-power-bank",
@@ -8180,7 +6869,7 @@
         "min_sale_price": 220000,
         "max_sale_price": 220000
       },
-      "rank": 16
+      "rank": 11
     },
     {
       "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
@@ -8209,7 +6898,7 @@
         "min_sale_price": 620000,
         "max_sale_price": 620000
       },
-      "rank": 17
+      "rank": 12
     }
   ],
   "Smart Screen": [
@@ -8597,15 +7286,15 @@
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 1500000,
-            "sale_price": 1100000,
-            "percentage_off": 27
+            "regular_price": 1700000,
+            "sale_price": 1395000,
+            "percentage_off": 18
           }
         ],
-        "min_regular_price": 1500000,
-        "max_regular_price": 1500000,
-        "min_sale_price": 1100000,
-        "max_sale_price": 1100000
+        "min_regular_price": 1700000,
+        "max_regular_price": 1700000,
+        "min_sale_price": 1395000,
+        "max_sale_price": 1395000
       },
       "rank": 1
     }
@@ -8634,6 +7323,34 @@
         "max_regular_price": 2100000,
         "min_sale_price": 1850000,
         "max_sale_price": 1850000
+      },
+      "rank": 1
+    }
+  ],
+  "Headphones": [
+    {
+      "handle": "wireless-bluetooth-headband-comfort-meets-sound",
+      "title": "Wireless Bluetooth Headband – Comfort Meets Sound",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c448ca12-57c3-428a-b0db-20af9bfc081e.jpg?v=1754385444",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Headphones",
+        "Music"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 150000,
+            "sale_price": 115000,
+            "percentage_off": 23
+          }
+        ],
+        "min_regular_price": 150000,
+        "max_regular_price": 150000,
+        "min_sale_price": 115000,
+        "max_sale_price": 115000
       },
       "rank": 1
     }

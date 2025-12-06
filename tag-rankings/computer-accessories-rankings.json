@@ -13,15 +13,15 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 1500000,
-          "sale_price": 1100000,
-          "percentage_off": 27
+          "regular_price": 1700000,
+          "sale_price": 1395000,
+          "percentage_off": 18
         }
       ],
-      "min_regular_price": 1500000,
-      "max_regular_price": 1500000,
-      "min_sale_price": 1100000,
-      "max_sale_price": 1100000
+      "min_regular_price": 1700000,
+      "max_regular_price": 1700000,
+      "min_sale_price": 1395000,
+      "max_sale_price": 1395000
     },
     "rank": 1
   },
@@ -138,32 +138,6 @@
     "rank": 5
   },
   {
-    "handle": "green-lion-smart-oled-vertical-mouse",
-    "title": "Green Lion Smart OLED Vertical Mouse",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e44757ff-f4f6-426c-80b3-752a9a413f2d.jpg?v=1755669554",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Computer Accessories",
-      "Green Lion"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 150000,
-          "sale_price": 150000,
-          "percentage_off": 0
-        }
-      ],
-      "min_regular_price": 150000,
-      "max_regular_price": 150000,
-      "min_sale_price": 150000,
-      "max_sale_price": 150000
-    },
-    "rank": 6
-  },
-  {
     "handle": "green-lion-wireless-presenter-with-retractable-pointer",
     "title": "Green Lion Wireless Presenter with Retractable Pointer",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3b90ddbf-6c12-49b3-bf18-3d61398e824a.webp?v=1754756879",
@@ -187,7 +161,7 @@
       "min_sale_price": 95000,
       "max_sale_price": 95000
     },
-    "rank": 7
+    "rank": 6
   },
   {
     "handle": "keyfold-pro-2-foldable-bluetooth-keyboard",
@@ -214,7 +188,7 @@
       "min_sale_price": 155000,
       "max_sale_price": 155000
     },
-    "rank": 8
+    "rank": 7
   },
   {
     "handle": "powerology-dual-screen-portable-monitor",
@@ -241,7 +215,7 @@
       "min_sale_price": 1350000,
       "max_sale_price": 1350000
     },
-    "rank": 9
+    "rank": 8
   },
   {
     "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
@@ -270,7 +244,7 @@
       "min_sale_price": 620000,
       "max_sale_price": 620000
     },
-    "rank": 10
+    "rank": 9
   },
   {
     "handle": "prexoplay-wireless-bluetooth-game-controller",
@@ -297,6 +271,6 @@
       "min_sale_price": 75000,
       "max_sale_price": 75000
     },
-    "rank": 11
+    "rank": 10
   }
 ]
