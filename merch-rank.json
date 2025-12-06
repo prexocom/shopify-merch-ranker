@@ -44,9 +44,9 @@
   {
     "handle": "lumifan™-pro",
     "in_stock": true,
-    "units_sold": 19,
-    "revenue": 3515000,
-    "score": 0.1736
+    "units_sold": 20,
+    "revenue": 3700000,
+    "score": 0.1775
   },
   {
     "handle": "kemilng-m7-pro-foldable-multi-functional-treadmill",
@@ -273,20 +273,6 @@
     "score": 0.1
   },
   {
-    "handle": "green-lion-360-rotatable-laptop-stand",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-adjustable-laptop-stand-with-cooling-fan",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
     "handle": "green-lion-auto-pop-tripod",
     "in_stock": true,
     "units_sold": 0,
@@ -295,20 +281,6 @@
   },
   {
     "handle": "green-lion-auto-track-gimbal-stabilizer",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-buenos-aires-display-speaker",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-classic-true-wireless-earbuds",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
@@ -329,35 +301,7 @@
     "score": 0.1
   },
   {
-    "handle": "green-lion-echo-max-headphones",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-echo-max-headphones-black",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "copy-green-lion-echo-max-headphones-orange",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
     "handle": "green-lion-gan-65w-multi-port-travel-adapter",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-grenade-humidifier",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
@@ -378,34 +322,6 @@
     "score": 0.1
   },
   {
-    "handle": "green-lion-ocean-open-ear-headphones",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-palma-pro-wireless-speaker",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-portable-oral-irrigator-300-ml",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-porto-wireless-speaker",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
     "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
     "in_stock": true,
     "units_sold": 0,
@@ -420,35 +336,7 @@
     "score": 0.1
   },
   {
-    "handle": "green-lion-sao-paulo-portable-touch-display-speaker",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-smart-body-scale-8-electrode-advanced-analysis",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-smart-brush-60-ultrawide",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
     "handle": "green-lion-smart-health-tracker-ring",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-smart-oled-vertical-mouse",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
@@ -477,13 +365,6 @@
   },
   {
     "handle": "green-lion-urbanic-smart-eyewear",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-veloura-fragrance-diffuser",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
@@ -581,20 +462,6 @@
     "score": 0.1
   },
   {
-    "handle": "oraimo-freepods-4-anc-true-wireless-earbuds",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "oraimo-soundflow-50w-wireless-speaker",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
     "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light-1",
     "in_stock": true,
     "units_sold": 0,
@@ -665,20 +532,6 @@
     "score": 0.1
   },
   {
-    "handle": "powerology-6-mic-hybrid-anc-enc-tws-earbuds",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "powerology-air-conduction-enc-tws-earbuds-with-display",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
     "handle": "powerology-built-in-solar-outdoor-camera",
     "in_stock": true,
     "units_sold": 0,
@@ -707,20 +560,6 @@
     "score": 0.1
   },
   {
-    "handle": "powerology-hybrid-anc-headphone",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "powerology-hybrid-anc-headphone-cream",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
     "handle": "powerology-indoor-ptz-smart-camera",
     "in_stock": true,
     "units_sold": 0,
@@ -729,13 +568,6 @@
   },
   {
     "handle": "powerology-onyx-30000mah-dual-usb-c-power-bank",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "powerology-quad-mic-enc-tws-earbuds",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
