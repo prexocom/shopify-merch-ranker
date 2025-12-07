@@ -73,30 +73,5 @@
       "max_sale_price": 1290000
     },
     "rank": 3
-  },
-  {
-    "handle": "kemilng-m7-pro-foldable-multi-functional-treadmill",
-    "title": "KEMILNG M7 Pro Foldable Multi-functional Treadmill",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ac0fbf9c-c605-4efe-9dab-167a1a537341.png?v=1764536342",
-    "units_sold": 1,
-    "revenue": 2490000,
-    "tags": [
-      "Treadmills"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 2700000,
-          "sale_price": 2490000,
-          "percentage_off": 8
-        }
-      ],
-      "min_regular_price": 2700000,
-      "max_regular_price": 2700000,
-      "min_sale_price": 2490000,
-      "max_sale_price": 2490000
-    },
-    "rank": 4
   }
 ]

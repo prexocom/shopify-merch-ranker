@@ -51,6 +51,32 @@
     "rank": 2
   },
   {
+    "handle": "3-in-1-foldable-pilates-reformer-board",
+    "title": "3-in-1 Foldable Pilates Reformer Fitness Board",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/71jzEAzseEL._AC_SL1500.jpg?v=1765101225",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Fitness Equipment",
+      "Health & Fitness"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 350000,
+          "sale_price": 250000,
+          "percentage_off": 29
+        }
+      ],
+      "min_regular_price": 350000,
+      "max_regular_price": 350000,
+      "min_sale_price": 250000,
+      "max_sale_price": 250000
+    },
+    "rank": 3
+  },
+  {
     "handle": "prexo-dunkmaster-outdoor-adjustable-basketball-hoop-system",
     "title": "DunkMaster – Adjustable Basketball Hoop System",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/K_1.png?v=1749641675",
@@ -73,7 +99,7 @@
       "min_sale_price": 1300000,
       "max_sale_price": 1300000
     },
-    "rank": 3
+    "rank": 4
   },
   {
     "handle": "eufy-by-anker-smart-scale-p3",
@@ -99,7 +125,7 @@
       "min_sale_price": 340000,
       "max_sale_price": 340000
     },
-    "rank": 4
+    "rank": 5
   },
   {
     "handle": "green-lion-digital-weight-scale",
@@ -125,7 +151,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 5
+    "rank": 6
   },
   {
     "handle": "green-lion-smart-health-tracker-ring",
@@ -152,7 +178,7 @@
       "min_sale_price": 155000,
       "max_sale_price": 155000
     },
-    "rank": 6
+    "rank": 7
   },
   {
     "handle": "mini-exercise-stepper-with-resistance-bands",
@@ -177,7 +203,7 @@
       "min_sale_price": 245000,
       "max_sale_price": 245000
     },
-    "rank": 7
+    "rank": 8
   },
   {
     "handle": "rotator-arm-shoulder-strength-trainer",
@@ -202,7 +228,7 @@
       "min_sale_price": 345000,
       "max_sale_price": 345000
     },
-    "rank": 8
+    "rank": 9
   },
   {
     "handle": "solerenew-electric-callus-remover",
@@ -227,7 +253,7 @@
       "min_sale_price": 99000,
       "max_sale_price": 99000
     },
-    "rank": 9
+    "rank": 10
   },
   {
     "handle": "zero-gravity-full-body-massage-chair",
@@ -252,6 +278,6 @@
       "min_sale_price": 4850000,
       "max_sale_price": 4850000
     },
-    "rank": 10
+    "rank": 11
   }
 ]
