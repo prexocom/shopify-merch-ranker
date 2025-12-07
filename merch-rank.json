@@ -35,18 +35,18 @@
     "score": 0.548
   },
   {
+    "handle": "lumifan™-pro",
+    "in_stock": true,
+    "units_sold": 23,
+    "revenue": 4255000,
+    "score": 0.1891
+  },
+  {
     "handle": "kemilng-m7-pro-treadmill",
     "in_stock": true,
     "units_sold": 4,
     "revenue": 7260000,
     "score": 0.1872
-  },
-  {
-    "handle": "lumifan™-pro",
-    "in_stock": true,
-    "units_sold": 22,
-    "revenue": 4070000,
-    "score": 0.1852
   },
   {
     "handle": "kemilng-m7-pro-foldable-multi-functional-treadmill",
@@ -134,6 +134,13 @@
   },
   {
     "handle": "swiftmop™-effortless-spray-cleaning-in-seconds",
+    "in_stock": true,
+    "units_sold": 1,
+    "revenue": 98000,
+    "score": 0.1029
+  },
+  {
+    "handle": "magic-speaker-bulb-light-sound-combined",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 98000,
@@ -764,13 +771,6 @@
   },
   {
     "handle": "120-can-mini-beverage-refrigerator",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "magic-speaker-bulb-light-sound-combined",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
