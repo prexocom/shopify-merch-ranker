@@ -1,5 +1,34 @@
 [
   {
+    "handle": "magic-speaker-bulb-light-sound-combined",
+    "title": "🪄 Magic Speaker Bulb – Light & Sound Combined",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e9c6b8dd-0570-404c-b179-4131946952a0.jpg?v=1754382211",
+    "units_sold": 1,
+    "revenue": 98000,
+    "tags": [
+      "Gadgets",
+      "Home Decor",
+      "Lighting",
+      "Music",
+      "Speaker"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 130000,
+          "sale_price": 98000,
+          "percentage_off": 25
+        }
+      ],
+      "min_regular_price": 130000,
+      "max_regular_price": 130000,
+      "min_sale_price": 98000,
+      "max_sale_price": 98000
+    },
+    "rank": 1
+  },
+  {
     "handle": "dji-osmo-pocket-3-creator-combo",
     "title": "DJI Osmo Pocket 3 Creator Combo",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_34e81e7e-0553-4851-a4bf-413e3683107f.jpg?v=1761193411",
@@ -26,7 +55,7 @@
       "min_sale_price": 3250000,
       "max_sale_price": 3250000
     },
-    "rank": 1
+    "rank": 2
   },
   {
     "handle": "looi-robot-space-black-ai-desktop-companion",
@@ -53,7 +82,7 @@
       "min_sale_price": 855000,
       "max_sale_price": 855000
     },
-    "rank": 2
+    "rank": 3
   },
   {
     "handle": "prexolingo™-smart-voice-translator-supports-30-languages",
@@ -80,7 +109,7 @@
       "min_sale_price": 380000,
       "max_sale_price": 380000
     },
-    "rank": 3
+    "rank": 4
   },
   {
     "handle": "prexovision-translate™-ai-smart-glasses-with-real-time-translation",
@@ -107,35 +136,6 @@
       "max_regular_price": 630000,
       "min_sale_price": 450000,
       "max_sale_price": 450000
-    },
-    "rank": 4
-  },
-  {
-    "handle": "magic-speaker-bulb-light-sound-combined",
-    "title": "🪄 Magic Speaker Bulb – Light & Sound Combined",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e9c6b8dd-0570-404c-b179-4131946952a0.jpg?v=1754382211",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Gadgets",
-      "Home Decor",
-      "Lighting",
-      "Music",
-      "Speaker"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 130000,
-          "sale_price": 98000,
-          "percentage_off": 25
-        }
-      ],
-      "min_regular_price": 130000,
-      "max_regular_price": 130000,
-      "min_sale_price": 98000,
-      "max_sale_price": 98000
     },
     "rank": 5
   }

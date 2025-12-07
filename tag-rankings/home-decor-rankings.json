@@ -56,8 +56,8 @@
     "handle": "lumifan™-pro",
     "title": "LumiFan™ Pro - Ceiling Light & Fan Combo",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_39dcd00a-17de-4476-b6a5-c41f28ab66da.jpg?v=1764684247",
-    "units_sold": 22,
-    "revenue": 4070000,
+    "units_sold": 23,
+    "revenue": 4255000,
     "tags": [
       "Home Decor",
       "Lighting"
@@ -131,6 +131,35 @@
     "rank": 5
   },
   {
+    "handle": "magic-speaker-bulb-light-sound-combined",
+    "title": "🪄 Magic Speaker Bulb – Light & Sound Combined",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e9c6b8dd-0570-404c-b179-4131946952a0.jpg?v=1754382211",
+    "units_sold": 1,
+    "revenue": 98000,
+    "tags": [
+      "Gadgets",
+      "Home Decor",
+      "Lighting",
+      "Music",
+      "Speaker"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 130000,
+          "sale_price": 98000,
+          "percentage_off": 25
+        }
+      ],
+      "min_regular_price": 130000,
+      "max_regular_price": 130000,
+      "min_sale_price": 98000,
+      "max_sale_price": 98000
+    },
+    "rank": 6
+  },
+  {
     "handle": "absorbent-quick-dry-bath-mat",
     "title": "Absorbent Quick Dry Door Bath Mat",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_97dc856a-8e8e-4653-984b-2554684e96a6.jpg?v=1760417135",
@@ -153,7 +182,7 @@
       "min_sale_price": 65000,
       "max_sale_price": 65000
     },
-    "rank": 6
+    "rank": 7
   },
   {
     "handle": "astronaut-galaxy-projector-your-cosmic-escape",
@@ -179,7 +208,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 7
+    "rank": 8
   },
   {
     "handle": "fireplace-flame-air-humidifier",
@@ -205,7 +234,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 8
+    "rank": 9
   },
   {
     "handle": "galaxy-star-nebula-projector-with-bluetooth-speaker",
@@ -231,7 +260,7 @@
       "min_sale_price": 150000,
       "max_sale_price": 150000
     },
-    "rank": 9
+    "rank": 10
   },
   {
     "handle": "glowmist™-fireplace-humidifier",
@@ -257,7 +286,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 10
+    "rank": 11
   },
   {
     "handle": "hexagon-modular-touch-lights-shape-your-glow",
@@ -283,7 +312,7 @@
       "min_sale_price": 195000,
       "max_sale_price": 195000
     },
-    "rank": 11
+    "rank": 12
   },
   {
     "handle": "inflatable-air-sofa-air-lounger",
@@ -308,7 +337,7 @@
       "min_sale_price": 165000,
       "max_sale_price": 165000
     },
-    "rank": 12
+    "rank": 13
   },
   {
     "handle": "jellyfish-humidifier",
@@ -334,7 +363,7 @@
       "min_sale_price": 155000,
       "max_sale_price": 155000
     },
-    "rank": 13
+    "rank": 14
   },
   {
     "handle": "livtab-smart-coffee-table-built-in-fridge-wireless-charging-speakers",
@@ -359,7 +388,7 @@
       "min_sale_price": 3500000,
       "max_sale_price": 3500000
     },
-    "rank": 14
+    "rank": 15
   },
   {
     "handle": "modern-led-wall-art-with-built-in-planter",
@@ -386,7 +415,7 @@
       "min_sale_price": 1950000,
       "max_sale_price": 1950000
     },
-    "rank": 15
+    "rank": 16
   },
   {
     "handle": "volcano-essential-oil-diffuser",
@@ -412,7 +441,7 @@
       "min_sale_price": 135000,
       "max_sale_price": 135000
     },
-    "rank": 16
+    "rank": 17
   },
   {
     "handle": "quicksand-painting-night-light",
@@ -437,7 +466,7 @@
       "min_sale_price": 195000,
       "max_sale_price": 195000
     },
-    "rank": 17
+    "rank": 18
   },
   {
     "handle": "sandsara-mini-kinetic-sand-painting-sculpture",
@@ -464,7 +493,7 @@
       "min_sale_price": 890000,
       "max_sale_price": 890000
     },
-    "rank": 18
+    "rank": 19
   },
   {
     "handle": "steamloco™-aromatherapy-train-humidifier",
@@ -490,7 +519,7 @@
       "min_sale_price": 188000,
       "max_sale_price": 188000
     },
-    "rank": 19
+    "rank": 20
   },
   {
     "handle": "under-cabinet-led-motion-sensor-light-bar",
@@ -515,35 +544,6 @@
       "max_regular_price": 74000,
       "min_sale_price": 55000,
       "max_sale_price": 55000
-    },
-    "rank": 20
-  },
-  {
-    "handle": "magic-speaker-bulb-light-sound-combined",
-    "title": "🪄 Magic Speaker Bulb – Light & Sound Combined",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e9c6b8dd-0570-404c-b179-4131946952a0.jpg?v=1754382211",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Gadgets",
-      "Home Decor",
-      "Lighting",
-      "Music",
-      "Speaker"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 130000,
-          "sale_price": 98000,
-          "percentage_off": 25
-        }
-      ],
-      "min_regular_price": 130000,
-      "max_regular_price": 130000,
-      "min_sale_price": 98000,
-      "max_sale_price": 98000
     },
     "rank": 21
   }

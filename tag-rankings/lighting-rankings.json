@@ -29,8 +29,8 @@
     "handle": "lumifan™-pro",
     "title": "LumiFan™ Pro - Ceiling Light & Fan Combo",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_39dcd00a-17de-4476-b6a5-c41f28ab66da.jpg?v=1764684247",
-    "units_sold": 22,
-    "revenue": 4070000,
+    "units_sold": 23,
+    "revenue": 4255000,
     "tags": [
       "Home Decor",
       "Lighting"
@@ -50,6 +50,35 @@
       "max_sale_price": 185000
     },
     "rank": 2
+  },
+  {
+    "handle": "magic-speaker-bulb-light-sound-combined",
+    "title": "🪄 Magic Speaker Bulb – Light & Sound Combined",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e9c6b8dd-0570-404c-b179-4131946952a0.jpg?v=1754382211",
+    "units_sold": 1,
+    "revenue": 98000,
+    "tags": [
+      "Gadgets",
+      "Home Decor",
+      "Lighting",
+      "Music",
+      "Speaker"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 130000,
+          "sale_price": 98000,
+          "percentage_off": 25
+        }
+      ],
+      "min_regular_price": 130000,
+      "max_regular_price": 130000,
+      "min_sale_price": 98000,
+      "max_sale_price": 98000
+    },
+    "rank": 3
   },
   {
     "handle": "astronaut-galaxy-projector-your-cosmic-escape",
@@ -75,7 +104,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 3
+    "rank": 4
   },
   {
     "handle": "hexagon-modular-touch-lights-shape-your-glow",
@@ -101,7 +130,7 @@
       "min_sale_price": 195000,
       "max_sale_price": 195000
     },
-    "rank": 4
+    "rank": 5
   },
   {
     "handle": "modern-led-wall-art-with-built-in-planter",
@@ -128,7 +157,7 @@
       "min_sale_price": 1950000,
       "max_sale_price": 1950000
     },
-    "rank": 5
+    "rank": 6
   },
   {
     "handle": "under-cabinet-led-motion-sensor-light-bar",
@@ -153,35 +182,6 @@
       "max_regular_price": 74000,
       "min_sale_price": 55000,
       "max_sale_price": 55000
-    },
-    "rank": 6
-  },
-  {
-    "handle": "magic-speaker-bulb-light-sound-combined",
-    "title": "🪄 Magic Speaker Bulb – Light & Sound Combined",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e9c6b8dd-0570-404c-b179-4131946952a0.jpg?v=1754382211",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Gadgets",
-      "Home Decor",
-      "Lighting",
-      "Music",
-      "Speaker"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 130000,
-          "sale_price": 98000,
-          "percentage_off": 25
-        }
-      ],
-      "min_regular_price": 130000,
-      "max_regular_price": 130000,
-      "min_sale_price": 98000,
-      "max_sale_price": 98000
     },
     "rank": 7
   },

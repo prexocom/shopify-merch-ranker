@@ -28,6 +28,35 @@
     "rank": 1
   },
   {
+    "handle": "magic-speaker-bulb-light-sound-combined",
+    "title": "🪄 Magic Speaker Bulb – Light & Sound Combined",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e9c6b8dd-0570-404c-b179-4131946952a0.jpg?v=1754382211",
+    "units_sold": 1,
+    "revenue": 98000,
+    "tags": [
+      "Gadgets",
+      "Home Decor",
+      "Lighting",
+      "Music",
+      "Speaker"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 130000,
+          "sale_price": 98000,
+          "percentage_off": 25
+        }
+      ],
+      "min_regular_price": 130000,
+      "max_regular_price": 130000,
+      "min_sale_price": 98000,
+      "max_sale_price": 98000
+    },
+    "rank": 2
+  },
+  {
     "handle": "anker-soundcore-glow",
     "title": "Anker Soundcore Glow",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fa5b3ecf-8cb6-4d49-a9c6-3206c2786961.jpg?v=1754660889",
@@ -53,7 +82,7 @@
       "min_sale_price": 395000,
       "max_sale_price": 395000
     },
-    "rank": 2
+    "rank": 3
   },
   {
     "handle": "aquasound-bluetooth-speaker",
@@ -80,7 +109,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 3
+    "rank": 4
   },
   {
     "handle": "beats-pill-wireless-bluetooth®-speaker-matte-black",
@@ -108,7 +137,7 @@
       "min_sale_price": 625000,
       "max_sale_price": 625000
     },
-    "rank": 4
+    "rank": 5
   },
   {
     "handle": "porodo-bluetooth-conference-speaker",
@@ -136,7 +165,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 5
+    "rank": 6
   },
   {
     "handle": "sony-srs-xb100-wireless-speaker",
@@ -164,7 +193,7 @@
       "min_sale_price": 279000,
       "max_sale_price": 279000
     },
-    "rank": 6
+    "rank": 7
   },
   {
     "handle": "vintage-mini-wireless-speaker-classic-looks-modern-sound",
@@ -191,7 +220,7 @@
       "min_sale_price": 229000,
       "max_sale_price": 229000
     },
-    "rank": 7
+    "rank": 8
   },
   {
     "handle": "vsonic-mars-levitating-magnetic-speaker",
@@ -217,7 +246,7 @@
       "min_sale_price": 1850000,
       "max_sale_price": 1850000
     },
-    "rank": 8
+    "rank": 9
   },
   {
     "handle": "waterproof-mini-bluetooth-speaker-big-sound-tiny-body",
@@ -244,7 +273,7 @@
       "min_sale_price": 145000,
       "max_sale_price": 145000
     },
-    "rank": 9
+    "rank": 10
   },
   {
     "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
@@ -271,35 +300,6 @@
       "max_regular_price": 190000,
       "min_sale_price": 155000,
       "max_sale_price": 155000
-    },
-    "rank": 10
-  },
-  {
-    "handle": "magic-speaker-bulb-light-sound-combined",
-    "title": "🪄 Magic Speaker Bulb – Light & Sound Combined",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e9c6b8dd-0570-404c-b179-4131946952a0.jpg?v=1754382211",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Gadgets",
-      "Home Decor",
-      "Lighting",
-      "Music",
-      "Speaker"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 130000,
-          "sale_price": 98000,
-          "percentage_off": 25
-        }
-      ],
-      "min_regular_price": 130000,
-      "max_regular_price": 130000,
-      "min_sale_price": 98000,
-      "max_sale_price": 98000
     },
     "rank": 11
   }
