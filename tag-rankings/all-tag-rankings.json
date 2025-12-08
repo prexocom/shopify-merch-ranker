@@ -15,14 +15,14 @@
           {
             "title": "Default Title",
             "regular_price": 1700000,
-            "sale_price": 1395000,
-            "percentage_off": 18
+            "sale_price": 1350000,
+            "percentage_off": 21
           }
         ],
         "min_regular_price": 1700000,
         "max_regular_price": 1700000,
-        "min_sale_price": 1395000,
-        "max_sale_price": 1395000
+        "min_sale_price": 1350000,
+        "max_sale_price": 1350000
       },
       "rank": 1
     },
@@ -913,7 +913,7 @@
     {
       "handle": "3-in-1-foldable-pilates-reformer-board",
       "title": "3-in-1 Foldable Pilates Reformer Fitness Board",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/71jzEAzseEL._AC_SL1500.jpg?v=1765101225",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/71BzMRlO-aL._AC_SL1500.jpg?v=1765140196",
       "units_sold": 0,
       "revenue": 0,
       "tags": [
@@ -992,7 +992,7 @@
     {
       "handle": "3-in-1-foldable-pilates-reformer-board",
       "title": "3-in-1 Foldable Pilates Reformer Fitness Board",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/71jzEAzseEL._AC_SL1500.jpg?v=1765101225",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/71BzMRlO-aL._AC_SL1500.jpg?v=1765140196",
       "units_sold": 0,
       "revenue": 0,
       "tags": [
@@ -7314,14 +7314,14 @@
           {
             "title": "Default Title",
             "regular_price": 1700000,
-            "sale_price": 1395000,
-            "percentage_off": 18
+            "sale_price": 1350000,
+            "percentage_off": 21
           }
         ],
         "min_regular_price": 1700000,
         "max_regular_price": 1700000,
-        "min_sale_price": 1395000,
-        "max_sale_price": 1395000
+        "min_sale_price": 1350000,
+        "max_sale_price": 1350000
       },
       "rank": 1
     }
