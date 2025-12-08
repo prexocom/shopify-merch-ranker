@@ -1,601 +1,76 @@
 [
   {
-    "handle": "flexstride™-portable-walking-running-treadmill",
-    "in_stock": true,
-    "units_sold": 48,
-    "revenue": 54590000,
-    "score": 0.7883
-  },
-  {
     "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
     "in_stock": true,
-    "units_sold": 41,
-    "revenue": 44800000,
-    "score": 0.6679
+    "units_sold": 45,
+    "revenue": 48289500,
+    "score": 0.7828
   },
   {
     "handle": "lumifan-360-light-fan",
     "in_stock": true,
     "units_sold": 163,
     "revenue": 23168000,
-    "score": 0.6546
+    "score": 0.6879
   },
   {
     "handle": "beatbox-pro™-smart-music-boxing-trainer",
     "in_stock": true,
     "units_sold": 96,
     "revenue": 27360000,
-    "score": 0.5774
+    "score": 0.6166
   },
   {
     "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
     "in_stock": true,
     "units_sold": 73,
     "revenue": 28537000,
-    "score": 0.548
-  },
-  {
-    "handle": "lumifan™-pro",
-    "in_stock": true,
-    "units_sold": 23,
-    "revenue": 4255000,
-    "score": 0.1891
+    "score": 0.5889
   },
   {
     "handle": "kemilng-m7-pro-treadmill",
     "in_stock": true,
     "units_sold": 4,
     "revenue": 7260000,
-    "score": 0.1872
+    "score": 0.1976
+  },
+  {
+    "handle": "lumifan™-pro",
+    "in_stock": true,
+    "units_sold": 23,
+    "revenue": 4255000,
+    "score": 0.1952
   },
   {
     "handle": "4k-triple-lens-solar-security-light-camera-360-smart-protection",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 1300000,
-    "score": 0.118
-  },
-  {
-    "handle": "3-in-1-foldable-treadmill",
-    "in_stock": true,
-    "units_sold": 1,
-    "revenue": 1290000,
-    "score": 0.116
+    "score": 0.1198
   },
   {
     "handle": "prexobeam-mini-portable-smart-projector",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 620000,
-    "score": 0.1105
+    "score": 0.1114
+  },
+  {
+    "handle": "3-in-1-foldable-pilates-reformer-board",
+    "in_stock": true,
+    "units_sold": 3,
+    "revenue": 275600,
+    "score": 0.1089
   },
   {
     "handle": "keyfold-pro-foldable-bluetooth-keyboard",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 310000,
-    "score": 0.1071
-  },
-  {
-    "handle": "ufo-raindrop-humidifier",
-    "in_stock": true,
-    "units_sold": 2,
-    "revenue": 276000,
-    "score": 0.1067
-  },
-  {
-    "handle": "solarsecure-360-full-color-night-vision-security-camera",
-    "in_stock": true,
-    "units_sold": 1,
-    "revenue": 445000,
-    "score": 0.1067
-  },
-  {
-    "handle": "mini-exercise-stepper-pro",
-    "in_stock": true,
-    "units_sold": 1,
-    "revenue": 245000,
-    "score": 0.1045
-  },
-  {
-    "handle": "anker-soundcore-pyro-mini",
-    "in_stock": true,
-    "units_sold": 1,
-    "revenue": 180000,
-    "score": 0.1038
-  },
-  {
-    "handle": "bonfire-humidifier-1",
-    "in_stock": true,
-    "units_sold": 1,
-    "revenue": 135000,
-    "score": 0.1033
-  },
-  {
-    "handle": "green-lion-digital-luggage-scale-50-kg-max",
-    "in_stock": true,
-    "units_sold": 1,
-    "revenue": 95000,
-    "score": 0.1029
-  },
-  {
-    "handle": "porodo-lifestyle-air-boost-turbo-fan",
-    "in_stock": true,
-    "units_sold": 1,
-    "revenue": 95000,
-    "score": 0.1029
-  },
-  {
-    "handle": "swiftmop™-effortless-spray-cleaning-in-seconds",
-    "in_stock": true,
-    "units_sold": 1,
-    "revenue": 98000,
-    "score": 0.1029
-  },
-  {
-    "handle": "magic-speaker-bulb-light-sound-combined",
-    "in_stock": true,
-    "units_sold": 1,
-    "revenue": 98000,
-    "score": 0.1029
-  },
-  {
-    "handle": "14-quad-monitor-laptop-screen-extender",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "3-in-1-foldable-pilates-reformer-board",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "absorbent-quick-dry-bath-mat",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "anker-soundcore-glow",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "aquasound-bluetooth-speaker",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
+    "score": 0.1075
   },
   {
     "handle": "astronaut-galaxy-projector-your-cosmic-escape",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "auto-face-tracking-tripod-gimbal",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "automatic-clamping-car-phone-holder",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "beats-pill-wireless-bluetooth®-speaker-matte-black",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "borrego-smart-4-android-smart-projector",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "dji-osmo-mobile-7-3-axis-smartphone-gimbal",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "dji-osmo-mobile-7p-foldable-3-axis-smartphone-gimbal",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "dji-osmo-mobile-se-gimbal",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "dji-osmo-pocket-3-creator-combo",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "prexo-dunkmaster-outdoor-adjustable-basketball-hoop-system",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "eufy-by-anker-smart-scale-p3",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "fireplace-flame-air-humidifier",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "portable-camping-stove",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "galaxy-star-nebula-projector-with-bluetooth-speaker",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "glowmist™-fireplace-humidifier",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-auto-pop-tripod",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-auto-track-gimbal-stabilizer",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-cx240-cordless-pressure-wash-gun",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-digital-weight-scale",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-gan-65w-multi-port-travel-adapter",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-mouse-pad-with-wireless-charger",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-new-york-gimbal-smart-face-tracking",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-prisma-4k-portable-projector",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-smart-health-tracker-ring",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-smart-toothbrush-sanitizer",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-stockholm-smart-glasses-black",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-thermal-portable-printer",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-urbanic-smart-eyewear",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "green-lion-wireless-presenter-with-retractable-pointer",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "hexagon-modular-touch-lights-shape-your-glow",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "high-power-electric-metal-smelting-furnace",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "inflatable-air-sofa-air-lounger",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "jellyfish-humidifier",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "keyfold-pro-2-foldable-bluetooth-keyboard",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "livtab-smart-coffee-table-built-in-fridge-wireless-charging-speakers",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "logitech-g29-driving-force-racing-wheel-pedals",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "looi-robot-space-black-ai-desktop-companion",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "luminocore-4-in-1-wireless-charging-station",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "mini-exercise-stepper-with-resistance-bands",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "mini-gps-vehicle-tracker-magnetic-anti-theft-locator",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "modern-led-wall-art-with-built-in-planter",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light-1",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "porodo-bluetooth-conference-speaker",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "porodo-frostwave-portable-cooling-fan",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "porodo-quadbase-gimbal-stabilizer",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "portable-bluetooth-thermal-label-maker-15-58-mm",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "powerology-16-000-mah-solar-power-bank-fm-radio-speaker-lights",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "powerology-20-000-mah-65-w-onyx-power-bank",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "powerology-32-android-smart-screen",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "powerology-360-security-camera-dual-lens",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "powerology-built-in-solar-outdoor-camera",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "powerology-built-in-solar-pan-tilt-outdoor-camera-2k",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "powerology-dual-screen-portable-monitor",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "powerology-dynamic800-portable-power-station-800w-black",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "powerology-indoor-ptz-smart-camera",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "powerology-onyx-30000mah-dual-usb-c-power-bank",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "powerology-ultra-portable-air-compressor-power-bank",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "volcano-essential-oil-diffuser",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
@@ -609,175 +84,7 @@
     "score": 0.1
   },
   {
-    "handle": "prexolingo™-smart-voice-translator-supports-30-languages",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "prexoplay-wireless-bluetooth-game-controller",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "prexovision-translate™-ai-smart-glasses-with-real-time-translation",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "quicksand-painting-night-light",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "rotator-arm-shoulder-strength-trainer",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "sandsara-mini-kinetic-sand-painting-sculpture",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "solerenew-electric-callus-remover",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "sony-srs-xb100-wireless-speaker",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "steamloco™-aromatherapy-train-humidifier",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "under-cabinet-led-motion-sensor-light-bar",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "vaultcarry-anti-theft-travel-crossbody-bag",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "vintage-mini-wireless-speaker-classic-looks-modern-sound",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "vsonic-mars-levitating-magnetic-speaker",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "waterproof-mini-bluetooth-speaker-big-sound-tiny-body",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "wireless-bluetooth-headband-comfort-meets-sound",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "xiaomi-grooming-kit-pro",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "xiaomi-outdoor-camera-cw300",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "xiaomi-smart-camera-c300",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "xiaomi-smart-camera-c300-dual-lens-2k-wi-fi-6",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "xiaomi-sound-pocket-compact-hi-fi-speaker",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
     "handle": "zero-gravity-full-body-massage-chair",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "⭐-galaxy-plus-113pcs-stainless-steel-cookware-set",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "120-can-mini-beverage-refrigerator",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "solar-lamp-for-garden-outdoor",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
