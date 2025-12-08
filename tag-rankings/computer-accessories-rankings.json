@@ -3,8 +3,8 @@
     "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
     "title": "TriFoldView Pro - Portable Screen Extender",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bf492e8c-0a5f-41fe-b666-3ddf7ce8cb0b.jpg?v=1749641740",
-    "units_sold": 41,
-    "revenue": 44800000,
+    "units_sold": 45,
+    "revenue": 48289500,
     "tags": [
       "Computer Accessories",
       "Laptop Accessories"
@@ -13,15 +13,15 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 1700000,
-          "sale_price": 1350000,
-          "percentage_off": 21
+          "regular_price": 49000,
+          "sale_price": 39500,
+          "percentage_off": 19
         }
       ],
-      "min_regular_price": 1700000,
-      "max_regular_price": 1700000,
-      "min_sale_price": 1350000,
-      "max_sale_price": 1350000
+      "min_regular_price": 49000,
+      "max_regular_price": 49000,
+      "min_sale_price": 39500,
+      "max_sale_price": 39500
     },
     "rank": 1
   },
@@ -40,237 +40,16 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 220000,
-          "sale_price": 155000,
+          "regular_price": 8000,
+          "sale_price": 5600,
           "percentage_off": 30
         }
       ],
-      "min_regular_price": 220000,
-      "max_regular_price": 220000,
-      "min_sale_price": 155000,
-      "max_sale_price": 155000
+      "min_regular_price": 8000,
+      "max_regular_price": 8000,
+      "min_sale_price": 5600,
+      "max_sale_price": 5600
     },
     "rank": 2
-  },
-  {
-    "handle": "14-quad-monitor-laptop-screen-extender",
-    "title": "14\" Quad Monitor Laptop Screen Extender",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b3dc0597-68ef-4c3b-a665-e58847efe680.jpg?v=1763047498",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Computer Accessories"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 2700000,
-          "sale_price": 2550000,
-          "percentage_off": 6
-        }
-      ],
-      "min_regular_price": 2700000,
-      "max_regular_price": 2700000,
-      "min_sale_price": 2550000,
-      "max_sale_price": 2550000
-    },
-    "rank": 3
-  },
-  {
-    "handle": "green-lion-gan-65w-multi-port-travel-adapter",
-    "title": "Green Lion GaN 65W Multi-Port Travel Adapter",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3813bdf2-ef52-46b9-8aa4-c293c0734f0c.jpg?v=1754754721",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Adapters & Chargers",
-      "Computer Accessories",
-      "Green Lion",
-      "Office",
-      "Phone Accessories",
-      "Phone Chargers",
-      "Wireless Chargers"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 350000,
-          "sale_price": 290000,
-          "percentage_off": 17
-        }
-      ],
-      "min_regular_price": 350000,
-      "max_regular_price": 350000,
-      "min_sale_price": 290000,
-      "max_sale_price": 290000
-    },
-    "rank": 4
-  },
-  {
-    "handle": "green-lion-mouse-pad-with-wireless-charger",
-    "title": "Green Lion Mouse Pad with Wireless Charger",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1e3bd37e-62d8-4170-a8ed-e20eceeefdf3.jpg?v=1755549275",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Computer Accessories",
-      "Green Lion",
-      "Phone Accessories",
-      "Phone Chargers",
-      "Wireless Chargers"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 180000,
-          "sale_price": 145000,
-          "percentage_off": 19
-        }
-      ],
-      "min_regular_price": 180000,
-      "max_regular_price": 180000,
-      "min_sale_price": 145000,
-      "max_sale_price": 145000
-    },
-    "rank": 5
-  },
-  {
-    "handle": "green-lion-wireless-presenter-with-retractable-pointer",
-    "title": "Green Lion Wireless Presenter with Retractable Pointer",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3b90ddbf-6c12-49b3-bf18-3d61398e824a.webp?v=1754756879",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Computer Accessories",
-      "Office"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 120000,
-          "sale_price": 95000,
-          "percentage_off": 21
-        }
-      ],
-      "min_regular_price": 120000,
-      "max_regular_price": 120000,
-      "min_sale_price": 95000,
-      "max_sale_price": 95000
-    },
-    "rank": 6
-  },
-  {
-    "handle": "keyfold-pro-2-foldable-bluetooth-keyboard",
-    "title": "Keyfold Pro 2 - Foldable Bluetooth Keyboard",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f14edf69-1add-47c3-bd91-4eae73628f34.jpg?v=1755880560",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Computer Accessories",
-      "Keyboards",
-      "Phone Accessories"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 220000,
-          "sale_price": 155000,
-          "percentage_off": 30
-        }
-      ],
-      "min_regular_price": 220000,
-      "max_regular_price": 220000,
-      "min_sale_price": 155000,
-      "max_sale_price": 155000
-    },
-    "rank": 7
-  },
-  {
-    "handle": "powerology-dual-screen-portable-monitor",
-    "title": "Powerology Dual Screen Portable Monitor",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_06675db1-3818-4688-9027-05b6412cb3a6.jpg?v=1754753103",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Computer Accessories",
-      "Office",
-      "Powerology"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 1600000,
-          "sale_price": 1350000,
-          "percentage_off": 16
-        }
-      ],
-      "min_regular_price": 1600000,
-      "max_regular_price": 1600000,
-      "min_sale_price": 1350000,
-      "max_sale_price": 1350000
-    },
-    "rank": 8
-  },
-  {
-    "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
-    "title": "Powerology Ultra-Slim Full HD Portable Monitor 15.6\"",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d0e7a5a3-ea2b-4aa6-a746-213a3d4df581.webp?v=1754755760",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Computer Accessories",
-      "Office",
-      "Phone Accessories",
-      "Portable Monitor",
-      "Powerology"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 700000,
-          "sale_price": 620000,
-          "percentage_off": 11
-        }
-      ],
-      "min_regular_price": 700000,
-      "max_regular_price": 700000,
-      "min_sale_price": 620000,
-      "max_sale_price": 620000
-    },
-    "rank": 9
-  },
-  {
-    "handle": "prexoplay-wireless-bluetooth-game-controller",
-    "title": "PrexoPlay – Wireless Bluetooth Game Controller",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_287bda09-5cdd-48bc-88af-7144f01050ef.png?v=1749641692",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Computer Accessories",
-      "Entertainment",
-      "Phone Accessories"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 129000,
-          "sale_price": 75000,
-          "percentage_off": 42
-        }
-      ],
-      "min_regular_price": 129000,
-      "max_regular_price": 129000,
-      "min_sale_price": 75000,
-      "max_sale_price": 75000
-    },
-    "rank": 10
   }
 ]

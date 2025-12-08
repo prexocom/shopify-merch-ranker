@@ -13,49 +13,24 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 400000,
-          "sale_price": 285000,
-          "percentage_off": 29
+          "regular_price": 14600,
+          "sale_price": 10500,
+          "percentage_off": 28
         }
       ],
-      "min_regular_price": 400000,
-      "max_regular_price": 400000,
-      "min_sale_price": 285000,
-      "max_sale_price": 285000
+      "min_regular_price": 14600,
+      "max_regular_price": 14600,
+      "min_sale_price": 10500,
+      "max_sale_price": 10500
     },
     "rank": 1
   },
   {
-    "handle": "mini-exercise-stepper-pro",
-    "title": "Portable Exercise Stepper Pro",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a666cc7a-1981-4af9-b279-8bb026c050df.jpg?v=1758208131",
-    "units_sold": 1,
-    "revenue": 245000,
-    "tags": [
-      "Health & Fitness"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 350000,
-          "sale_price": 245000,
-          "percentage_off": 30
-        }
-      ],
-      "min_regular_price": 350000,
-      "max_regular_price": 350000,
-      "min_sale_price": 245000,
-      "max_sale_price": 245000
-    },
-    "rank": 2
-  },
-  {
     "handle": "3-in-1-foldable-pilates-reformer-board",
     "title": "3-in-1 Foldable Pilates Reformer Fitness Board",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/71BzMRlO-aL._AC_SL1500.jpg?v=1765140196",
-    "units_sold": 0,
-    "revenue": 0,
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_09a92f99-84a8-4252-9dad-77d7a5c4ac5f.jpg?v=1765169858",
+    "units_sold": 3,
+    "revenue": 275600,
     "tags": [
       "Fitness Equipment",
       "Health & Fitness"
@@ -64,196 +39,17 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 350000,
-          "sale_price": 250000,
-          "percentage_off": 29
+          "regular_price": 17000,
+          "sale_price": 12800,
+          "percentage_off": 25
         }
       ],
-      "min_regular_price": 350000,
-      "max_regular_price": 350000,
-      "min_sale_price": 250000,
-      "max_sale_price": 250000
+      "min_regular_price": 17000,
+      "max_regular_price": 17000,
+      "min_sale_price": 12800,
+      "max_sale_price": 12800
     },
-    "rank": 3
-  },
-  {
-    "handle": "prexo-dunkmaster-outdoor-adjustable-basketball-hoop-system",
-    "title": "DunkMaster – Adjustable Basketball Hoop System",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/K_1.png?v=1749641675",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Health & Fitness"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 1600000,
-          "sale_price": 1300000,
-          "percentage_off": 19
-        }
-      ],
-      "min_regular_price": 1600000,
-      "max_regular_price": 1600000,
-      "min_sale_price": 1300000,
-      "max_sale_price": 1300000
-    },
-    "rank": 4
-  },
-  {
-    "handle": "eufy-by-anker-smart-scale-p3",
-    "title": "Eufy by Anker Smart Scale P3",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c39aa573-76df-4d0c-b8ce-dfd20cf51442.webp?v=1754725731",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Eufy",
-      "Health & Fitness"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 390000,
-          "sale_price": 340000,
-          "percentage_off": 13
-        }
-      ],
-      "min_regular_price": 390000,
-      "max_regular_price": 390000,
-      "min_sale_price": 340000,
-      "max_sale_price": 340000
-    },
-    "rank": 5
-  },
-  {
-    "handle": "green-lion-digital-weight-scale",
-    "title": "Green Lion Digital Weight Scale",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5dcb372e-76f4-44f3-a872-3af6337fb39d.jpg?v=1755668796",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Green Lion",
-      "Health & Fitness"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 145000,
-          "sale_price": 145000,
-          "percentage_off": 0
-        }
-      ],
-      "min_regular_price": 145000,
-      "max_regular_price": 145000,
-      "min_sale_price": 145000,
-      "max_sale_price": 145000
-    },
-    "rank": 6
-  },
-  {
-    "handle": "green-lion-smart-health-tracker-ring",
-    "title": "Green Lion Smart Health Tracker Ring",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_44987bce-7027-4c0b-9e1c-09eaaf394848.jpg?v=1755583055",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Green Lion",
-      "Health & Fitness",
-      "Smart Rings"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 180000,
-          "sale_price": 155000,
-          "percentage_off": 14
-        }
-      ],
-      "min_regular_price": 180000,
-      "max_regular_price": 180000,
-      "min_sale_price": 155000,
-      "max_sale_price": 155000
-    },
-    "rank": 7
-  },
-  {
-    "handle": "mini-exercise-stepper-with-resistance-bands",
-    "title": "Mini Exercise Stepper with Resistance Bands",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9f981628-877f-499f-88b0-3dce21df58d4.jpg?v=1754743681",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Health & Fitness"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 350000,
-          "sale_price": 245000,
-          "percentage_off": 30
-        }
-      ],
-      "min_regular_price": 350000,
-      "max_regular_price": 350000,
-      "min_sale_price": 245000,
-      "max_sale_price": 245000
-    },
-    "rank": 8
-  },
-  {
-    "handle": "rotator-arm-shoulder-strength-trainer",
-    "title": "Rotator Arm & Shoulder Strength Trainer",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a3ef3fb3-cb49-4a1d-a8b1-dae2c5d1ed3c.png?v=1749641596",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Health & Fitness"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 400000,
-          "sale_price": 345000,
-          "percentage_off": 14
-        }
-      ],
-      "min_regular_price": 400000,
-      "max_regular_price": 400000,
-      "min_sale_price": 345000,
-      "max_sale_price": 345000
-    },
-    "rank": 9
-  },
-  {
-    "handle": "solerenew-electric-callus-remover",
-    "title": "SoleRenew™ – Electric Callus Remover & Foot Care Wand",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_70b110d2-4213-4e6b-8f0c-121293dbfc43.png?v=1749641707",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Health & Fitness"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 130000,
-          "sale_price": 99000,
-          "percentage_off": 24
-        }
-      ],
-      "min_regular_price": 130000,
-      "max_regular_price": 130000,
-      "min_sale_price": 99000,
-      "max_sale_price": 99000
-    },
-    "rank": 10
+    "rank": 2
   },
   {
     "handle": "zero-gravity-full-body-massage-chair",
@@ -268,16 +64,16 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 5500000,
-          "sale_price": 4850000,
-          "percentage_off": 12
+          "regular_price": 265000,
+          "sale_price": 255000,
+          "percentage_off": 4
         }
       ],
-      "min_regular_price": 5500000,
-      "max_regular_price": 5500000,
-      "min_sale_price": 4850000,
-      "max_sale_price": 4850000
+      "min_regular_price": 265000,
+      "max_regular_price": 265000,
+      "min_sale_price": 255000,
+      "max_sale_price": 255000
     },
-    "rank": 11
+    "rank": 3
   }
 ]

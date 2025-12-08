@@ -3,8 +3,8 @@
     "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
     "title": "TriFoldView Pro - Portable Screen Extender",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bf492e8c-0a5f-41fe-b666-3ddf7ce8cb0b.jpg?v=1749641740",
-    "units_sold": 41,
-    "revenue": 44800000,
+    "units_sold": 45,
+    "revenue": 48289500,
     "tags": [
       "Computer Accessories",
       "Laptop Accessories"
@@ -13,15 +13,15 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 1700000,
-          "sale_price": 1350000,
-          "percentage_off": 21
+          "regular_price": 49000,
+          "sale_price": 39500,
+          "percentage_off": 19
         }
       ],
-      "min_regular_price": 1700000,
-      "max_regular_price": 1700000,
-      "min_sale_price": 1350000,
-      "max_sale_price": 1350000
+      "min_regular_price": 49000,
+      "max_regular_price": 49000,
+      "min_sale_price": 39500,
+      "max_sale_price": 39500
     },
     "rank": 1
   }

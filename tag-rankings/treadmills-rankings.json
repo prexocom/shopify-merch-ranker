@@ -1,30 +1,5 @@
 [
   {
-    "handle": "flexstride™-portable-walking-running-treadmill",
-    "title": "FlexStride™ – Portable Walking & Running Treadmill",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/ErgonomistWalkingPad_0004_WalkingPadHeroImage.webp?v=1763245491",
-    "units_sold": 48,
-    "revenue": 54590000,
-    "tags": [
-      "Treadmills"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 1500000,
-          "sale_price": 1150000,
-          "percentage_off": 23
-        }
-      ],
-      "min_regular_price": 1500000,
-      "max_regular_price": 1500000,
-      "min_sale_price": 1150000,
-      "max_sale_price": 1150000
-    },
-    "rank": 1
-  },
-  {
     "handle": "kemilng-m7-pro-treadmill",
     "title": "KEMILNG M7 Pro Foldable Multi-functional Treadmill",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ac0fbf9c-c605-4efe-9dab-167a1a537341.png?v=1764536342",
@@ -37,41 +12,16 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 2300000,
-          "sale_price": 1890000,
-          "percentage_off": 18
+          "regular_price": 99000,
+          "sale_price": 91000,
+          "percentage_off": 8
         }
       ],
-      "min_regular_price": 2300000,
-      "max_regular_price": 2300000,
-      "min_sale_price": 1890000,
-      "max_sale_price": 1890000
+      "min_regular_price": 99000,
+      "max_regular_price": 99000,
+      "min_sale_price": 91000,
+      "max_sale_price": 91000
     },
-    "rank": 2
-  },
-  {
-    "handle": "3-in-1-foldable-treadmill",
-    "title": "3-in-1 Foldable Treadmill",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c1f50d9b-a6f8-4b70-9b73-4c19ca9d33d9.jpg?v=1764210107",
-    "units_sold": 1,
-    "revenue": 1290000,
-    "tags": [
-      "Treadmills"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 1500000,
-          "sale_price": 1290000,
-          "percentage_off": 14
-        }
-      ],
-      "min_regular_price": 1500000,
-      "max_regular_price": 1500000,
-      "min_sale_price": 1290000,
-      "max_sale_price": 1290000
-    },
-    "rank": 3
+    "rank": 1
   }
 ]

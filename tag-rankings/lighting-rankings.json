@@ -13,15 +13,15 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 220000,
-          "sale_price": 145000,
-          "percentage_off": 34
+          "regular_price": 9000,
+          "sale_price": 6000,
+          "percentage_off": 33
         }
       ],
-      "min_regular_price": 220000,
-      "max_regular_price": 220000,
-      "min_sale_price": 145000,
-      "max_sale_price": 145000
+      "min_regular_price": 9000,
+      "max_regular_price": 9000,
+      "min_sale_price": 6000,
+      "max_sale_price": 6000
     },
     "rank": 1
   },
@@ -39,46 +39,17 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 280000,
-          "sale_price": 185000,
-          "percentage_off": 34
+          "regular_price": 10200,
+          "sale_price": 6800,
+          "percentage_off": 33
         }
       ],
-      "min_regular_price": 280000,
-      "max_regular_price": 280000,
-      "min_sale_price": 185000,
-      "max_sale_price": 185000
+      "min_regular_price": 10200,
+      "max_regular_price": 10200,
+      "min_sale_price": 6800,
+      "max_sale_price": 6800
     },
     "rank": 2
-  },
-  {
-    "handle": "magic-speaker-bulb-light-sound-combined",
-    "title": "🪄 Magic Speaker Bulb – Light & Sound Combined",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e9c6b8dd-0570-404c-b179-4131946952a0.jpg?v=1754382211",
-    "units_sold": 1,
-    "revenue": 98000,
-    "tags": [
-      "Gadgets",
-      "Home Decor",
-      "Lighting",
-      "Music",
-      "Speaker"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 130000,
-          "sale_price": 98000,
-          "percentage_off": 25
-        }
-      ],
-      "min_regular_price": 130000,
-      "max_regular_price": 130000,
-      "min_sale_price": 98000,
-      "max_sale_price": 98000
-    },
-    "rank": 3
   },
   {
     "handle": "astronaut-galaxy-projector-your-cosmic-escape",
@@ -94,121 +65,16 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 190000,
-          "sale_price": 145000,
+          "regular_price": 7000,
+          "sale_price": 5300,
           "percentage_off": 24
         }
       ],
-      "min_regular_price": 190000,
-      "max_regular_price": 190000,
-      "min_sale_price": 145000,
-      "max_sale_price": 145000
+      "min_regular_price": 7000,
+      "max_regular_price": 7000,
+      "min_sale_price": 5300,
+      "max_sale_price": 5300
     },
-    "rank": 4
-  },
-  {
-    "handle": "hexagon-modular-touch-lights-shape-your-glow",
-    "title": "Hexagon Modular Touch Lights – Shape Your Glow",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f4bb569b-05e0-4006-8e54-6e3819308655.jpg?v=1754384700",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Home Decor",
-      "Lighting"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 230000,
-          "sale_price": 195000,
-          "percentage_off": 15
-        }
-      ],
-      "min_regular_price": 230000,
-      "max_regular_price": 230000,
-      "min_sale_price": 195000,
-      "max_sale_price": 195000
-    },
-    "rank": 5
-  },
-  {
-    "handle": "modern-led-wall-art-with-built-in-planter",
-    "title": "Modern LED Wall Art with Built-in Planter",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_093cb4b5-c095-40f9-a1b6-90a6807156c5.webp?v=1761846190",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Home Decor",
-      "Lighting",
-      "Wall Art"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 2200000,
-          "sale_price": 1950000,
-          "percentage_off": 11
-        }
-      ],
-      "min_regular_price": 2200000,
-      "max_regular_price": 2200000,
-      "min_sale_price": 1950000,
-      "max_sale_price": 1950000
-    },
-    "rank": 6
-  },
-  {
-    "handle": "under-cabinet-led-motion-sensor-light-bar",
-    "title": "Under-Cabinet LED Motion Sensor Light Bar",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_278262be-3fbc-4118-87ec-09db532370de.jpg?v=1761290715",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Home Decor",
-      "Lighting"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 74000,
-          "sale_price": 55000,
-          "percentage_off": 26
-        }
-      ],
-      "min_regular_price": 74000,
-      "max_regular_price": 74000,
-      "min_sale_price": 55000,
-      "max_sale_price": 55000
-    },
-    "rank": 7
-  },
-  {
-    "handle": "solar-lamp-for-garden-outdoor",
-    "title": "🌞 Solar Garden Lamp – Outdoor Decorative Light",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/1_11ca8efc-b2ba-4f3f-bd4d-8cb0c942a9ce.webp?v=1753815713",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Garden",
-      "Lighting"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 132000,
-          "sale_price": 95000,
-          "percentage_off": 28
-        }
-      ],
-      "min_regular_price": 132000,
-      "max_regular_price": 132000,
-      "min_sale_price": 95000,
-      "max_sale_price": 95000
-    },
-    "rank": 8
+    "rank": 3
   }
 ]

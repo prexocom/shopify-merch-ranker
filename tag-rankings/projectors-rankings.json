@@ -13,69 +13,16 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 390000,
-          "sale_price": 325000,
-          "percentage_off": 17
+          "regular_price": 15000,
+          "sale_price": 11800,
+          "percentage_off": 21
         }
       ],
-      "min_regular_price": 390000,
-      "max_regular_price": 390000,
-      "min_sale_price": 325000,
-      "max_sale_price": 325000
+      "min_regular_price": 15000,
+      "max_regular_price": 15000,
+      "min_sale_price": 11800,
+      "max_sale_price": 11800
     },
     "rank": 1
-  },
-  {
-    "handle": "borrego-smart-4-android-smart-projector",
-    "title": "Borrego Smart 4 – Android Smart Projector",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_43de8295-4c63-4f6f-8d80-a428b0882d7f.jpg?v=1754649748",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Entertainment",
-      "Projectors"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 600000,
-          "sale_price": 485000,
-          "percentage_off": 19
-        }
-      ],
-      "min_regular_price": 600000,
-      "max_regular_price": 600000,
-      "min_sale_price": 485000,
-      "max_sale_price": 485000
-    },
-    "rank": 2
-  },
-  {
-    "handle": "green-lion-prisma-4k-portable-projector",
-    "title": "Green Lion Prisma 4K Portable Projector",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1a014ce3-5bc7-4b06-96c6-c24878c7cea9.jpg?v=1754943073",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Entertainment",
-      "Green Lion",
-      "Projectors"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 740000,
-          "sale_price": 650000,
-          "percentage_off": 12
-        }
-      ],
-      "min_regular_price": 740000,
-      "max_regular_price": 740000,
-      "min_sale_price": 650000,
-      "max_sale_price": 650000
-    },
-    "rank": 3
   }
 ]
