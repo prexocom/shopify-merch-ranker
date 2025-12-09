@@ -1,73 +1,101 @@
 [
   {
+    "handle": "flexstride™-portable-walking-running-treadmill",
+    "in_stock": true,
+    "units_sold": 48,
+    "revenue": 54590000,
+    "score": 0.7883
+  },
+  {
     "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
     "in_stock": true,
     "units_sold": 46,
     "revenue": 48329000,
-    "score": 0.7847
+    "score": 0.7158
   },
   {
     "handle": "lumifan-360-light-fan",
     "in_stock": true,
     "units_sold": 163,
     "revenue": 23168000,
-    "score": 0.6876
+    "score": 0.6546
   },
   {
     "handle": "beatbox-pro™-smart-music-boxing-trainer",
     "in_stock": true,
     "units_sold": 96,
     "revenue": 27360000,
-    "score": 0.6164
+    "score": 0.5774
   },
   {
     "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
     "in_stock": true,
     "units_sold": 73,
     "revenue": 28537000,
-    "score": 0.5886
-  },
-  {
-    "handle": "kemilng-m7-pro-treadmill",
-    "in_stock": true,
-    "units_sold": 4,
-    "revenue": 7260000,
-    "score": 0.1975
+    "score": 0.548
   },
   {
     "handle": "lumifan™-pro",
     "in_stock": true,
     "units_sold": 23,
     "revenue": 4255000,
-    "score": 0.1952
+    "score": 0.1891
+  },
+  {
+    "handle": "kemilng-m7-pro-treadmill",
+    "in_stock": true,
+    "units_sold": 4,
+    "revenue": 7260000,
+    "score": 0.1872
   },
   {
     "handle": "4k-triple-lens-solar-security-light-camera-360-smart-protection",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 1300000,
-    "score": 0.1198
+    "score": 0.118
   },
   {
     "handle": "prexobeam-mini-portable-smart-projector",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 620000,
-    "score": 0.1114
+    "score": 0.1105
   },
   {
     "handle": "3-in-1-foldable-pilates-reformer-board",
     "in_stock": true,
     "units_sold": 3,
     "revenue": 275600,
-    "score": 0.1089
+    "score": 0.1086
   },
   {
     "handle": "keyfold-pro-foldable-bluetooth-keyboard",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 310000,
-    "score": 0.1075
+    "score": 0.1071
+  },
+  {
+    "handle": "solarsecure-360-full-color-night-vision-security-camera",
+    "in_stock": true,
+    "units_sold": 1,
+    "revenue": 445000,
+    "score": 0.1067
+  },
+  {
+    "handle": "green-lion-digital-luggage-scale-50-kg-max",
+    "in_stock": true,
+    "units_sold": 1,
+    "revenue": 95000,
+    "score": 0.1029
+  },
+  {
+    "handle": "porodo-lifestyle-air-boost-turbo-fan",
+    "in_stock": true,
+    "units_sold": 1,
+    "revenue": 95000,
+    "score": 0.1029
   },
   {
     "handle": "astronaut-galaxy-projector-your-cosmic-escape",
@@ -77,7 +105,175 @@
     "score": 0.1
   },
   {
+    "handle": "automatic-clamping-car-phone-holder",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "borrego-smart-4-android-smart-projector",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "dji-osmo-mobile-7-3-axis-smartphone-gimbal",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "dji-osmo-mobile-7p-foldable-3-axis-smartphone-gimbal",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "prexo-dunkmaster-outdoor-adjustable-basketball-hoop-system",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "eufy-by-anker-smart-scale-p3",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "portable-camping-stove",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "galaxy-star-nebula-projector-with-bluetooth-speaker",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "green-lion-new-york-gimbal-smart-face-tracking",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "livtab-smart-coffee-table-built-in-fridge-wireless-charging-speakers",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "mini-gps-vehicle-tracker-magnetic-anti-theft-locator",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "porodo-frostwave-portable-cooling-fan",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "powerology-32-android-smart-screen",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "powerology-360-security-camera-dual-lens",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "powerology-built-in-solar-outdoor-camera",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "powerology-dual-screen-portable-monitor",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "powerology-ultra-portable-air-compressor-power-bank",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
     "handle": "toauto-melting-furnace",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "prexolingo™-smart-voice-translator-supports-30-languages",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "quicksand-painting-night-light",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "under-cabinet-led-motion-sensor-light-bar",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "vsonic-mars-levitating-magnetic-speaker",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
