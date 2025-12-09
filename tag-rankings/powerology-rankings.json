@@ -1,57 +1,5 @@
 [
   {
-    "handle": "powerology-16-000-mah-solar-power-bank-fm-radio-speaker-lights",
-    "title": "Powerology 16,000 mAh Solar Power Bank — FM Radio, Speaker & Lights",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_81c12232-001b-4dbf-bb06-880f5840a2e0.jpg?v=1755628024",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Power Banks",
-      "Powerology"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 300000,
-          "sale_price": 275000,
-          "percentage_off": 8
-        }
-      ],
-      "min_regular_price": 300000,
-      "max_regular_price": 300000,
-      "min_sale_price": 275000,
-      "max_sale_price": 275000
-    },
-    "rank": 1
-  },
-  {
-    "handle": "powerology-20-000-mah-65-w-onyx-power-bank",
-    "title": "Powerology 20,000 mAh 65 W Onyx Power Bank",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_24c81f91-6660-40e8-92f4-d83260d9468a.jpg?v=1755113368",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Power Banks",
-      "Powerology"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 220000,
-          "sale_price": 190000,
-          "percentage_off": 14
-        }
-      ],
-      "min_regular_price": 220000,
-      "max_regular_price": 220000,
-      "min_sale_price": 190000,
-      "max_sale_price": 190000
-    },
-    "rank": 2
-  },
-  {
     "handle": "powerology-32-android-smart-screen",
     "title": "Powerology 32\" Android Smart Screen",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0ca85194-3b03-47db-b744-8241ba5cca34.webp?v=1754981430",
@@ -67,17 +15,17 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 3250000,
-          "sale_price": 3250000,
+          "regular_price": 119000,
+          "sale_price": 119000,
           "percentage_off": 0
         }
       ],
-      "min_regular_price": 3250000,
-      "max_regular_price": 3250000,
-      "min_sale_price": 3250000,
-      "max_sale_price": 3250000
+      "min_regular_price": 119000,
+      "max_regular_price": 119000,
+      "min_sale_price": 119000,
+      "max_sale_price": 119000
     },
-    "rank": 3
+    "rank": 1
   },
   {
     "handle": "powerology-360-security-camera-dual-lens",
@@ -93,17 +41,17 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 730000,
-          "sale_price": 650000,
-          "percentage_off": 11
+          "regular_price": 28500,
+          "sale_price": 25000,
+          "percentage_off": 12
         }
       ],
-      "min_regular_price": 730000,
-      "max_regular_price": 730000,
-      "min_sale_price": 650000,
-      "max_sale_price": 650000
+      "min_regular_price": 28500,
+      "max_regular_price": 28500,
+      "min_sale_price": 25000,
+      "max_sale_price": 25000
     },
-    "rank": 4
+    "rank": 2
   },
   {
     "handle": "powerology-built-in-solar-outdoor-camera",
@@ -120,44 +68,17 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 400000,
-          "sale_price": 320000,
-          "percentage_off": 20
+          "regular_price": 14600,
+          "sale_price": 11800,
+          "percentage_off": 19
         }
       ],
-      "min_regular_price": 400000,
-      "max_regular_price": 400000,
-      "min_sale_price": 320000,
-      "max_sale_price": 320000
+      "min_regular_price": 14600,
+      "max_regular_price": 14600,
+      "min_sale_price": 11800,
+      "max_sale_price": 11800
     },
-    "rank": 5
-  },
-  {
-    "handle": "powerology-built-in-solar-pan-tilt-outdoor-camera-2k",
-    "title": "Powerology Built-In Solar Pan & Tilt Outdoor Camera – 2K",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_43165118-1a19-43de-aa7d-128871d5ad1d.webp?v=1754595959",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Powerology",
-      "Security Cameras",
-      "Smart Home"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 450000,
-          "sale_price": 395000,
-          "percentage_off": 12
-        }
-      ],
-      "min_regular_price": 450000,
-      "max_regular_price": 450000,
-      "min_sale_price": 395000,
-      "max_sale_price": 395000
-    },
-    "rank": 6
+    "rank": 3
   },
   {
     "handle": "powerology-dual-screen-portable-monitor",
@@ -174,95 +95,17 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 1600000,
-          "sale_price": 1350000,
-          "percentage_off": 16
+          "regular_price": 58500,
+          "sale_price": 49500,
+          "percentage_off": 15
         }
       ],
-      "min_regular_price": 1600000,
-      "max_regular_price": 1600000,
-      "min_sale_price": 1350000,
-      "max_sale_price": 1350000
+      "min_regular_price": 58500,
+      "max_regular_price": 58500,
+      "min_sale_price": 49500,
+      "max_sale_price": 49500
     },
-    "rank": 7
-  },
-  {
-    "handle": "powerology-dynamic800-portable-power-station-800w-black",
-    "title": "Powerology Dynamic800 Portable Power Station (800W, Black)",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/PWP800WBK_Powerology_Dynamic800_Portable_Power_Station_800W_-_Black.webp?v=1754978787",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Power Station",
-      "Powerology"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 2100000,
-          "sale_price": 1950000,
-          "percentage_off": 7
-        }
-      ],
-      "min_regular_price": 2100000,
-      "max_regular_price": 2100000,
-      "min_sale_price": 1950000,
-      "max_sale_price": 1950000
-    },
-    "rank": 8
-  },
-  {
-    "handle": "powerology-indoor-ptz-smart-camera",
-    "title": "Powerology Indoor PTZ Smart Camera",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_497a22c1-5f22-4fda-8d17-18152078d3a8.webp?v=1760507882",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Powerology",
-      "Security Cameras"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 165000,
-          "sale_price": 165000,
-          "percentage_off": 0
-        }
-      ],
-      "min_regular_price": 165000,
-      "max_regular_price": 165000,
-      "min_sale_price": 165000,
-      "max_sale_price": 165000
-    },
-    "rank": 9
-  },
-  {
-    "handle": "powerology-onyx-30000mah-dual-usb-c-power-bank",
-    "title": "Powerology Onyx 30000mAh Dual USB-C Power Bank",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_66e3412b-6596-425d-b9bc-85f73bdbad15.jpg?v=1755112675",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Power Banks",
-      "Powerology"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 270000,
-          "sale_price": 270000,
-          "percentage_off": 0
-        }
-      ],
-      "min_regular_price": 270000,
-      "max_regular_price": 270000,
-      "min_sale_price": 270000,
-      "max_sale_price": 270000
-    },
-    "rank": 10
+    "rank": 4
   },
   {
     "handle": "powerology-ultra-portable-air-compressor-power-bank",
@@ -279,17 +122,17 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 260000,
-          "sale_price": 220000,
-          "percentage_off": 15
+          "regular_price": 9800,
+          "sale_price": 8200,
+          "percentage_off": 16
         }
       ],
-      "min_regular_price": 260000,
-      "max_regular_price": 260000,
-      "min_sale_price": 220000,
-      "max_sale_price": 220000
+      "min_regular_price": 9800,
+      "max_regular_price": 9800,
+      "min_sale_price": 8200,
+      "max_sale_price": 8200
     },
-    "rank": 11
+    "rank": 5
   },
   {
     "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
@@ -308,16 +151,16 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 700000,
-          "sale_price": 620000,
-          "percentage_off": 11
+          "regular_price": 25000,
+          "sale_price": 22600,
+          "percentage_off": 10
         }
       ],
-      "min_regular_price": 700000,
-      "max_regular_price": 700000,
-      "min_sale_price": 620000,
-      "max_sale_price": 620000
+      "min_regular_price": 25000,
+      "max_regular_price": 25000,
+      "min_sale_price": 22600,
+      "max_sale_price": 22600
     },
-    "rank": 12
+    "rank": 6
   }
 ]

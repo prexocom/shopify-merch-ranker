@@ -1,5 +1,30 @@
 [
   {
+    "handle": "flexstride™-portable-walking-running-treadmill",
+    "title": "FlexStride™ – Portable Walking & Running Treadmill",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/ErgonomistWalkingPad_0004_WalkingPadHeroImage.webp?v=1763245491",
+    "units_sold": 48,
+    "revenue": 54590000,
+    "tags": [
+      "Treadmills"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 47500,
+          "sale_price": 42000,
+          "percentage_off": 12
+        }
+      ],
+      "min_regular_price": 47500,
+      "max_regular_price": 47500,
+      "min_sale_price": 42000,
+      "max_sale_price": 42000
+    },
+    "rank": 1
+  },
+  {
     "handle": "kemilng-m7-pro-treadmill",
     "title": "KEMILNG M7 Pro Foldable Multi-functional Treadmill",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ac0fbf9c-c605-4efe-9dab-167a1a537341.png?v=1764536342",
@@ -22,6 +47,6 @@
       "min_sale_price": 91000,
       "max_sale_price": 91000
     },
-    "rank": 1
+    "rank": 2
   }
 ]

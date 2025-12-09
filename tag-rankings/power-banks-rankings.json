@@ -1,83 +1,5 @@
 [
   {
-    "handle": "powerology-16-000-mah-solar-power-bank-fm-radio-speaker-lights",
-    "title": "Powerology 16,000 mAh Solar Power Bank — FM Radio, Speaker & Lights",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_81c12232-001b-4dbf-bb06-880f5840a2e0.jpg?v=1755628024",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Power Banks",
-      "Powerology"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 300000,
-          "sale_price": 275000,
-          "percentage_off": 8
-        }
-      ],
-      "min_regular_price": 300000,
-      "max_regular_price": 300000,
-      "min_sale_price": 275000,
-      "max_sale_price": 275000
-    },
-    "rank": 1
-  },
-  {
-    "handle": "powerology-20-000-mah-65-w-onyx-power-bank",
-    "title": "Powerology 20,000 mAh 65 W Onyx Power Bank",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_24c81f91-6660-40e8-92f4-d83260d9468a.jpg?v=1755113368",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Power Banks",
-      "Powerology"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 220000,
-          "sale_price": 190000,
-          "percentage_off": 14
-        }
-      ],
-      "min_regular_price": 220000,
-      "max_regular_price": 220000,
-      "min_sale_price": 190000,
-      "max_sale_price": 190000
-    },
-    "rank": 2
-  },
-  {
-    "handle": "powerology-onyx-30000mah-dual-usb-c-power-bank",
-    "title": "Powerology Onyx 30000mAh Dual USB-C Power Bank",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_66e3412b-6596-425d-b9bc-85f73bdbad15.jpg?v=1755112675",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Power Banks",
-      "Powerology"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 270000,
-          "sale_price": 270000,
-          "percentage_off": 0
-        }
-      ],
-      "min_regular_price": 270000,
-      "max_regular_price": 270000,
-      "min_sale_price": 270000,
-      "max_sale_price": 270000
-    },
-    "rank": 3
-  },
-  {
     "handle": "powerology-ultra-portable-air-compressor-power-bank",
     "title": "Powerology Ultra Portable Air Compressor Power Bank",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3d161731-a3bb-4ae8-b701-41d21a773974.jpg?v=1754686259",
@@ -92,16 +14,16 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 260000,
-          "sale_price": 220000,
-          "percentage_off": 15
+          "regular_price": 9800,
+          "sale_price": 8200,
+          "percentage_off": 16
         }
       ],
-      "min_regular_price": 260000,
-      "max_regular_price": 260000,
-      "min_sale_price": 220000,
-      "max_sale_price": 220000
+      "min_regular_price": 9800,
+      "max_regular_price": 9800,
+      "min_sale_price": 8200,
+      "max_sale_price": 8200
     },
-    "rank": 4
+    "rank": 1
   }
 ]

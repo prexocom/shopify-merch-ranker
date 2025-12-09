@@ -13,155 +13,17 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 120000,
-          "sale_price": 95000,
-          "percentage_off": 21
+          "regular_price": 4400,
+          "sale_price": 3500,
+          "percentage_off": 20
         }
       ],
-      "min_regular_price": 120000,
-      "max_regular_price": 120000,
-      "min_sale_price": 95000,
-      "max_sale_price": 95000
+      "min_regular_price": 4400,
+      "max_regular_price": 4400,
+      "min_sale_price": 3500,
+      "max_sale_price": 3500
     },
     "rank": 1
-  },
-  {
-    "handle": "green-lion-auto-pop-tripod",
-    "title": "Green Lion Auto Pop Tripod",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_934d663d-6802-4a2d-bb80-d64ce39a5c37.jpg?v=1755666587",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Green Lion",
-      "Tripods"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 160000,
-          "sale_price": 135000,
-          "percentage_off": 16
-        }
-      ],
-      "min_regular_price": 160000,
-      "max_regular_price": 160000,
-      "min_sale_price": 135000,
-      "max_sale_price": 135000
-    },
-    "rank": 2
-  },
-  {
-    "handle": "green-lion-cx240-cordless-pressure-wash-gun",
-    "title": "Green Lion CX240 Cordless Pressure Wash Gun",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bbcb0df0-44e4-4d5d-adb7-8dda8ca3b34d.webp?v=1754870712",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Car Gadgets",
-      "Green Lion"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 320000,
-          "sale_price": 285000,
-          "percentage_off": 11
-        }
-      ],
-      "min_regular_price": 320000,
-      "max_regular_price": 320000,
-      "min_sale_price": 285000,
-      "max_sale_price": 285000
-    },
-    "rank": 3
-  },
-  {
-    "handle": "green-lion-digital-weight-scale",
-    "title": "Green Lion Digital Weight Scale",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5dcb372e-76f4-44f3-a872-3af6337fb39d.jpg?v=1755668796",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Green Lion",
-      "Health & Fitness"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 145000,
-          "sale_price": 145000,
-          "percentage_off": 0
-        }
-      ],
-      "min_regular_price": 145000,
-      "max_regular_price": 145000,
-      "min_sale_price": 145000,
-      "max_sale_price": 145000
-    },
-    "rank": 4
-  },
-  {
-    "handle": "green-lion-gan-65w-multi-port-travel-adapter",
-    "title": "Green Lion GaN 65W Multi-Port Travel Adapter",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3813bdf2-ef52-46b9-8aa4-c293c0734f0c.jpg?v=1754754721",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Adapters & Chargers",
-      "Computer Accessories",
-      "Green Lion",
-      "Office",
-      "Phone Accessories",
-      "Phone Chargers",
-      "Wireless Chargers"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 350000,
-          "sale_price": 290000,
-          "percentage_off": 17
-        }
-      ],
-      "min_regular_price": 350000,
-      "max_regular_price": 350000,
-      "min_sale_price": 290000,
-      "max_sale_price": 290000
-    },
-    "rank": 5
-  },
-  {
-    "handle": "green-lion-mouse-pad-with-wireless-charger",
-    "title": "Green Lion Mouse Pad with Wireless Charger",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1e3bd37e-62d8-4170-a8ed-e20eceeefdf3.jpg?v=1755549275",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Computer Accessories",
-      "Green Lion",
-      "Phone Accessories",
-      "Phone Chargers",
-      "Wireless Chargers"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 180000,
-          "sale_price": 145000,
-          "percentage_off": 19
-        }
-      ],
-      "min_regular_price": 180000,
-      "max_regular_price": 180000,
-      "min_sale_price": 145000,
-      "max_sale_price": 145000
-    },
-    "rank": 6
   },
   {
     "handle": "green-lion-new-york-gimbal-smart-face-tracking",
@@ -181,17 +43,17 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 460000,
-          "sale_price": 425000,
-          "percentage_off": 8
+          "regular_price": 17500,
+          "sale_price": 15500,
+          "percentage_off": 11
         }
       ],
-      "min_regular_price": 460000,
-      "max_regular_price": 460000,
-      "min_sale_price": 425000,
-      "max_sale_price": 425000
+      "min_regular_price": 17500,
+      "max_regular_price": 17500,
+      "min_sale_price": 15500,
+      "max_sale_price": 15500
     },
-    "rank": 7
+    "rank": 2
   },
   {
     "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
@@ -209,175 +71,16 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 220000,
-          "sale_price": 185000,
-          "percentage_off": 16
-        }
-      ],
-      "min_regular_price": 220000,
-      "max_regular_price": 220000,
-      "min_sale_price": 185000,
-      "max_sale_price": 185000
-    },
-    "rank": 8
-  },
-  {
-    "handle": "green-lion-prisma-4k-portable-projector",
-    "title": "Green Lion Prisma 4K Portable Projector",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1a014ce3-5bc7-4b06-96c6-c24878c7cea9.jpg?v=1754943073",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Entertainment",
-      "Green Lion",
-      "Projectors"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 740000,
-          "sale_price": 650000,
-          "percentage_off": 12
-        }
-      ],
-      "min_regular_price": 740000,
-      "max_regular_price": 740000,
-      "min_sale_price": 650000,
-      "max_sale_price": 650000
-    },
-    "rank": 9
-  },
-  {
-    "handle": "green-lion-smart-health-tracker-ring",
-    "title": "Green Lion Smart Health Tracker Ring",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_44987bce-7027-4c0b-9e1c-09eaaf394848.jpg?v=1755583055",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Green Lion",
-      "Health & Fitness",
-      "Smart Rings"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 180000,
-          "sale_price": 155000,
+          "regular_price": 7900,
+          "sale_price": 6800,
           "percentage_off": 14
         }
       ],
-      "min_regular_price": 180000,
-      "max_regular_price": 180000,
-      "min_sale_price": 155000,
-      "max_sale_price": 155000
+      "min_regular_price": 7900,
+      "max_regular_price": 7900,
+      "min_sale_price": 6800,
+      "max_sale_price": 6800
     },
-    "rank": 10
-  },
-  {
-    "handle": "green-lion-smart-toothbrush-sanitizer",
-    "title": "Green Lion Smart Toothbrush Sanitizer",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5544c8fe-3f75-4134-bc6d-1808feaef585.jpg?v=1754726691",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Electric Toothbrush",
-      "Green Lion",
-      "Oral Care"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 200000,
-          "sale_price": 160000,
-          "percentage_off": 20
-        }
-      ],
-      "min_regular_price": 200000,
-      "max_regular_price": 200000,
-      "min_sale_price": 160000,
-      "max_sale_price": 160000
-    },
-    "rank": 11
-  },
-  {
-    "handle": "green-lion-stockholm-smart-glasses-black",
-    "title": "Green Lion Stockholm Smart Glasses – Black",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bb71dfc2-7eb0-4184-8057-1e2bf733bf84.webp?v=1755580462",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Green Lion",
-      "Smart Glasses"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 180000,
-          "sale_price": 155000,
-          "percentage_off": 14
-        }
-      ],
-      "min_regular_price": 180000,
-      "max_regular_price": 180000,
-      "min_sale_price": 155000,
-      "max_sale_price": 155000
-    },
-    "rank": 12
-  },
-  {
-    "handle": "green-lion-thermal-portable-printer",
-    "title": "Green Lion Thermal Label Printer",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1783cc3b-61ce-4d97-8f32-3a3b656b5ab7.jpg?v=1755551780",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Green Lion",
-      "Portable Printers"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 280000,
-          "sale_price": 245000,
-          "percentage_off": 13
-        }
-      ],
-      "min_regular_price": 280000,
-      "max_regular_price": 280000,
-      "min_sale_price": 245000,
-      "max_sale_price": 245000
-    },
-    "rank": 13
-  },
-  {
-    "handle": "green-lion-urbanic-smart-eyewear",
-    "title": "Green Lion Urbanic Smart Eyewear",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c37cc734-260b-4e3f-9625-20b728829aa7.jpg?v=1755581789",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Green Lion",
-      "Smart Glasses"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 190000,
-          "sale_price": 165000,
-          "percentage_off": 13
-        }
-      ],
-      "min_regular_price": 190000,
-      "max_regular_price": 190000,
-      "min_sale_price": 165000,
-      "max_sale_price": 165000
-    },
-    "rank": 14
+    "rank": 3
   }
 ]

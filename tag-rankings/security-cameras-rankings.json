@@ -23,5 +23,83 @@
       "max_sale_price": 25500
     },
     "rank": 1
+  },
+  {
+    "handle": "solarsecure-360-full-color-night-vision-security-camera",
+    "title": "SolarSecure 360 – Full-Color Night Vision Security Camera",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_df6ee820-3071-4a55-88de-4472b6b10155.webp?v=1749641793",
+    "units_sold": 1,
+    "revenue": 445000,
+    "tags": [
+      "Security Cameras"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 23700,
+          "sale_price": 18000,
+          "percentage_off": 24
+        }
+      ],
+      "min_regular_price": 23700,
+      "max_regular_price": 23700,
+      "min_sale_price": 18000,
+      "max_sale_price": 18000
+    },
+    "rank": 2
+  },
+  {
+    "handle": "powerology-360-security-camera-dual-lens",
+    "title": "Powerology 360° Security Camera (Dual-Lens)",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d35489d0-2abf-49a8-8df0-775493b8c426.webp?v=1760504093",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Powerology",
+      "Security Cameras"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 28500,
+          "sale_price": 25000,
+          "percentage_off": 12
+        }
+      ],
+      "min_regular_price": 28500,
+      "max_regular_price": 28500,
+      "min_sale_price": 25000,
+      "max_sale_price": 25000
+    },
+    "rank": 3
+  },
+  {
+    "handle": "powerology-built-in-solar-outdoor-camera",
+    "title": "Powerology Built-in Solar Outdoor Camera",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f6cb4452-0bd6-4c0c-843f-8d888ebdcf24.webp?v=1754595537",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Powerology",
+      "Security Cameras",
+      "Smart Home"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 14600,
+          "sale_price": 11800,
+          "percentage_off": 19
+        }
+      ],
+      "min_regular_price": 14600,
+      "max_regular_price": 14600,
+      "min_sale_price": 11800,
+      "max_sale_price": 11800
+    },
+    "rank": 4
   }
 ]

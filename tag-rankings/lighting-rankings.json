@@ -76,5 +76,31 @@
       "max_sale_price": 5300
     },
     "rank": 3
+  },
+  {
+    "handle": "under-cabinet-led-motion-sensor-light-bar",
+    "title": "Under-Cabinet LED Motion Sensor Light Bar",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_278262be-3fbc-4118-87ec-09db532370de.jpg?v=1761290715",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Home Decor",
+      "Lighting"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 2600,
+          "sale_price": 2200,
+          "percentage_off": 15
+        }
+      ],
+      "min_regular_price": 2600,
+      "max_regular_price": 2600,
+      "min_sale_price": 2200,
+      "max_sale_price": 2200
+    },
+    "rank": 4
   }
 ]

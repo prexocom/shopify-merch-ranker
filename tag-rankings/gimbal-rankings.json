@@ -1,88 +1,5 @@
 [
   {
-    "handle": "auto-face-tracking-tripod-gimbal",
-    "title": "Auto Face Tracking Tripod Gimbal",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d88a6ddd-204b-47b1-82b0-975d2f3f2ead.jpg?v=1761833359",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Camera",
-      "Gimbal",
-      "Gimbals",
-      "Phone Accessories"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 250000,
-          "sale_price": 199000,
-          "percentage_off": 20
-        }
-      ],
-      "min_regular_price": 250000,
-      "max_regular_price": 250000,
-      "min_sale_price": 199000,
-      "max_sale_price": 199000
-    },
-    "rank": 1
-  },
-  {
-    "handle": "dji-osmo-mobile-se-gimbal",
-    "title": "DJI Osmo Mobile SE Gimbal",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9823c958-8d37-4036-8036-f0f158f8c62c.jpg?v=1756623097",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "DJI",
-      "Gimbal",
-      "Gimbals"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 550000,
-          "sale_price": 495000,
-          "percentage_off": 10
-        }
-      ],
-      "min_regular_price": 550000,
-      "max_regular_price": 550000,
-      "min_sale_price": 495000,
-      "max_sale_price": 495000
-    },
-    "rank": 2
-  },
-  {
-    "handle": "green-lion-auto-track-gimbal-stabilizer",
-    "title": "Green Lion Auto Track Gimbal Stabilizer",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d3945714-bb75-418e-a3a0-a38147e828af.webp?v=1754571795",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Camera",
-      "Gimbal",
-      "Gimbals",
-      "Phone Accessories"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 200000,
-          "sale_price": 165000,
-          "percentage_off": 18
-        }
-      ],
-      "min_regular_price": 200000,
-      "max_regular_price": 200000,
-      "min_sale_price": 165000,
-      "max_sale_price": 165000
-    },
-    "rank": 3
-  },
-  {
     "handle": "green-lion-new-york-gimbal-smart-face-tracking",
     "title": "Green Lion New York Gimbal Smart Face Tracking",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fbe6d529-a264-4f5a-85ca-6fad12eb8a71.webp?v=1754599471",
@@ -100,76 +17,16 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 460000,
-          "sale_price": 425000,
-          "percentage_off": 8
+          "regular_price": 17500,
+          "sale_price": 15500,
+          "percentage_off": 11
         }
       ],
-      "min_regular_price": 460000,
-      "max_regular_price": 460000,
-      "min_sale_price": 425000,
-      "max_sale_price": 425000
+      "min_regular_price": 17500,
+      "max_regular_price": 17500,
+      "min_sale_price": 15500,
+      "max_sale_price": 15500
     },
-    "rank": 4
-  },
-  {
-    "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
-    "title": "Porodo 3‑Axis Gimbal Stabilizer with Magnetic Fill Light",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2087b3da-f4f0-42f3-b9bc-ea20e7af57d7.jpg?v=1754597732",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Camera",
-      "Gimbal",
-      "Gimbals",
-      "Phone Accessories",
-      "Porodo",
-      "Travel"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 370000,
-          "sale_price": 315000,
-          "percentage_off": 15
-        }
-      ],
-      "min_regular_price": 370000,
-      "max_regular_price": 370000,
-      "min_sale_price": 315000,
-      "max_sale_price": 315000
-    },
-    "rank": 5
-  },
-  {
-    "handle": "porodo-quadbase-gimbal-stabilizer",
-    "title": "Porodo QuadBase Gimbal Stabilizer",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_8184ec40-15b5-4dda-8826-2552adb552bb.webp?v=1754598461",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Camera",
-      "Gimbal",
-      "Gimbals",
-      "Phone Accessories",
-      "Porodo",
-      "Travel"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 220000,
-          "sale_price": 175000,
-          "percentage_off": 20
-        }
-      ],
-      "min_regular_price": 220000,
-      "max_regular_price": 220000,
-      "min_sale_price": 175000,
-      "max_sale_price": 175000
-    },
-    "rank": 6
+    "rank": 1
   }
 ]

@@ -14,124 +14,16 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 400000,
-          "sale_price": 320000,
-          "percentage_off": 20
+          "regular_price": 14600,
+          "sale_price": 11800,
+          "percentage_off": 19
         }
       ],
-      "min_regular_price": 400000,
-      "max_regular_price": 400000,
-      "min_sale_price": 320000,
-      "max_sale_price": 320000
+      "min_regular_price": 14600,
+      "max_regular_price": 14600,
+      "min_sale_price": 11800,
+      "max_sale_price": 11800
     },
     "rank": 1
-  },
-  {
-    "handle": "powerology-built-in-solar-pan-tilt-outdoor-camera-2k",
-    "title": "Powerology Built-In Solar Pan & Tilt Outdoor Camera – 2K",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_43165118-1a19-43de-aa7d-128871d5ad1d.webp?v=1754595959",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Powerology",
-      "Security Cameras",
-      "Smart Home"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 450000,
-          "sale_price": 395000,
-          "percentage_off": 12
-        }
-      ],
-      "min_regular_price": 450000,
-      "max_regular_price": 450000,
-      "min_sale_price": 395000,
-      "max_sale_price": 395000
-    },
-    "rank": 2
-  },
-  {
-    "handle": "xiaomi-outdoor-camera-cw300",
-    "title": "Xiaomi Outdoor Camera CW300",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_583c5985-4fcb-422f-97f9-e77f0ef4dbfe.webp?v=1754597009",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Security Cameras",
-      "Smart Home",
-      "Xiaomi"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 370000,
-          "sale_price": 320000,
-          "percentage_off": 14
-        }
-      ],
-      "min_regular_price": 370000,
-      "max_regular_price": 370000,
-      "min_sale_price": 320000,
-      "max_sale_price": 320000
-    },
-    "rank": 3
-  },
-  {
-    "handle": "xiaomi-smart-camera-c300",
-    "title": "Xiaomi Smart Camera C300",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5afa0b0f-21a2-400b-bfcc-3b1f0cc1d874.jpg?v=1754577759",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Security Cameras",
-      "Smart Home",
-      "Xiaomi"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 270000,
-          "sale_price": 225000,
-          "percentage_off": 17
-        }
-      ],
-      "min_regular_price": 270000,
-      "max_regular_price": 270000,
-      "min_sale_price": 225000,
-      "max_sale_price": 225000
-    },
-    "rank": 4
-  },
-  {
-    "handle": "xiaomi-smart-camera-c300-dual-lens-2k-wi-fi-6",
-    "title": "Xiaomi Smart Camera C300 Dual-Lens (2K, Wi-Fi 6)",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_8e76fce9-4228-486a-b610-dd6bbc6932f6.webp?v=1754596460",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Security Cameras",
-      "Smart Home",
-      "Xiaomi"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 420000,
-          "sale_price": 345000,
-          "percentage_off": 18
-        }
-      ],
-      "min_regular_price": 420000,
-      "max_regular_price": 420000,
-      "min_sale_price": 345000,
-      "max_sale_price": 345000
-    },
-    "rank": 5
   }
 ]

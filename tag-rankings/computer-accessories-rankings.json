@@ -51,5 +51,61 @@
       "max_sale_price": 5600
     },
     "rank": 2
+  },
+  {
+    "handle": "powerology-dual-screen-portable-monitor",
+    "title": "Powerology Dual Screen Portable Monitor",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_06675db1-3818-4688-9027-05b6412cb3a6.jpg?v=1754753103",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Computer Accessories",
+      "Office",
+      "Powerology"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 58500,
+          "sale_price": 49500,
+          "percentage_off": 15
+        }
+      ],
+      "min_regular_price": 58500,
+      "max_regular_price": 58500,
+      "min_sale_price": 49500,
+      "max_sale_price": 49500
+    },
+    "rank": 3
+  },
+  {
+    "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
+    "title": "Powerology Ultra-Slim Full HD Portable Monitor 15.6\"",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d0e7a5a3-ea2b-4aa6-a746-213a3d4df581.webp?v=1754755760",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Computer Accessories",
+      "Office",
+      "Phone Accessories",
+      "Portable Monitor",
+      "Powerology"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 25000,
+          "sale_price": 22600,
+          "percentage_off": 10
+        }
+      ],
+      "min_regular_price": 25000,
+      "max_regular_price": 25000,
+      "min_sale_price": 22600,
+      "max_sale_price": 22600
+    },
+    "rank": 4
   }
 ]

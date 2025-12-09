@@ -14,101 +14,17 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 130000,
-          "sale_price": 95000,
-          "percentage_off": 27
+          "regular_price": 4800,
+          "sale_price": 3700,
+          "percentage_off": 23
         }
       ],
-      "min_regular_price": 130000,
-      "max_regular_price": 130000,
-      "min_sale_price": 95000,
-      "max_sale_price": 95000
+      "min_regular_price": 4800,
+      "max_regular_price": 4800,
+      "min_sale_price": 3700,
+      "max_sale_price": 3700
     },
     "rank": 1
-  },
-  {
-    "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light-1",
-    "title": "Porodo 3-Axis Gimbal Stabilizer with Magnetic Fill Light",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_24328fea-0ca7-42c9-8709-2929809a61c5.jpg?v=1761977575",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Gimbals",
-      "Porodo"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 330000,
-          "sale_price": 295000,
-          "percentage_off": 11
-        }
-      ],
-      "min_regular_price": 330000,
-      "max_regular_price": 330000,
-      "min_sale_price": 295000,
-      "max_sale_price": 295000
-    },
-    "rank": 2
-  },
-  {
-    "handle": "porodo-3-axis-gimbal-stabilizer-with-magnetic-fill-light",
-    "title": "Porodo 3‑Axis Gimbal Stabilizer with Magnetic Fill Light",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2087b3da-f4f0-42f3-b9bc-ea20e7af57d7.jpg?v=1754597732",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Camera",
-      "Gimbal",
-      "Gimbals",
-      "Phone Accessories",
-      "Porodo",
-      "Travel"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 370000,
-          "sale_price": 315000,
-          "percentage_off": 15
-        }
-      ],
-      "min_regular_price": 370000,
-      "max_regular_price": 370000,
-      "min_sale_price": 315000,
-      "max_sale_price": 315000
-    },
-    "rank": 3
-  },
-  {
-    "handle": "porodo-bluetooth-conference-speaker",
-    "title": "Porodo Bluetooth Conference Speaker",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_91341ad2-6c6d-4b06-b59d-00198e3269d9.webp?v=1754651692",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Music",
-      "Porodo",
-      "Portable Speakers",
-      "Speaker"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 190000,
-          "sale_price": 145000,
-          "percentage_off": 24
-        }
-      ],
-      "min_regular_price": 190000,
-      "max_regular_price": 190000,
-      "min_sale_price": 145000,
-      "max_sale_price": 145000
-    },
-    "rank": 4
   },
   {
     "handle": "porodo-frostwave-portable-cooling-fan",
@@ -125,46 +41,16 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 110000,
-          "sale_price": 85000,
-          "percentage_off": 23
-        }
-      ],
-      "min_regular_price": 110000,
-      "max_regular_price": 110000,
-      "min_sale_price": 85000,
-      "max_sale_price": 85000
-    },
-    "rank": 5
-  },
-  {
-    "handle": "porodo-quadbase-gimbal-stabilizer",
-    "title": "Porodo QuadBase Gimbal Stabilizer",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_8184ec40-15b5-4dda-8826-2552adb552bb.webp?v=1754598461",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Camera",
-      "Gimbal",
-      "Gimbals",
-      "Phone Accessories",
-      "Porodo",
-      "Travel"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 220000,
-          "sale_price": 175000,
+          "regular_price": 4000,
+          "sale_price": 3200,
           "percentage_off": 20
         }
       ],
-      "min_regular_price": 220000,
-      "max_regular_price": 220000,
-      "min_sale_price": 175000,
-      "max_sale_price": 175000
+      "min_regular_price": 4000,
+      "max_regular_price": 4000,
+      "min_sale_price": 3200,
+      "max_sale_price": 3200
     },
-    "rank": 6
+    "rank": 2
   }
 ]

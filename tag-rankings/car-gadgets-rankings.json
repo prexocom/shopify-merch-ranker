@@ -13,43 +13,17 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 240000,
-          "sale_price": 185000,
-          "percentage_off": 23
+          "regular_price": 8700,
+          "sale_price": 6800,
+          "percentage_off": 22
         }
       ],
-      "min_regular_price": 240000,
-      "max_regular_price": 240000,
-      "min_sale_price": 185000,
-      "max_sale_price": 185000
+      "min_regular_price": 8700,
+      "max_regular_price": 8700,
+      "min_sale_price": 6800,
+      "max_sale_price": 6800
     },
     "rank": 1
-  },
-  {
-    "handle": "green-lion-cx240-cordless-pressure-wash-gun",
-    "title": "Green Lion CX240 Cordless Pressure Wash Gun",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bbcb0df0-44e4-4d5d-adb7-8dda8ca3b34d.webp?v=1754870712",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Car Gadgets",
-      "Green Lion"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 320000,
-          "sale_price": 285000,
-          "percentage_off": 11
-        }
-      ],
-      "min_regular_price": 320000,
-      "max_regular_price": 320000,
-      "min_sale_price": 285000,
-      "max_sale_price": 285000
-    },
-    "rank": 2
   },
   {
     "handle": "mini-gps-vehicle-tracker-magnetic-anti-theft-locator",
@@ -64,17 +38,17 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 180000,
-          "sale_price": 125000,
-          "percentage_off": 31
+          "regular_price": 6500,
+          "sale_price": 4600,
+          "percentage_off": 29
         }
       ],
-      "min_regular_price": 180000,
-      "max_regular_price": 180000,
-      "min_sale_price": 125000,
-      "max_sale_price": 125000
+      "min_regular_price": 6500,
+      "max_regular_price": 6500,
+      "min_sale_price": 4600,
+      "max_sale_price": 4600
     },
-    "rank": 3
+    "rank": 2
   },
   {
     "handle": "powerology-ultra-portable-air-compressor-power-bank",
@@ -91,16 +65,16 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 260000,
-          "sale_price": 220000,
-          "percentage_off": 15
+          "regular_price": 9800,
+          "sale_price": 8200,
+          "percentage_off": 16
         }
       ],
-      "min_regular_price": 260000,
-      "max_regular_price": 260000,
-      "min_sale_price": 220000,
-      "max_sale_price": 220000
+      "min_regular_price": 9800,
+      "max_regular_price": 9800,
+      "min_sale_price": 8200,
+      "max_sale_price": 8200
     },
-    "rank": 4
+    "rank": 3
   }
 ]

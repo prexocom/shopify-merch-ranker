@@ -24,5 +24,59 @@
       "max_sale_price": 11800
     },
     "rank": 1
+  },
+  {
+    "handle": "borrego-smart-4-android-smart-projector",
+    "title": "Borrego Smart 4 – Android Smart Projector",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_43de8295-4c63-4f6f-8d80-a428b0882d7f.jpg?v=1754649748",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Entertainment",
+      "Projectors"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 22000,
+          "sale_price": 18500,
+          "percentage_off": 16
+        }
+      ],
+      "min_regular_price": 22000,
+      "max_regular_price": 22000,
+      "min_sale_price": 18500,
+      "max_sale_price": 18500
+    },
+    "rank": 2
+  },
+  {
+    "handle": "powerology-32-android-smart-screen",
+    "title": "Powerology 32\" Android Smart Screen",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0ca85194-3b03-47db-b744-8241ba5cca34.webp?v=1754981430",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Entertainment",
+      "Powerology",
+      "Smart Screen",
+      "TV"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 119000,
+          "sale_price": 119000,
+          "percentage_off": 0
+        }
+      ],
+      "min_regular_price": 119000,
+      "max_regular_price": 119000,
+      "min_sale_price": 119000,
+      "max_sale_price": 119000
+    },
+    "rank": 3
   }
 ]

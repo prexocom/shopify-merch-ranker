@@ -103,5 +103,107 @@
       "max_sale_price": 5300
     },
     "rank": 4
+  },
+  {
+    "handle": "galaxy-star-nebula-projector-with-bluetooth-speaker",
+    "title": "Galaxy Star & Nebula Projector with Bluetooth Speaker",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9eab1579-5329-4e2b-ab40-7da7000c306f.png?v=1754683053",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Home Decor",
+      "Music"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 6900,
+          "sale_price": 5500,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 6900,
+      "max_regular_price": 6900,
+      "min_sale_price": 5500,
+      "max_sale_price": 5500
+    },
+    "rank": 5
+  },
+  {
+    "handle": "livtab-smart-coffee-table-built-in-fridge-wireless-charging-speakers",
+    "title": "LIVTAB Smart Coffee Table – Built-in Fridge + Wireless Charging & Speakers",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_792ce048-8de8-42dd-8989-d5a3bfcdc4e4.jpg?v=1761203726",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Home Decor"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 156000,
+          "sale_price": 129000,
+          "percentage_off": 17
+        }
+      ],
+      "min_regular_price": 156000,
+      "max_regular_price": 156000,
+      "min_sale_price": 129000,
+      "max_sale_price": 129000
+    },
+    "rank": 6
+  },
+  {
+    "handle": "quicksand-painting-night-light",
+    "title": "Quicksand Painting Night Light",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f6734e57-556c-4403-b972-218571655237.jpg?v=1755935915",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Home Decor"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 9300,
+          "sale_price": 7200,
+          "percentage_off": 23
+        }
+      ],
+      "min_regular_price": 9300,
+      "max_regular_price": 9300,
+      "min_sale_price": 7200,
+      "max_sale_price": 7200
+    },
+    "rank": 7
+  },
+  {
+    "handle": "under-cabinet-led-motion-sensor-light-bar",
+    "title": "Under-Cabinet LED Motion Sensor Light Bar",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_278262be-3fbc-4118-87ec-09db532370de.jpg?v=1761290715",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Home Decor",
+      "Lighting"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 2600,
+          "sale_price": 2200,
+          "percentage_off": 15
+        }
+      ],
+      "min_regular_price": 2600,
+      "max_regular_price": 2600,
+      "min_sale_price": 2200,
+      "max_sale_price": 2200
+    },
+    "rank": 8
   }
 ]

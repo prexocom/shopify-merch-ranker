@@ -14,44 +14,16 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 500000,
-          "sale_price": 380000,
-          "percentage_off": 24
+          "regular_price": 14500,
+          "sale_price": 13900,
+          "percentage_off": 4
         }
       ],
-      "min_regular_price": 500000,
-      "max_regular_price": 500000,
-      "min_sale_price": 380000,
-      "max_sale_price": 380000
+      "min_regular_price": 14500,
+      "max_regular_price": 14500,
+      "min_sale_price": 13900,
+      "max_sale_price": 13900
     },
     "rank": 1
-  },
-  {
-    "handle": "prexovision-translate™-ai-smart-glasses-with-real-time-translation",
-    "title": "PrexoVision Translate™ – AI Smart Glasses with Real‑Time Translation",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7f3e21c6-7ddf-4694-b085-24b0103d5bf8.jpg?v=1754375910",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Gadgets",
-      "Smart Glasses",
-      "Translator",
-      "Travel"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 630000,
-          "sale_price": 450000,
-          "percentage_off": 29
-        }
-      ],
-      "min_regular_price": 630000,
-      "max_regular_price": 630000,
-      "min_sale_price": 450000,
-      "max_sale_price": 450000
-    },
-    "rank": 2
   }
 ]

@@ -1,90 +1,5 @@
 [
   {
-    "handle": "magic-speaker-bulb-light-sound-combined",
-    "title": "🪄 Magic Speaker Bulb – Light & Sound Combined",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_e9c6b8dd-0570-404c-b179-4131946952a0.jpg?v=1754382211",
-    "units_sold": 1,
-    "revenue": 98000,
-    "tags": [
-      "Gadgets",
-      "Home Decor",
-      "Lighting",
-      "Music",
-      "Speaker"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 130000,
-          "sale_price": 98000,
-          "percentage_off": 25
-        }
-      ],
-      "min_regular_price": 130000,
-      "max_regular_price": 130000,
-      "min_sale_price": 98000,
-      "max_sale_price": 98000
-    },
-    "rank": 1
-  },
-  {
-    "handle": "dji-osmo-pocket-3-creator-combo",
-    "title": "DJI Osmo Pocket 3 Creator Combo",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_34e81e7e-0553-4851-a4bf-413e3683107f.jpg?v=1761193411",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Camera",
-      "DJI",
-      "Gadgets",
-      "Gimbals",
-      "Travel"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 3250000,
-          "sale_price": 3250000,
-          "percentage_off": 0
-        }
-      ],
-      "min_regular_price": 3250000,
-      "max_regular_price": 3250000,
-      "min_sale_price": 3250000,
-      "max_sale_price": 3250000
-    },
-    "rank": 2
-  },
-  {
-    "handle": "looi-robot-space-black-ai-desktop-companion",
-    "title": "LOOI Robot – Space Black AI Desktop Companion",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_658990e9-8400-4ea4-98f1-56c8a5a7f821.jpg?v=1761226700",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Desk Accessories",
-      "Gadgets",
-      "Office"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 970000,
-          "sale_price": 855000,
-          "percentage_off": 12
-        }
-      ],
-      "min_regular_price": 970000,
-      "max_regular_price": 970000,
-      "min_sale_price": 855000,
-      "max_sale_price": 855000
-    },
-    "rank": 3
-  },
-  {
     "handle": "prexolingo™-smart-voice-translator-supports-30-languages",
     "title": "PrexoLingo™ – Smart Voice Translator (Supports 30+ Languages)",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_13d6a3d7-5ddf-4b62-9e3b-b5bf5c09877e.jpg?v=1754361176",
@@ -99,44 +14,16 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 500000,
-          "sale_price": 380000,
-          "percentage_off": 24
+          "regular_price": 14500,
+          "sale_price": 13900,
+          "percentage_off": 4
         }
       ],
-      "min_regular_price": 500000,
-      "max_regular_price": 500000,
-      "min_sale_price": 380000,
-      "max_sale_price": 380000
+      "min_regular_price": 14500,
+      "max_regular_price": 14500,
+      "min_sale_price": 13900,
+      "max_sale_price": 13900
     },
-    "rank": 4
-  },
-  {
-    "handle": "prexovision-translate™-ai-smart-glasses-with-real-time-translation",
-    "title": "PrexoVision Translate™ – AI Smart Glasses with Real‑Time Translation",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7f3e21c6-7ddf-4694-b085-24b0103d5bf8.jpg?v=1754375910",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Gadgets",
-      "Smart Glasses",
-      "Translator",
-      "Travel"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 630000,
-          "sale_price": 450000,
-          "percentage_off": 29
-        }
-      ],
-      "min_regular_price": 630000,
-      "max_regular_price": 630000,
-      "min_sale_price": 450000,
-      "max_sale_price": 450000
-    },
-    "rank": 5
+    "rank": 1
   }
 ]
