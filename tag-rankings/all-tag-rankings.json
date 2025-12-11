@@ -438,14 +438,14 @@
           {
             "title": "Default Title",
             "regular_price": 265000,
-            "sale_price": 255000,
-            "percentage_off": 4
+            "sale_price": 245000,
+            "percentage_off": 8
           }
         ],
         "min_regular_price": 265000,
         "max_regular_price": 265000,
-        "min_sale_price": 255000,
-        "max_sale_price": 255000
+        "min_sale_price": 245000,
+        "max_sale_price": 245000
       },
       "rank": 5
     }
@@ -1267,7 +1267,7 @@
     {
       "handle": "kemilng-m7-pro-treadmill",
       "title": "KEMILNG M7 Pro Foldable Multi-functional Treadmill",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ac0fbf9c-c605-4efe-9dab-167a1a537341.png?v=1764536342",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f01814c2-3fb8-45f2-a734-61581b4be8ff.jpg?v=1765387264",
       "units_sold": 4,
       "revenue": 7260000,
       "tags": [
