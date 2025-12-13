@@ -13,15 +13,15 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 185000,
-          "sale_price": 138000,
-          "percentage_off": 25
+          "regular_price": 6600,
+          "sale_price": 5000,
+          "percentage_off": 24
         }
       ],
-      "min_regular_price": 185000,
-      "max_regular_price": 185000,
-      "min_sale_price": 138000,
-      "max_sale_price": 138000
+      "min_regular_price": 6600,
+      "max_regular_price": 6600,
+      "min_sale_price": 5000,
+      "max_sale_price": 5000
     },
     "rank": 1
   },
@@ -39,15 +39,15 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 180000,
-          "sale_price": 135000,
+          "regular_price": 6400,
+          "sale_price": 4800,
           "percentage_off": 25
         }
       ],
-      "min_regular_price": 180000,
-      "max_regular_price": 180000,
-      "min_sale_price": 135000,
-      "max_sale_price": 135000
+      "min_regular_price": 6400,
+      "max_regular_price": 6400,
+      "min_sale_price": 4800,
+      "max_sale_price": 4800
     },
     "rank": 2
   },
@@ -65,43 +65,17 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 170000,
-          "sale_price": 145000,
-          "percentage_off": 15
+          "regular_price": 6000,
+          "sale_price": 5200,
+          "percentage_off": 13
         }
       ],
-      "min_regular_price": 170000,
-      "max_regular_price": 170000,
-      "min_sale_price": 145000,
-      "max_sale_price": 145000
+      "min_regular_price": 6000,
+      "max_regular_price": 6000,
+      "min_sale_price": 5200,
+      "max_sale_price": 5200
     },
     "rank": 3
-  },
-  {
-    "handle": "glowmist™-fireplace-humidifier",
-    "title": "GlowMist™ Fireplace Humidifier",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/S8b6732b7bcb9413392e82c39c0791b24E.webp?v=1749641996",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Home Decor",
-      "Humidifiers"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 190000,
-          "sale_price": 145000,
-          "percentage_off": 24
-        }
-      ],
-      "min_regular_price": 190000,
-      "max_regular_price": 190000,
-      "min_sale_price": 145000,
-      "max_sale_price": 145000
-    },
-    "rank": 4
   },
   {
     "handle": "jellyfish-humidifier",
@@ -117,17 +91,17 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 180000,
-          "sale_price": 155000,
-          "percentage_off": 14
+          "regular_price": 6500,
+          "sale_price": 5400,
+          "percentage_off": 17
         }
       ],
-      "min_regular_price": 180000,
-      "max_regular_price": 180000,
-      "min_sale_price": 155000,
-      "max_sale_price": 155000
+      "min_regular_price": 6500,
+      "max_regular_price": 6500,
+      "min_sale_price": 5400,
+      "max_sale_price": 5400
     },
-    "rank": 5
+    "rank": 4
   },
   {
     "handle": "volcano-essential-oil-diffuser",
@@ -143,42 +117,16 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 180000,
-          "sale_price": 135000,
-          "percentage_off": 25
+          "regular_price": 6300,
+          "sale_price": 5200,
+          "percentage_off": 17
         }
       ],
-      "min_regular_price": 180000,
-      "max_regular_price": 180000,
-      "min_sale_price": 135000,
-      "max_sale_price": 135000
+      "min_regular_price": 6300,
+      "max_regular_price": 6300,
+      "min_sale_price": 5200,
+      "max_sale_price": 5200
     },
-    "rank": 6
-  },
-  {
-    "handle": "steamloco™-aromatherapy-train-humidifier",
-    "title": "SteamLoco™ – Aromatherapy Train Humidifier",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_2c7b3373-3980-4e88-8e81-4f6ffc43ae8f.jpg?v=1749641907",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Home Decor",
-      "Humidifiers"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 250000,
-          "sale_price": 188000,
-          "percentage_off": 25
-        }
-      ],
-      "min_regular_price": 250000,
-      "max_regular_price": 250000,
-      "min_sale_price": 188000,
-      "max_sale_price": 188000
-    },
-    "rank": 7
+    "rank": 5
   }
 ]
