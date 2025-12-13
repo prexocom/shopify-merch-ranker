@@ -77,11 +77,25 @@
     "score": 0.1071
   },
   {
+    "handle": "ufo-raindrop-humidifier",
+    "in_stock": true,
+    "units_sold": 2,
+    "revenue": 276000,
+    "score": 0.1067
+  },
+  {
     "handle": "solarsecure-360-full-color-night-vision-security-camera",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 445000,
     "score": 0.1067
+  },
+  {
+    "handle": "bonfire-humidifier-1",
+    "in_stock": true,
+    "units_sold": 1,
+    "revenue": 135000,
+    "score": 0.1033
   },
   {
     "handle": "green-lion-digital-luggage-scale-50-kg-max",
@@ -147,6 +161,13 @@
     "score": 0.1
   },
   {
+    "handle": "fireplace-flame-air-humidifier",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
     "handle": "portable-camping-stove",
     "in_stock": true,
     "units_sold": 0,
@@ -169,6 +190,13 @@
   },
   {
     "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "jellyfish-humidifier",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
@@ -232,6 +260,13 @@
   },
   {
     "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "volcano-essential-oil-diffuser",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
