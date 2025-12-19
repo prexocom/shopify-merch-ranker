@@ -154,6 +154,13 @@
     "score": 0.1
   },
   {
+    "handle": "electric-car-jack-kit-5-ton",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
     "handle": "eufy-by-anker-smart-scale-p3",
     "in_stock": true,
     "units_sold": 0,
@@ -288,6 +295,13 @@
   },
   {
     "handle": "quicksand-painting-night-light",
+    "in_stock": true,
+    "units_sold": 0,
+    "revenue": 0,
+    "score": 0.1
+  },
+  {
+    "handle": "solerenew-electric-callus-remover",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
