@@ -555,6 +555,31 @@
       "rank": 4
     },
     {
+      "handle": "solerenew-electric-callus-remover",
+      "title": "SoleRenew™ – Electric Callus Remover & Foot Care Wand",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_70b110d2-4213-4e6b-8f0c-121293dbfc43.png?v=1749641707",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Health & Fitness"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 4300,
+            "sale_price": 3500,
+            "percentage_off": 19
+          }
+        ],
+        "min_regular_price": 4300,
+        "max_regular_price": 4300,
+        "min_sale_price": 3500,
+        "max_sale_price": 3500
+      },
+      "rank": 5
+    },
+    {
       "handle": "zero-gravity-full-body-massage-chair",
       "title": "Zero Gravity Full Body Massage Chair",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_23510728-5f8c-49a1-aaf9-f41ca508cf6a.jpg?v=1749641658",
@@ -577,7 +602,7 @@
         "min_sale_price": 245000,
         "max_sale_price": 245000
       },
-      "rank": 5
+      "rank": 6
     }
   ],
   "Security Cameras": [
@@ -951,6 +976,31 @@
       "rank": 1
     },
     {
+      "handle": "electric-car-jack-kit-5-ton",
+      "title": "Electric Car Jack Kit 5-Ton — 12V Hydraulic Roadside Emergency Tool",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_07aa73ef-9384-4f29-a410-69d5da1f504e.jpg?v=1766086984",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Car Gadgets"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 38000,
+            "sale_price": 29500,
+            "percentage_off": 22
+          }
+        ],
+        "min_regular_price": 38000,
+        "max_regular_price": 38000,
+        "min_sale_price": 29500,
+        "max_sale_price": 29500
+      },
+      "rank": 2
+    },
+    {
       "handle": "mini-gps-vehicle-tracker-magnetic-anti-theft-locator",
       "title": "Mini GPS Vehicle Tracker – Magnetic Anti-Theft Locator",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f1e8dfd1-6992-4fe6-abbf-f4d022950fc1.jpg?v=1754432994",
@@ -973,7 +1023,7 @@
         "min_sale_price": 4600,
         "max_sale_price": 4600
       },
-      "rank": 2
+      "rank": 3
     },
     {
       "handle": "powerology-ultra-portable-air-compressor-power-bank",
@@ -1000,7 +1050,7 @@
         "min_sale_price": 8200,
         "max_sale_price": 8200
       },
-      "rank": 3
+      "rank": 4
     }
   ],
   "Phone Accessories": [
