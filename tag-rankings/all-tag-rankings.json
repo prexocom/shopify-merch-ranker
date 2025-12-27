@@ -922,6 +922,31 @@
       "rank": 3
     },
     {
+      "handle": "glowbreeze",
+      "title": "GlowBreeze - Smart LED Ceiling Light Fan",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a9819d8d-8af8-4dda-9604-37c02bb2c38e.jpg?v=1766759875",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Lighting"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 24000,
+            "sale_price": 19500,
+            "percentage_off": 19
+          }
+        ],
+        "min_regular_price": 24000,
+        "max_regular_price": 24000,
+        "min_sale_price": 19500,
+        "max_sale_price": 19500
+      },
+      "rank": 4
+    },
+    {
       "handle": "under-cabinet-led-motion-sensor-light-bar",
       "title": "Under-Cabinet LED Motion Sensor Light Bar",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_278262be-3fbc-4118-87ec-09db532370de.jpg?v=1761290715",
@@ -945,7 +970,7 @@
         "min_sale_price": 2200,
         "max_sale_price": 2200
       },
-      "rank": 4
+      "rank": 5
     }
   ],
   "Car Gadgets": [
