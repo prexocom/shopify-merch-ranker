@@ -9,9 +9,9 @@
   {
     "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
     "in_stock": true,
-    "units_sold": 47,
-    "revenue": 48368500,
-    "score": 0.7181
+    "units_sold": 53,
+    "revenue": 48605500,
+    "score": 0.7318
   },
   {
     "handle": "lumifan-360-light-fan",
@@ -35,18 +35,18 @@
     "score": 0.548
   },
   {
+    "handle": "kemilng-m7-pro-treadmill",
+    "in_stock": true,
+    "units_sold": 6,
+    "revenue": 7438000,
+    "score": 0.1928
+  },
+  {
     "handle": "lumifan™-pro",
     "in_stock": true,
     "units_sold": 23,
     "revenue": 4255000,
     "score": 0.1891
-  },
-  {
-    "handle": "kemilng-m7-pro-treadmill",
-    "in_stock": true,
-    "units_sold": 4,
-    "revenue": 7260000,
-    "score": 0.1872
   },
   {
     "handle": "4k-triple-lens-solar-security-light-camera-360-smart-protection",
@@ -61,6 +61,13 @@
     "units_sold": 2,
     "revenue": 620000,
     "score": 0.1105
+  },
+  {
+    "handle": "automatic-clamping-car-phone-holder",
+    "in_stock": true,
+    "units_sold": 5,
+    "revenue": 19500,
+    "score": 0.1094
   },
   {
     "handle": "3-in-1-foldable-pilates-reformer-board",
@@ -99,13 +106,6 @@
   },
   {
     "handle": "astronaut-galaxy-projector-your-cosmic-escape",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "automatic-clamping-car-phone-holder",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
