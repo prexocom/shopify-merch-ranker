@@ -98,20 +98,6 @@
     "score": 0.1033
   },
   {
-    "handle": "green-lion-digital-luggage-scale-50-kg-max",
-    "in_stock": true,
-    "units_sold": 1,
-    "revenue": 95000,
-    "score": 0.1029
-  },
-  {
-    "handle": "porodo-lifestyle-air-boost-turbo-fan",
-    "in_stock": true,
-    "units_sold": 1,
-    "revenue": 95000,
-    "score": 0.1029
-  },
-  {
     "handle": "astronaut-galaxy-projector-your-cosmic-escape",
     "in_stock": true,
     "units_sold": 0,
@@ -126,42 +112,7 @@
     "score": 0.1
   },
   {
-    "handle": "borrego-smart-4-android-smart-projector",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "dji-osmo-mobile-7-3-axis-smartphone-gimbal",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "dji-osmo-mobile-7p-foldable-3-axis-smartphone-gimbal",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
     "handle": "prexo-dunkmaster-outdoor-adjustable-basketball-hoop-system",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "electric-car-jack-kit-5-ton",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "eufy-by-anker-smart-scale-p3",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
@@ -196,13 +147,6 @@
     "score": 0.1
   },
   {
-    "handle": "green-lion-new-york-gimbal-smart-face-tracking",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
     "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
     "in_stock": true,
     "units_sold": 0,
@@ -217,13 +161,6 @@
     "score": 0.1
   },
   {
-    "handle": "livtab-smart-coffee-table-built-in-fridge-wireless-charging-speakers",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
     "handle": "mini-gps-vehicle-tracker-magnetic-anti-theft-locator",
     "in_stock": true,
     "units_sold": 0,
@@ -231,7 +168,7 @@
     "score": 0.1
   },
   {
-    "handle": "porodo-frostwave-portable-cooling-fan",
+    "handle": "electric-car-jack-kit-5-ton",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
@@ -252,34 +189,6 @@
     "score": 0.1
   },
   {
-    "handle": "powerology-built-in-solar-outdoor-camera",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "powerology-dual-screen-portable-monitor",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "powerology-ultra-portable-air-compressor-power-bank",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
     "handle": "volcano-essential-oil-diffuser",
     "in_stock": true,
     "units_sold": 0,
@@ -288,13 +197,6 @@
   },
   {
     "handle": "toauto-melting-furnace",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "prexolingo™-smart-voice-translator-supports-30-languages",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
