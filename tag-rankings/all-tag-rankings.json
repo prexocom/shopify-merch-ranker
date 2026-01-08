@@ -294,31 +294,6 @@
       "rank": 9
     },
     {
-      "handle": "livtab-smart-coffee-table-built-in-fridge-wireless-charging-speakers",
-      "title": "LIVTAB Smart Coffee Table – Built-in Fridge + Wireless Charging & Speakers",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_792ce048-8de8-42dd-8989-d5a3bfcdc4e4.jpg?v=1761203726",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Home Decor"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 156000,
-            "sale_price": 129000,
-            "percentage_off": 17
-          }
-        ],
-        "min_regular_price": 156000,
-        "max_regular_price": 156000,
-        "min_sale_price": 129000,
-        "max_sale_price": 129000
-      },
-      "rank": 10
-    },
-    {
       "handle": "volcano-essential-oil-diffuser",
       "title": "Prexo Volcano Humidifier",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/volcano-effect-aroma-diffuser-3.jpg?v=1749641964",
@@ -342,7 +317,7 @@
         "min_sale_price": 5200,
         "max_sale_price": 5200
       },
-      "rank": 11
+      "rank": 10
     },
     {
       "handle": "quicksand-painting-night-light",
@@ -367,7 +342,7 @@
         "min_sale_price": 7200,
         "max_sale_price": 7200
       },
-      "rank": 12
+      "rank": 11
     },
     {
       "handle": "under-cabinet-led-motion-sensor-light-bar",
@@ -393,7 +368,7 @@
         "min_sale_price": 2200,
         "max_sale_price": 2200
       },
-      "rank": 13
+      "rank": 12
     }
   ],
   "Fitness Equipment": [
@@ -529,32 +504,6 @@
       "rank": 3
     },
     {
-      "handle": "eufy-by-anker-smart-scale-p3",
-      "title": "Eufy by Anker Smart Scale P3",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c39aa573-76df-4d0c-b8ce-dfd20cf51442.webp?v=1754725731",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Eufy",
-        "Health & Fitness"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 14300,
-            "sale_price": 12400,
-            "percentage_off": 13
-          }
-        ],
-        "min_regular_price": 14300,
-        "max_regular_price": 14300,
-        "min_sale_price": 12400,
-        "max_sale_price": 12400
-      },
-      "rank": 4
-    },
-    {
       "handle": "solerenew-electric-callus-remover",
       "title": "SoleRenew™ – Electric Callus Remover & Foot Care Wand",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_70b110d2-4213-4e6b-8f0c-121293dbfc43.png?v=1749641707",
@@ -577,7 +526,7 @@
         "min_sale_price": 3500,
         "max_sale_price": 3500
       },
-      "rank": 5
+      "rank": 4
     },
     {
       "handle": "zero-gravity-full-body-massage-chair",
@@ -602,7 +551,7 @@
         "min_sale_price": 245000,
         "max_sale_price": 245000
       },
-      "rank": 6
+      "rank": 5
     }
   ],
   "Security Cameras": [
@@ -681,33 +630,6 @@
         "max_sale_price": 25000
       },
       "rank": 3
-    },
-    {
-      "handle": "powerology-built-in-solar-outdoor-camera",
-      "title": "Powerology Built-in Solar Outdoor Camera",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f6cb4452-0bd6-4c0c-843f-8d888ebdcf24.webp?v=1754595537",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Powerology",
-        "Security Cameras",
-        "Smart Home"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 14600,
-            "sale_price": 11800,
-            "percentage_off": 19
-          }
-        ],
-        "min_regular_price": 14600,
-        "max_regular_price": 14600,
-        "min_sale_price": 11800,
-        "max_sale_price": 11800
-      },
-      "rank": 4
     }
   ],
   "Humidifiers": [
@@ -988,42 +910,17 @@
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 4700,
-            "sale_price": 3500,
-            "percentage_off": 26
+            "regular_price": 4800,
+            "sale_price": 3900,
+            "percentage_off": 19
           }
         ],
-        "min_regular_price": 4700,
-        "max_regular_price": 4700,
-        "min_sale_price": 3500,
-        "max_sale_price": 3500
+        "min_regular_price": 4800,
+        "max_regular_price": 4800,
+        "min_sale_price": 3900,
+        "max_sale_price": 3900
       },
       "rank": 1
-    },
-    {
-      "handle": "electric-car-jack-kit-5-ton",
-      "title": "Electric Car Jack Kit 5-Ton — 12V Roadside Emergency Tool",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_07aa73ef-9384-4f29-a410-69d5da1f504e.jpg?v=1766086984",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Car Gadgets"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 38000,
-            "sale_price": 29500,
-            "percentage_off": 22
-          }
-        ],
-        "min_regular_price": 38000,
-        "max_regular_price": 38000,
-        "min_sale_price": 29500,
-        "max_sale_price": 29500
-      },
-      "rank": 2
     },
     {
       "handle": "mini-gps-vehicle-tracker-magnetic-anti-theft-locator",
@@ -1048,34 +945,32 @@
         "min_sale_price": 4600,
         "max_sale_price": 4600
       },
-      "rank": 3
+      "rank": 2
     },
     {
-      "handle": "powerology-ultra-portable-air-compressor-power-bank",
-      "title": "Powerology Ultra Portable Air Compressor Power Bank",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3d161731-a3bb-4ae8-b701-41d21a773974.jpg?v=1754686259",
+      "handle": "electric-car-jack-kit-5-ton",
+      "title": "PowerLift Pro™ | 5-Ton Electric Car Jack Kit",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b82a8ce4-aefe-4c01-a4a5-f944a1d33f92.jpg?v=1767806555",
       "units_sold": 0,
       "revenue": 0,
       "tags": [
-        "Car Gadgets",
-        "Power Banks",
-        "Powerology"
+        "Car Gadgets"
       ],
       "pricing": {
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 9800,
-            "sale_price": 8200,
-            "percentage_off": 16
+            "regular_price": 38000,
+            "sale_price": 29500,
+            "percentage_off": 22
           }
         ],
-        "min_regular_price": 9800,
-        "max_regular_price": 9800,
-        "min_sale_price": 8200,
-        "max_sale_price": 8200
+        "min_regular_price": 38000,
+        "max_regular_price": 38000,
+        "min_sale_price": 29500,
+        "max_sale_price": 29500
       },
-      "rank": 4
+      "rank": 3
     }
   ],
   "Phone Accessories": [
@@ -1120,47 +1015,17 @@
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 4700,
-            "sale_price": 3500,
-            "percentage_off": 26
+            "regular_price": 4800,
+            "sale_price": 3900,
+            "percentage_off": 19
           }
         ],
-        "min_regular_price": 4700,
-        "max_regular_price": 4700,
-        "min_sale_price": 3500,
-        "max_sale_price": 3500
+        "min_regular_price": 4800,
+        "max_regular_price": 4800,
+        "min_sale_price": 3900,
+        "max_sale_price": 3900
       },
       "rank": 2
-    },
-    {
-      "handle": "green-lion-new-york-gimbal-smart-face-tracking",
-      "title": "Green Lion New York Gimbal Smart Face Tracking",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fbe6d529-a264-4f5a-85ca-6fad12eb8a71.webp?v=1754599471",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Camera",
-        "Gimbal",
-        "Gimbals",
-        "Green Lion",
-        "Phone Accessories",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 17500,
-            "sale_price": 15500,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 17500,
-        "max_regular_price": 17500,
-        "min_sale_price": 15500,
-        "max_sale_price": 15500
-      },
-      "rank": 3
     },
     {
       "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
@@ -1188,36 +1053,7 @@
         "min_sale_price": 6800,
         "max_sale_price": 6800
       },
-      "rank": 4
-    },
-    {
-      "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
-      "title": "Powerology Ultra-Slim Full HD Portable Monitor 15.6\"",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d0e7a5a3-ea2b-4aa6-a746-213a3d4df581.webp?v=1754755760",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Office",
-        "Phone Accessories",
-        "Portable Monitor",
-        "Powerology"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 25000,
-            "sale_price": 22600,
-            "percentage_off": 10
-          }
-        ],
-        "min_regular_price": 25000,
-        "max_regular_price": 25000,
-        "min_sale_price": 22600,
-        "max_sale_price": 22600
-      },
-      "rank": 5
+      "rank": 3
     },
     {
       "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
@@ -1243,309 +1079,7 @@
         "min_sale_price": 6900,
         "max_sale_price": 6900
       },
-      "rank": 6
-    }
-  ],
-  "Entertainment": [
-    {
-      "handle": "prexobeam-mini-portable-smart-projector",
-      "title": "PrexoBeam Mini – Portable Smart Projector",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ae4cd61e-4f99-48ae-9ca7-616246a48176.jpg?v=1749641726",
-      "units_sold": 2,
-      "revenue": 620000,
-      "tags": [
-        "Entertainment",
-        "Projectors"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 15000,
-            "sale_price": 11800,
-            "percentage_off": 21
-          }
-        ],
-        "min_regular_price": 15000,
-        "max_regular_price": 15000,
-        "min_sale_price": 11800,
-        "max_sale_price": 11800
-      },
-      "rank": 1
-    },
-    {
-      "handle": "borrego-smart-4-android-smart-projector",
-      "title": "Borrego Smart 4 – Android Smart Projector",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_43de8295-4c63-4f6f-8d80-a428b0882d7f.jpg?v=1754649748",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Entertainment",
-        "Projectors"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 22000,
-            "sale_price": 18500,
-            "percentage_off": 16
-          }
-        ],
-        "min_regular_price": 22000,
-        "max_regular_price": 22000,
-        "min_sale_price": 18500,
-        "max_sale_price": 18500
-      },
-      "rank": 2
-    },
-    {
-      "handle": "powerology-32-android-smart-screen",
-      "title": "Powerology 32\" Android Smart Screen",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0ca85194-3b03-47db-b744-8241ba5cca34.webp?v=1754981430",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Entertainment",
-        "Powerology",
-        "Smart Screen",
-        "TV"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 119000,
-            "sale_price": 119000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 119000,
-        "max_regular_price": 119000,
-        "min_sale_price": 119000,
-        "max_sale_price": 119000
-      },
-      "rank": 3
-    }
-  ],
-  "Projectors": [
-    {
-      "handle": "prexobeam-mini-portable-smart-projector",
-      "title": "PrexoBeam Mini – Portable Smart Projector",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ae4cd61e-4f99-48ae-9ca7-616246a48176.jpg?v=1749641726",
-      "units_sold": 2,
-      "revenue": 620000,
-      "tags": [
-        "Entertainment",
-        "Projectors"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 15000,
-            "sale_price": 11800,
-            "percentage_off": 21
-          }
-        ],
-        "min_regular_price": 15000,
-        "max_regular_price": 15000,
-        "min_sale_price": 11800,
-        "max_sale_price": 11800
-      },
-      "rank": 1
-    },
-    {
-      "handle": "borrego-smart-4-android-smart-projector",
-      "title": "Borrego Smart 4 – Android Smart Projector",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_43de8295-4c63-4f6f-8d80-a428b0882d7f.jpg?v=1754649748",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Entertainment",
-        "Projectors"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 22000,
-            "sale_price": 18500,
-            "percentage_off": 16
-          }
-        ],
-        "min_regular_price": 22000,
-        "max_regular_price": 22000,
-        "min_sale_price": 18500,
-        "max_sale_price": 18500
-      },
-      "rank": 2
-    }
-  ],
-  "DJI": [
-    {
-      "handle": "dji-osmo-mobile-7-3-axis-smartphone-gimbal",
-      "title": "DJI Osmo Mobile 7 – 3-Axis Smartphone Gimbal",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0fc5b7e0-8030-4d7a-82f8-8b00ad2ddc83.jpg?v=1761979094",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "DJI",
-        "Gimbals"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 23000,
-            "sale_price": 21000,
-            "percentage_off": 9
-          }
-        ],
-        "min_regular_price": 23000,
-        "max_regular_price": 23000,
-        "min_sale_price": 21000,
-        "max_sale_price": 21000
-      },
-      "rank": 1
-    },
-    {
-      "handle": "dji-osmo-mobile-7p-foldable-3-axis-smartphone-gimbal",
-      "title": "DJI Osmo Mobile 7P – Foldable 3-Axis Smartphone Gimbal",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ef4e00e6-ae54-4d0c-bd49-a29040c9476c.jpg?v=1761978126",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "DJI",
-        "Gimbals"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 25000,
-            "sale_price": 21800,
-            "percentage_off": 13
-          }
-        ],
-        "min_regular_price": 25000,
-        "max_regular_price": 25000,
-        "min_sale_price": 21800,
-        "max_sale_price": 21800
-      },
-      "rank": 2
-    }
-  ],
-  "Gimbals": [
-    {
-      "handle": "dji-osmo-mobile-7-3-axis-smartphone-gimbal",
-      "title": "DJI Osmo Mobile 7 – 3-Axis Smartphone Gimbal",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0fc5b7e0-8030-4d7a-82f8-8b00ad2ddc83.jpg?v=1761979094",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "DJI",
-        "Gimbals"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 23000,
-            "sale_price": 21000,
-            "percentage_off": 9
-          }
-        ],
-        "min_regular_price": 23000,
-        "max_regular_price": 23000,
-        "min_sale_price": 21000,
-        "max_sale_price": 21000
-      },
-      "rank": 1
-    },
-    {
-      "handle": "dji-osmo-mobile-7p-foldable-3-axis-smartphone-gimbal",
-      "title": "DJI Osmo Mobile 7P – Foldable 3-Axis Smartphone Gimbal",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ef4e00e6-ae54-4d0c-bd49-a29040c9476c.jpg?v=1761978126",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "DJI",
-        "Gimbals"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 25000,
-            "sale_price": 21800,
-            "percentage_off": 13
-          }
-        ],
-        "min_regular_price": 25000,
-        "max_regular_price": 25000,
-        "min_sale_price": 21800,
-        "max_sale_price": 21800
-      },
-      "rank": 2
-    },
-    {
-      "handle": "green-lion-new-york-gimbal-smart-face-tracking",
-      "title": "Green Lion New York Gimbal Smart Face Tracking",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fbe6d529-a264-4f5a-85ca-6fad12eb8a71.webp?v=1754599471",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Camera",
-        "Gimbal",
-        "Gimbals",
-        "Green Lion",
-        "Phone Accessories",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 17500,
-            "sale_price": 15500,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 17500,
-        "max_regular_price": 17500,
-        "min_sale_price": 15500,
-        "max_sale_price": 15500
-      },
-      "rank": 3
-    }
-  ],
-  "Eufy": [
-    {
-      "handle": "eufy-by-anker-smart-scale-p3",
-      "title": "Eufy by Anker Smart Scale P3",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c39aa573-76df-4d0c-b8ce-dfd20cf51442.webp?v=1754725731",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Eufy",
-        "Health & Fitness"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 14300,
-            "sale_price": 12400,
-            "percentage_off": 13
-          }
-        ],
-        "min_regular_price": 14300,
-        "max_regular_price": 14300,
-        "min_sale_price": 12400,
-        "max_sale_price": 12400
-      },
-      "rank": 1
+      "rank": 4
     }
   ],
   "Kitchen": [
@@ -1603,7 +1137,7 @@
     },
     {
       "handle": "kemilng-m7-pro-treadmill",
-      "title": "KEMILNG M7 Pro Foldable Multi-functional Treadmill",
+      "title": "Foldable Multi-functional Fitness Treadmill",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f01814c2-3fb8-45f2-a734-61581b4be8ff.jpg?v=1765387264",
       "units_sold": 4,
       "revenue": 7260000,
@@ -1615,14 +1149,14 @@
           {
             "title": "Default Title",
             "regular_price": 99000,
-            "sale_price": 91000,
-            "percentage_off": 8
+            "sale_price": 89000,
+            "percentage_off": 10
           }
         ],
         "min_regular_price": 99000,
         "max_regular_price": 99000,
-        "min_sale_price": 91000,
-        "max_sale_price": 91000
+        "min_sale_price": 89000,
+        "max_sale_price": 89000
       },
       "rank": 2
     }
@@ -1657,62 +1191,6 @@
   ],
   "Green Lion": [
     {
-      "handle": "green-lion-digital-luggage-scale-50-kg-max",
-      "title": "Green Lion Digital Luggage Scale (50 kg Max)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_010671a0-2256-4d4d-bb91-961ff766fed2.webp?v=1754724471",
-      "units_sold": 1,
-      "revenue": 95000,
-      "tags": [
-        "Green Lion",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 4400,
-            "sale_price": 3500,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 4400,
-        "max_regular_price": 4400,
-        "min_sale_price": 3500,
-        "max_sale_price": 3500
-      },
-      "rank": 1
-    },
-    {
-      "handle": "green-lion-new-york-gimbal-smart-face-tracking",
-      "title": "Green Lion New York Gimbal Smart Face Tracking",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fbe6d529-a264-4f5a-85ca-6fad12eb8a71.webp?v=1754599471",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Camera",
-        "Gimbal",
-        "Gimbals",
-        "Green Lion",
-        "Phone Accessories",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 17500,
-            "sale_price": 15500,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 17500,
-        "max_regular_price": 17500,
-        "min_sale_price": 15500,
-        "max_sale_price": 15500
-      },
-      "rank": 2
-    },
-    {
       "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
       "title": "Green Lion Power Trio™ – 3-in-1 Magnetic Wireless Charger",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ee366daa-24a3-46b9-9846-910d007df480.jpg?v=1749641860",
@@ -1737,235 +1215,6 @@
         "max_regular_price": 7900,
         "min_sale_price": 6800,
         "max_sale_price": 6800
-      },
-      "rank": 3
-    }
-  ],
-  "Travel": [
-    {
-      "handle": "green-lion-digital-luggage-scale-50-kg-max",
-      "title": "Green Lion Digital Luggage Scale (50 kg Max)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_010671a0-2256-4d4d-bb91-961ff766fed2.webp?v=1754724471",
-      "units_sold": 1,
-      "revenue": 95000,
-      "tags": [
-        "Green Lion",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 4400,
-            "sale_price": 3500,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 4400,
-        "max_regular_price": 4400,
-        "min_sale_price": 3500,
-        "max_sale_price": 3500
-      },
-      "rank": 1
-    },
-    {
-      "handle": "porodo-lifestyle-air-boost-turbo-fan",
-      "title": "Porodo Lifestyle Air Boost Turbo Fan",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1118c021-784d-4111-85c5-d7beeaf38ee7.jpg?v=1763021178",
-      "units_sold": 1,
-      "revenue": 95000,
-      "tags": [
-        "Porodo",
-        "Portable Fans",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 4800,
-            "sale_price": 3700,
-            "percentage_off": 23
-          }
-        ],
-        "min_regular_price": 4800,
-        "max_regular_price": 4800,
-        "min_sale_price": 3700,
-        "max_sale_price": 3700
-      },
-      "rank": 2
-    },
-    {
-      "handle": "green-lion-new-york-gimbal-smart-face-tracking",
-      "title": "Green Lion New York Gimbal Smart Face Tracking",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fbe6d529-a264-4f5a-85ca-6fad12eb8a71.webp?v=1754599471",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Camera",
-        "Gimbal",
-        "Gimbals",
-        "Green Lion",
-        "Phone Accessories",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 17500,
-            "sale_price": 15500,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 17500,
-        "max_regular_price": 17500,
-        "min_sale_price": 15500,
-        "max_sale_price": 15500
-      },
-      "rank": 3
-    },
-    {
-      "handle": "porodo-frostwave-portable-cooling-fan",
-      "title": "Porodo Frostwave Portable Cooling Fan",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d0923c2f-5b10-46ba-9ea2-1c9a6c13887e.jpg?v=1763020563",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Porodo",
-        "Portable Fans",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 4000,
-            "sale_price": 3200,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 4000,
-        "max_regular_price": 4000,
-        "min_sale_price": 3200,
-        "max_sale_price": 3200
-      },
-      "rank": 4
-    },
-    {
-      "handle": "prexolingo™-smart-voice-translator-supports-30-languages",
-      "title": "PrexoLingo™ – Smart Voice Translator (Supports 30+ Languages)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_13d6a3d7-5ddf-4b62-9e3b-b5bf5c09877e.jpg?v=1754361176",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Gadgets",
-        "Translator",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 14500,
-            "sale_price": 13900,
-            "percentage_off": 4
-          }
-        ],
-        "min_regular_price": 14500,
-        "max_regular_price": 14500,
-        "min_sale_price": 13900,
-        "max_sale_price": 13900
-      },
-      "rank": 5
-    }
-  ],
-  "Camera": [
-    {
-      "handle": "green-lion-new-york-gimbal-smart-face-tracking",
-      "title": "Green Lion New York Gimbal Smart Face Tracking",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fbe6d529-a264-4f5a-85ca-6fad12eb8a71.webp?v=1754599471",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Camera",
-        "Gimbal",
-        "Gimbals",
-        "Green Lion",
-        "Phone Accessories",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 17500,
-            "sale_price": 15500,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 17500,
-        "max_regular_price": 17500,
-        "min_sale_price": 15500,
-        "max_sale_price": 15500
-      },
-      "rank": 1
-    },
-    {
-      "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
-      "title": "TELESIN Magnetic Funshot Camera Phone Grip Holder",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f58f32b3-feec-4dd2-a490-9c1e63ce346d.jpg?v=1762981511",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Camera",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 9000,
-            "sale_price": 6900,
-            "percentage_off": 23
-          }
-        ],
-        "min_regular_price": 9000,
-        "max_regular_price": 9000,
-        "min_sale_price": 6900,
-        "max_sale_price": 6900
-      },
-      "rank": 2
-    }
-  ],
-  "Gimbal": [
-    {
-      "handle": "green-lion-new-york-gimbal-smart-face-tracking",
-      "title": "Green Lion New York Gimbal Smart Face Tracking",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fbe6d529-a264-4f5a-85ca-6fad12eb8a71.webp?v=1754599471",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Camera",
-        "Gimbal",
-        "Gimbals",
-        "Green Lion",
-        "Phone Accessories",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 17500,
-            "sale_price": 15500,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 17500,
-        "max_regular_price": 17500,
-        "min_sale_price": 15500,
-        "max_sale_price": 15500
       },
       "rank": 1
     }
@@ -2034,7 +1283,7 @@
     {
       "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
       "title": "TriFoldView Pro - Portable Screen Extender",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bf492e8c-0a5f-41fe-b666-3ddf7ce8cb0b.jpg?v=1749641740",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_49459e13-a845-44a4-b872-fae15cf604e2.png?v=1767804559",
       "units_sold": 47,
       "revenue": 48368500,
       "tags": [
@@ -2083,62 +1332,6 @@
         "max_sale_price": 5600
       },
       "rank": 2
-    },
-    {
-      "handle": "powerology-dual-screen-portable-monitor",
-      "title": "Powerology Dual Screen Portable Monitor",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_06675db1-3818-4688-9027-05b6412cb3a6.jpg?v=1754753103",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Office",
-        "Powerology"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 58500,
-            "sale_price": 49500,
-            "percentage_off": 15
-          }
-        ],
-        "min_regular_price": 58500,
-        "max_regular_price": 58500,
-        "min_sale_price": 49500,
-        "max_sale_price": 49500
-      },
-      "rank": 3
-    },
-    {
-      "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
-      "title": "Powerology Ultra-Slim Full HD Portable Monitor 15.6\"",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d0e7a5a3-ea2b-4aa6-a746-213a3d4df581.webp?v=1754755760",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Office",
-        "Phone Accessories",
-        "Portable Monitor",
-        "Powerology"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 25000,
-            "sale_price": 22600,
-            "percentage_off": 10
-          }
-        ],
-        "min_regular_price": 25000,
-        "max_regular_price": 25000,
-        "min_sale_price": 22600,
-        "max_sale_price": 22600
-      },
-      "rank": 4
     }
   ],
   "Keyboards": [
@@ -2170,114 +1363,58 @@
       "rank": 1
     }
   ],
-  "Porodo": [
+  "Entertainment": [
     {
-      "handle": "porodo-lifestyle-air-boost-turbo-fan",
-      "title": "Porodo Lifestyle Air Boost Turbo Fan",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1118c021-784d-4111-85c5-d7beeaf38ee7.jpg?v=1763021178",
-      "units_sold": 1,
-      "revenue": 95000,
+      "handle": "prexobeam-mini-portable-smart-projector",
+      "title": "PrexoBeam Mini – Portable Smart Projector",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ae4cd61e-4f99-48ae-9ca7-616246a48176.jpg?v=1749641726",
+      "units_sold": 2,
+      "revenue": 620000,
       "tags": [
-        "Porodo",
-        "Portable Fans",
-        "Travel"
+        "Entertainment",
+        "Projectors"
       ],
       "pricing": {
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 4800,
-            "sale_price": 3700,
-            "percentage_off": 23
+            "regular_price": 15000,
+            "sale_price": 11800,
+            "percentage_off": 21
           }
         ],
-        "min_regular_price": 4800,
-        "max_regular_price": 4800,
-        "min_sale_price": 3700,
-        "max_sale_price": 3700
+        "min_regular_price": 15000,
+        "max_regular_price": 15000,
+        "min_sale_price": 11800,
+        "max_sale_price": 11800
       },
       "rank": 1
     },
     {
-      "handle": "porodo-frostwave-portable-cooling-fan",
-      "title": "Porodo Frostwave Portable Cooling Fan",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d0923c2f-5b10-46ba-9ea2-1c9a6c13887e.jpg?v=1763020563",
+      "handle": "powerology-32-android-smart-screen",
+      "title": "Powerology 32\" Android Smart Screen",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0ca85194-3b03-47db-b744-8241ba5cca34.webp?v=1754981430",
       "units_sold": 0,
       "revenue": 0,
       "tags": [
-        "Porodo",
-        "Portable Fans",
-        "Travel"
+        "Entertainment",
+        "Powerology",
+        "Smart Screen",
+        "TV"
       ],
       "pricing": {
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 4000,
-            "sale_price": 3200,
-            "percentage_off": 20
+            "regular_price": 119000,
+            "sale_price": 119000,
+            "percentage_off": 0
           }
         ],
-        "min_regular_price": 4000,
-        "max_regular_price": 4000,
-        "min_sale_price": 3200,
-        "max_sale_price": 3200
-      },
-      "rank": 2
-    }
-  ],
-  "Portable Fans": [
-    {
-      "handle": "porodo-lifestyle-air-boost-turbo-fan",
-      "title": "Porodo Lifestyle Air Boost Turbo Fan",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1118c021-784d-4111-85c5-d7beeaf38ee7.jpg?v=1763021178",
-      "units_sold": 1,
-      "revenue": 95000,
-      "tags": [
-        "Porodo",
-        "Portable Fans",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 4800,
-            "sale_price": 3700,
-            "percentage_off": 23
-          }
-        ],
-        "min_regular_price": 4800,
-        "max_regular_price": 4800,
-        "min_sale_price": 3700,
-        "max_sale_price": 3700
-      },
-      "rank": 1
-    },
-    {
-      "handle": "porodo-frostwave-portable-cooling-fan",
-      "title": "Porodo Frostwave Portable Cooling Fan",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d0923c2f-5b10-46ba-9ea2-1c9a6c13887e.jpg?v=1763020563",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Porodo",
-        "Portable Fans",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 4000,
-            "sale_price": 3200,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 4000,
-        "max_regular_price": 4000,
-        "min_sale_price": 3200,
-        "max_sale_price": 3200
+        "min_regular_price": 119000,
+        "max_regular_price": 119000,
+        "min_sale_price": 119000,
+        "max_sale_price": 119000
       },
       "rank": 2
     }
@@ -2336,116 +1473,6 @@
         "max_sale_price": 25000
       },
       "rank": 2
-    },
-    {
-      "handle": "powerology-built-in-solar-outdoor-camera",
-      "title": "Powerology Built-in Solar Outdoor Camera",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f6cb4452-0bd6-4c0c-843f-8d888ebdcf24.webp?v=1754595537",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Powerology",
-        "Security Cameras",
-        "Smart Home"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 14600,
-            "sale_price": 11800,
-            "percentage_off": 19
-          }
-        ],
-        "min_regular_price": 14600,
-        "max_regular_price": 14600,
-        "min_sale_price": 11800,
-        "max_sale_price": 11800
-      },
-      "rank": 3
-    },
-    {
-      "handle": "powerology-dual-screen-portable-monitor",
-      "title": "Powerology Dual Screen Portable Monitor",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_06675db1-3818-4688-9027-05b6412cb3a6.jpg?v=1754753103",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Office",
-        "Powerology"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 58500,
-            "sale_price": 49500,
-            "percentage_off": 15
-          }
-        ],
-        "min_regular_price": 58500,
-        "max_regular_price": 58500,
-        "min_sale_price": 49500,
-        "max_sale_price": 49500
-      },
-      "rank": 4
-    },
-    {
-      "handle": "powerology-ultra-portable-air-compressor-power-bank",
-      "title": "Powerology Ultra Portable Air Compressor Power Bank",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3d161731-a3bb-4ae8-b701-41d21a773974.jpg?v=1754686259",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Car Gadgets",
-        "Power Banks",
-        "Powerology"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 9800,
-            "sale_price": 8200,
-            "percentage_off": 16
-          }
-        ],
-        "min_regular_price": 9800,
-        "max_regular_price": 9800,
-        "min_sale_price": 8200,
-        "max_sale_price": 8200
-      },
-      "rank": 5
-    },
-    {
-      "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
-      "title": "Powerology Ultra-Slim Full HD Portable Monitor 15.6\"",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d0e7a5a3-ea2b-4aa6-a746-213a3d4df581.webp?v=1754755760",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Office",
-        "Phone Accessories",
-        "Portable Monitor",
-        "Powerology"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 25000,
-            "sale_price": 22600,
-            "percentage_off": 10
-          }
-        ],
-        "min_regular_price": 25000,
-        "max_regular_price": 25000,
-        "min_sale_price": 22600,
-        "max_sale_price": 22600
-      },
-      "rank": 6
     }
   ],
   "Smart Screen": [
@@ -2508,149 +1535,30 @@
       "rank": 1
     }
   ],
-  "Smart Home": [
+  "Projectors": [
     {
-      "handle": "powerology-built-in-solar-outdoor-camera",
-      "title": "Powerology Built-in Solar Outdoor Camera",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f6cb4452-0bd6-4c0c-843f-8d888ebdcf24.webp?v=1754595537",
-      "units_sold": 0,
-      "revenue": 0,
+      "handle": "prexobeam-mini-portable-smart-projector",
+      "title": "PrexoBeam Mini – Portable Smart Projector",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ae4cd61e-4f99-48ae-9ca7-616246a48176.jpg?v=1749641726",
+      "units_sold": 2,
+      "revenue": 620000,
       "tags": [
-        "Powerology",
-        "Security Cameras",
-        "Smart Home"
+        "Entertainment",
+        "Projectors"
       ],
       "pricing": {
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 14600,
+            "regular_price": 15000,
             "sale_price": 11800,
-            "percentage_off": 19
+            "percentage_off": 21
           }
         ],
-        "min_regular_price": 14600,
-        "max_regular_price": 14600,
+        "min_regular_price": 15000,
+        "max_regular_price": 15000,
         "min_sale_price": 11800,
         "max_sale_price": 11800
-      },
-      "rank": 1
-    }
-  ],
-  "Office": [
-    {
-      "handle": "powerology-dual-screen-portable-monitor",
-      "title": "Powerology Dual Screen Portable Monitor",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_06675db1-3818-4688-9027-05b6412cb3a6.jpg?v=1754753103",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Office",
-        "Powerology"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 58500,
-            "sale_price": 49500,
-            "percentage_off": 15
-          }
-        ],
-        "min_regular_price": 58500,
-        "max_regular_price": 58500,
-        "min_sale_price": 49500,
-        "max_sale_price": 49500
-      },
-      "rank": 1
-    },
-    {
-      "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
-      "title": "Powerology Ultra-Slim Full HD Portable Monitor 15.6\"",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d0e7a5a3-ea2b-4aa6-a746-213a3d4df581.webp?v=1754755760",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Office",
-        "Phone Accessories",
-        "Portable Monitor",
-        "Powerology"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 25000,
-            "sale_price": 22600,
-            "percentage_off": 10
-          }
-        ],
-        "min_regular_price": 25000,
-        "max_regular_price": 25000,
-        "min_sale_price": 22600,
-        "max_sale_price": 22600
-      },
-      "rank": 2
-    }
-  ],
-  "Power Banks": [
-    {
-      "handle": "powerology-ultra-portable-air-compressor-power-bank",
-      "title": "Powerology Ultra Portable Air Compressor Power Bank",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_3d161731-a3bb-4ae8-b701-41d21a773974.jpg?v=1754686259",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Car Gadgets",
-        "Power Banks",
-        "Powerology"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 9800,
-            "sale_price": 8200,
-            "percentage_off": 16
-          }
-        ],
-        "min_regular_price": 9800,
-        "max_regular_price": 9800,
-        "min_sale_price": 8200,
-        "max_sale_price": 8200
-      },
-      "rank": 1
-    }
-  ],
-  "Portable Monitor": [
-    {
-      "handle": "powerology-ultra-slim-full-hd-portable-monitor-15-6",
-      "title": "Powerology Ultra-Slim Full HD Portable Monitor 15.6\"",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d0e7a5a3-ea2b-4aa6-a746-213a3d4df581.webp?v=1754755760",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Computer Accessories",
-        "Office",
-        "Phone Accessories",
-        "Portable Monitor",
-        "Powerology"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 25000,
-            "sale_price": 22600,
-            "percentage_off": 10
-          }
-        ],
-        "min_regular_price": 25000,
-        "max_regular_price": 25000,
-        "min_sale_price": 22600,
-        "max_sale_price": 22600
       },
       "rank": 1
     }
@@ -2682,60 +1590,30 @@
       "rank": 1
     }
   ],
-  "Gadgets": [
+  "Camera": [
     {
-      "handle": "prexolingo™-smart-voice-translator-supports-30-languages",
-      "title": "PrexoLingo™ – Smart Voice Translator (Supports 30+ Languages)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_13d6a3d7-5ddf-4b62-9e3b-b5bf5c09877e.jpg?v=1754361176",
+      "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
+      "title": "TELESIN Magnetic Funshot Camera Phone Grip Holder",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f58f32b3-feec-4dd2-a490-9c1e63ce346d.jpg?v=1762981511",
       "units_sold": 0,
       "revenue": 0,
       "tags": [
-        "Gadgets",
-        "Translator",
-        "Travel"
+        "Camera",
+        "Phone Accessories"
       ],
       "pricing": {
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 14500,
-            "sale_price": 13900,
-            "percentage_off": 4
+            "regular_price": 9000,
+            "sale_price": 6900,
+            "percentage_off": 23
           }
         ],
-        "min_regular_price": 14500,
-        "max_regular_price": 14500,
-        "min_sale_price": 13900,
-        "max_sale_price": 13900
-      },
-      "rank": 1
-    }
-  ],
-  "Translator": [
-    {
-      "handle": "prexolingo™-smart-voice-translator-supports-30-languages",
-      "title": "PrexoLingo™ – Smart Voice Translator (Supports 30+ Languages)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_13d6a3d7-5ddf-4b62-9e3b-b5bf5c09877e.jpg?v=1754361176",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Gadgets",
-        "Translator",
-        "Travel"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 14500,
-            "sale_price": 13900,
-            "percentage_off": 4
-          }
-        ],
-        "min_regular_price": 14500,
-        "max_regular_price": 14500,
-        "min_sale_price": 13900,
-        "max_sale_price": 13900
+        "min_regular_price": 9000,
+        "max_regular_price": 9000,
+        "min_sale_price": 6900,
+        "max_sale_price": 6900
       },
       "rank": 1
     }
@@ -2744,7 +1622,7 @@
     {
       "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
       "title": "TriFoldView Pro - Portable Screen Extender",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_bf492e8c-0a5f-41fe-b666-3ddf7ce8cb0b.jpg?v=1749641740",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_49459e13-a845-44a4-b872-fae15cf604e2.png?v=1767804559",
       "units_sold": 47,
       "revenue": 48368500,
       "tags": [

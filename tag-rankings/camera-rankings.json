@@ -1,35 +1,5 @@
 [
   {
-    "handle": "green-lion-new-york-gimbal-smart-face-tracking",
-    "title": "Green Lion New York Gimbal Smart Face Tracking",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fbe6d529-a264-4f5a-85ca-6fad12eb8a71.webp?v=1754599471",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Camera",
-      "Gimbal",
-      "Gimbals",
-      "Green Lion",
-      "Phone Accessories",
-      "Travel"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 17500,
-          "sale_price": 15500,
-          "percentage_off": 11
-        }
-      ],
-      "min_regular_price": 17500,
-      "max_regular_price": 17500,
-      "min_sale_price": 15500,
-      "max_sale_price": 15500
-    },
-    "rank": 1
-  },
-  {
     "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
     "title": "TELESIN Magnetic Funshot Camera Phone Grip Holder",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f58f32b3-feec-4dd2-a490-9c1e63ce346d.jpg?v=1762981511",
@@ -53,6 +23,6 @@
       "min_sale_price": 6900,
       "max_sale_price": 6900
     },
-    "rank": 2
+    "rank": 1
   }
 ]

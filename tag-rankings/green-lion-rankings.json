@@ -1,61 +1,5 @@
 [
   {
-    "handle": "green-lion-digital-luggage-scale-50-kg-max",
-    "title": "Green Lion Digital Luggage Scale (50 kg Max)",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_010671a0-2256-4d4d-bb91-961ff766fed2.webp?v=1754724471",
-    "units_sold": 1,
-    "revenue": 95000,
-    "tags": [
-      "Green Lion",
-      "Travel"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 4400,
-          "sale_price": 3500,
-          "percentage_off": 20
-        }
-      ],
-      "min_regular_price": 4400,
-      "max_regular_price": 4400,
-      "min_sale_price": 3500,
-      "max_sale_price": 3500
-    },
-    "rank": 1
-  },
-  {
-    "handle": "green-lion-new-york-gimbal-smart-face-tracking",
-    "title": "Green Lion New York Gimbal Smart Face Tracking",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_fbe6d529-a264-4f5a-85ca-6fad12eb8a71.webp?v=1754599471",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Camera",
-      "Gimbal",
-      "Gimbals",
-      "Green Lion",
-      "Phone Accessories",
-      "Travel"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 17500,
-          "sale_price": 15500,
-          "percentage_off": 11
-        }
-      ],
-      "min_regular_price": 17500,
-      "max_regular_price": 17500,
-      "min_sale_price": 15500,
-      "max_sale_price": 15500
-    },
-    "rank": 2
-  },
-  {
     "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
     "title": "Green Lion Power Trio™ – 3-in-1 Magnetic Wireless Charger",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ee366daa-24a3-46b9-9846-910d007df480.jpg?v=1749641860",
@@ -81,6 +25,6 @@
       "min_sale_price": 6800,
       "max_sale_price": 6800
     },
-    "rank": 3
+    "rank": 1
   }
 ]

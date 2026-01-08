@@ -74,32 +74,5 @@
       "max_sale_price": 25000
     },
     "rank": 3
-  },
-  {
-    "handle": "powerology-built-in-solar-outdoor-camera",
-    "title": "Powerology Built-in Solar Outdoor Camera",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f6cb4452-0bd6-4c0c-843f-8d888ebdcf24.webp?v=1754595537",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Powerology",
-      "Security Cameras",
-      "Smart Home"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 14600,
-          "sale_price": 11800,
-          "percentage_off": 19
-        }
-      ],
-      "min_regular_price": 14600,
-      "max_regular_price": 14600,
-      "min_sale_price": 11800,
-      "max_sale_price": 11800
-    },
-    "rank": 4
   }
 ]

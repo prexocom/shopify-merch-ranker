@@ -235,31 +235,6 @@
     "rank": 9
   },
   {
-    "handle": "livtab-smart-coffee-table-built-in-fridge-wireless-charging-speakers",
-    "title": "LIVTAB Smart Coffee Table – Built-in Fridge + Wireless Charging & Speakers",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_792ce048-8de8-42dd-8989-d5a3bfcdc4e4.jpg?v=1761203726",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Home Decor"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 156000,
-          "sale_price": 129000,
-          "percentage_off": 17
-        }
-      ],
-      "min_regular_price": 156000,
-      "max_regular_price": 156000,
-      "min_sale_price": 129000,
-      "max_sale_price": 129000
-    },
-    "rank": 10
-  },
-  {
     "handle": "volcano-essential-oil-diffuser",
     "title": "Prexo Volcano Humidifier",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/volcano-effect-aroma-diffuser-3.jpg?v=1749641964",
@@ -283,7 +258,7 @@
       "min_sale_price": 5200,
       "max_sale_price": 5200
     },
-    "rank": 11
+    "rank": 10
   },
   {
     "handle": "quicksand-painting-night-light",
@@ -308,7 +283,7 @@
       "min_sale_price": 7200,
       "max_sale_price": 7200
     },
-    "rank": 12
+    "rank": 11
   },
   {
     "handle": "under-cabinet-led-motion-sensor-light-bar",
@@ -334,6 +309,6 @@
       "min_sale_price": 2200,
       "max_sale_price": 2200
     },
-    "rank": 13
+    "rank": 12
   }
 ]
