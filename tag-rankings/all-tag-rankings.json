@@ -900,8 +900,8 @@
       "handle": "automatic-clamping-car-phone-holder",
       "title": "Automatic Clamping Car Phone Holder",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b9689fc7-e574-4954-b13d-5c86d933069a.jpg?v=1754601184",
-      "units_sold": 0,
-      "revenue": 0,
+      "units_sold": 5,
+      "revenue": 19500,
       "tags": [
         "Car Gadgets",
         "Phone Accessories"
@@ -975,6 +975,32 @@
   ],
   "Phone Accessories": [
     {
+      "handle": "automatic-clamping-car-phone-holder",
+      "title": "Automatic Clamping Car Phone Holder",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b9689fc7-e574-4954-b13d-5c86d933069a.jpg?v=1754601184",
+      "units_sold": 5,
+      "revenue": 19500,
+      "tags": [
+        "Car Gadgets",
+        "Phone Accessories"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 4800,
+            "sale_price": 3900,
+            "percentage_off": 19
+          }
+        ],
+        "min_regular_price": 4800,
+        "max_regular_price": 4800,
+        "min_sale_price": 3900,
+        "max_sale_price": 3900
+      },
+      "rank": 1
+    },
+    {
       "handle": "keyfold-pro-foldable-bluetooth-keyboard",
       "title": "Keyfold Pro - Foldable Bluetooth Keyboard",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_03e0123a-e5b8-4d65-a9b0-e76114fc9eb2.jpg?v=1755880560",
@@ -998,32 +1024,6 @@
         "max_regular_price": 8000,
         "min_sale_price": 5600,
         "max_sale_price": 5600
-      },
-      "rank": 1
-    },
-    {
-      "handle": "automatic-clamping-car-phone-holder",
-      "title": "Automatic Clamping Car Phone Holder",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b9689fc7-e574-4954-b13d-5c86d933069a.jpg?v=1754601184",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Car Gadgets",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 4800,
-            "sale_price": 3900,
-            "percentage_off": 19
-          }
-        ],
-        "min_regular_price": 4800,
-        "max_regular_price": 4800,
-        "min_sale_price": 3900,
-        "max_sale_price": 3900
       },
       "rank": 2
     },
@@ -1139,8 +1139,8 @@
       "handle": "kemilng-m7-pro-treadmill",
       "title": "Foldable Multi-functional Fitness Treadmill",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f01814c2-3fb8-45f2-a734-61581b4be8ff.jpg?v=1765387264",
-      "units_sold": 4,
-      "revenue": 7260000,
+      "units_sold": 6,
+      "revenue": 7438000,
       "tags": [
         "Treadmills"
       ],
@@ -1284,8 +1284,8 @@
       "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
       "title": "TriFoldView Pro - Portable Screen Extender",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_49459e13-a845-44a4-b872-fae15cf604e2.png?v=1767804559",
-      "units_sold": 47,
-      "revenue": 48368500,
+      "units_sold": 53,
+      "revenue": 48605500,
       "tags": [
         "Computer Accessories",
         "Laptop Accessories"
@@ -1623,8 +1623,8 @@
       "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
       "title": "TriFoldView Pro - Portable Screen Extender",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_49459e13-a845-44a4-b872-fae15cf604e2.png?v=1767804559",
-      "units_sold": 47,
-      "revenue": 48368500,
+      "units_sold": 53,
+      "revenue": 48605500,
       "tags": [
         "Computer Accessories",
         "Laptop Accessories"
