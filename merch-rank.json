@@ -9,9 +9,9 @@
   {
     "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
     "in_stock": true,
-    "units_sold": 57,
-    "revenue": 48763500,
-    "score": 0.7409
+    "units_sold": 60,
+    "revenue": 48882000,
+    "score": 0.7477
   },
   {
     "handle": "lumifan-360-light-fan",
@@ -49,18 +49,18 @@
     "score": 0.1891
   },
   {
+    "handle": "automatic-clamping-car-phone-holder",
+    "in_stock": true,
+    "units_sold": 12,
+    "revenue": 46800,
+    "score": 0.1226
+  },
+  {
     "handle": "4k-triple-lens-solar-security-light-camera-360-smart-protection",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 1300000,
     "score": 0.118
-  },
-  {
-    "handle": "automatic-clamping-car-phone-holder",
-    "in_stock": true,
-    "units_sold": 8,
-    "revenue": 31200,
-    "score": 0.1151
   },
   {
     "handle": "prexobeam-mini-portable-smart-projector",
@@ -70,18 +70,18 @@
     "score": 0.1105
   },
   {
+    "handle": "keyfold-pro-foldable-bluetooth-keyboard",
+    "in_stock": true,
+    "units_sold": 3,
+    "revenue": 315600,
+    "score": 0.109
+  },
+  {
     "handle": "3-in-1-foldable-pilates-reformer-board",
     "in_stock": true,
     "units_sold": 3,
     "revenue": 275600,
     "score": 0.1086
-  },
-  {
-    "handle": "keyfold-pro-foldable-bluetooth-keyboard",
-    "in_stock": true,
-    "units_sold": 2,
-    "revenue": 310000,
-    "score": 0.1071
   },
   {
     "handle": "ufo-raindrop-humidifier",
