@@ -14,14 +14,14 @@
         {
           "title": "Default Title",
           "regular_price": 10000,
-          "sale_price": 7000,
-          "percentage_off": 30
+          "sale_price": 6500,
+          "percentage_off": 35
         }
       ],
       "min_regular_price": 10000,
       "max_regular_price": 10000,
-      "min_sale_price": 7000,
-      "max_sale_price": 7000
+      "min_sale_price": 6500,
+      "max_sale_price": 6500
     },
     "rank": 1
   },
@@ -29,8 +29,8 @@
     "handle": "lumifan™-pro",
     "title": "LumiFan™ Pro - Ceiling Light & Fan Combo",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_39dcd00a-17de-4476-b6a5-c41f28ab66da.jpg?v=1764684247",
-    "units_sold": 23,
-    "revenue": 4255000,
+    "units_sold": 26,
+    "revenue": 4275700,
     "tags": [
       "Home Decor",
       "Lighting"
@@ -40,14 +40,14 @@
         {
           "title": "Default Title",
           "regular_price": 11200,
-          "sale_price": 8000,
-          "percentage_off": 29
+          "sale_price": 6900,
+          "percentage_off": 38
         }
       ],
       "min_regular_price": 11200,
       "max_regular_price": 11200,
-      "min_sale_price": 8000,
-      "max_sale_price": 8000
+      "min_sale_price": 6900,
+      "max_sale_price": 6900
     },
     "rank": 2
   },
