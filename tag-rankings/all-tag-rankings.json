@@ -1284,8 +1284,8 @@
       "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
       "title": "TriFoldView Pro - Portable Screen Extender",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_49459e13-a845-44a4-b872-fae15cf604e2.png?v=1767804559",
-      "units_sold": 67,
-      "revenue": 49158500,
+      "units_sold": 70,
+      "revenue": 49277000,
       "tags": [
         "Computer Accessories",
         "Laptop Accessories"
@@ -1590,6 +1590,33 @@
       "rank": 1
     }
   ],
+  "Outdoor": [
+    {
+      "handle": "solarglow™-13-ft-outdoor-patio-umbrella-with-led-lights",
+      "title": "SolarGlow™ 13 Ft Outdoor Patio Umbrella with LED Lights",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_cd3f4bc7-0ad9-4cf9-8bf3-d42017e83ced.jpg?v=1768058042",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Outdoor"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 40000,
+            "sale_price": 34900,
+            "percentage_off": 13
+          }
+        ],
+        "min_regular_price": 40000,
+        "max_regular_price": 40000,
+        "min_sale_price": 34900,
+        "max_sale_price": 34900
+      },
+      "rank": 1
+    }
+  ],
   "Camera": [
     {
       "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
@@ -1623,8 +1650,8 @@
       "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
       "title": "TriFoldView Pro - Portable Screen Extender",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_49459e13-a845-44a4-b872-fae15cf604e2.png?v=1767804559",
-      "units_sold": 67,
-      "revenue": 49158500,
+      "units_sold": 70,
+      "revenue": 49277000,
       "tags": [
         "Computer Accessories",
         "Laptop Accessories"
