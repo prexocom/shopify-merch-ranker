@@ -52,6 +52,32 @@
     "rank": 2
   },
   {
+    "handle": "airoluxe-smart-ceiling-light-fan",
+    "title": "Airoluxe™ - Smart Ceiling Light Fan",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_edf2d528-0561-4e66-b3fb-9f2c3dd09dae.jpg?v=1768684228",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Home Decor",
+      "Lighting"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 3500,
+          "sale_price": 2800,
+          "percentage_off": 20
+        }
+      ],
+      "min_regular_price": 3500,
+      "max_regular_price": 3500,
+      "min_sale_price": 2800,
+      "max_sale_price": 2800
+    },
+    "rank": 3
+  },
+  {
     "handle": "astronaut-galaxy-projector-your-cosmic-escape",
     "title": "Astronaut Galaxy Projector – Your Cosmic Escape",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5c9aa43b-e802-4398-9ef3-7b81ee6d7907.jpg?v=1754570916",
@@ -75,7 +101,7 @@
       "min_sale_price": 5300,
       "max_sale_price": 5300
     },
-    "rank": 3
+    "rank": 4
   },
   {
     "handle": "glowbreeze",
@@ -100,7 +126,7 @@
       "min_sale_price": 19500,
       "max_sale_price": 19500
     },
-    "rank": 4
+    "rank": 5
   },
   {
     "handle": "under-cabinet-led-motion-sensor-light-bar",
@@ -126,6 +152,6 @@
       "min_sale_price": 2200,
       "max_sale_price": 2200
     },
-    "rank": 5
+    "rank": 6
   }
 ]

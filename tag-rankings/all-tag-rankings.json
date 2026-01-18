@@ -8,8 +8,7 @@
       "revenue": 28537000,
       "tags": [
         "Babies",
-        "Baby Essentials",
-        "Home Decor"
+        "Baby Essentials"
       ],
       "pricing": {
         "variants": [
@@ -37,8 +36,7 @@
       "revenue": 28537000,
       "tags": [
         "Babies",
-        "Baby Essentials",
-        "Home Decor"
+        "Baby Essentials"
       ],
       "pricing": {
         "variants": [
@@ -55,320 +53,6 @@
         "max_sale_price": 15200
       },
       "rank": 1
-    }
-  ],
-  "Home Decor": [
-    {
-      "handle": "lumifan-360-light-fan",
-      "title": "LumiFan™ – Transform Your Room in Minutes",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3309b47252b00d69970a66cfd5863891_1_1.png?v=1757943596",
-      "units_sold": 163,
-      "revenue": 23168000,
-      "tags": [
-        "Home Decor",
-        "Lighting"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 10000,
-            "sale_price": 6500,
-            "percentage_off": 35
-          }
-        ],
-        "min_regular_price": 10000,
-        "max_regular_price": 10000,
-        "min_sale_price": 6500,
-        "max_sale_price": 6500
-      },
-      "rank": 1
-    },
-    {
-      "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
-      "title": "3-in-1 Deluxe Baby Bassinet – Sleep, Soothe & Grow",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_c57dc771-408f-4175-8cdc-a9a4dbd8af8c.jpg?v=1764490865",
-      "units_sold": 73,
-      "revenue": 28537000,
-      "tags": [
-        "Babies",
-        "Baby Essentials",
-        "Home Decor"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 18000,
-            "sale_price": 15200,
-            "percentage_off": 16
-          }
-        ],
-        "min_regular_price": 18000,
-        "max_regular_price": 18000,
-        "min_sale_price": 15200,
-        "max_sale_price": 15200
-      },
-      "rank": 2
-    },
-    {
-      "handle": "lumifan™-pro",
-      "title": "LumiFan™ Pro - Ceiling Light & Fan Combo",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_39dcd00a-17de-4476-b6a5-c41f28ab66da.jpg?v=1764684247",
-      "units_sold": 26,
-      "revenue": 4275700,
-      "tags": [
-        "Home Decor",
-        "Lighting"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 11200,
-            "sale_price": 6900,
-            "percentage_off": 38
-          }
-        ],
-        "min_regular_price": 11200,
-        "max_regular_price": 11200,
-        "min_sale_price": 6900,
-        "max_sale_price": 6900
-      },
-      "rank": 3
-    },
-    {
-      "handle": "ufo-raindrop-humidifier",
-      "title": "Aquamist Raindrop Humidifier",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/S9cd93e459b7c4e9e939ad6a6cd748d6av.jpg?v=1749642028",
-      "units_sold": 2,
-      "revenue": 276000,
-      "tags": [
-        "Home Decor",
-        "Humidifiers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 6600,
-            "sale_price": 5000,
-            "percentage_off": 24
-          }
-        ],
-        "min_regular_price": 6600,
-        "max_regular_price": 6600,
-        "min_sale_price": 5000,
-        "max_sale_price": 5000
-      },
-      "rank": 4
-    },
-    {
-      "handle": "bonfire-humidifier-1",
-      "title": "Bonfire Flame Effect Humidifier",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/Pinnangare5.jpg?v=1749642009",
-      "units_sold": 1,
-      "revenue": 135000,
-      "tags": [
-        "Home Decor",
-        "Humidifiers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 6400,
-            "sale_price": 4800,
-            "percentage_off": 25
-          }
-        ],
-        "min_regular_price": 6400,
-        "max_regular_price": 6400,
-        "min_sale_price": 4800,
-        "max_sale_price": 4800
-      },
-      "rank": 5
-    },
-    {
-      "handle": "astronaut-galaxy-projector-your-cosmic-escape",
-      "title": "Astronaut Galaxy Projector – Your Cosmic Escape",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5c9aa43b-e802-4398-9ef3-7b81ee6d7907.jpg?v=1754570916",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Home Decor",
-        "Lighting"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 7000,
-            "sale_price": 5300,
-            "percentage_off": 24
-          }
-        ],
-        "min_regular_price": 7000,
-        "max_regular_price": 7000,
-        "min_sale_price": 5300,
-        "max_sale_price": 5300
-      },
-      "rank": 6
-    },
-    {
-      "handle": "fireplace-flame-air-humidifier",
-      "title": "Fireplace Flame Air Humidifier",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_04fc974e-e1b3-429e-8fac-e921322ccc57.jpg?v=1760189170",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Home Decor",
-        "Humidifiers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 6000,
-            "sale_price": 5200,
-            "percentage_off": 13
-          }
-        ],
-        "min_regular_price": 6000,
-        "max_regular_price": 6000,
-        "min_sale_price": 5200,
-        "max_sale_price": 5200
-      },
-      "rank": 7
-    },
-    {
-      "handle": "galaxy-star-nebula-projector-with-bluetooth-speaker",
-      "title": "Galaxy Star & Nebula Projector with Bluetooth Speaker",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9eab1579-5329-4e2b-ab40-7da7000c306f.png?v=1754683053",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Home Decor",
-        "Music"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 6900,
-            "sale_price": 5500,
-            "percentage_off": 20
-          }
-        ],
-        "min_regular_price": 6900,
-        "max_regular_price": 6900,
-        "min_sale_price": 5500,
-        "max_sale_price": 5500
-      },
-      "rank": 8
-    },
-    {
-      "handle": "jellyfish-humidifier",
-      "title": "Jellyfish Humidifier",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d095ee78-7e1b-4f49-9af5-2ef8be3797c0.jpg?v=1760191137",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Home Decor",
-        "Humidifiers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 6500,
-            "sale_price": 5400,
-            "percentage_off": 17
-          }
-        ],
-        "min_regular_price": 6500,
-        "max_regular_price": 6500,
-        "min_sale_price": 5400,
-        "max_sale_price": 5400
-      },
-      "rank": 9
-    },
-    {
-      "handle": "volcano-essential-oil-diffuser",
-      "title": "Prexo Volcano Humidifier",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/volcano-effect-aroma-diffuser-3.jpg?v=1749641964",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Home Decor",
-        "Humidifiers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 6300,
-            "sale_price": 5200,
-            "percentage_off": 17
-          }
-        ],
-        "min_regular_price": 6300,
-        "max_regular_price": 6300,
-        "min_sale_price": 5200,
-        "max_sale_price": 5200
-      },
-      "rank": 10
-    },
-    {
-      "handle": "quicksand-painting-night-light",
-      "title": "Quicksand Painting Night Light",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f6734e57-556c-4403-b972-218571655237.jpg?v=1755935915",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Home Decor"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 9300,
-            "sale_price": 7200,
-            "percentage_off": 23
-          }
-        ],
-        "min_regular_price": 9300,
-        "max_regular_price": 9300,
-        "min_sale_price": 7200,
-        "max_sale_price": 7200
-      },
-      "rank": 11
-    },
-    {
-      "handle": "under-cabinet-led-motion-sensor-light-bar",
-      "title": "Under-Cabinet LED Motion Sensor Light Bar",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_278262be-3fbc-4118-87ec-09db532370de.jpg?v=1761290715",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Home Decor",
-        "Lighting"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 2600,
-            "sale_price": 2200,
-            "percentage_off": 15
-          }
-        ],
-        "min_regular_price": 2600,
-        "max_regular_price": 2600,
-        "min_sale_price": 2200,
-        "max_sale_price": 2200
-      },
-      "rank": 12
     }
   ],
   "Fitness Equipment": [
@@ -632,6 +316,476 @@
       "rank": 3
     }
   ],
+  "Home Decor": [
+    {
+      "handle": "lumifan-360-light-fan",
+      "title": "LumiFan™ – Transform Your Room in Minutes",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3309b47252b00d69970a66cfd5863891_1_1.png?v=1757943596",
+      "units_sold": 163,
+      "revenue": 23168000,
+      "tags": [
+        "Home Decor",
+        "Lighting"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 10000,
+            "sale_price": 6500,
+            "percentage_off": 35
+          }
+        ],
+        "min_regular_price": 10000,
+        "max_regular_price": 10000,
+        "min_sale_price": 6500,
+        "max_sale_price": 6500
+      },
+      "rank": 1
+    },
+    {
+      "handle": "lumifan™-pro",
+      "title": "LumiFan™ Pro - Ceiling Light & Fan Combo",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_39dcd00a-17de-4476-b6a5-c41f28ab66da.jpg?v=1764684247",
+      "units_sold": 26,
+      "revenue": 4275700,
+      "tags": [
+        "Home Decor",
+        "Lighting"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 11200,
+            "sale_price": 6900,
+            "percentage_off": 38
+          }
+        ],
+        "min_regular_price": 11200,
+        "max_regular_price": 11200,
+        "min_sale_price": 6900,
+        "max_sale_price": 6900
+      },
+      "rank": 2
+    },
+    {
+      "handle": "ufo-raindrop-humidifier",
+      "title": "Aquamist Raindrop Humidifier",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/S9cd93e459b7c4e9e939ad6a6cd748d6av.jpg?v=1749642028",
+      "units_sold": 2,
+      "revenue": 276000,
+      "tags": [
+        "Home Decor",
+        "Humidifiers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 6600,
+            "sale_price": 5000,
+            "percentage_off": 24
+          }
+        ],
+        "min_regular_price": 6600,
+        "max_regular_price": 6600,
+        "min_sale_price": 5000,
+        "max_sale_price": 5000
+      },
+      "rank": 3
+    },
+    {
+      "handle": "bonfire-humidifier-1",
+      "title": "Bonfire Flame Effect Humidifier",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/Pinnangare5.jpg?v=1749642009",
+      "units_sold": 1,
+      "revenue": 135000,
+      "tags": [
+        "Home Decor",
+        "Humidifiers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 6400,
+            "sale_price": 4800,
+            "percentage_off": 25
+          }
+        ],
+        "min_regular_price": 6400,
+        "max_regular_price": 6400,
+        "min_sale_price": 4800,
+        "max_sale_price": 4800
+      },
+      "rank": 4
+    },
+    {
+      "handle": "airoluxe-smart-ceiling-light-fan",
+      "title": "Airoluxe™ - Smart Ceiling Light Fan",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_edf2d528-0561-4e66-b3fb-9f2c3dd09dae.jpg?v=1768684228",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "Lighting"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 3500,
+            "sale_price": 2800,
+            "percentage_off": 20
+          }
+        ],
+        "min_regular_price": 3500,
+        "max_regular_price": 3500,
+        "min_sale_price": 2800,
+        "max_sale_price": 2800
+      },
+      "rank": 5
+    },
+    {
+      "handle": "astronaut-galaxy-projector-your-cosmic-escape",
+      "title": "Astronaut Galaxy Projector – Your Cosmic Escape",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5c9aa43b-e802-4398-9ef3-7b81ee6d7907.jpg?v=1754570916",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "Lighting"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 7000,
+            "sale_price": 5300,
+            "percentage_off": 24
+          }
+        ],
+        "min_regular_price": 7000,
+        "max_regular_price": 7000,
+        "min_sale_price": 5300,
+        "max_sale_price": 5300
+      },
+      "rank": 6
+    },
+    {
+      "handle": "fireplace-flame-air-humidifier",
+      "title": "Fireplace Flame Air Humidifier",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_04fc974e-e1b3-429e-8fac-e921322ccc57.jpg?v=1760189170",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "Humidifiers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 6000,
+            "sale_price": 5200,
+            "percentage_off": 13
+          }
+        ],
+        "min_regular_price": 6000,
+        "max_regular_price": 6000,
+        "min_sale_price": 5200,
+        "max_sale_price": 5200
+      },
+      "rank": 7
+    },
+    {
+      "handle": "galaxy-star-nebula-projector-with-bluetooth-speaker",
+      "title": "Galaxy Star & Nebula Projector with Bluetooth Speaker",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9eab1579-5329-4e2b-ab40-7da7000c306f.png?v=1754683053",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "Music"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 6900,
+            "sale_price": 5500,
+            "percentage_off": 20
+          }
+        ],
+        "min_regular_price": 6900,
+        "max_regular_price": 6900,
+        "min_sale_price": 5500,
+        "max_sale_price": 5500
+      },
+      "rank": 8
+    },
+    {
+      "handle": "jellyfish-humidifier",
+      "title": "Jellyfish Humidifier",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d095ee78-7e1b-4f49-9af5-2ef8be3797c0.jpg?v=1760191137",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "Humidifiers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 6500,
+            "sale_price": 5400,
+            "percentage_off": 17
+          }
+        ],
+        "min_regular_price": 6500,
+        "max_regular_price": 6500,
+        "min_sale_price": 5400,
+        "max_sale_price": 5400
+      },
+      "rank": 9
+    },
+    {
+      "handle": "volcano-essential-oil-diffuser",
+      "title": "Prexo Volcano Humidifier",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/volcano-effect-aroma-diffuser-3.jpg?v=1749641964",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "Humidifiers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 6300,
+            "sale_price": 5200,
+            "percentage_off": 17
+          }
+        ],
+        "min_regular_price": 6300,
+        "max_regular_price": 6300,
+        "min_sale_price": 5200,
+        "max_sale_price": 5200
+      },
+      "rank": 10
+    },
+    {
+      "handle": "quicksand-painting-night-light",
+      "title": "Quicksand Painting Night Light",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f6734e57-556c-4403-b972-218571655237.jpg?v=1755935915",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 9300,
+            "sale_price": 7200,
+            "percentage_off": 23
+          }
+        ],
+        "min_regular_price": 9300,
+        "max_regular_price": 9300,
+        "min_sale_price": 7200,
+        "max_sale_price": 7200
+      },
+      "rank": 11
+    },
+    {
+      "handle": "under-cabinet-led-motion-sensor-light-bar",
+      "title": "Under-Cabinet LED Motion Sensor Light Bar",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_278262be-3fbc-4118-87ec-09db532370de.jpg?v=1761290715",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "Lighting"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 2600,
+            "sale_price": 2200,
+            "percentage_off": 15
+          }
+        ],
+        "min_regular_price": 2600,
+        "max_regular_price": 2600,
+        "min_sale_price": 2200,
+        "max_sale_price": 2200
+      },
+      "rank": 12
+    }
+  ],
+  "Lighting": [
+    {
+      "handle": "lumifan-360-light-fan",
+      "title": "LumiFan™ – Transform Your Room in Minutes",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3309b47252b00d69970a66cfd5863891_1_1.png?v=1757943596",
+      "units_sold": 163,
+      "revenue": 23168000,
+      "tags": [
+        "Home Decor",
+        "Lighting"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 10000,
+            "sale_price": 6500,
+            "percentage_off": 35
+          }
+        ],
+        "min_regular_price": 10000,
+        "max_regular_price": 10000,
+        "min_sale_price": 6500,
+        "max_sale_price": 6500
+      },
+      "rank": 1
+    },
+    {
+      "handle": "lumifan™-pro",
+      "title": "LumiFan™ Pro - Ceiling Light & Fan Combo",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_39dcd00a-17de-4476-b6a5-c41f28ab66da.jpg?v=1764684247",
+      "units_sold": 26,
+      "revenue": 4275700,
+      "tags": [
+        "Home Decor",
+        "Lighting"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 11200,
+            "sale_price": 6900,
+            "percentage_off": 38
+          }
+        ],
+        "min_regular_price": 11200,
+        "max_regular_price": 11200,
+        "min_sale_price": 6900,
+        "max_sale_price": 6900
+      },
+      "rank": 2
+    },
+    {
+      "handle": "airoluxe-smart-ceiling-light-fan",
+      "title": "Airoluxe™ - Smart Ceiling Light Fan",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_edf2d528-0561-4e66-b3fb-9f2c3dd09dae.jpg?v=1768684228",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "Lighting"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 3500,
+            "sale_price": 2800,
+            "percentage_off": 20
+          }
+        ],
+        "min_regular_price": 3500,
+        "max_regular_price": 3500,
+        "min_sale_price": 2800,
+        "max_sale_price": 2800
+      },
+      "rank": 3
+    },
+    {
+      "handle": "astronaut-galaxy-projector-your-cosmic-escape",
+      "title": "Astronaut Galaxy Projector – Your Cosmic Escape",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5c9aa43b-e802-4398-9ef3-7b81ee6d7907.jpg?v=1754570916",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "Lighting"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 7000,
+            "sale_price": 5300,
+            "percentage_off": 24
+          }
+        ],
+        "min_regular_price": 7000,
+        "max_regular_price": 7000,
+        "min_sale_price": 5300,
+        "max_sale_price": 5300
+      },
+      "rank": 4
+    },
+    {
+      "handle": "glowbreeze",
+      "title": "GlowBreeze - Smart LED Ceiling Light Fan",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a9819d8d-8af8-4dda-9604-37c02bb2c38e.jpg?v=1766759875",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Lighting"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 24000,
+            "sale_price": 19500,
+            "percentage_off": 19
+          }
+        ],
+        "min_regular_price": 24000,
+        "max_regular_price": 24000,
+        "min_sale_price": 19500,
+        "max_sale_price": 19500
+      },
+      "rank": 5
+    },
+    {
+      "handle": "under-cabinet-led-motion-sensor-light-bar",
+      "title": "Under-Cabinet LED Motion Sensor Light Bar",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_278262be-3fbc-4118-87ec-09db532370de.jpg?v=1761290715",
+      "units_sold": 0,
+      "revenue": 0,
+      "tags": [
+        "Home Decor",
+        "Lighting"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 2600,
+            "sale_price": 2200,
+            "percentage_off": 15
+          }
+        ],
+        "min_regular_price": 2600,
+        "max_regular_price": 2600,
+        "min_sale_price": 2200,
+        "max_sale_price": 2200
+      },
+      "rank": 6
+    }
+  ],
   "Humidifiers": [
     {
       "handle": "ufo-raindrop-humidifier",
@@ -760,137 +914,6 @@
         "max_regular_price": 6300,
         "min_sale_price": 5200,
         "max_sale_price": 5200
-      },
-      "rank": 5
-    }
-  ],
-  "Lighting": [
-    {
-      "handle": "lumifan-360-light-fan",
-      "title": "LumiFan™ – Transform Your Room in Minutes",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3309b47252b00d69970a66cfd5863891_1_1.png?v=1757943596",
-      "units_sold": 163,
-      "revenue": 23168000,
-      "tags": [
-        "Home Decor",
-        "Lighting"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 10000,
-            "sale_price": 6500,
-            "percentage_off": 35
-          }
-        ],
-        "min_regular_price": 10000,
-        "max_regular_price": 10000,
-        "min_sale_price": 6500,
-        "max_sale_price": 6500
-      },
-      "rank": 1
-    },
-    {
-      "handle": "lumifan™-pro",
-      "title": "LumiFan™ Pro - Ceiling Light & Fan Combo",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_39dcd00a-17de-4476-b6a5-c41f28ab66da.jpg?v=1764684247",
-      "units_sold": 26,
-      "revenue": 4275700,
-      "tags": [
-        "Home Decor",
-        "Lighting"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 11200,
-            "sale_price": 6900,
-            "percentage_off": 38
-          }
-        ],
-        "min_regular_price": 11200,
-        "max_regular_price": 11200,
-        "min_sale_price": 6900,
-        "max_sale_price": 6900
-      },
-      "rank": 2
-    },
-    {
-      "handle": "astronaut-galaxy-projector-your-cosmic-escape",
-      "title": "Astronaut Galaxy Projector – Your Cosmic Escape",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5c9aa43b-e802-4398-9ef3-7b81ee6d7907.jpg?v=1754570916",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Home Decor",
-        "Lighting"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 7000,
-            "sale_price": 5300,
-            "percentage_off": 24
-          }
-        ],
-        "min_regular_price": 7000,
-        "max_regular_price": 7000,
-        "min_sale_price": 5300,
-        "max_sale_price": 5300
-      },
-      "rank": 3
-    },
-    {
-      "handle": "glowbreeze",
-      "title": "GlowBreeze - Smart LED Ceiling Light Fan",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a9819d8d-8af8-4dda-9604-37c02bb2c38e.jpg?v=1766759875",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Lighting"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 24000,
-            "sale_price": 19500,
-            "percentage_off": 19
-          }
-        ],
-        "min_regular_price": 24000,
-        "max_regular_price": 24000,
-        "min_sale_price": 19500,
-        "max_sale_price": 19500
-      },
-      "rank": 4
-    },
-    {
-      "handle": "under-cabinet-led-motion-sensor-light-bar",
-      "title": "Under-Cabinet LED Motion Sensor Light Bar",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_278262be-3fbc-4118-87ec-09db532370de.jpg?v=1761290715",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Home Decor",
-        "Lighting"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 2600,
-            "sale_price": 2200,
-            "percentage_off": 15
-          }
-        ],
-        "min_regular_price": 2600,
-        "max_regular_price": 2600,
-        "min_sale_price": 2200,
-        "max_sale_price": 2200
       },
       "rank": 5
     }
