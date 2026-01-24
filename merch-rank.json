@@ -2,9 +2,9 @@
   {
     "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
     "in_stock": true,
-    "units_sold": 85,
-    "revenue": 49869500,
-    "score": 0.8046
+    "units_sold": 94,
+    "revenue": 50225000,
+    "score": 0.825
   },
   {
     "handle": "flexstride™-portable-walking-running-treadmill",
@@ -103,6 +103,20 @@
     "units_sold": 1,
     "revenue": 135000,
     "score": 0.1033
+  },
+  {
+    "handle": "solerenew-electric-callus-remover",
+    "in_stock": true,
+    "units_sold": 1,
+    "revenue": 3500,
+    "score": 0.1019
+  },
+  {
+    "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
+    "in_stock": true,
+    "units_sold": 1,
+    "revenue": 6900,
+    "score": 0.1019
   },
   {
     "handle": "airoluxe-smart-ceiling-light-fan",
@@ -218,20 +232,6 @@
   },
   {
     "handle": "solarglow™-13-ft-outdoor-patio-umbrella-with-led-lights",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "solerenew-electric-callus-remover",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
