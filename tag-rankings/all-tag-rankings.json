@@ -163,6 +163,31 @@
       "rank": 2
     },
     {
+      "handle": "solerenew-electric-callus-remover",
+      "title": "SoleRenew™ – Electric Callus Remover & Foot Care Wand",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_70b110d2-4213-4e6b-8f0c-121293dbfc43.png?v=1749641707",
+      "units_sold": 1,
+      "revenue": 3500,
+      "tags": [
+        "Health & Fitness"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 4300,
+            "sale_price": 3500,
+            "percentage_off": 19
+          }
+        ],
+        "min_regular_price": 4300,
+        "max_regular_price": 4300,
+        "min_sale_price": 3500,
+        "max_sale_price": 3500
+      },
+      "rank": 3
+    },
+    {
       "handle": "prexo-dunkmaster-outdoor-adjustable-basketball-hoop-system",
       "title": "DunkMaster – Adjustable Basketball Hoop System",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/K_1.png?v=1749641675",
@@ -184,31 +209,6 @@
         "max_regular_price": 58500,
         "min_sale_price": 47500,
         "max_sale_price": 47500
-      },
-      "rank": 3
-    },
-    {
-      "handle": "solerenew-electric-callus-remover",
-      "title": "SoleRenew™ – Electric Callus Remover & Foot Care Wand",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_70b110d2-4213-4e6b-8f0c-121293dbfc43.png?v=1749641707",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Health & Fitness"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 4300,
-            "sale_price": 3500,
-            "percentage_off": 19
-          }
-        ],
-        "min_regular_price": 4300,
-        "max_regular_price": 4300,
-        "min_sale_price": 3500,
-        "max_sale_price": 3500
       },
       "rank": 4
     },
@@ -1051,6 +1051,32 @@
       "rank": 2
     },
     {
+      "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
+      "title": "TELESIN Magnetic Funshot Camera Phone Grip Holder",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f58f32b3-feec-4dd2-a490-9c1e63ce346d.jpg?v=1762981511",
+      "units_sold": 1,
+      "revenue": 6900,
+      "tags": [
+        "Camera",
+        "Phone Accessories"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 9000,
+            "sale_price": 6900,
+            "percentage_off": 23
+          }
+        ],
+        "min_regular_price": 9000,
+        "max_regular_price": 9000,
+        "min_sale_price": 6900,
+        "max_sale_price": 6900
+      },
+      "rank": 3
+    },
+    {
       "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
       "title": "Green Lion Power Trio™ – 3-in-1 Magnetic Wireless Charger",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ee366daa-24a3-46b9-9846-910d007df480.jpg?v=1749641860",
@@ -1075,32 +1101,6 @@
         "max_regular_price": 7900,
         "min_sale_price": 6800,
         "max_sale_price": 6800
-      },
-      "rank": 3
-    },
-    {
-      "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
-      "title": "TELESIN Magnetic Funshot Camera Phone Grip Holder",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f58f32b3-feec-4dd2-a490-9c1e63ce346d.jpg?v=1762981511",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Camera",
-        "Phone Accessories"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 9000,
-            "sale_price": 6900,
-            "percentage_off": 23
-          }
-        ],
-        "min_regular_price": 9000,
-        "max_regular_price": 9000,
-        "min_sale_price": 6900,
-        "max_sale_price": 6900
       },
       "rank": 4
     }
@@ -1307,8 +1307,8 @@
       "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
       "title": "TriFoldView Pro - Portable Screen Extender",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_49459e13-a845-44a4-b872-fae15cf604e2.png?v=1767804559",
-      "units_sold": 85,
-      "revenue": 49869500,
+      "units_sold": 94,
+      "revenue": 50225000,
       "tags": [
         "Computer Accessories",
         "Laptop Accessories"
@@ -1645,8 +1645,8 @@
       "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
       "title": "TELESIN Magnetic Funshot Camera Phone Grip Holder",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f58f32b3-feec-4dd2-a490-9c1e63ce346d.jpg?v=1762981511",
-      "units_sold": 0,
-      "revenue": 0,
+      "units_sold": 1,
+      "revenue": 6900,
       "tags": [
         "Camera",
         "Phone Accessories"
@@ -1673,8 +1673,8 @@
       "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
       "title": "TriFoldView Pro - Portable Screen Extender",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_49459e13-a845-44a4-b872-fae15cf604e2.png?v=1767804559",
-      "units_sold": 85,
-      "revenue": 49869500,
+      "units_sold": 94,
+      "revenue": 50225000,
       "tags": [
         "Computer Accessories",
         "Laptop Accessories"

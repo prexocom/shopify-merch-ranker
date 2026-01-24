@@ -53,6 +53,32 @@
     "rank": 2
   },
   {
+    "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
+    "title": "TELESIN Magnetic Funshot Camera Phone Grip Holder",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f58f32b3-feec-4dd2-a490-9c1e63ce346d.jpg?v=1762981511",
+    "units_sold": 1,
+    "revenue": 6900,
+    "tags": [
+      "Camera",
+      "Phone Accessories"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 9000,
+          "sale_price": 6900,
+          "percentage_off": 23
+        }
+      ],
+      "min_regular_price": 9000,
+      "max_regular_price": 9000,
+      "min_sale_price": 6900,
+      "max_sale_price": 6900
+    },
+    "rank": 3
+  },
+  {
     "handle": "green-lion-power-trio™-3-in-1-magnetic-wireless-charger",
     "title": "Green Lion Power Trio™ – 3-in-1 Magnetic Wireless Charger",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ee366daa-24a3-46b9-9846-910d007df480.jpg?v=1749641860",
@@ -77,32 +103,6 @@
       "max_regular_price": 7900,
       "min_sale_price": 6800,
       "max_sale_price": 6800
-    },
-    "rank": 3
-  },
-  {
-    "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
-    "title": "TELESIN Magnetic Funshot Camera Phone Grip Holder",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f58f32b3-feec-4dd2-a490-9c1e63ce346d.jpg?v=1762981511",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Camera",
-      "Phone Accessories"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 9000,
-          "sale_price": 6900,
-          "percentage_off": 23
-        }
-      ],
-      "min_regular_price": 9000,
-      "max_regular_price": 9000,
-      "min_sale_price": 6900,
-      "max_sale_price": 6900
     },
     "rank": 4
   }
