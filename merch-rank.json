@@ -2,9 +2,9 @@
   {
     "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
     "in_stock": true,
-    "units_sold": 94,
-    "revenue": 50225000,
-    "score": 0.825
+    "units_sold": 105,
+    "revenue": 50659500,
+    "score": 0.8501
   },
   {
     "handle": "flexstride™-portable-walking-running-treadmill",
@@ -98,6 +98,13 @@
     "score": 0.1067
   },
   {
+    "handle": "solerenew-electric-callus-remover",
+    "in_stock": true,
+    "units_sold": 3,
+    "revenue": 9900,
+    "score": 0.1056
+  },
+  {
     "handle": "bonfire-humidifier-1",
     "in_stock": true,
     "units_sold": 1,
@@ -105,7 +112,7 @@
     "score": 0.1033
   },
   {
-    "handle": "solerenew-electric-callus-remover",
+    "handle": "airoluxe-smart-ceiling-light-fan",
     "in_stock": true,
     "units_sold": 1,
     "revenue": 3500,
@@ -117,13 +124,6 @@
     "units_sold": 1,
     "revenue": 6900,
     "score": 0.1019
-  },
-  {
-    "handle": "airoluxe-smart-ceiling-light-fan",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
   },
   {
     "handle": "astronaut-galaxy-projector-your-cosmic-escape",
