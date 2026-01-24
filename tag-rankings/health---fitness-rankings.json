@@ -55,8 +55,8 @@
     "handle": "solerenew-electric-callus-remover",
     "title": "SoleRenew™ – Electric Callus Remover & Foot Care Wand",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_70b110d2-4213-4e6b-8f0c-121293dbfc43.png?v=1749641707",
-    "units_sold": 1,
-    "revenue": 3500,
+    "units_sold": 3,
+    "revenue": 9900,
     "tags": [
       "Health & Fitness"
     ],
@@ -65,14 +65,14 @@
         {
           "title": "Default Title",
           "regular_price": 4300,
-          "sale_price": 3500,
-          "percentage_off": 19
+          "sale_price": 2900,
+          "percentage_off": 33
         }
       ],
       "min_regular_price": 4300,
       "max_regular_price": 4300,
-      "min_sale_price": 3500,
-      "max_sale_price": 3500
+      "min_sale_price": 2900,
+      "max_sale_price": 2900
     },
     "rank": 3
   },
