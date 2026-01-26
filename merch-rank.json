@@ -2,9 +2,9 @@
   {
     "handle": "trifoldview-pro-portable-triple-screen-monitor-extender",
     "in_stock": true,
-    "units_sold": 128,
-    "revenue": 51568000,
-    "score": 0.9024
+    "units_sold": 129,
+    "revenue": 51607500,
+    "score": 0.9046
   },
   {
     "handle": "flexstride™-portable-walking-running-treadmill",
@@ -63,6 +63,13 @@
     "score": 0.118
   },
   {
+    "handle": "airoluxe-smart-ceiling-light-fan",
+    "in_stock": true,
+    "units_sold": 6,
+    "revenue": 22000,
+    "score": 0.1113
+  },
+  {
     "handle": "keyfold-pro-foldable-bluetooth-keyboard",
     "in_stock": true,
     "units_sold": 4,
@@ -110,13 +117,6 @@
     "units_sold": 1,
     "revenue": 135000,
     "score": 0.1033
-  },
-  {
-    "handle": "airoluxe-smart-ceiling-light-fan",
-    "in_stock": true,
-    "units_sold": 1,
-    "revenue": 3500,
-    "score": 0.1019
   },
   {
     "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
