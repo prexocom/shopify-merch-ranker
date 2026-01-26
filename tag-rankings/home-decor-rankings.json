@@ -52,6 +52,32 @@
     "rank": 2
   },
   {
+    "handle": "airoluxe-smart-ceiling-light-fan",
+    "title": "Airoluxe™ - Smart Ceiling Light Fan",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_edf2d528-0561-4e66-b3fb-9f2c3dd09dae.jpg?v=1768684228",
+    "units_sold": 8,
+    "revenue": 27800,
+    "tags": [
+      "Home Decor",
+      "Lighting"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 4800,
+          "sale_price": 2900,
+          "percentage_off": 40
+        }
+      ],
+      "min_regular_price": 4800,
+      "max_regular_price": 4800,
+      "min_sale_price": 2900,
+      "max_sale_price": 2900
+    },
+    "rank": 3
+  },
+  {
     "handle": "ufo-raindrop-humidifier",
     "title": "Aquamist Raindrop Humidifier",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/S9cd93e459b7c4e9e939ad6a6cd748d6av.jpg?v=1749642028",
@@ -74,32 +100,6 @@
       "max_regular_price": 6600,
       "min_sale_price": 5000,
       "max_sale_price": 5000
-    },
-    "rank": 3
-  },
-  {
-    "handle": "airoluxe-smart-ceiling-light-fan",
-    "title": "Airoluxe™ - Smart Ceiling Light Fan",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_edf2d528-0561-4e66-b3fb-9f2c3dd09dae.jpg?v=1768684228",
-    "units_sold": 1,
-    "revenue": 3500,
-    "tags": [
-      "Home Decor",
-      "Lighting"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 4500,
-          "sale_price": 3500,
-          "percentage_off": 22
-        }
-      ],
-      "min_regular_price": 4500,
-      "max_regular_price": 4500,
-      "min_sale_price": 3500,
-      "max_sale_price": 3500
     },
     "rank": 4
   },
