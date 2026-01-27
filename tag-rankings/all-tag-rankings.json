@@ -373,8 +373,8 @@
       "handle": "airoluxe-smart-ceiling-light-fan",
       "title": "Airoluxe™ - Smart Ceiling Light Fan",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_edf2d528-0561-4e66-b3fb-9f2c3dd09dae.jpg?v=1768684228",
-      "units_sold": 9,
-      "revenue": 30700,
+      "units_sold": 11,
+      "revenue": 38500,
       "tags": [
         "Home Decor",
         "Lighting"
@@ -384,14 +384,14 @@
           {
             "title": "Default Title",
             "regular_price": 4800,
-            "sale_price": 2900,
-            "percentage_off": 40
+            "sale_price": 3900,
+            "percentage_off": 19
           }
         ],
         "min_regular_price": 4800,
         "max_regular_price": 4800,
-        "min_sale_price": 2900,
-        "max_sale_price": 2900
+        "min_sale_price": 3900,
+        "max_sale_price": 3900
       },
       "rank": 3
     },
@@ -686,8 +686,8 @@
       "handle": "airoluxe-smart-ceiling-light-fan",
       "title": "Airoluxe™ - Smart Ceiling Light Fan",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_edf2d528-0561-4e66-b3fb-9f2c3dd09dae.jpg?v=1768684228",
-      "units_sold": 9,
-      "revenue": 30700,
+      "units_sold": 11,
+      "revenue": 38500,
       "tags": [
         "Home Decor",
         "Lighting"
@@ -697,14 +697,14 @@
           {
             "title": "Default Title",
             "regular_price": 4800,
-            "sale_price": 2900,
-            "percentage_off": 40
+            "sale_price": 3900,
+            "percentage_off": 19
           }
         ],
         "min_regular_price": 4800,
         "max_regular_price": 4800,
-        "min_sale_price": 2900,
-        "max_sale_price": 2900
+        "min_sale_price": 3900,
+        "max_sale_price": 3900
       },
       "rank": 3
     },
