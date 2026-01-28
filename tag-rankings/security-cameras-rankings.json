@@ -3,8 +3,8 @@
     "handle": "4k-triple-lens-solar-security-light-camera-360-smart-protection",
     "title": "4K Triple-Lens Solar Security Light Camera",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_89ef438a-e4ec-428e-92dd-bbcd01f55a64.jpg?v=1764480074",
-    "units_sold": 2,
-    "revenue": 1300000,
+    "units_sold": 5,
+    "revenue": 1352500,
     "tags": [
       "Security Cameras"
     ],
@@ -12,15 +12,15 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 29000,
-          "sale_price": 25500,
-          "percentage_off": 12
+          "regular_price": 23000,
+          "sale_price": 17500,
+          "percentage_off": 24
         }
       ],
-      "min_regular_price": 29000,
-      "max_regular_price": 29000,
-      "min_sale_price": 25500,
-      "max_sale_price": 25500
+      "min_regular_price": 23000,
+      "max_regular_price": 23000,
+      "min_sale_price": 17500,
+      "max_sale_price": 17500
     },
     "rank": 1
   },
