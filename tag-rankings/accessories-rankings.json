@@ -1,5 +1,32 @@
 [
   {
+    "handle": "full-body-massage-vibration-plate-1",
+    "title": "Full Body Massage Vibration Plate",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1efc84ab-5dea-493a-8117-cf8257c10a40.jpg?v=1770321005",
+    "units_sold": 4,
+    "revenue": 71600,
+    "tags": [
+      "Accessories",
+      "Health & Fitness",
+      "Massagers"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 25000,
+          "sale_price": 17900,
+          "percentage_off": 28
+        }
+      ],
+      "min_regular_price": 25000,
+      "max_regular_price": 25000,
+      "min_sale_price": 17900,
+      "max_sale_price": 17900
+    },
+    "rank": 1
+  },
+  {
     "handle": "drtec-6-head-massage-gun",
     "title": "Drtec 6 Head Massage Gun",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_15f45371-45c4-436d-9ee0-f29d110db509.png?v=1770321004",
@@ -23,33 +50,6 @@
       "max_regular_price": 6500,
       "min_sale_price": 5800,
       "max_sale_price": 5800
-    },
-    "rank": 1
-  },
-  {
-    "handle": "full-body-massage-vibration-plate-1",
-    "title": "Full Body Massage Vibration Plate",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1efc84ab-5dea-493a-8117-cf8257c10a40.jpg?v=1770321005",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Accessories",
-      "Health & Fitness",
-      "Massagers"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 25000,
-          "sale_price": 17900,
-          "percentage_off": 28
-        }
-      ],
-      "min_regular_price": 25000,
-      "max_regular_price": 25000,
-      "min_sale_price": 17900,
-      "max_sale_price": 17900
     },
     "rank": 2
   }

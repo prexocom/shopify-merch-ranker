@@ -137,6 +137,59 @@
       "rank": 1
     },
     {
+      "handle": "yamota-run-home-use-treadmill-1",
+      "title": "Yamota Foldable Home Use Treadmill",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9ca48a22-ac0c-428a-8bc7-d17d09ab4093.png?v=1770321936",
+      "units_sold": 12,
+      "revenue": 660000,
+      "tags": [
+        "Health & Fitness",
+        "Treadmills"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 65000,
+            "sale_price": 55000,
+            "percentage_off": 15
+          }
+        ],
+        "min_regular_price": 65000,
+        "max_regular_price": 65000,
+        "min_sale_price": 55000,
+        "max_sale_price": 55000
+      },
+      "rank": 2
+    },
+    {
+      "handle": "full-body-massage-vibration-plate-1",
+      "title": "Full Body Massage Vibration Plate",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1efc84ab-5dea-493a-8117-cf8257c10a40.jpg?v=1770321005",
+      "units_sold": 4,
+      "revenue": 71600,
+      "tags": [
+        "Accessories",
+        "Health & Fitness",
+        "Massagers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 25000,
+            "sale_price": 17900,
+            "percentage_off": 28
+          }
+        ],
+        "min_regular_price": 25000,
+        "max_regular_price": 25000,
+        "min_sale_price": 17900,
+        "max_sale_price": 17900
+      },
+      "rank": 3
+    },
+    {
       "handle": "3-in-1-foldable-pilates-reformer-board",
       "title": "3-in-1 Foldable Pilates Reformer Fitness Board",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_09a92f99-84a8-4252-9dad-77d7a5c4ac5f.jpg?v=1765169858",
@@ -160,7 +213,7 @@
         "min_sale_price": 12800,
         "max_sale_price": 12800
       },
-      "rank": 2
+      "rank": 4
     },
     {
       "handle": "solerenew-electric-callus-remover",
@@ -185,7 +238,7 @@
         "min_sale_price": 2900,
         "max_sale_price": 2900
       },
-      "rank": 3
+      "rank": 5
     },
     {
       "handle": "drtec-6-head-massage-gun",
@@ -212,7 +265,7 @@
         "min_sale_price": 5800,
         "max_sale_price": 5800
       },
-      "rank": 4
+      "rank": 6
     },
     {
       "handle": "prexo-dunkmaster-outdoor-adjustable-basketball-hoop-system",
@@ -236,59 +289,6 @@
         "max_regular_price": 58500,
         "min_sale_price": 47500,
         "max_sale_price": 47500
-      },
-      "rank": 5
-    },
-    {
-      "handle": "full-body-massage-vibration-plate-1",
-      "title": "Full Body Massage Vibration Plate",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1efc84ab-5dea-493a-8117-cf8257c10a40.jpg?v=1770321005",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Accessories",
-        "Health & Fitness",
-        "Massagers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 25000,
-            "sale_price": 17900,
-            "percentage_off": 28
-          }
-        ],
-        "min_regular_price": 25000,
-        "max_regular_price": 25000,
-        "min_sale_price": 17900,
-        "max_sale_price": 17900
-      },
-      "rank": 6
-    },
-    {
-      "handle": "yamota-run-home-use-treadmill-1",
-      "title": "Yamota ActiveHome Treadmill",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9ca48a22-ac0c-428a-8bc7-d17d09ab4093.png?v=1770321936",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Health & Fitness",
-        "Treadmills"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 65000,
-            "sale_price": 55000,
-            "percentage_off": 15
-          }
-        ],
-        "min_regular_price": 65000,
-        "max_regular_price": 65000,
-        "min_sale_price": 55000,
-        "max_sale_price": 55000
       },
       "rank": 7
     },
@@ -1187,6 +1187,33 @@
   ],
   "Accessories": [
     {
+      "handle": "full-body-massage-vibration-plate-1",
+      "title": "Full Body Massage Vibration Plate",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1efc84ab-5dea-493a-8117-cf8257c10a40.jpg?v=1770321005",
+      "units_sold": 4,
+      "revenue": 71600,
+      "tags": [
+        "Accessories",
+        "Health & Fitness",
+        "Massagers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 25000,
+            "sale_price": 17900,
+            "percentage_off": 28
+          }
+        ],
+        "min_regular_price": 25000,
+        "max_regular_price": 25000,
+        "min_sale_price": 17900,
+        "max_sale_price": 17900
+      },
+      "rank": 1
+    },
+    {
       "handle": "drtec-6-head-massage-gun",
       "title": "Drtec 6 Head Massage Gun",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_15f45371-45c4-436d-9ee0-f29d110db509.png?v=1770321004",
@@ -1210,39 +1237,39 @@
         "max_regular_price": 6500,
         "min_sale_price": 5800,
         "max_sale_price": 5800
-      },
-      "rank": 1
-    },
-    {
-      "handle": "full-body-massage-vibration-plate-1",
-      "title": "Full Body Massage Vibration Plate",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1efc84ab-5dea-493a-8117-cf8257c10a40.jpg?v=1770321005",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Accessories",
-        "Health & Fitness",
-        "Massagers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 25000,
-            "sale_price": 17900,
-            "percentage_off": 28
-          }
-        ],
-        "min_regular_price": 25000,
-        "max_regular_price": 25000,
-        "min_sale_price": 17900,
-        "max_sale_price": 17900
       },
       "rank": 2
     }
   ],
   "Massagers": [
     {
+      "handle": "full-body-massage-vibration-plate-1",
+      "title": "Full Body Massage Vibration Plate",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1efc84ab-5dea-493a-8117-cf8257c10a40.jpg?v=1770321005",
+      "units_sold": 4,
+      "revenue": 71600,
+      "tags": [
+        "Accessories",
+        "Health & Fitness",
+        "Massagers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 25000,
+            "sale_price": 17900,
+            "percentage_off": 28
+          }
+        ],
+        "min_regular_price": 25000,
+        "max_regular_price": 25000,
+        "min_sale_price": 17900,
+        "max_sale_price": 17900
+      },
+      "rank": 1
+    },
+    {
       "handle": "drtec-6-head-massage-gun",
       "title": "Drtec 6 Head Massage Gun",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_15f45371-45c4-436d-9ee0-f29d110db509.png?v=1770321004",
@@ -1266,33 +1293,6 @@
         "max_regular_price": 6500,
         "min_sale_price": 5800,
         "max_sale_price": 5800
-      },
-      "rank": 1
-    },
-    {
-      "handle": "full-body-massage-vibration-plate-1",
-      "title": "Full Body Massage Vibration Plate",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1efc84ab-5dea-493a-8117-cf8257c10a40.jpg?v=1770321005",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Accessories",
-        "Health & Fitness",
-        "Massagers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 25000,
-            "sale_price": 17900,
-            "percentage_off": 28
-          }
-        ],
-        "min_regular_price": 25000,
-        "max_regular_price": 25000,
-        "min_sale_price": 17900,
-        "max_sale_price": 17900
       },
       "rank": 2
     }
@@ -1351,6 +1351,32 @@
       "rank": 1
     },
     {
+      "handle": "yamota-run-home-use-treadmill-1",
+      "title": "Yamota Foldable Home Use Treadmill",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9ca48a22-ac0c-428a-8bc7-d17d09ab4093.png?v=1770321936",
+      "units_sold": 12,
+      "revenue": 660000,
+      "tags": [
+        "Health & Fitness",
+        "Treadmills"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 65000,
+            "sale_price": 55000,
+            "percentage_off": 15
+          }
+        ],
+        "min_regular_price": 65000,
+        "max_regular_price": 65000,
+        "min_sale_price": 55000,
+        "max_sale_price": 55000
+      },
+      "rank": 2
+    },
+    {
       "handle": "kemilng-m7-pro-treadmill",
       "title": "Foldable Multi-functional Fitness Treadmill",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f01814c2-3fb8-45f2-a734-61581b4be8ff.jpg?v=1765387264",
@@ -1372,32 +1398,6 @@
         "max_regular_price": 99000,
         "min_sale_price": 89000,
         "max_sale_price": 89000
-      },
-      "rank": 2
-    },
-    {
-      "handle": "yamota-run-home-use-treadmill-1",
-      "title": "Yamota ActiveHome Treadmill",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9ca48a22-ac0c-428a-8bc7-d17d09ab4093.png?v=1770321936",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Health & Fitness",
-        "Treadmills"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 65000,
-            "sale_price": 55000,
-            "percentage_off": 15
-          }
-        ],
-        "min_regular_price": 65000,
-        "max_regular_price": 65000,
-        "min_sale_price": 55000,
-        "max_sale_price": 55000
       },
       "rank": 3
     }

@@ -25,6 +25,32 @@
     "rank": 1
   },
   {
+    "handle": "yamota-run-home-use-treadmill-1",
+    "title": "Yamota Foldable Home Use Treadmill",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9ca48a22-ac0c-428a-8bc7-d17d09ab4093.png?v=1770321936",
+    "units_sold": 12,
+    "revenue": 660000,
+    "tags": [
+      "Health & Fitness",
+      "Treadmills"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 65000,
+          "sale_price": 55000,
+          "percentage_off": 15
+        }
+      ],
+      "min_regular_price": 65000,
+      "max_regular_price": 65000,
+      "min_sale_price": 55000,
+      "max_sale_price": 55000
+    },
+    "rank": 2
+  },
+  {
     "handle": "kemilng-m7-pro-treadmill",
     "title": "Foldable Multi-functional Fitness Treadmill",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f01814c2-3fb8-45f2-a734-61581b4be8ff.jpg?v=1765387264",
@@ -46,32 +72,6 @@
       "max_regular_price": 99000,
       "min_sale_price": 89000,
       "max_sale_price": 89000
-    },
-    "rank": 2
-  },
-  {
-    "handle": "yamota-run-home-use-treadmill-1",
-    "title": "Yamota ActiveHome Treadmill",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9ca48a22-ac0c-428a-8bc7-d17d09ab4093.png?v=1770321936",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Health & Fitness",
-      "Treadmills"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 65000,
-          "sale_price": 55000,
-          "percentage_off": 15
-        }
-      ],
-      "min_regular_price": 65000,
-      "max_regular_price": 65000,
-      "min_sale_price": 55000,
-      "max_sale_price": 55000
     },
     "rank": 3
   }
