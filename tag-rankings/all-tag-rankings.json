@@ -60,8 +60,8 @@
       "handle": "beatbox-pro™-smart-music-boxing-trainer",
       "title": "BeatBox Pro™ – Smart Music Boxing Trainer",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_93dad83f-07a9-4d86-90bb-e32cf8f6e5fd.webp?v=1751911224",
-      "units_sold": 96,
-      "revenue": 27360000,
+      "units_sold": 102,
+      "revenue": 27419400,
       "tags": [
         "Fitness Equipment",
         "Health & Fitness"
@@ -141,8 +141,8 @@
       "handle": "beatbox-pro™-smart-music-boxing-trainer",
       "title": "BeatBox Pro™ – Smart Music Boxing Trainer",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_93dad83f-07a9-4d86-90bb-e32cf8f6e5fd.webp?v=1751911224",
-      "units_sold": 96,
-      "revenue": 27360000,
+      "units_sold": 102,
+      "revenue": 27419400,
       "tags": [
         "Fitness Equipment",
         "Health & Fitness"
@@ -162,6 +162,33 @@
         "max_sale_price": 9900
       },
       "rank": 1
+    },
+    {
+      "handle": "full-body-massage-vibration-plate-1",
+      "title": "Prexo PulsePro™ - Full Body Massage Vibration Plate",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1efc84ab-5dea-493a-8117-cf8257c10a40.jpg?v=1770321005",
+      "units_sold": 28,
+      "revenue": 309200,
+      "tags": [
+        "Accessories",
+        "Health & Fitness",
+        "Massagers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 15000,
+            "sale_price": 9900,
+            "percentage_off": 34
+          }
+        ],
+        "min_regular_price": 15000,
+        "max_regular_price": 15000,
+        "min_sale_price": 9900,
+        "max_sale_price": 9900
+      },
+      "rank": 2
     },
     {
       "handle": "yamota-run-home-use-treadmill-1",
@@ -187,33 +214,6 @@
         "max_regular_price": 65000,
         "min_sale_price": 55000,
         "max_sale_price": 55000
-      },
-      "rank": 2
-    },
-    {
-      "handle": "full-body-massage-vibration-plate-1",
-      "title": "Prexo PulsePro™ - Full Body Massage Vibration Plate",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1efc84ab-5dea-493a-8117-cf8257c10a40.jpg?v=1770321005",
-      "units_sold": 5,
-      "revenue": 81500,
-      "tags": [
-        "Accessories",
-        "Health & Fitness",
-        "Massagers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 15000,
-            "sale_price": 9900,
-            "percentage_off": 34
-          }
-        ],
-        "min_regular_price": 15000,
-        "max_regular_price": 15000,
-        "min_sale_price": 9900,
-        "max_sale_price": 9900
       },
       "rank": 3
     },
@@ -1218,8 +1218,8 @@
       "handle": "full-body-massage-vibration-plate-1",
       "title": "Prexo PulsePro™ - Full Body Massage Vibration Plate",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1efc84ab-5dea-493a-8117-cf8257c10a40.jpg?v=1770321005",
-      "units_sold": 5,
-      "revenue": 81500,
+      "units_sold": 28,
+      "revenue": 309200,
       "tags": [
         "Accessories",
         "Health & Fitness",
@@ -1274,8 +1274,8 @@
       "handle": "full-body-massage-vibration-plate-1",
       "title": "Prexo PulsePro™ - Full Body Massage Vibration Plate",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1efc84ab-5dea-493a-8117-cf8257c10a40.jpg?v=1770321005",
-      "units_sold": 5,
-      "revenue": 81500,
+      "units_sold": 28,
+      "revenue": 309200,
       "tags": [
         "Accessories",
         "Health & Fitness",
