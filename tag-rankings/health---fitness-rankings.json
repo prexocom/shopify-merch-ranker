@@ -13,15 +13,15 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 14600,
-          "sale_price": 10500,
-          "percentage_off": 28
+          "regular_price": 15000,
+          "sale_price": 9900,
+          "percentage_off": 34
         }
       ],
-      "min_regular_price": 14600,
-      "max_regular_price": 14600,
-      "min_sale_price": 10500,
-      "max_sale_price": 10500
+      "min_regular_price": 15000,
+      "max_regular_price": 15000,
+      "min_sale_price": 9900,
+      "max_sale_price": 9900
     },
     "rank": 1
   },
@@ -32,6 +32,7 @@
     "units_sold": 12,
     "revenue": 660000,
     "tags": [
+      "Fitness Equipment",
       "Health & Fitness",
       "Treadmills"
     ],
@@ -53,10 +54,10 @@
   },
   {
     "handle": "full-body-massage-vibration-plate-1",
-    "title": "Full Body Massage Vibration Plate",
+    "title": "Prexo PulsePro™ - Full Body Massage Vibration Plate",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1efc84ab-5dea-493a-8117-cf8257c10a40.jpg?v=1770321005",
-    "units_sold": 4,
-    "revenue": 71600,
+    "units_sold": 5,
+    "revenue": 81500,
     "tags": [
       "Accessories",
       "Health & Fitness",
@@ -66,15 +67,15 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 25000,
-          "sale_price": 17900,
-          "percentage_off": 28
+          "regular_price": 15000,
+          "sale_price": 9900,
+          "percentage_off": 34
         }
       ],
-      "min_regular_price": 25000,
-      "max_regular_price": 25000,
-      "min_sale_price": 17900,
-      "max_sale_price": 17900
+      "min_regular_price": 15000,
+      "max_regular_price": 15000,
+      "min_sale_price": 9900,
+      "max_sale_price": 9900
     },
     "rank": 3
   },

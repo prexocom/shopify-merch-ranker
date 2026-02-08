@@ -13,17 +13,44 @@
       "variants": [
         {
           "title": "Default Title",
-          "regular_price": 14600,
-          "sale_price": 10500,
-          "percentage_off": 28
+          "regular_price": 15000,
+          "sale_price": 9900,
+          "percentage_off": 34
         }
       ],
-      "min_regular_price": 14600,
-      "max_regular_price": 14600,
-      "min_sale_price": 10500,
-      "max_sale_price": 10500
+      "min_regular_price": 15000,
+      "max_regular_price": 15000,
+      "min_sale_price": 9900,
+      "max_sale_price": 9900
     },
     "rank": 1
+  },
+  {
+    "handle": "yamota-run-home-use-treadmill-1",
+    "title": "Yamota Foldable Home Use Treadmill",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_9ca48a22-ac0c-428a-8bc7-d17d09ab4093.png?v=1770321936",
+    "units_sold": 12,
+    "revenue": 660000,
+    "tags": [
+      "Fitness Equipment",
+      "Health & Fitness",
+      "Treadmills"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 65000,
+          "sale_price": 55000,
+          "percentage_off": 15
+        }
+      ],
+      "min_regular_price": 65000,
+      "max_regular_price": 65000,
+      "min_sale_price": 55000,
+      "max_sale_price": 55000
+    },
+    "rank": 2
   },
   {
     "handle": "3-in-1-foldable-pilates-reformer-board",
@@ -49,6 +76,6 @@
       "min_sale_price": 12800,
       "max_sale_price": 12800
     },
-    "rank": 2
+    "rank": 3
   }
 ]
