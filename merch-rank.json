@@ -21,18 +21,18 @@
     "score": 0.6544
   },
   {
+    "handle": "beatbox-pro™-smart-music-boxing-trainer",
+    "in_stock": true,
+    "units_sold": 102,
+    "revenue": 27419400,
+    "score": 0.5889
+  },
+  {
     "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
     "in_stock": true,
     "units_sold": 93,
     "revenue": 28838000,
     "score": 0.5879
-  },
-  {
-    "handle": "beatbox-pro™-smart-music-boxing-trainer",
-    "in_stock": true,
-    "units_sold": 96,
-    "revenue": 27360000,
-    "score": 0.5772
   },
   {
     "handle": "kemilng-m7-pro-treadmill",
@@ -47,6 +47,13 @@
     "units_sold": 26,
     "revenue": 4275700,
     "score": 0.1948
+  },
+  {
+    "handle": "full-body-massage-vibration-plate-1",
+    "in_stock": true,
+    "units_sold": 28,
+    "revenue": 309200,
+    "score": 0.1549
   },
   {
     "handle": "yamota-run-home-use-treadmill-1",
@@ -96,13 +103,6 @@
     "units_sold": 3,
     "revenue": 275600,
     "score": 0.1085
-  },
-  {
-    "handle": "full-body-massage-vibration-plate-1",
-    "in_stock": true,
-    "units_sold": 4,
-    "revenue": 71600,
-    "score": 0.1081
   },
   {
     "handle": "ufo-raindrop-humidifier",
