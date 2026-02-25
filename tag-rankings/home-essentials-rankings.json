@@ -1,0 +1,27 @@
+[
+  {
+    "handle": "portable-clothes-dryer",
+    "title": "Portable Clothes Dryer",
+    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_498db854-f2d4-4002-84d9-596a9c089c53.webp?v=1772001711",
+    "units_sold": 0,
+    "revenue": 0,
+    "tags": [
+      "Home Essentials"
+    ],
+    "pricing": {
+      "variants": [
+        {
+          "title": "Default Title",
+          "regular_price": 13000,
+          "sale_price": 9900,
+          "percentage_off": 24
+        }
+      ],
+      "min_regular_price": 13000,
+      "max_regular_price": 13000,
+      "min_sale_price": 9900,
+      "max_sale_price": 9900
+    },
+    "rank": 1
+  }
+]
