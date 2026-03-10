@@ -4,133 +4,77 @@
     "in_stock": true,
     "units_sold": 133,
     "revenue": 51765500,
-    "score": 0.9133
-  },
-  {
-    "handle": "flexstride™-portable-walking-running-treadmill",
-    "in_stock": true,
-    "units_sold": 49,
-    "revenue": 54632000,
-    "score": 0.7902
+    "score": 0.9433
   },
   {
     "handle": "lumifan-360-light-fan",
     "in_stock": true,
-    "units_sold": 163,
-    "revenue": 23168000,
-    "score": 0.6544
+    "units_sold": 164,
+    "revenue": 23174500,
+    "score": 0.6686
   },
   {
     "handle": "beatbox-pro™-smart-music-boxing-trainer",
     "in_stock": true,
     "units_sold": 102,
     "revenue": 27419400,
-    "score": 0.5889
-  },
-  {
-    "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
-    "in_stock": true,
-    "units_sold": 93,
-    "revenue": 28838000,
-    "score": 0.5879
+    "score": 0.6044
   },
   {
     "handle": "kemilng-m7-pro-treadmill",
     "in_stock": true,
     "units_sold": 7,
     "revenue": 7527000,
-    "score": 0.1955
+    "score": 0.2
   },
   {
     "handle": "lumifan™-pro",
     "in_stock": true,
     "units_sold": 26,
     "revenue": 4275700,
-    "score": 0.1948
+    "score": 0.1971
   },
   {
     "handle": "full-body-massage-vibration-plate-1",
     "in_stock": true,
     "units_sold": 29,
     "revenue": 319100,
-    "score": 0.1569
+    "score": 0.1567
   },
   {
     "handle": "yamota-run-home-use-treadmill-1",
     "in_stock": true,
     "units_sold": 12,
     "revenue": 660000,
-    "score": 0.1293
+    "score": 0.1296
   },
   {
     "handle": "automatic-clamping-car-phone-holder",
     "in_stock": true,
     "units_sold": 14,
     "revenue": 54600,
-    "score": 0.1264
-  },
-  {
-    "handle": "4k-triple-lens-solar-security-light-camera-360-smart-protection",
-    "in_stock": true,
-    "units_sold": 6,
-    "revenue": 1370000,
-    "score": 0.1261
+    "score": 0.1262
   },
   {
     "handle": "airoluxe-smart-ceiling-light-fan",
     "in_stock": true,
     "units_sold": 11,
     "revenue": 38500,
-    "score": 0.1207
+    "score": 0.1206
   },
   {
     "handle": "keyfold-pro-foldable-bluetooth-keyboard",
     "in_stock": true,
     "units_sold": 4,
     "revenue": 321200,
-    "score": 0.1109
+    "score": 0.111
   },
   {
     "handle": "prexobeam-mini-portable-smart-projector",
     "in_stock": true,
     "units_sold": 2,
     "revenue": 620000,
-    "score": 0.1105
-  },
-  {
-    "handle": "3-in-1-foldable-pilates-reformer-board",
-    "in_stock": true,
-    "units_sold": 3,
-    "revenue": 275600,
-    "score": 0.1085
-  },
-  {
-    "handle": "ufo-raindrop-humidifier",
-    "in_stock": true,
-    "units_sold": 2,
-    "revenue": 276000,
-    "score": 0.1067
-  },
-  {
-    "handle": "solarsecure-360-full-color-night-vision-security-camera",
-    "in_stock": true,
-    "units_sold": 1,
-    "revenue": 445000,
-    "score": 0.1067
-  },
-  {
-    "handle": "solerenew-electric-callus-remover",
-    "in_stock": true,
-    "units_sold": 3,
-    "revenue": 9900,
-    "score": 0.1056
-  },
-  {
-    "handle": "bonfire-humidifier-1",
-    "in_stock": true,
-    "units_sold": 1,
-    "revenue": 135000,
-    "score": 0.1033
+    "score": 0.1108
   },
   {
     "handle": "telesin-magnetic-funshot-camera-phone-grip-holder",
@@ -141,27 +85,6 @@
   },
   {
     "handle": "astronaut-galaxy-projector-your-cosmic-escape",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "drtec-6-head-massage-gun",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "prexo-dunkmaster-outdoor-adjustable-basketball-hoop-system",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "fireplace-flame-air-humidifier",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
@@ -196,20 +119,6 @@
     "score": 0.1
   },
   {
-    "handle": "jellyfish-humidifier",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "mini-gps-vehicle-tracker-magnetic-anti-theft-locator",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
     "handle": "portable-clothes-dryer",
     "in_stock": true,
     "units_sold": 0,
@@ -218,34 +127,6 @@
   },
   {
     "handle": "electric-car-jack-kit-5-ton",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "powerology-32-android-smart-screen",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "powerology-360-security-camera-dual-lens",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "volcano-essential-oil-diffuser",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "toauto-melting-furnace",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
@@ -266,21 +147,7 @@
     "score": 0.1
   },
   {
-    "handle": "under-cabinet-led-motion-sensor-light-bar",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
     "handle": "vsonic-mars-levitating-magnetic-speaker",
-    "in_stock": true,
-    "units_sold": 0,
-    "revenue": 0,
-    "score": 0.1
-  },
-  {
-    "handle": "zero-gravity-full-body-massage-chair",
     "in_stock": true,
     "units_sold": 0,
     "revenue": 0,
