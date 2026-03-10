@@ -1,436 +1,11 @@
 {
-  "Babies": [
-    {
-      "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
-      "title": "3-in-1 Deluxe Baby Bassinet – Sleep, Soothe & Grow",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/20260129_0008_Peaceful_Baby_Swing_remix_01kg36ypzqf3nsay1ew18z75hs.png?v=1769635025",
-      "units_sold": 93,
-      "revenue": 28838000,
-      "tags": [
-        "Babies",
-        "Baby Essentials"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 18500,
-            "sale_price": 14900,
-            "percentage_off": 19
-          }
-        ],
-        "min_regular_price": 18500,
-        "max_regular_price": 18500,
-        "min_sale_price": 14900,
-        "max_sale_price": 14900
-      },
-      "rank": 1
-    }
-  ],
-  "Baby Essentials": [
-    {
-      "handle": "3-in-1-deluxe-baby-bassinet-sleep-soothe-grow",
-      "title": "3-in-1 Deluxe Baby Bassinet – Sleep, Soothe & Grow",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/20260129_0008_Peaceful_Baby_Swing_remix_01kg36ypzqf3nsay1ew18z75hs.png?v=1769635025",
-      "units_sold": 93,
-      "revenue": 28838000,
-      "tags": [
-        "Babies",
-        "Baby Essentials"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 18500,
-            "sale_price": 14900,
-            "percentage_off": 19
-          }
-        ],
-        "min_regular_price": 18500,
-        "max_regular_price": 18500,
-        "min_sale_price": 14900,
-        "max_sale_price": 14900
-      },
-      "rank": 1
-    }
-  ],
-  "Fitness Equipment": [
-    {
-      "handle": "beatbox-pro™-smart-music-boxing-trainer",
-      "title": "BeatBox Pro™ – Smart Music Boxing Trainer",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_93dad83f-07a9-4d86-90bb-e32cf8f6e5fd.webp?v=1751911224",
-      "units_sold": 102,
-      "revenue": 27419400,
-      "tags": [
-        "Fitness Equipment",
-        "Health & Fitness"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 15000,
-            "sale_price": 9900,
-            "percentage_off": 34
-          }
-        ],
-        "min_regular_price": 15000,
-        "max_regular_price": 15000,
-        "min_sale_price": 9900,
-        "max_sale_price": 9900
-      },
-      "rank": 1
-    },
-    {
-      "handle": "yamota-run-home-use-treadmill-1",
-      "title": "Yamota Foldable Home Use Treadmill",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ee9229e6-e5f9-4680-b0a4-17164e66a907.png?v=1771403328",
-      "units_sold": 12,
-      "revenue": 660000,
-      "tags": [
-        "Fitness Equipment",
-        "Health & Fitness",
-        "Treadmills"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 65000,
-            "sale_price": 55000,
-            "percentage_off": 15
-          }
-        ],
-        "min_regular_price": 65000,
-        "max_regular_price": 65000,
-        "min_sale_price": 55000,
-        "max_sale_price": 55000
-      },
-      "rank": 2
-    },
-    {
-      "handle": "3-in-1-foldable-pilates-reformer-board",
-      "title": "3-in-1 Foldable Pilates Reformer Fitness Board",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_09a92f99-84a8-4252-9dad-77d7a5c4ac5f.jpg?v=1765169858",
-      "units_sold": 3,
-      "revenue": 275600,
-      "tags": [
-        "Fitness Equipment",
-        "Health & Fitness"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 17000,
-            "sale_price": 12800,
-            "percentage_off": 25
-          }
-        ],
-        "min_regular_price": 17000,
-        "max_regular_price": 17000,
-        "min_sale_price": 12800,
-        "max_sale_price": 12800
-      },
-      "rank": 3
-    }
-  ],
-  "Health & Fitness": [
-    {
-      "handle": "beatbox-pro™-smart-music-boxing-trainer",
-      "title": "BeatBox Pro™ – Smart Music Boxing Trainer",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_93dad83f-07a9-4d86-90bb-e32cf8f6e5fd.webp?v=1751911224",
-      "units_sold": 102,
-      "revenue": 27419400,
-      "tags": [
-        "Fitness Equipment",
-        "Health & Fitness"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 15000,
-            "sale_price": 9900,
-            "percentage_off": 34
-          }
-        ],
-        "min_regular_price": 15000,
-        "max_regular_price": 15000,
-        "min_sale_price": 9900,
-        "max_sale_price": 9900
-      },
-      "rank": 1
-    },
-    {
-      "handle": "full-body-massage-vibration-plate-1",
-      "title": "Prexo PulsePro™ - Full Body Massage Vibration Plate",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1efc84ab-5dea-493a-8117-cf8257c10a40.jpg?v=1770321005",
-      "units_sold": 29,
-      "revenue": 319100,
-      "tags": [
-        "Accessories",
-        "Health & Fitness",
-        "Massagers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 17000,
-            "sale_price": 12000,
-            "percentage_off": 29
-          }
-        ],
-        "min_regular_price": 17000,
-        "max_regular_price": 17000,
-        "min_sale_price": 12000,
-        "max_sale_price": 12000
-      },
-      "rank": 2
-    },
-    {
-      "handle": "yamota-run-home-use-treadmill-1",
-      "title": "Yamota Foldable Home Use Treadmill",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ee9229e6-e5f9-4680-b0a4-17164e66a907.png?v=1771403328",
-      "units_sold": 12,
-      "revenue": 660000,
-      "tags": [
-        "Fitness Equipment",
-        "Health & Fitness",
-        "Treadmills"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 65000,
-            "sale_price": 55000,
-            "percentage_off": 15
-          }
-        ],
-        "min_regular_price": 65000,
-        "max_regular_price": 65000,
-        "min_sale_price": 55000,
-        "max_sale_price": 55000
-      },
-      "rank": 3
-    },
-    {
-      "handle": "3-in-1-foldable-pilates-reformer-board",
-      "title": "3-in-1 Foldable Pilates Reformer Fitness Board",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_09a92f99-84a8-4252-9dad-77d7a5c4ac5f.jpg?v=1765169858",
-      "units_sold": 3,
-      "revenue": 275600,
-      "tags": [
-        "Fitness Equipment",
-        "Health & Fitness"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 17000,
-            "sale_price": 12800,
-            "percentage_off": 25
-          }
-        ],
-        "min_regular_price": 17000,
-        "max_regular_price": 17000,
-        "min_sale_price": 12800,
-        "max_sale_price": 12800
-      },
-      "rank": 4
-    },
-    {
-      "handle": "solerenew-electric-callus-remover",
-      "title": "SoleRenew™ – Electric Callus Remover & Foot Care Wand",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_70b110d2-4213-4e6b-8f0c-121293dbfc43.png?v=1749641707",
-      "units_sold": 3,
-      "revenue": 9900,
-      "tags": [
-        "Health & Fitness"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 4300,
-            "sale_price": 2900,
-            "percentage_off": 33
-          }
-        ],
-        "min_regular_price": 4300,
-        "max_regular_price": 4300,
-        "min_sale_price": 2900,
-        "max_sale_price": 2900
-      },
-      "rank": 5
-    },
-    {
-      "handle": "drtec-6-head-massage-gun",
-      "title": "Drtec 6 Head Massage Gun",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_15f45371-45c4-436d-9ee0-f29d110db509.png?v=1770321004",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Accessories",
-        "Health & Fitness",
-        "Massagers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 6500,
-            "sale_price": 5800,
-            "percentage_off": 11
-          }
-        ],
-        "min_regular_price": 6500,
-        "max_regular_price": 6500,
-        "min_sale_price": 5800,
-        "max_sale_price": 5800
-      },
-      "rank": 6
-    },
-    {
-      "handle": "prexo-dunkmaster-outdoor-adjustable-basketball-hoop-system",
-      "title": "DunkMaster – Adjustable Basketball Hoop System",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/K_1.png?v=1749641675",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Health & Fitness"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 58500,
-            "sale_price": 47500,
-            "percentage_off": 19
-          }
-        ],
-        "min_regular_price": 58500,
-        "max_regular_price": 58500,
-        "min_sale_price": 47500,
-        "max_sale_price": 47500
-      },
-      "rank": 7
-    },
-    {
-      "handle": "zero-gravity-full-body-massage-chair",
-      "title": "Zero Gravity Full Body Massage Chair",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_23510728-5f8c-49a1-aaf9-f41ca508cf6a.jpg?v=1749641658",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Health & Fitness"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 265000,
-            "sale_price": 245000,
-            "percentage_off": 8
-          }
-        ],
-        "min_regular_price": 265000,
-        "max_regular_price": 265000,
-        "min_sale_price": 245000,
-        "max_sale_price": 245000
-      },
-      "rank": 8
-    }
-  ],
-  "Security Cameras": [
-    {
-      "handle": "4k-triple-lens-solar-security-light-camera-360-smart-protection",
-      "title": "4K Triple-Lens Solar Security Light Camera",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_89ef438a-e4ec-428e-92dd-bbcd01f55a64.jpg?v=1764480074",
-      "units_sold": 6,
-      "revenue": 1370000,
-      "tags": [
-        "Security Cameras"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 23000,
-            "sale_price": 17500,
-            "percentage_off": 24
-          }
-        ],
-        "min_regular_price": 23000,
-        "max_regular_price": 23000,
-        "min_sale_price": 17500,
-        "max_sale_price": 17500
-      },
-      "rank": 1
-    },
-    {
-      "handle": "solarsecure-360-full-color-night-vision-security-camera",
-      "title": "SolarSecure 360 – Full-Color Night Vision Security Camera",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_df6ee820-3071-4a55-88de-4472b6b10155.webp?v=1749641793",
-      "units_sold": 1,
-      "revenue": 445000,
-      "tags": [
-        "Security Cameras"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 23700,
-            "sale_price": 18000,
-            "percentage_off": 24
-          }
-        ],
-        "min_regular_price": 23700,
-        "max_regular_price": 23700,
-        "min_sale_price": 18000,
-        "max_sale_price": 18000
-      },
-      "rank": 2
-    },
-    {
-      "handle": "powerology-360-security-camera-dual-lens",
-      "title": "Powerology 360° Security Camera (Dual-Lens)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d35489d0-2abf-49a8-8df0-775493b8c426.webp?v=1760504093",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Powerology",
-        "Security Cameras"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 28500,
-            "sale_price": 25000,
-            "percentage_off": 12
-          }
-        ],
-        "min_regular_price": 28500,
-        "max_regular_price": 28500,
-        "min_sale_price": 25000,
-        "max_sale_price": 25000
-      },
-      "rank": 3
-    }
-  ],
   "Home Decor": [
     {
       "handle": "lumifan-360-light-fan",
       "title": "LumiFan™ – Transform Your Room in Minutes",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3309b47252b00d69970a66cfd5863891_1_1.png?v=1757943596",
-      "units_sold": 163,
-      "revenue": 23168000,
+      "units_sold": 164,
+      "revenue": 23174500,
       "tags": [
         "Home Decor",
         "Lighting"
@@ -504,58 +79,6 @@
       "rank": 3
     },
     {
-      "handle": "ufo-raindrop-humidifier",
-      "title": "Aquamist Raindrop Humidifier",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/S9cd93e459b7c4e9e939ad6a6cd748d6av.jpg?v=1749642028",
-      "units_sold": 2,
-      "revenue": 276000,
-      "tags": [
-        "Home Decor",
-        "Humidifiers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 6600,
-            "sale_price": 5000,
-            "percentage_off": 24
-          }
-        ],
-        "min_regular_price": 6600,
-        "max_regular_price": 6600,
-        "min_sale_price": 5000,
-        "max_sale_price": 5000
-      },
-      "rank": 4
-    },
-    {
-      "handle": "bonfire-humidifier-1",
-      "title": "Bonfire Flame Effect Humidifier",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/Pinnangare5.jpg?v=1749642009",
-      "units_sold": 1,
-      "revenue": 135000,
-      "tags": [
-        "Home Decor",
-        "Humidifiers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 6400,
-            "sale_price": 4800,
-            "percentage_off": 25
-          }
-        ],
-        "min_regular_price": 6400,
-        "max_regular_price": 6400,
-        "min_sale_price": 4800,
-        "max_sale_price": 4800
-      },
-      "rank": 5
-    },
-    {
       "handle": "astronaut-galaxy-projector-your-cosmic-escape",
       "title": "Astronaut Galaxy Projector – Your Cosmic Escape",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5c9aa43b-e802-4398-9ef3-7b81ee6d7907.jpg?v=1754570916",
@@ -579,33 +102,7 @@
         "min_sale_price": 5300,
         "max_sale_price": 5300
       },
-      "rank": 6
-    },
-    {
-      "handle": "fireplace-flame-air-humidifier",
-      "title": "Fireplace Flame Air Humidifier",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_04fc974e-e1b3-429e-8fac-e921322ccc57.jpg?v=1760189170",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Home Decor",
-        "Humidifiers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 6000,
-            "sale_price": 5200,
-            "percentage_off": 13
-          }
-        ],
-        "min_regular_price": 6000,
-        "max_regular_price": 6000,
-        "min_sale_price": 5200,
-        "max_sale_price": 5200
-      },
-      "rank": 7
+      "rank": 4
     },
     {
       "handle": "galaxy-star-nebula-projector-with-bluetooth-speaker",
@@ -631,59 +128,7 @@
         "min_sale_price": 5500,
         "max_sale_price": 5500
       },
-      "rank": 8
-    },
-    {
-      "handle": "jellyfish-humidifier",
-      "title": "Jellyfish Humidifier",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d095ee78-7e1b-4f49-9af5-2ef8be3797c0.jpg?v=1760191137",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Home Decor",
-        "Humidifiers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 6500,
-            "sale_price": 5400,
-            "percentage_off": 17
-          }
-        ],
-        "min_regular_price": 6500,
-        "max_regular_price": 6500,
-        "min_sale_price": 5400,
-        "max_sale_price": 5400
-      },
-      "rank": 9
-    },
-    {
-      "handle": "volcano-essential-oil-diffuser",
-      "title": "Prexo Volcano Humidifier",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/volcano-effect-aroma-diffuser-3.jpg?v=1749641964",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Home Decor",
-        "Humidifiers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 6300,
-            "sale_price": 5200,
-            "percentage_off": 17
-          }
-        ],
-        "min_regular_price": 6300,
-        "max_regular_price": 6300,
-        "min_sale_price": 5200,
-        "max_sale_price": 5200
-      },
-      "rank": 10
+      "rank": 5
     },
     {
       "handle": "quicksand-painting-night-light",
@@ -708,33 +153,7 @@
         "min_sale_price": 7200,
         "max_sale_price": 7200
       },
-      "rank": 11
-    },
-    {
-      "handle": "under-cabinet-led-motion-sensor-light-bar",
-      "title": "Under-Cabinet LED Motion Sensor Light Bar",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_278262be-3fbc-4118-87ec-09db532370de.jpg?v=1761290715",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Home Decor",
-        "Lighting"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 2600,
-            "sale_price": 2200,
-            "percentage_off": 15
-          }
-        ],
-        "min_regular_price": 2600,
-        "max_regular_price": 2600,
-        "min_sale_price": 2200,
-        "max_sale_price": 2200
-      },
-      "rank": 12
+      "rank": 6
     }
   ],
   "Lighting": [
@@ -742,8 +161,8 @@
       "handle": "lumifan-360-light-fan",
       "title": "LumiFan™ – Transform Your Room in Minutes",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3309b47252b00d69970a66cfd5863891_1_1.png?v=1757943596",
-      "units_sold": 163,
-      "revenue": 23168000,
+      "units_sold": 164,
+      "revenue": 23174500,
       "tags": [
         "Home Decor",
         "Lighting"
@@ -866,164 +285,6 @@
         "max_sale_price": 19500
       },
       "rank": 5
-    },
-    {
-      "handle": "under-cabinet-led-motion-sensor-light-bar",
-      "title": "Under-Cabinet LED Motion Sensor Light Bar",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_278262be-3fbc-4118-87ec-09db532370de.jpg?v=1761290715",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Home Decor",
-        "Lighting"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 2600,
-            "sale_price": 2200,
-            "percentage_off": 15
-          }
-        ],
-        "min_regular_price": 2600,
-        "max_regular_price": 2600,
-        "min_sale_price": 2200,
-        "max_sale_price": 2200
-      },
-      "rank": 6
-    }
-  ],
-  "Humidifiers": [
-    {
-      "handle": "ufo-raindrop-humidifier",
-      "title": "Aquamist Raindrop Humidifier",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/S9cd93e459b7c4e9e939ad6a6cd748d6av.jpg?v=1749642028",
-      "units_sold": 2,
-      "revenue": 276000,
-      "tags": [
-        "Home Decor",
-        "Humidifiers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 6600,
-            "sale_price": 5000,
-            "percentage_off": 24
-          }
-        ],
-        "min_regular_price": 6600,
-        "max_regular_price": 6600,
-        "min_sale_price": 5000,
-        "max_sale_price": 5000
-      },
-      "rank": 1
-    },
-    {
-      "handle": "bonfire-humidifier-1",
-      "title": "Bonfire Flame Effect Humidifier",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/Pinnangare5.jpg?v=1749642009",
-      "units_sold": 1,
-      "revenue": 135000,
-      "tags": [
-        "Home Decor",
-        "Humidifiers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 6400,
-            "sale_price": 4800,
-            "percentage_off": 25
-          }
-        ],
-        "min_regular_price": 6400,
-        "max_regular_price": 6400,
-        "min_sale_price": 4800,
-        "max_sale_price": 4800
-      },
-      "rank": 2
-    },
-    {
-      "handle": "fireplace-flame-air-humidifier",
-      "title": "Fireplace Flame Air Humidifier",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_04fc974e-e1b3-429e-8fac-e921322ccc57.jpg?v=1760189170",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Home Decor",
-        "Humidifiers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 6000,
-            "sale_price": 5200,
-            "percentage_off": 13
-          }
-        ],
-        "min_regular_price": 6000,
-        "max_regular_price": 6000,
-        "min_sale_price": 5200,
-        "max_sale_price": 5200
-      },
-      "rank": 3
-    },
-    {
-      "handle": "jellyfish-humidifier",
-      "title": "Jellyfish Humidifier",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d095ee78-7e1b-4f49-9af5-2ef8be3797c0.jpg?v=1760191137",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Home Decor",
-        "Humidifiers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 6500,
-            "sale_price": 5400,
-            "percentage_off": 17
-          }
-        ],
-        "min_regular_price": 6500,
-        "max_regular_price": 6500,
-        "min_sale_price": 5400,
-        "max_sale_price": 5400
-      },
-      "rank": 4
-    },
-    {
-      "handle": "volcano-essential-oil-diffuser",
-      "title": "Prexo Volcano Humidifier",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/volcano-effect-aroma-diffuser-3.jpg?v=1749641964",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Home Decor",
-        "Humidifiers"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 6300,
-            "sale_price": 5200,
-            "percentage_off": 17
-          }
-        ],
-        "min_regular_price": 6300,
-        "max_regular_price": 6300,
-        "min_sale_price": 5200,
-        "max_sale_price": 5200
-      },
-      "rank": 5
     }
   ],
   "Car Gadgets": [
@@ -1054,31 +315,6 @@
       "rank": 1
     },
     {
-      "handle": "mini-gps-vehicle-tracker-magnetic-anti-theft-locator",
-      "title": "Mini GPS Vehicle Tracker – Magnetic Anti-Theft Locator",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f1e8dfd1-6992-4fe6-abbf-f4d022950fc1.jpg?v=1754432994",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Car Gadgets"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 6500,
-            "sale_price": 4600,
-            "percentage_off": 29
-          }
-        ],
-        "min_regular_price": 6500,
-        "max_regular_price": 6500,
-        "min_sale_price": 4600,
-        "max_sale_price": 4600
-      },
-      "rank": 2
-    },
-    {
       "handle": "electric-car-jack-kit-5-ton",
       "title": "PowerLift Pro™ | 5-Ton Electric Car Jack Kit",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b82a8ce4-aefe-4c01-a4a5-f944a1d33f92.jpg?v=1767806555",
@@ -1101,7 +337,7 @@
         "min_sale_price": 29500,
         "max_sale_price": 29500
       },
-      "rank": 3
+      "rank": 2
     }
   ],
   "Phone Accessories": [
@@ -1213,63 +449,88 @@
       "rank": 4
     }
   ],
-  "Accessories": [
+  "Fitness Equipment": [
     {
-      "handle": "full-body-massage-vibration-plate-1",
-      "title": "Prexo PulsePro™ - Full Body Massage Vibration Plate",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1efc84ab-5dea-493a-8117-cf8257c10a40.jpg?v=1770321005",
-      "units_sold": 29,
-      "revenue": 319100,
+      "handle": "beatbox-pro™-smart-music-boxing-trainer",
+      "title": "BeatBox Pro™ – Smart Music Boxing Trainer",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_93dad83f-07a9-4d86-90bb-e32cf8f6e5fd.webp?v=1751911224",
+      "units_sold": 102,
+      "revenue": 27419400,
       "tags": [
-        "Accessories",
-        "Health & Fitness",
-        "Massagers"
+        "Fitness Equipment",
+        "Health & Fitness"
       ],
       "pricing": {
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 17000,
-            "sale_price": 12000,
-            "percentage_off": 29
+            "regular_price": 15000,
+            "sale_price": 9900,
+            "percentage_off": 34
           }
         ],
-        "min_regular_price": 17000,
-        "max_regular_price": 17000,
-        "min_sale_price": 12000,
-        "max_sale_price": 12000
+        "min_regular_price": 15000,
+        "max_regular_price": 15000,
+        "min_sale_price": 9900,
+        "max_sale_price": 9900
       },
       "rank": 1
     },
     {
-      "handle": "drtec-6-head-massage-gun",
-      "title": "Drtec 6 Head Massage Gun",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_15f45371-45c4-436d-9ee0-f29d110db509.png?v=1770321004",
-      "units_sold": 0,
-      "revenue": 0,
+      "handle": "yamota-run-home-use-treadmill-1",
+      "title": "Yamota Foldable Home Use Treadmill",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ee9229e6-e5f9-4680-b0a4-17164e66a907.png?v=1771403328",
+      "units_sold": 12,
+      "revenue": 660000,
       "tags": [
-        "Accessories",
+        "Fitness Equipment",
         "Health & Fitness",
-        "Massagers"
+        "Treadmills"
       ],
       "pricing": {
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 6500,
-            "sale_price": 5800,
-            "percentage_off": 11
+            "regular_price": 65000,
+            "sale_price": 55000,
+            "percentage_off": 15
           }
         ],
-        "min_regular_price": 6500,
-        "max_regular_price": 6500,
-        "min_sale_price": 5800,
-        "max_sale_price": 5800
+        "min_regular_price": 65000,
+        "max_regular_price": 65000,
+        "min_sale_price": 55000,
+        "max_sale_price": 55000
       },
       "rank": 2
     }
   ],
-  "Massagers": [
+  "Health & Fitness": [
+    {
+      "handle": "beatbox-pro™-smart-music-boxing-trainer",
+      "title": "BeatBox Pro™ – Smart Music Boxing Trainer",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_93dad83f-07a9-4d86-90bb-e32cf8f6e5fd.webp?v=1751911224",
+      "units_sold": 102,
+      "revenue": 27419400,
+      "tags": [
+        "Fitness Equipment",
+        "Health & Fitness"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 15000,
+            "sale_price": 9900,
+            "percentage_off": 34
+          }
+        ],
+        "min_regular_price": 15000,
+        "max_regular_price": 15000,
+        "min_sale_price": 9900,
+        "max_sale_price": 9900
+      },
+      "rank": 1
+    },
     {
       "handle": "full-body-massage-vibration-plate-1",
       "title": "Prexo PulsePro™ - Full Body Massage Vibration Plate",
@@ -1295,34 +556,34 @@
         "min_sale_price": 12000,
         "max_sale_price": 12000
       },
-      "rank": 1
+      "rank": 2
     },
     {
-      "handle": "drtec-6-head-massage-gun",
-      "title": "Drtec 6 Head Massage Gun",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_15f45371-45c4-436d-9ee0-f29d110db509.png?v=1770321004",
-      "units_sold": 0,
-      "revenue": 0,
+      "handle": "yamota-run-home-use-treadmill-1",
+      "title": "Yamota Foldable Home Use Treadmill",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ee9229e6-e5f9-4680-b0a4-17164e66a907.png?v=1771403328",
+      "units_sold": 12,
+      "revenue": 660000,
       "tags": [
-        "Accessories",
+        "Fitness Equipment",
         "Health & Fitness",
-        "Massagers"
+        "Treadmills"
       ],
       "pricing": {
         "variants": [
           {
             "title": "Default Title",
-            "regular_price": 6500,
-            "sale_price": 5800,
-            "percentage_off": 11
+            "regular_price": 65000,
+            "sale_price": 55000,
+            "percentage_off": 15
           }
         ],
-        "min_regular_price": 6500,
-        "max_regular_price": 6500,
-        "min_sale_price": 5800,
-        "max_sale_price": 5800
+        "min_regular_price": 65000,
+        "max_regular_price": 65000,
+        "min_sale_price": 55000,
+        "max_sale_price": 55000
       },
-      "rank": 2
+      "rank": 3
     }
   ],
   "Kitchen": [
@@ -1354,31 +615,6 @@
   ],
   "Treadmills": [
     {
-      "handle": "flexstride™-portable-walking-running-treadmill",
-      "title": "FlexStride™ – Portable Walking & Running Treadmill",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/ErgonomistWalkingPad_0004_WalkingPadHeroImage.webp?v=1763245491",
-      "units_sold": 49,
-      "revenue": 54632000,
-      "tags": [
-        "Treadmills"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 47500,
-            "sale_price": 42000,
-            "percentage_off": 12
-          }
-        ],
-        "min_regular_price": 47500,
-        "max_regular_price": 47500,
-        "min_sale_price": 42000,
-        "max_sale_price": 42000
-      },
-      "rank": 1
-    },
-    {
       "handle": "yamota-run-home-use-treadmill-1",
       "title": "Yamota Foldable Home Use Treadmill",
       "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_ee9229e6-e5f9-4680-b0a4-17164e66a907.png?v=1771403328",
@@ -1403,7 +639,7 @@
         "min_sale_price": 55000,
         "max_sale_price": 55000
       },
-      "rank": 2
+      "rank": 1
     },
     {
       "handle": "kemilng-m7-pro-treadmill",
@@ -1428,7 +664,7 @@
         "min_sale_price": 89000,
         "max_sale_price": 89000
       },
-      "rank": 3
+      "rank": 2
     }
   ],
   "Music": [
@@ -1660,6 +896,64 @@
       "rank": 1
     }
   ],
+  "Accessories": [
+    {
+      "handle": "full-body-massage-vibration-plate-1",
+      "title": "Prexo PulsePro™ - Full Body Massage Vibration Plate",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1efc84ab-5dea-493a-8117-cf8257c10a40.jpg?v=1770321005",
+      "units_sold": 29,
+      "revenue": 319100,
+      "tags": [
+        "Accessories",
+        "Health & Fitness",
+        "Massagers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 17000,
+            "sale_price": 12000,
+            "percentage_off": 29
+          }
+        ],
+        "min_regular_price": 17000,
+        "max_regular_price": 17000,
+        "min_sale_price": 12000,
+        "max_sale_price": 12000
+      },
+      "rank": 1
+    }
+  ],
+  "Massagers": [
+    {
+      "handle": "full-body-massage-vibration-plate-1",
+      "title": "Prexo PulsePro™ - Full Body Massage Vibration Plate",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_1efc84ab-5dea-493a-8117-cf8257c10a40.jpg?v=1770321005",
+      "units_sold": 29,
+      "revenue": 319100,
+      "tags": [
+        "Accessories",
+        "Health & Fitness",
+        "Massagers"
+      ],
+      "pricing": {
+        "variants": [
+          {
+            "title": "Default Title",
+            "regular_price": 17000,
+            "sale_price": 12000,
+            "percentage_off": 29
+          }
+        ],
+        "min_regular_price": 17000,
+        "max_regular_price": 17000,
+        "min_sale_price": 12000,
+        "max_sale_price": 12000
+      },
+      "rank": 1
+    }
+  ],
   "Entertainment": [
     {
       "handle": "prexobeam-mini-portable-smart-projector",
@@ -1684,150 +978,6 @@
         "max_regular_price": 15000,
         "min_sale_price": 11800,
         "max_sale_price": 11800
-      },
-      "rank": 1
-    },
-    {
-      "handle": "powerology-32-android-smart-screen",
-      "title": "Powerology 32\" Android Smart Screen",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0ca85194-3b03-47db-b744-8241ba5cca34.webp?v=1754981430",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Entertainment",
-        "Powerology",
-        "Smart Screen",
-        "TV"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 119000,
-            "sale_price": 119000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 119000,
-        "max_regular_price": 119000,
-        "min_sale_price": 119000,
-        "max_sale_price": 119000
-      },
-      "rank": 2
-    }
-  ],
-  "Powerology": [
-    {
-      "handle": "powerology-32-android-smart-screen",
-      "title": "Powerology 32\" Android Smart Screen",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0ca85194-3b03-47db-b744-8241ba5cca34.webp?v=1754981430",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Entertainment",
-        "Powerology",
-        "Smart Screen",
-        "TV"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 119000,
-            "sale_price": 119000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 119000,
-        "max_regular_price": 119000,
-        "min_sale_price": 119000,
-        "max_sale_price": 119000
-      },
-      "rank": 1
-    },
-    {
-      "handle": "powerology-360-security-camera-dual-lens",
-      "title": "Powerology 360° Security Camera (Dual-Lens)",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_d35489d0-2abf-49a8-8df0-775493b8c426.webp?v=1760504093",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Powerology",
-        "Security Cameras"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 28500,
-            "sale_price": 25000,
-            "percentage_off": 12
-          }
-        ],
-        "min_regular_price": 28500,
-        "max_regular_price": 28500,
-        "min_sale_price": 25000,
-        "max_sale_price": 25000
-      },
-      "rank": 2
-    }
-  ],
-  "Smart Screen": [
-    {
-      "handle": "powerology-32-android-smart-screen",
-      "title": "Powerology 32\" Android Smart Screen",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0ca85194-3b03-47db-b744-8241ba5cca34.webp?v=1754981430",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Entertainment",
-        "Powerology",
-        "Smart Screen",
-        "TV"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 119000,
-            "sale_price": 119000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 119000,
-        "max_regular_price": 119000,
-        "min_sale_price": 119000,
-        "max_sale_price": 119000
-      },
-      "rank": 1
-    }
-  ],
-  "TV": [
-    {
-      "handle": "powerology-32-android-smart-screen",
-      "title": "Powerology 32\" Android Smart Screen",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_0ca85194-3b03-47db-b744-8241ba5cca34.webp?v=1754981430",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Entertainment",
-        "Powerology",
-        "Smart Screen",
-        "TV"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 119000,
-            "sale_price": 119000,
-            "percentage_off": 0
-          }
-        ],
-        "min_regular_price": 119000,
-        "max_regular_price": 119000,
-        "min_sale_price": 119000,
-        "max_sale_price": 119000
       },
       "rank": 1
     }
@@ -1856,33 +1006,6 @@
         "max_regular_price": 15000,
         "min_sale_price": 11800,
         "max_sale_price": 11800
-      },
-      "rank": 1
-    }
-  ],
-  "Industrial": [
-    {
-      "handle": "toauto-melting-furnace",
-      "title": "PrexoForge – 3KG Digital Gold & Metal Melting Furnace",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_7182b0a3-0a94-445b-be30-683c6f57a3cd.jpg?v=1749641637",
-      "units_sold": 0,
-      "revenue": 0,
-      "tags": [
-        "Industrial"
-      ],
-      "pricing": {
-        "variants": [
-          {
-            "title": "Default Title",
-            "regular_price": 92000,
-            "sale_price": 85000,
-            "percentage_off": 8
-          }
-        ],
-        "min_regular_price": 92000,
-        "max_regular_price": 92000,
-        "min_sale_price": 85000,
-        "max_sale_price": 85000
       },
       "rank": 1
     }

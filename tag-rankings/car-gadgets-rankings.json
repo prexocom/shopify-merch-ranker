@@ -26,31 +26,6 @@
     "rank": 1
   },
   {
-    "handle": "mini-gps-vehicle-tracker-magnetic-anti-theft-locator",
-    "title": "Mini GPS Vehicle Tracker – Magnetic Anti-Theft Locator",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_f1e8dfd1-6992-4fe6-abbf-f4d022950fc1.jpg?v=1754432994",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Car Gadgets"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 6500,
-          "sale_price": 4600,
-          "percentage_off": 29
-        }
-      ],
-      "min_regular_price": 6500,
-      "max_regular_price": 6500,
-      "min_sale_price": 4600,
-      "max_sale_price": 4600
-    },
-    "rank": 2
-  },
-  {
     "handle": "electric-car-jack-kit-5-ton",
     "title": "PowerLift Pro™ | 5-Ton Electric Car Jack Kit",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_b82a8ce4-aefe-4c01-a4a5-f944a1d33f92.jpg?v=1767806555",
@@ -73,6 +48,6 @@
       "min_sale_price": 29500,
       "max_sale_price": 29500
     },
-    "rank": 3
+    "rank": 2
   }
 ]
