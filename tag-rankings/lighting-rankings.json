@@ -1,83 +1,5 @@
 [
   {
-    "handle": "lumifan-360-light-fan",
-    "title": "LumiFan™ – Transform Your Room in Minutes",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/3309b47252b00d69970a66cfd5863891_1_1.png?v=1757943596",
-    "units_sold": 164,
-    "revenue": 23174500,
-    "tags": [
-      "Home Decor",
-      "Lighting"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 10000,
-          "sale_price": 6500,
-          "percentage_off": 35
-        }
-      ],
-      "min_regular_price": 10000,
-      "max_regular_price": 10000,
-      "min_sale_price": 6500,
-      "max_sale_price": 6500
-    },
-    "rank": 1
-  },
-  {
-    "handle": "lumifan™-pro",
-    "title": "LumiFan™ Pro - Ceiling Light & Fan Combo",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_39dcd00a-17de-4476-b6a5-c41f28ab66da.jpg?v=1764684247",
-    "units_sold": 26,
-    "revenue": 4275700,
-    "tags": [
-      "Home Decor",
-      "Lighting"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 11200,
-          "sale_price": 6900,
-          "percentage_off": 38
-        }
-      ],
-      "min_regular_price": 11200,
-      "max_regular_price": 11200,
-      "min_sale_price": 6900,
-      "max_sale_price": 6900
-    },
-    "rank": 2
-  },
-  {
-    "handle": "airoluxe-smart-ceiling-light-fan",
-    "title": "Airoluxe™ - Smart Ceiling Light Fan",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_edf2d528-0561-4e66-b3fb-9f2c3dd09dae.jpg?v=1768684228",
-    "units_sold": 11,
-    "revenue": 38500,
-    "tags": [
-      "Home Decor",
-      "Lighting"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 4800,
-          "sale_price": 3900,
-          "percentage_off": 19
-        }
-      ],
-      "min_regular_price": 4800,
-      "max_regular_price": 4800,
-      "min_sale_price": 3900,
-      "max_sale_price": 3900
-    },
-    "rank": 3
-  },
-  {
     "handle": "astronaut-galaxy-projector-your-cosmic-escape",
     "title": "Astronaut Galaxy Projector – Your Cosmic Escape",
     "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_5c9aa43b-e802-4398-9ef3-7b81ee6d7907.jpg?v=1754570916",
@@ -101,31 +23,6 @@
       "min_sale_price": 5300,
       "max_sale_price": 5300
     },
-    "rank": 4
-  },
-  {
-    "handle": "glowbreeze",
-    "title": "GlowBreeze - Smart LED Ceiling Light Fan",
-    "featured_image": "https://cdn.shopify.com/s/files/1/0640/0652/0950/files/rn-image_picker_lib_temp_a9819d8d-8af8-4dda-9604-37c02bb2c38e.jpg?v=1766759875",
-    "units_sold": 0,
-    "revenue": 0,
-    "tags": [
-      "Lighting"
-    ],
-    "pricing": {
-      "variants": [
-        {
-          "title": "Default Title",
-          "regular_price": 24000,
-          "sale_price": 19500,
-          "percentage_off": 19
-        }
-      ],
-      "min_regular_price": 24000,
-      "max_regular_price": 24000,
-      "min_sale_price": 19500,
-      "max_sale_price": 19500
-    },
-    "rank": 5
+    "rank": 1
   }
 ]
